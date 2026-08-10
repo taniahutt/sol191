@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Programa
+      - href: rubricas.qmd
+        text: Rúbricas de evaluación
       # Agrega páginas aquí a medida que crees clases, guías, etc.
       # - href: clases/c01.qmd
       #   text: Clases

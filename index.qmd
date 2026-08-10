@@ -14,108 +14,118 @@ format:
     toc-title: "Contenidos"
 ---
 
-::: {.callout-warning}
+::: callout-warning
 **El programa puede ser modificado o actualizado durante el semestre.** Por favor revisar este documento cada semana.
 :::
 
----
+------------------------------------------------------------------------
 
 ## Información del curso
 
-| | |
-|:---|:---|
-| **Sigla** | SOL191 |
-| **Semestre** | Segundo semestre 2026 |
-| **Créditos** | 10 |
-| **Módulos** | Jueves 3 y 4 (11:00–13:30) |
-| **Requisitos** | — |
-| **Carácter** | Optativo de Profundización |
-| **Ubicación** | Sala D104 |
-| **Ayudantías** | Miércoles 8:20 |
+|                |                            |
+|:---------------|:---------------------------|
+| **Sigla**      | SOL191                     |
+| **Semestre**   | Segundo semestre 2026      |
+| **Créditos**   | 10                         |
+| **Módulos**    | Jueves 3 y 4 (11:00–13:30) |
+| **Requisitos** | —                          |
+| **Carácter**   | Optativo de Profundización |
+| **Ubicación**  | Sala D104                  |
+| **Ayudantías** | Miércoles 8:20             |
 
-**Profesora:** Tania Hutt · [tania.hutt@uc.cl](mailto:tania.hutt@uc.cl) · [Agendar hora de oficina](#)
+**Profesora:** Tania Hutt · [tania.hutt\@uc.cl](mailto:tania.hutt@uc.cl) · [Agendar hora de oficina](#)
 
 **Ayudantes:**
 
-- Valentina Lagreze · [vlagreze@uc.cl](mailto:vlagreze@uc.cl)
-- Isidora Núñez · [inm@uc.cl](mailto:inm@uc.cl)
+- Valentina Lagreze · [vlagreze\@uc.cl](mailto:vlagreze@uc.cl)
+- Isidora Núñez · [inm\@uc.cl](mailto:inm@uc.cl)
 
----
+------------------------------------------------------------------------
 
 ## Descripción
 
 Este curso provee una comprensión introductoria del género como constructo social y sistema social institucionalizado. Profundizaremos en los supuestos y conceptos asociados al género, que organizan nuestras vidas de maneras significativas, a menudo sin siquiera notarlo. Exploraremos teorías sociológicas fundamentales, analizando cómo las instituciones y estructuras sociales, las interacciones entre individuos, y los procesos individuales contribuyen a la (re)producción de las desigualdades de género. Aplicaremos estas perspectivas teóricas en diversas temáticas como el cuerpo, la familia, el trabajo, feminidades y masculinidades, sexualidades, entre otras. A través del curso, reflexionaremos sobre la interseccionalidad de género con otros ejes de desigualdad como clase social, raza/etnia, y orientación sexual, explorando evidencia empírica nacional e internacional.
 
----
+------------------------------------------------------------------------
 
 ## Objetivos
 
-1. Comprender y aplicar conceptos y perspectivas teóricas contemporáneas sobre desigualdad de género, identificando cómo las estructuras, instituciones, creencias y prácticas crean, mantienen y cambian las desigualdades de género.
-2. Aplicar perspectivas teóricas en diversos ámbitos de la vida social, evaluando cómo los procesos estructurales producen y reproducen la desigualdad de género más allá de las diferencias individuales.
-3. Desarrollar una propuesta de investigación empírica relevante a la sociología del género, proponiendo metodologías pertinentes y adecuadas.
-4. Mejorar la capacidad para escribir y exponer oralmente sobre género tanto en entornos profesionales/académicos como en situaciones informales/personales.
+1.  Comprender y aplicar conceptos y perspectivas teóricas contemporáneas sobre desigualdad de género, identificando cómo las estructuras, instituciones, creencias y prácticas crean, mantienen y cambian las desigualdades de género.
+2.  Aplicar perspectivas teóricas en diversos ámbitos de la vida social, evaluando cómo los procesos estructurales producen y reproducen la desigualdad de género más allá de las diferencias individuales.
+3.  Desarrollar una propuesta de investigación empírica relevante a la sociología del género, proponiendo metodologías pertinentes y adecuadas.
+4.  Mejorar la capacidad para escribir y exponer oralmente sobre género tanto en entornos profesionales/académicos como en situaciones informales/personales.
 
----
+------------------------------------------------------------------------
 
 ## Temas del curso
 
-1. Perspectivas teóricas de la sociología del género.
-2. Género como sistema social multinivel: procesos micro, meso y macro.
-3. Interseccionalidad con otros ejes de identidad y desigualdad: una herramienta analítica para comprender sistemas de estratificación complejos.
-4. Género en diversos ámbitos: trabajo, familia, política, relaciones, sexualidad y reproducción.
+1.  Perspectivas teóricas de la sociología del género.
+2.  Género como sistema social multinivel: procesos micro, meso y macro.
+3.  Interseccionalidad con otros ejes de identidad y desigualdad: una herramienta analítica para comprender sistemas de estratificación complejos.
+4.  Género en diversos ámbitos: trabajo, familia, política, relaciones, sexualidad, reproducción, y tecnología.
 
----
+------------------------------------------------------------------------
 
 ## Evaluaciones
 
-| Componente | Ponderación |
-|:---|:---:|
-| Actividades en clase | 20% |
-| Participación en clase | 10% |
-| Prueba | 30% |
-| Trabajo final en pares | 25% |
-| Presentación oral y evaluación de pares | 15% |
-| **Total** | **100%** |
+::: callout-note
+Las rúbricas de evaluación detalladas de cada componente están en el documento aparte de [**Rúbricas de evaluación**](rubricas.qmd).
+:::
+
+| Componente | Ponderación | Formato | Momento |
+|:----------------|:------------------:|:----------------|:----------------|
+| Actividades en clase | 20% | Fichas de cierre, guías, discusiones, debates, entre otros. | Clases 1–13 |
+| Prueba 1 | 20% | Ensayo | Clase 8 (15-Oct) |
+| Prueba 2 | 20% | Ensayo | Clase 13 (19-Nov) |
+| Podcast + proceso | 25% | Audio + pre-entrega | Pre-entrega: 27-Sep · Podcast: 8-Nov |
+| Defensa oral | 15% | Oral presencial, en pods | Clases 12–14 |
+| **Total** | **100%** |  |  |
 
 ### Actividades en clase (20%)
 
-Actividades individuales y grupales que consisten en trabajos cortos de escritura, búsqueda y presentación de información, o discusión de lecturas, entre otras.
+**(a) Ficha de cierre (\~70% del componente).** Al final de cada clase (últimos 8–10 minutos, clases 1 a 13) cada estudiante completa individualmente una ficha con tres preguntas fijas (en papel o Canvas): qué concepto de la clase le resultó más útil para entender un fenómeno de género (con ejemplo), con qué no está de acuerdo o qué pregunta le quedó abierta, y cómo se conecta lo discutido con el contexto chileno actual. Se debe completar un mínimo de 10 de 12 fichas para la nota máxima; las fichas faltantes actúan como margen para ausencias justificadas o imprevistas.
 
-### Participación en clase (10%)
+**(b) Actividades en clase (\~30% del componente).** Actividades individuales o grupales definidas para cada sesión (análisis de casos, discusiones estructuradas, trabajo grupal, entre otras), con instrucciones entregadas en clases.
 
-La asistencia puntual y la participación activa en las discusiones son fundamentales para el aprendizaje activo que busca este curso. No basta con leer los materiales asignados, ya que construimos conocimiento en conjunto en la sala de clases compartiendo opiniones, reflexiones, miradas críticas y experiencias.
+### Prueba 1 y Prueba 2 (20% cada una)
 
-### Prueba (30%)
+Evaluaciones individuales, en horario de clases, en formato **libro abierto**: se puede traer cualquier material propio (notas, lecturas, resúmenes), pero no se puede consultar a otras personas ni herramientas digitales en línea durante la prueba. Duración: 1 módulo (70 minutos). Formato: 2 preguntas de ensayo.
 
-Evaluación escrita sobre el material de clases y las lecturas asignadas.
+- **Prueba 1** (clase 8, 15-Oct): unidades 1 a 5.
+- **Prueba 2** (clase 13, 19-Nov): unidades 6 a 11.
 
-### Trabajo final en pares (25%)
+### Podcast + proceso (25%)
 
-Propuesta de investigación (solo propuesta, no una investigación realizada) respecto de algún tema de interés de lxs estudiantes, enmarcado en la sociología del género. Debe incorporar:
+Trabajo grupal (grupos de 3 integrantes), en dos entregas:
 
-- **Teoría y literatura relevante** revisada en clases, más nueva literatura específica al problema de investigación.
-- **Estructura de propuesta:** introducción al problema, revisión de literatura, preguntas de investigación y diseño metodológico (descripción detallada de datos y métodos).
-- **Extensión:** máximo 10 páginas (Times New Roman o similar, interlineado 1.5), sin contar bibliografía ni tablas/figuras.
+- **Pre-entrega — ficha de tema y bibliografía comentada (5%).** Entrega: lunes 28-Sep. 1–2 páginas: pregunta central, tesis tentativa, y 5 fuentes con anotación estructurada (mínimo 2 del programa y 1 sobre el caso en particular).
+- **Podcast final (20%).** Entrega: 9-Nov, antes del inicio de las defensas. Audio de 8–10 minutos + transcripción/guión en Canvas. Debe abordar un problema de desigualdad de género, desarrollar un argumento (no solo informar), usar al menos 3 conceptos del curso citando su origen, referenciar las fuentes de la pre-entrega, y contar con la participación de todo el grupo.
 
-::: {.callout-note}
-Un 5% de este componente corresponde a la entrega satisfactoria de la **pre-entrega o idea de propuesta**.
-:::
+### Defensa oral (15%)
 
-### Presentación oral y evaluación de pares (15%)
+Los grupos se organizan en **3 pods**, con asignación circular de escucha. Cada grupo escucha un solo podcast y prepara **3 preguntas** (conceptual, empírica y crítica), entregadas por escrito **24 horas antes** de su sesión de defensa.
 
-- 10%: presentación propia de la propuesta.
-- 5%: evaluación de las presentaciones de pares.
+Las defensas ocupan los **últimos 45 minutos** de las clases 12, 13 y 14 (un pod por sesión, 4 defensas de 10 minutos cada una)..
 
----
+- 10%: calidad de las respuestas (dominio conceptual, profundidad, capacidad de improvisar).
+- 5%: calidad de las preguntas hechas al grupo escuchado.
+
+### Integridad académica y uso de IA en las evaluaciones
+
+Este diseño de evaluaciones asume que el uso de herramientas de inteligencia artificial (IA) es parte del entorno actual de trabajo y escritura. La política del curso no es de prohibición, sino de **uso declarado y responsable**. Si en alguna entrega escrita se utilizó IA para revisar gramática, estilo o estructura, debe declararse brevemente al final del documento. El uso de IA para generar contenido sustantivo (ideas, argumentos, análisis, síntesis de lecturas) sin declaración constituye una falta de integridad académica y será sancionado según las políticas de la Facultad.
+
+El uso de IA [no exime al estudiantado de dominar el contenido y argumentos de sus trabajos]{.underline}. Las y los estudiantes son totalmente responsables por el contenido de sus trabajos, con independencia de la asistencia de IA generativa. Por ello, los y las docentes tendrán la facultad de [citar a exposición oral]{.underline} de los trabajos realizados, sin necesidad de aviso previo, con el fin de evaluar el dominio real del/de la estudiante sobre el producto presentado. En base a estos antecedentes la docente podrá determinar la nota final del trabajo.
+
+------------------------------------------------------------------------
 
 ## Políticas del curso
 
 ### Buenas prácticas
 
-1. **Preparación antes de clase:** lectura profunda y reflexiva de los materiales asignados.
-2. **Profesionalismo y compromiso:** la asistencia y puntualidad son fundamentales. El mayor aprendizaje ocurre en sala de clases, cuando reflexionamos, aplicamos y extendemos lo leído.
-3. **Uso de pantallas:** se espera que mantengan celulares y computadores en silencio y guardados, a menos que sean necesarios para alguna actividad.
-4. **Participación:** para tener discusiones fructíferas, debemos escuchar de manera atenta y contribuir con ideas, preguntas y reflexiones. La sala de clases debe ser un lugar seguro donde **siempre prime el respeto hacia las demás personas.**
+1.  **Preparación antes de clase:** lectura profunda y reflexiva de los materiales asignados.
+2.  **Profesionalismo y compromiso:** la asistencia y puntualidad son fundamentales. El mayor aprendizaje ocurre en sala de clases, cuando reflexionamos, aplicamos y extendemos lo leído.
+3.  **Uso de pantallas:** se espera que mantengan celulares y computadores en silencio y guardados, a menos que sean necesarios para alguna actividad.
+4.  **Participación:** para tener discusiones fructíferas, debemos escuchar de manera atenta y contribuir con ideas, preguntas y reflexiones. La sala de clases debe ser un lugar seguro donde **siempre prime el respeto hacia las demás personas.**
 
 ### Integridad académica
 
@@ -125,50 +135,48 @@ La profesora informará a la Subdirección de Pregrado, iniciando el protocolo d
 
 ### Justificación de inasistencias
 
-**Estudiantes de la Facultad de Ciencias Sociales:** se aceptará como justificación solo motivos de salud u otros de índole personal, social o de fuerza mayor (fallecimiento de familiar cercano, actividades religiosas, etc.), debidamente acreditados en el portal de la Facultad. En un plazo máximo de **3 días hábiles** debe ingresarse la información solicitada; la profesora no recibirá solicitudes directas, aunque se recomienda enviarle un correo informándole de la situación.
-
-**Estudiantes de otras facultades:** seguir las normas de su unidad académica y hacer llegar el justificativo oficial en un máximo de **10 días hábiles** posteriores a la evaluación.
+La inasistencia a una evaluación o el atraso en la entrega de los trabajos [debe ser justificada en un plazo máximo de 3 días hábiles]{.underline}: Los estudiantes de sociología deben seguir los procedimientos de justificación estipulados en **https://siga.uc.cl/.** La docente recibirá una autorización de la inasistencia mediante correo, tras la aprobación de asuntos estudiantiles de sociología. Quienes pertenezcan a otras carreras deben justificar según los criterios de su unidad académica. De no cumplir con este requisito, la evaluación tendrá un 1.0.
 
 ### Solicitudes de re-corrección
 
 Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora en un plazo máximo de **5 días hábiles** desde la entrega de las correcciones, con fundamentación clara por parte del/la estudiante.
 
----
+------------------------------------------------------------------------
 
 ## Calendarización
 
-::: {.callout-note}
-- Las **actividades en clase** también son evaluadas (ver sección Evaluaciones), pero no se listan aquí.
+::: callout-note
+- Las **actividades en clase** (fichas de cierre) también son evaluadas (ver sección Evaluaciones), pero no se listan clase a clase aquí.
 - Las lecturas marcadas con **\*\*** son **lecturas mínimas obligatorias**. Las demás son recomendadas pero opcionales. Se recomienda leerlas en el orden listado.
 - Todas las lecturas están disponibles en **Canvas**.
 :::
 
 | Clase | Fecha | Tema | Lecturas previas a la clase | Evaluaciones |
-|:---:|:---:|:---|:---|:---|
-| 1 | 12-Mar | Introducción al curso. ¿Por qué una sociología del género? | \*\*Risman (2018), pp. 21–46 <br> Bokser Misses-Liwerant (2020) <br> Valdés (2001) | |
-| 2 | 19-Mar | Conceptos fundamentales: binarismo, esencialismo y patriarcado | \*\*Connell — "The Question of Gender", pp. 9–18 <br> \*\*Human Rights Watch (2018) <br> \*\*Compton & Bridges (2013) <br> Johnson (2014), cap. 1 | |
-| 3 | 26-Mar | Explicaciones para la desigualdad: aplicación al caso de mujeres en STEM | \*\*Angier & Chang (2005) <br> \*\*Valenzuela et al. (2022) <br> Martin (1998) | |
-| 4 | 2-Abr | Interacciones: cómo se produce y reproduce el género | \*\*Schilt, caps. 2–3 <br> \*\*[Video Ridgeway](https://www.youtube.com/watch?v=nEcfzfyRXF4) <br> Ridgeway & Correll (2004) <br> Martin (2009) <br> Rudman et al. (2012) | *(Sin evaluaciones esta fecha)* |
-| 5 | 9-Abr | Instituciones generizadas (*gendered*) | \*\*Crocco-Valdivia & Galaz-Valderrama (2023) <br> \*\*Mickey (2019) <br> Johnson (2014), cap. 2 <br> Acker (1990) | |
-| A | 12-Abr | **Ayudantía:** idea de propuesta de investigación | | |
-| 6 | 16-Abr | Sistema multinivel e interseccionalidad | \*\*Risman (2018), capítulo asignado en clase 5 <br> \*\*Viveros Vigoya (2016) | Completar encuesta de evaluación temprana del curso |
-| | 19-Abr | | | **Entrega: idea de propuesta de investigación** |
-| 7 | 23-Abr | Feminidades y masculinidades | \*\*Bridges & Pascoe (2018) <br> \*\*Hamilton et al. (2019) <br> \*\*Madrid (2016) | |
-| A | 26-Abr | **Ayudantía:** preparación para prueba | | |
-| | 30-Abr | **RECESO** | | |
-| 8 | 7-May | Relaciones románticas y sexo-afectivas | \*\*Lamont (2021) <br> \*\*Martínez Echagüe (2021) <br> Sweet (2019) <br> Lamont (2014; 2017) | **Prueba en clases** (1 módulo) |
-| 9 | 14-May | Trabajo remunerado y mercado laboral | \*\*Undurraga (2019) <br> \*\*Villanueva & Lin (2019) <br> Armijo et al. (2021) <br> Cabello-Hutt (2020) | |
-| | 21-May | **FERIADO** | | |
-| A | 24-May | **Ayudantía:** cómo presentar una propuesta de investigación | | |
-| 10 | 28-May | Familia, mapaternidades y conciliación | \*\*Bass (2015) <br> \*\*Herrera et al. (2018) <br> Berniell et al. (2023) <br> Daminger (2019) | |
-| 11 | 4-Jun | Violencia de género | \*\*Ananías Soto et al. (2023) <br> Manne (2019), pp. 78–101 | Presentaciones (2.° módulo) |
-| 12 | 11-Jun | Sexualidad y reproducción | \*\*Benavente & Vergara (2006), pp. 25–50 <br> Rostagnol (2014), extractos por definir | Presentaciones (2.° módulo) |
-| 13 | 18-Jun | Debates feministas | *Sin lectura obligatoria — ¡lxs esperamos en clases!* | |
-| | 21-Jun | **Ayudantía:** entrega final | | |
-| 14 | 25-Jun | Cambio social y movimientos feministas en Latinoamérica. *Invitada especial: Inés Martínez Echagüe (UNC Chapel Hill)* | \*\*Gago (2019) <br> Traer preguntas para la invitada | |
-| | 2-Jul | | | **Entrega: trabajo final** |
+|:-------------:|:-------------:|:--------------|:--------------|:--------------|
+| 1 | 13-Ago | Introducción al curso. ¿Por qué una sociología del género? | \*\*Risman (2018), pp. 21–46 <br> Bokser Misses-Liwerant (2020) <br> Valdés (2001) |  |
+| 2 | 20-Ago | Conceptos fundamentales: binarismo, esencialismo y patriarcado | \*\*Connell — "The Question of Gender", pp. 9–18 <br> \*\*Human Rights Watch (2018) <br> \*\*Compton & Bridges (2013) <br> Johnson (2014), cap. 1 |  |
+|  | 27-Ago | **NO HAY CLASES** — profesora en conferencia |  |  |
+| 3 | 3-Sep | Explicaciones para la desigualdad: aplicación al caso de mujeres en STEM | \*\*Angier & Chang (2005) <br> \*\*Valenzuela et al. (2022) <br> Martin (1998) |  |
+| 4 | 10-Sep | Interacciones: cómo se produce y reproduce el género | \*\*Schilt, caps. 2–3 <br> \*\*[Video Ridgeway](https://www.youtube.com/watch?v=nEcfzfyRXF4) <br> Ridgeway & Correll (2004) <br> Martin (2009) <br> Rudman et al. (2012) |  |
+|  | 14 al 19-Sep | **RECESO** — no hay clases |  |  |
+| A | 23-Sep | **Ayudantía:** cómo elegir tema y bibliografía para el podcast |  |  |
+| 5 | 24-Sep | Instituciones generizadas (*gendered*) | \*\*Crocco-Valdivia & Galaz-Valderrama (2023) <br> \*\*Mickey (2019) <br> Johnson (2014), cap. 2 <br> Acker (1990) |  |
+|  | 28-Sep |  |  | **Entrega: pre-entrega podcast** — ficha de tema y bibliografía comentada (5%) |
+| 6 | 1-Oct | Sistema multinivel e interseccionalidad | \*\*Risman (2018), capítulo asignado en clase 5 <br> \*\*Viveros Vigoya (2016) | Completar encuesta de evaluación temprana del curso |
+| 7 | 8-Oct | Feminidades y masculinidades | \*\*Bridges & Pascoe (2018) <br> \*\*Hamilton et al. (2019) <br> \*\*Madrid (2016) |  |
+| A | 14-Oct | **Ayudantía:** preparación para Prueba 1 |  |  |
+| 8 | 15-Oct | Relaciones románticas y sexo-afectivas | \*\*Lamont (2021) <br> \*\*Martínez Echagüe (2021) <br> Sweet (2019) <br> Lamont (2014; 2017) | **Prueba 1 en clases** (20%, 1 módulo) |
+| 9 | 22-Oct | Trabajo remunerado y mercado laboral | \*\*Undurraga (2019) <br> \*\*Villanueva & Lin (2019) <br> Armijo et al. (2021) <br> Cabello-Hutt (2020) |  |
+| 10 | 29-Oct | Familia, mapaternidades y conciliación | \*\*Bass (2015) <br> \*\*Herrera et al. (2018) <br> Berniell et al. (2023) <br> Daminger (2019) |  |
+| A | 4-Nov | **Ayudantía:** producción/edición del podcast y preparación de preguntas para la defensa |  |  |
+| 11 | 5-Nov | Violencia de género | \*\*Ananías Soto et al. (2023) <br> Manne (2019), pp. 78–101 |  |
+|  | 9-Nov |  |  | **Entrega: podcast final** (audio + transcripción, 20%) — se comparte de inmediato con el pod correspondiente |
+| 12 | 12-Nov | Sexualidad y reproducción | \*\*Benavente & Vergara (2006), pp. 25–50 <br> Rostagnol (2014), extractos por definir | **Defensa oral — Pod 1** (últimos 45 min) |
+| A | 18-Nov | **Ayudantía:** preparación para Prueba 2 |  |  |
+| 13 | 19-Nov | Género y tecnología/IA |  | **Prueba 2 en clases** (20%) + **Defensa oral — Pod 2** (últimos 45 min) |
+| 14 | 26-Nov | Cambio social y movimientos feministas en Latinoamérica. | \*\*Gago (2019) <br> | **Defensa oral — Pod 3** (últimos 45 min) |
 
----
+------------------------------------------------------------------------
 
 ## Bibliografía
 
@@ -184,7 +192,7 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 
 - Benavente, M. C., & Vergara, P. 2006. *Sexualidad en Hombres y Mujeres: Diversidad de Miradas*. Santiago: FLACSO-Chile.
 
-- Berniell, I. et al. 2023. [Referencia completa por confirmar.]
+- Berniell, I. et al. 2023. \[Referencia completa por confirmar.\]
 
 - Bokser Misses-Liwerant, Judit. 2020. "Mujer y género en el siglo XXI. Perspectivas, implicaciones y dilemas." *Revista Mexicana de Ciencias Políticas y Sociales* 65(240): 9–24.
 
