@@ -1,0 +1,66 @@
+ .DS_Store                                          |   Bin [31m0[m -> [32m6148[m bytes
+ .gitignore                                         |     2 [32m+[m
+ README.md                                          |    29 [31m-[m
+ _quarto.yml                                        |     2 [32m+[m
+ docs/index.html                                    |  1095 [32m++[m
+ docs/search.json                                   |    65 [32m+[m
+ ...tstrap-158031087360bce0ff56dc785ce39e06.min.css |    12 [32m+[m
+ docs/site_libs/bootstrap/bootstrap-icons.css       |  2106 [32m++++[m
+ docs/site_libs/bootstrap/bootstrap-icons.woff      |   Bin [31m0[m -> [32m180288[m bytes
+ docs/site_libs/bootstrap/bootstrap.min.js          |     7 [32m+[m
+ docs/site_libs/clipboard/clipboard.min.js          |     7 [32m+[m
+ docs/site_libs/quarto-html/anchor.min.js           |     9 [32m+[m
+ docs/site_libs/quarto-html/popper.min.js           |     6 [32m+[m
+ ...ghlighting-7f8f88aac4f3542376d5c11b86a4c14d.css |   236 [32m+[m
+ docs/site_libs/quarto-html/quarto.js               |   845 [32m++[m
+ docs/site_libs/quarto-html/tabsets/tabsets.js      |    95 [32m+[m
+ docs/site_libs/quarto-html/tippy.css               |     1 [32m+[m
+ docs/site_libs/quarto-html/tippy.umd.min.js        |     2 [32m+[m
+ docs/site_libs/quarto-html/zenscroll-min.js        |     1 [32m+[m
+ docs/site_libs/quarto-nav/headroom.min.js          |     7 [32m+[m
+ docs/site_libs/quarto-nav/quarto-nav.js            |   325 [32m+[m
+ docs/site_libs/quarto-search/autocomplete.umd.js   |     3 [32m+[m
+ docs/site_libs/quarto-search/fuse.min.js           |     9 [32m+[m
+ docs/site_libs/quarto-search/quarto-search.js      |  1457 [32m+++[m
+ index.qmd                                          |   186 [32m+[m[31m-[m
+ lecturas/.DS_Store                                 |   Bin [31m0[m -> [32m6148[m bytes
+ ...51nero en el siglo XXI. Perspectivas, impl.pdf" |   Bin [31m0[m -> [32m225373[m bytes
+ lecturas/C1/Risman 2018 21-46.pdf                  |   Bin [31m0[m -> [32m12199616[m bytes
+ lecturas/C1/Valdes 2001.pdf                        |   Bin [31m0[m -> [32m230390[m bytes
+ ...ring for Parenthood Gender, Aspirations, an.pdf |  6065 [32m++++++++++[m
+ ...hood and flexible jobs Evidence from Latin .pdf |   Bin [31m0[m -> [32m1750340[m bytes
+ ... The Cognitive Dimension of Household Labor.pdf |   Bin [31m0[m -> [32m1882761[m bytes
+ ... normal\342\200\235 Experiencias parentale.pdf" |   Bin [31m0[m -> [32m83290[m bytes
+ lecturas/C11/Ananias et al 2023.pdf                |   Bin [31m0[m -> [32m258618[m bytes
+ lecturas/C12/Benavente y Vergara 2006.pdf          |   Bin [31m0[m -> [32m4857568[m bytes
+ ...minista._ O el deseo de cambiarlo todo_ 56.pdf" |   Bin [31m0[m -> [32m6818119[m bytes
+ lecturas/C2/Compton & Bridges 2013.pdf             |   Bin [31m0[m -> [32m845385[m bytes
+ ...onnell - 2009 - Gender in world perspective.pdf |  4024 [32m+++++++[m
+ lecturas/C2/HRW 2018.pdf                           |   Bin [31m0[m -> [32m10254969[m bytes
+ lecturas/C2/Johnson 2014 (libro completo).pdf      |   Bin [31m0[m -> [32m2444842[m bytes
+ ...Matter and Sexes A Gray Area Scientifically.pdf |   Bin [31m0[m -> [32m96055[m bytes
+ ...ing a Gendered Body Practices of Preschools.pdf |   Bin [31m0[m -> [32m3500033[m bytes
+ ...\303\251nero y subjetividades en el campo .pdf" |   Bin [31m0[m -> [32m314768[m bytes
+ ...izing Heterosexuality Mothers' Assumptions,.pdf | 11308 [32m++++++++++++++++++[m
+ ...ng the Gender SystemA Theoretical Perspecti.pdf |   Bin [31m0[m -> [32m205973[m bytes
+ ... incongruity and backlash effects Defending.pdf |  5641 [32m+++++++++[m
+ lecturas/C4/Schilt Ch 2 and 3.pdf                  |   Bin [31m0[m -> [32m6338970[m bytes
+ ...chies, Jobs, Bodies A Theory of Gendered Or.pdf |   Bin [31m0[m -> [32m830227[m bytes
+ ...academia Exploraci\303\263n de una organiz.pdf" |   Bin [31m0[m -> [32m102128[m bytes
+ lecturas/C5/Johnson 2014 (libro completo).pdf      |   Bin [31m0[m -> [32m2444842[m bytes
+ ...endered Logics Collide Going Public and Res.pdf |   Bin [31m0[m -> [32m115466[m bytes
+ ...nalidad una aproximaci\303\263n situada a .pdf" |   Bin [31m0[m -> [32m961152[m bytes
+ lecturas/C7/Bridges & Pascoe 2018.pdf              |   Bin [31m0[m -> [32m1386639[m bytes
+ ...ic Femininities and Intersectional Dominati.pdf |   Bin [31m0[m -> [32m1035132[m bytes
+ ... masculinidades hegem\303\263nicas en la c.pdf" |   Bin [31m0[m -> [32m203816[m bytes
+ ...ating Courtship Reconciling Egalitarian Ide.pdf |   Bin [31m0[m -> [32m99791[m bytes
+ ...SCRIPTS OURSELVES\342\200\235 Queer Challe.pdf" |   Bin [31m0[m -> [32m260883[m bytes
+ ...- 2021 - The persistence of gendered dating.pdf |   Bin [31m0[m -> [32m209209[m bytes
+ "lecturas/C8/Martinez Echag\303\274e 2021.pdf"     |   Bin [31m0[m -> [32m412772[m bytes
+ ...Sweet - 2019 - The Sociology of Gaslighting.pdf |   Bin [31m0[m -> [32m418787[m bytes
+ ... individual y colectiva en dirigentas sindi.pdf |   Bin [31m0[m -> [32m358387[m bytes
+ ... in work and care trajectories during the t.pdf |   Bin [31m0[m -> [32m3738985[m bytes
+ ...ll Get the Job Hiring Practices and Inequal.pdf |   Bin [31m0[m -> [32m175865[m bytes
+ ...hood Wage Penalties in Latin America The Si.pdf |   Bin [31m0[m -> [32m1664207[m bytes
+ rubricas.qmd                                       |   225 [32m+[m
+ 65 files changed, 33652 insertions(+), 118 deletions(-)
