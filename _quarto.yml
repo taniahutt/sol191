@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs          # GitHub Pages sirve desde /docs
+
+website:
+  title: "SOL191 · Sociología del Género"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Programa
+      # Agrega páginas aquí a medida que crees clases, guías, etc.
+      # - href: clases/c01.qmd
+      #   text: Clases
+  page-footer:
+    left: "Tania Hutt · PUC-Chile · 2026"
+
+format:
+  html:
+    theme: cosmo
+    lang: es
+    toc: true
+    toc-depth: 3
+    toc-title: "En esta página"
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true

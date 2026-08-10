@@ -1,0 +1,251 @@
+---
+title: "Sociología del Género"
+subtitle: "SOL191 · Segundo Semestre 2026"
+author:
+  - name: Tania Hutt
+    email: tania.hutt@uc.cl
+    affiliation: Pontificia Universidad Católica de Chile
+date: last-modified
+lang: es
+format:
+  html:
+    toc: true
+    toc-depth: 3
+    toc-title: "Contenidos"
+---
+
+::: {.callout-warning}
+**El programa puede ser modificado o actualizado durante el semestre.** Por favor revisar este documento cada semana.
+:::
+
+---
+
+## Información del curso
+
+| | |
+|:---|:---|
+| **Sigla** | SOL191 |
+| **Semestre** | Segundo semestre 2026 |
+| **Créditos** | 10 |
+| **Módulos** | Jueves 3 y 4 (11:00–13:30) |
+| **Requisitos** | — |
+| **Carácter** | Optativo de Profundización |
+| **Ubicación** | Sala D104 |
+| **Ayudantías** | Miércoles 8:20 |
+
+**Profesora:** Tania Hutt · [tania.hutt@uc.cl](mailto:tania.hutt@uc.cl) · [Agendar hora de oficina](#)
+
+**Ayudantes:**
+
+- Valentina Lagreze · [vlagreze@uc.cl](mailto:vlagreze@uc.cl)
+- Isidora Núñez · [inm@uc.cl](mailto:inm@uc.cl)
+
+---
+
+## Descripción
+
+Este curso provee una comprensión introductoria del género como constructo social y sistema social institucionalizado. Profundizaremos en los supuestos y conceptos asociados al género, que organizan nuestras vidas de maneras significativas, a menudo sin siquiera notarlo. Exploraremos teorías sociológicas fundamentales, analizando cómo las instituciones y estructuras sociales, las interacciones entre individuos, y los procesos individuales contribuyen a la (re)producción de las desigualdades de género. Aplicaremos estas perspectivas teóricas en diversas temáticas como el cuerpo, la familia, el trabajo, feminidades y masculinidades, sexualidades, entre otras. A través del curso, reflexionaremos sobre la interseccionalidad de género con otros ejes de desigualdad como clase social, raza/etnia, y orientación sexual, explorando evidencia empírica nacional e internacional.
+
+---
+
+## Objetivos
+
+1. Comprender y aplicar conceptos y perspectivas teóricas contemporáneas sobre desigualdad de género, identificando cómo las estructuras, instituciones, creencias y prácticas crean, mantienen y cambian las desigualdades de género.
+2. Aplicar perspectivas teóricas en diversos ámbitos de la vida social, evaluando cómo los procesos estructurales producen y reproducen la desigualdad de género más allá de las diferencias individuales.
+3. Desarrollar una propuesta de investigación empírica relevante a la sociología del género, proponiendo metodologías pertinentes y adecuadas.
+4. Mejorar la capacidad para escribir y exponer oralmente sobre género tanto en entornos profesionales/académicos como en situaciones informales/personales.
+
+---
+
+## Temas del curso
+
+1. Perspectivas teóricas de la sociología del género.
+2. Género como sistema social multinivel: procesos micro, meso y macro.
+3. Interseccionalidad con otros ejes de identidad y desigualdad: una herramienta analítica para comprender sistemas de estratificación complejos.
+4. Género en diversos ámbitos: trabajo, familia, política, relaciones, sexualidad y reproducción.
+
+---
+
+## Evaluaciones
+
+| Componente | Ponderación |
+|:---|:---:|
+| Actividades en clase | 20% |
+| Participación en clase | 10% |
+| Prueba | 30% |
+| Trabajo final en pares | 25% |
+| Presentación oral y evaluación de pares | 15% |
+| **Total** | **100%** |
+
+### Actividades en clase (20%)
+
+Actividades individuales y grupales que consisten en trabajos cortos de escritura, búsqueda y presentación de información, o discusión de lecturas, entre otras.
+
+### Participación en clase (10%)
+
+La asistencia puntual y la participación activa en las discusiones son fundamentales para el aprendizaje activo que busca este curso. No basta con leer los materiales asignados, ya que construimos conocimiento en conjunto en la sala de clases compartiendo opiniones, reflexiones, miradas críticas y experiencias.
+
+### Prueba (30%)
+
+Evaluación escrita sobre el material de clases y las lecturas asignadas.
+
+### Trabajo final en pares (25%)
+
+Propuesta de investigación (solo propuesta, no una investigación realizada) respecto de algún tema de interés de lxs estudiantes, enmarcado en la sociología del género. Debe incorporar:
+
+- **Teoría y literatura relevante** revisada en clases, más nueva literatura específica al problema de investigación.
+- **Estructura de propuesta:** introducción al problema, revisión de literatura, preguntas de investigación y diseño metodológico (descripción detallada de datos y métodos).
+- **Extensión:** máximo 10 páginas (Times New Roman o similar, interlineado 1.5), sin contar bibliografía ni tablas/figuras.
+
+::: {.callout-note}
+Un 5% de este componente corresponde a la entrega satisfactoria de la **pre-entrega o idea de propuesta**.
+:::
+
+### Presentación oral y evaluación de pares (15%)
+
+- 10%: presentación propia de la propuesta.
+- 5%: evaluación de las presentaciones de pares.
+
+---
+
+## Políticas del curso
+
+### Buenas prácticas
+
+1. **Preparación antes de clase:** lectura profunda y reflexiva de los materiales asignados.
+2. **Profesionalismo y compromiso:** la asistencia y puntualidad son fundamentales. El mayor aprendizaje ocurre en sala de clases, cuando reflexionamos, aplicamos y extendemos lo leído.
+3. **Uso de pantallas:** se espera que mantengan celulares y computadores en silencio y guardados, a menos que sean necesarios para alguna actividad.
+4. **Participación:** para tener discusiones fructíferas, debemos escuchar de manera atenta y contribuir con ideas, preguntas y reflexiones. La sala de clases debe ser un lugar seguro donde **siempre prime el respeto hacia las demás personas.**
+
+### Integridad académica
+
+Las faltas a la Integridad Académica se definen como "acciones de plagio, fraude y/o adulteración de documentación cometidas de forma individual o colectiva, que atenten contra los valores de honestidad, veracidad, confianza, justicia, respeto y responsabilidad, dentro del marco de actividades académicas." Toda falta identificada por el equipo docente será sancionada con la nota mínima en la evaluación afectada, evaluando medidas complementarias según sea el caso.
+
+La profesora informará a la Subdirección de Pregrado, iniciando el protocolo de gestión de faltas que se dirime en el Comité de Facultad. [Más detalles aquí.](https://integridadacademica.uc.cl/gestion-de-faltas-a-la-integridad-academica/)
+
+### Justificación de inasistencias
+
+**Estudiantes de la Facultad de Ciencias Sociales:** se aceptará como justificación solo motivos de salud u otros de índole personal, social o de fuerza mayor (fallecimiento de familiar cercano, actividades religiosas, etc.), debidamente acreditados en el portal de la Facultad. En un plazo máximo de **3 días hábiles** debe ingresarse la información solicitada; la profesora no recibirá solicitudes directas, aunque se recomienda enviarle un correo informándole de la situación.
+
+**Estudiantes de otras facultades:** seguir las normas de su unidad académica y hacer llegar el justificativo oficial en un máximo de **10 días hábiles** posteriores a la evaluación.
+
+### Solicitudes de re-corrección
+
+Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora en un plazo máximo de **5 días hábiles** desde la entrega de las correcciones, con fundamentación clara por parte del/la estudiante.
+
+---
+
+## Calendarización
+
+::: {.callout-note}
+- Las **actividades en clase** también son evaluadas (ver sección Evaluaciones), pero no se listan aquí.
+- Las lecturas marcadas con **\*\*** son **lecturas mínimas obligatorias**. Las demás son recomendadas pero opcionales. Se recomienda leerlas en el orden listado.
+- Todas las lecturas están disponibles en **Canvas**.
+:::
+
+| Clase | Fecha | Tema | Lecturas previas a la clase | Evaluaciones |
+|:---:|:---:|:---|:---|:---|
+| 1 | 12-Mar | Introducción al curso. ¿Por qué una sociología del género? | \*\*Risman (2018), pp. 21–46 <br> Bokser Misses-Liwerant (2020) <br> Valdés (2001) | |
+| 2 | 19-Mar | Conceptos fundamentales: binarismo, esencialismo y patriarcado | \*\*Connell — "The Question of Gender", pp. 9–18 <br> \*\*Human Rights Watch (2018) <br> \*\*Compton & Bridges (2013) <br> Johnson (2014), cap. 1 | |
+| 3 | 26-Mar | Explicaciones para la desigualdad: aplicación al caso de mujeres en STEM | \*\*Angier & Chang (2005) <br> \*\*Valenzuela et al. (2022) <br> Martin (1998) | |
+| 4 | 2-Abr | Interacciones: cómo se produce y reproduce el género | \*\*Schilt, caps. 2–3 <br> \*\*[Video Ridgeway](https://www.youtube.com/watch?v=nEcfzfyRXF4) <br> Ridgeway & Correll (2004) <br> Martin (2009) <br> Rudman et al. (2012) | *(Sin evaluaciones esta fecha)* |
+| 5 | 9-Abr | Instituciones generizadas (*gendered*) | \*\*Crocco-Valdivia & Galaz-Valderrama (2023) <br> \*\*Mickey (2019) <br> Johnson (2014), cap. 2 <br> Acker (1990) | |
+| A | 12-Abr | **Ayudantía:** idea de propuesta de investigación | | |
+| 6 | 16-Abr | Sistema multinivel e interseccionalidad | \*\*Risman (2018), capítulo asignado en clase 5 <br> \*\*Viveros Vigoya (2016) | Completar encuesta de evaluación temprana del curso |
+| | 19-Abr | | | **Entrega: idea de propuesta de investigación** |
+| 7 | 23-Abr | Feminidades y masculinidades | \*\*Bridges & Pascoe (2018) <br> \*\*Hamilton et al. (2019) <br> \*\*Madrid (2016) | |
+| A | 26-Abr | **Ayudantía:** preparación para prueba | | |
+| | 30-Abr | **RECESO** | | |
+| 8 | 7-May | Relaciones románticas y sexo-afectivas | \*\*Lamont (2021) <br> \*\*Martínez Echagüe (2021) <br> Sweet (2019) <br> Lamont (2014; 2017) | **Prueba en clases** (1 módulo) |
+| 9 | 14-May | Trabajo remunerado y mercado laboral | \*\*Undurraga (2019) <br> \*\*Villanueva & Lin (2019) <br> Armijo et al. (2021) <br> Cabello-Hutt (2020) | |
+| | 21-May | **FERIADO** | | |
+| A | 24-May | **Ayudantía:** cómo presentar una propuesta de investigación | | |
+| 10 | 28-May | Familia, mapaternidades y conciliación | \*\*Bass (2015) <br> \*\*Herrera et al. (2018) <br> Berniell et al. (2023) <br> Daminger (2019) | |
+| 11 | 4-Jun | Violencia de género | \*\*Ananías Soto et al. (2023) <br> Manne (2019), pp. 78–101 | Presentaciones (2.° módulo) |
+| 12 | 11-Jun | Sexualidad y reproducción | \*\*Benavente & Vergara (2006), pp. 25–50 <br> Rostagnol (2014), extractos por definir | Presentaciones (2.° módulo) |
+| 13 | 18-Jun | Debates feministas | *Sin lectura obligatoria — ¡lxs esperamos en clases!* | |
+| | 21-Jun | **Ayudantía:** entrega final | | |
+| 14 | 25-Jun | Cambio social y movimientos feministas en Latinoamérica. *Invitada especial: Inés Martínez Echagüe (UNC Chapel Hill)* | \*\*Gago (2019) <br> Traer preguntas para la invitada | |
+| | 2-Jul | | | **Entrega: trabajo final** |
+
+---
+
+## Bibliografía
+
+- Acker, Joan. 1990. "Hierarchies, Jobs and Bodies: A Theory of Gendered Organizations." *Gender & Society* 4: 139–158.
+
+- Ananías Soto, C. A., Vergara Sánchez, K. D., Herrera Monsalve, C. V., & Barra Ortiz, B. Y. (2023). Violencia digital de género en Chile: Un estudio durante la pandemia de COVID-19. *Sexualidad, Salud y Sociedad (Rio de Janeiro)*, e22306. <https://doi.org/10.1590/1984-6487.sess.2023.39.e22306.a.es>
+
+- Angier, Natalie, and Kenneth Chang. 2005. "Gray Matter and Sexes: A Gray Area Scientifically." *The New York Times.*
+
+- Armijo, Lorena et al. 2021. "Agencia Individual y Colectiva en Dirigentas Sindicales de la Industria de la Minería en Chile: Un Análisis Articulando Perspectiva de las Capacidades y Género." *Izquierdas* 50: 0–0.
+
+- Bass, Brooke Conroy. 2015. "Preparing for Parenthood?: Gender, Aspirations, and the Reproduction of Labor Market Inequality." *Gender & Society* 29(3): 362–385.
+
+- Benavente, M. C., & Vergara, P. 2006. *Sexualidad en Hombres y Mujeres: Diversidad de Miradas*. Santiago: FLACSO-Chile.
+
+- Berniell, I. et al. 2023. [Referencia completa por confirmar.]
+
+- Bokser Misses-Liwerant, Judit. 2020. "Mujer y género en el siglo XXI. Perspectivas, implicaciones y dilemas." *Revista Mexicana de Ciencias Políticas y Sociales* 65(240): 9–24.
+
+- Bridges, Tristan, and C. J. Pascoe. 2018. "On the Elasticity of Gender Hegemony: Why Hybrid Masculinities Fail to Undermine Gender and Sexual Inequality." En *Gender Reckonings: New Social Theory and Research*, pp. 254–274.
+
+- Cabello-Hutt, Tania. 2020. "Changes in Work and Care Trajectories during the Transition to Motherhood." *Social Science Research* 90: 102439.
+
+- Compton, D'Lane, and Tristan Bridges. 2013. "On Queering Parenting and Gender-Neutrality." *Inequality by (Interior) Design.* <https://inequalitybyinteriordesign.wordpress.com/2013/03/20/on-queering-parenting-and-gender-neutrality/>
+
+- Connell, Raewyn. 2009. "The Question of Gender." En *Gender: In World Perspective*, pp. 9–18. Cambridge: Polity Press.
+
+- Crocco-Valdivia, Alejandra Andrea, and Caterine Galaz-Valderrama. 2023. "Mujeres en la academia: Exploración de una organización generizada a partir de una revisión sistemática." *Estudios Pedagógicos (Valdivia)* 49(2): 439–454. <https://doi.org/10.4067/S0718-07052023000200439>
+
+- Daminger, Allison. 2019. "The Cognitive Dimension of Household Labor." *American Sociological Review* 84(4): 609–633.
+
+- Gago, Verónica. 2019. *La potencia feminista: o el deseo de cambiarlo todo.* Madrid: Traficantes de Sueños.
+
+- Hamilton, Laura, Elizabeth A. Armstrong, J. Lotus Seeley, and Elizabeth M. Armstrong. 2019. "Hegemonic Femininities and Intersectional Domination." *Sociological Theory* 37(4): 315–341.
+
+- Herrera, F., Miranda, C., Pavicevic, Y., & Sciaraffia, V. 2018. "'Soy un papá súper normal': Experiencias parentales de hombres gay en Chile." *Polis (Santiago)* 17(50): 111–137. <https://doi.org/10.4067/S0718-65682018000200111>
+
+- Human Rights Watch. 2018. Acabar con la alteración intersexual. <https://www.hrw.org/es/world-report/2018/country-chapters/313454>
+
+- Johnson, Allan G. 2014. *The Gender Knot: Unraveling Our Patriarchal Legacy.* 3.ª ed. Philadelphia: Temple University Press.
+
+- Lamont, Ellen. 2014. "Negotiating Courtship: Reconciling Egalitarian Ideals with Traditional Gender Norms." *Gender & Society* 28(2): 189–211.
+
+- Lamont, Ellen. 2017. "Gender, Relationships, and Sexual Behavior Among College Students." *Sexuality & Culture* 21(1): 171–191.
+
+- Lamont, Ellen. 2021. "The Persistence of Gendered Dating." *Sociology Compass* 15(11): e12933.
+
+- Madrid, Sebastián. 2016. "La formación de masculinidades hegemónicas en la clase dominante: el caso de la sexualidad en los colegios privados de elite en Chile." *Sexualidad, Salud y Sociedad (Rio de Janeiro)*: 369–398. <https://doi.org/10.1590/1984-6487.sess.2016.22.17.a>
+
+- Manne, Kate. 2019. *Down Girl: The Logic of Misogyny.* Oxford: Oxford University Press.
+
+- Martin, Karin A. 1998. "Becoming a Gendered Body: Practices of Preschools." *American Sociological Review* 63(4): 494–511.
+
+- Martin, Karin A. 2009. "Normalizing Heterosexuality: Mothers' Assumptions, Talk, and Strategies with Young Children." *American Sociological Review* 74(2): 190–207.
+
+- Martínez Echagüe, Inés. 2021. "La igualdad se trabaja." <http://www.razonesypersonas.com/2021/07/la-igualdad-se-trabaja.html>
+
+- Mickey, Ethel L. 2019. "When Gendered Logics Collide: Going Public and Restructuring in a High-Tech Organization." *Gender & Society* 33(4): 509–533. <https://doi.org/10.1177/0891243219830944>
+
+- Ridgeway, Cecilia L., and Shelley J. Correll. 2004. "Unpacking the Gender System: A Theoretical Perspective on Gender Beliefs and Social Relations." *Gender & Society* 18(4): 510–531.
+
+- Risman, Barbara J. 2018. "Gender as a Social Structure." En *Handbook of the Sociology of Gender*, eds. Barbara J. Risman, Carissa M. Froyum, and William J. Scarborough. Cham: Springer, pp. 19–43.
+
+- Rostagnol, Susana. 2014. *Aborto voluntario y relaciones de género: Políticas del cuerpo y de la reproducción.* Montevideo: CSIC-UdelaR.
+
+- Rudman, Laurie A., Corinne A. Moss-Racusin, Julie E. Phelan, and Sanne Nauts. 2012. "Status Incongruity and Backlash Effects: Defending the Gender Hierarchy Motivates Prejudice against Female Leaders." *Journal of Experimental Social Psychology* 48: 165–179.
+
+- Schilt, Kristen. 2011. *Just One of the Guys?: Transgender Men and the Persistence of Gender Inequality.* Chicago: University of Chicago Press.
+
+- Sweet, Paige L. 2019. "The Sociology of Gaslighting." *American Sociological Review* 84(5): 851–875.
+
+- Undurraga, Rosario. 2019. "Who Will Get the Job? Hiring Practices and Inequalities in the Chilean Labour Market." *Bulletin of Latin American Research* 38(5): 575–590.
+
+- Valdés, Teresa. 2001. "Estudios de Género para el Siglo XXI en América Latina." <https://bibliotecadigital.academia.cl/xmlui/bitstream/handle/123456789/2860/85-100.pdf>
+
+- Valenzuela, Fernando A. et al. 2022. "Bichos Raros: Género y Subjetividades en el Campo de la Investigación en Matemáticas en Chile." *Psicoperspectivas* 21(2): 118–130.
+
+- Villanueva, Aida, and Ken-Hou Lin. (en prensa). "Motherhood Wage Penalties in Latin America: The Significance of Labor Informality." *Social Forces.*
+
+- Viveros Vigoya, Mara. 2016. "La interseccionalidad: una aproximación situada a la dominación." *Debate Feminista* 52: 1–17.
