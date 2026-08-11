@@ -86,37 +86,39 @@ Las rúbricas de evaluación detalladas de cada componente están en el document
 
 ### Actividades en clase (15%)
 
-**(a) Ficha de cierre (\~70% del componente).** Al final de cada clase (últimos 8–10 minutos, clases 1 a 13) cada estudiante completa individualmente una ficha con tres preguntas fijas (en papel o Canvas): qué concepto de la clase le resultó más útil para entender un fenómeno de género (con ejemplo), con qué no está de acuerdo o qué pregunta le quedó abierta, y cómo se conecta lo discutido con el contexto chileno actual. Se debe completar un mínimo de 10 de 12 fichas para la nota máxima; las fichas faltantes actúan como margen para ausencias justificadas o imprevistas.
+**(a) Ficha de cierre (\~70% del componente).** Al final de cada clase (últimos 8– minutos, clases 1 a 12) cada estudiante completa individualmente una ficha breve con dos preguntas fijas (en Wooclap): qué concepto de la clase le resultó más útil para entender un fenómeno de género (con ejemplo) y con qué no está de acuerdo o qué pregunta le quedó abierta. Se debe completar un mínimo de 9 fichas para la nota máxima en este componente.
 
 **(b) Actividades en clase (\~30% del componente).** Actividades individuales o grupales definidas para cada sesión (análisis de casos, discusiones estructuradas, trabajo grupal, entre otras), con instrucciones entregadas en clases.
 
 ### Prueba 1 y Prueba 2 (20% cada una)
 
-Evaluaciones individuales, en horario de clases, en formato **libro abierto**: se puede traer cualquier material propio (notas, lecturas, resúmenes), pero no se puede consultar a otras personas ni herramientas digitales en línea durante la prueba. Duración: 1 módulo (70 minutos). Formato: 2 preguntas de ensayo.
+Evaluaciones individuales, en horario de clases, en formato **libro abierto**: se puede traer cualquier material propio impreso o escrito a mano (notas, lecturas, resúmenes). Duración: 1 módulo (70 minutos). Formato: Ensayo.
 
 - **Prueba 1**: clases 1 a 6.
 - **Prueba 2**: clases 7 a 15.
 
-### Proyecto Final: Argumento, Investigación y Defensa (45%)
+### Proyecto Final: argumento, investigación y defensa (45%)
 
-El proyecto final se realiza en grupos de tres estudiantes e integra las habilidades desarrolladas durante el curso: análisis crítico de la literatura científica, construcción de argumentos sociológicos y diseño de investigación. Se desarrolla en tres etapas conectadas, de manera que el trabajo avance desde la construcción de un argumento hasta su investigación y defensa.
+El proyecto final se realiza en **grupos de tres estudiantes** e integra las habilidades desarrolladas durante el curso: análisis crítico de la literatura científica, construcción de argumentos sociológicos y diseño de investigación. Se desarrolla en tres etapas conectadas, de manera que el trabajo avance desde la construcción de un argumento hasta su investigación y defensa.
 
-Antes de empezar a grabar, cada grupo completa un **check-in informal de tema y bibliografía** (sin nota, ver Calendarización) con retroalimentación de la profesora o ayudantes.
+**Etapa 1 — Podcast: construcción del argumento (15%).** Cada grupo selecciona un fenómeno o problema de la sociología del género y desarrolla un podcast de 8–10 minutos (+ transcripción/guión en Canvas). El podcast debe plantear una pregunta o puzzle sociológico, desarrollar un argumento basado en evidencia científica, considerar explicaciones alternativas y utilizar la literatura académica para sustentar sus afirmaciones. Debe concluir identificando una pregunta, contradicción o vacío en el conocimiento existente que pueda ser investigado empíricamente (que será el punto de partida de la Etapa 2).
 
-**Etapa 1 — Podcast: construcción del argumento (15%).** Cada grupo selecciona un fenómeno o problema de la sociología del género y desarrolla un podcast de 8–10 minutos (+ transcripción/guión en Canvas). El podcast debe plantear una pregunta o puzzle sociológico, desarrollar un argumento basado en evidencia científica, considerar explicaciones alternativas y utilizar la literatura académica para sustentar sus afirmaciones. Debe concluir identificando una pregunta, contradicción o vacío en el conocimiento existente que pueda ser investigado empíricamente — ese vacío es el punto de partida de la Etapa 2.
+- Antes de empezar a grabar, cada grupo completa un **check-in informal de tema y bibliografía** (sin nota, ver Calendarización) con retroalimentación de la profesora o ayudantes.
 
-**Etapa 2 — Mini propuesta de investigación (15%).** A partir del problema identificado en el podcast, cada grupo elabora una mini propuesta de investigación de 2–3 páginas que especifica: (1) la pregunta de investigación, (2) el argumento o mecanismo que se busca evaluar, (3) las hipótesis o expectativas, (4) el diseño metodológico —datos, muestra y principales variables o medidas—, (5) la estrategia para responder la pregunta, y (6) las principales limitaciones del diseño. Debe mostrar claramente cómo el diseño permite responder la pregunta y distinguir entre explicaciones alternativas.
+**Etapa 2 — Mini propuesta de investigación (15%).** A partir del problema identificado en el podcast, cada grupo elabora una mini propuesta de investigación de 2–3 páginas que especifica: (1) la pregunta de investigación, (2) el argumento o mecanismo que se busca evaluar, (3) las hipótesis o expectativas, (4) el diseño metodológico —datos, muestra y principales variables o medidas—, (5) la estrategia para responder la pregunta, y (6) las principales limitaciones del diseño. Debe mostrar claramente cómo el diseño permite responder la pregunta.
 
-**Etapa 3 — Revisión por pares y defensa oral (15%).** Cada grupo recibe el podcast y la mini propuesta de un solo grupo, que analiza críticamente (evidencia utilizada, argumento, explicaciones alternativas y decisiones metodológicas) y sobre el que prepara preguntas y comentarios, entregados por escrito **24 horas antes** de la sesión. Durante la defensa (últimos 45 minutos de la clase, un pod por sesión), el grupo interrogador pregunta y el grupo autor responde y defiende oralmente sus argumentos y decisiones de investigación.
+**Etapa 3 — Revisión por pares y defensa oral (15%).** Cada grupo recibe el podcast y la mini propuesta de un solo grupo, que analiza críticamente (evidencia utilizada, argumento, explicaciones alternativas y decisiones metodológicas) y sobre el que prepara preguntas y comentarios, entregados por escrito **24 horas antes** de la sesión. Durante la defensa, el grupo interrogador pregunta y el grupo autor responde y defiende oralmente sus argumentos y decisiones de investigación.
 
 - 10%: calidad de las respuestas (dominio conceptual y metodológico, profundidad, capacidad de improvisar).
 - 5%: calidad de las preguntas y comentarios hechos al grupo revisado.
 
 ### Integridad académica y uso de IA en las evaluaciones
 
-Este diseño de evaluaciones asume que el uso de herramientas de inteligencia artificial (IA) es parte del entorno actual de trabajo y escritura. La política del curso no es de prohibición, sino de **uso declarado y responsable**. Si en alguna entrega escrita se utilizó IA para revisar gramática, estilo o estructura, debe declararse brevemente al final del documento. El uso de IA para generar contenido sustantivo (ideas, argumentos, análisis, síntesis de lecturas) sin declaración constituye una falta de integridad académica y será sancionado según las políticas de la Facultad.
+Este diseño de evaluaciones asume que el uso de herramientas de inteligencia artificial (IA) es parte del entorno actual de trabajo y escritura. La política del curso es de **uso declarado y responsable**. Si en alguna entrega escrita se utilizó IA para revisar gramática, estilo o estructura, debe declararse brevemente al final del documento. [El uso de IA para generar contenido sustantivo (ideas, argumentos, análisis, síntesis de lecturas) sin declaración constituye una falta de integridad académica]{.underline}.
 
 El uso de IA [no exime al estudiantado de dominar el contenido y argumentos de sus trabajos]{.underline}. Las y los estudiantes son totalmente responsables por el contenido de sus trabajos, con independencia de la asistencia de IA generativa. Por ello, los y las docentes tendrán la facultad de [citar a exposición oral]{.underline} de los trabajos realizados, sin necesidad de aviso previo, con el fin de evaluar el dominio real del/de la estudiante sobre el producto presentado. En base a estos antecedentes la docente podrá determinar la nota final del trabajo.
+
+Ver más en [Política de cursos de pregrado ISUC].
 
 ------------------------------------------------------------------------
 
@@ -128,12 +130,6 @@ El uso de IA [no exime al estudiantado de dominar el contenido y argumentos de s
 2.  **Profesionalismo y compromiso:** la asistencia y puntualidad son fundamentales. El mayor aprendizaje ocurre en sala de clases, cuando reflexionamos, aplicamos y extendemos lo leído.
 3.  **Uso de pantallas:** se espera que mantengan celulares y computadores en silencio y guardados, a menos que sean necesarios para alguna actividad.
 4.  **Participación:** para tener discusiones fructíferas, debemos escuchar de manera atenta y contribuir con ideas, preguntas y reflexiones. La sala de clases debe ser un lugar seguro donde **siempre prime el respeto hacia las demás personas.**
-
-### Integridad académica
-
-Las faltas a la Integridad Académica se definen como "acciones de plagio, fraude y/o adulteración de documentación cometidas de forma individual o colectiva, que atenten contra los valores de honestidad, veracidad, confianza, justicia, respeto y responsabilidad, dentro del marco de actividades académicas." Toda falta identificada por el equipo docente será sancionada con la nota mínima en la evaluación afectada, evaluando medidas complementarias según sea el caso.
-
-La profesora informará a la Subdirección de Pregrado, iniciando el protocolo de gestión de faltas que se dirime en el Comité de Facultad. [Más detalles aquí.](https://integridadacademica.uc.cl/gestion-de-faltas-a-la-integridad-academica/)
 
 ### Justificación de inasistencias
 
@@ -290,7 +286,7 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 
 ## Política de cursos de pregrado ISUC
 
-## **1.   General**
+### **General**
 
 ·      Las evaluaciones serán corregidas en un plazo de 15 días hábiles transcurrida la fecha de la evaluación y proporcionará retroalimentación en el formato que los docentes estimen conveniente.
 
@@ -300,23 +296,13 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 
 ·      La Subdirección de Pregrado cuenta con una Coordinación de Asuntos Estudiantiles (Álvaro Fuentealba, [alfuebtealba\@uc.cl](mailto:alfuebtealba@uc.cl)) y Coordinación Académica (Tamara Soto, [tsotot\@uc.cl](mailto:tsotot@uc.cl)) que proveen apoyo y orientación a estudiantes de Sociología.
 
-**2.   Faltas a la Integridad Académica**
+### **Faltas a la Integridad Académica**
 
 Las faltas a la Integridad Académica son definidas como acciones de plagio, fraude y/o adulteración de documentación cometidas de forma individual o colectiva, que atenten contra los valores de honestidad, veracidad, confianza, justicia, respeto y responsabilidad, dentro del marco de actividades académicas. El o la docente responsable de la actividad donde fue cometida la falta podrá aplicar una medida académica de manera inmediata al estudiante, si lo considera pertinente (por ejemplo, sancionar al estudiante con un 1.0 en la evaluación correspondiente). Adicionalmente, conforme a la Política de Integridad Académica de la Universidad, toda falta será derivada al Comité de Integridad Académica de la Facultad de Ciencias Sociales que definirá la gravedad de la falta (leve, moderada o grave) y las consecuencias de dicha falta, con foco formativo, así como las medidas formativas complementarias a la sanción académica. Se recomienda consultar las guías de Bibliotecas UC sobre el uso ético de la información, uso ético de IA y la adecuada citación ([http://guiastematicas.bibliotecas.uc.cl](http://guiastematicas.bibliotecas.uc.cl/ "http://guiastematicas.bibliotecas.uc.cl/")). Los detalles de la política de integridad académica UC se encuentran aquí: [https://integridadacademica.uc.cl/](https://integridadacademica.uc.cl/que-es/)
 
-**3.   Requisito de asistencia obligatoria en cursos mínimos**
+### **Uso ético de IA**  
 
-Para aprobar el curso, se requiere al menos un 50% de asistencia a clases, porcentaje que podrá ser mayor según lo decida cada docente. La asistencia a la ayudantía no es obligatoria, salvo que el profesor lo considere necesario, lo que quedará explícito en el programa del curso. No se justifican las inasistencias a clases, los estudiantes deberán manejar sus agendas y asumir las consecuencias de sus ausencias. El no cumplir este requisito mínimo resultará en una nota final de 0.5\*(1.0) + 0.5\*(promedio del curso), reprobando directamente.
-
-**4.   Uso ético de IA**
-
-Los cursos se rigen por los lineamientos de la Política de Uso Ético de IA del ISUC, bajo el marco general de los Lineamientos UC que comprende, entre otros, que:
-
-· Cada docente deberá indicar explícitamente en el programa de su curso y en las instrucciones de los trabajos y actividades si el uso de IA está prohibido, permitido o recomendado, especificando además para qué tareas y en qué medida puede utilizarse. 
-
-· El uso de IA no exime al estudiantado de dominar el contenido y argumentos de sus trabajos. Las y los estudiantes son totalmente responsables por el contenido de sus trabajos, con independencia de la asistencia de IA generativa. Por ello, los y las docentes tendrán la facultad de citar a exposición oral de los trabajos entregados, sin necesidad de aviso previo, con el fin de evaluar el dominio real del/de la estudiante sobre el producto presentado. En base a estos antecedentes el/la docente podrá determinar la nota final del trabajo.  
-
-· Cuando el uso de IA sea tolerado (restringido, permitido, sugerido u obligatorio), las y los estudiantes deberán incluir un apartado en los anexos del trabajo indicando: 
+Cuando el uso de IA sea tolerado (restringido, permitido, sugerido u obligatorio), las y los estudiantes deberán incluir un apartado en los anexos del trabajo indicando: 
 
                       i.    Qué herramientas de IA generativa fueron utilizadas. 
 
@@ -324,13 +310,11 @@ Los cursos se rigen por los lineamientos de la Política de Uso Ético de IA del
 
                     iii.    Este apartado será obligatorio y tendrá como finalidad garantizar la transparencia, trazabilidad y responsabilidad en el uso de estas tecnologías. En caso de no ser incluido, el trabajo podrá ser evaluado con nota mínima por la o el docente del curso. Además, las y los docentes podrán solicitar copia de los prompts utilizados para la interacción con la IA generativa. 
 
-· La evaluación de trabajos y pruebas seguirá siempre el criterio experto y académico del docente, por ende, la nota final podrá incluir tanto elementos de rúbricas estandarizadas que hayan sido definidas previamente, como consideraciones académicas de los profesores.  
+La evaluación de trabajos y pruebas seguirá siempre el criterio experto y académico del docente, por ende, la nota final podrá incluir tanto elementos de rúbricas estandarizadas que hayan sido definidas previamente, como consideraciones académicas de los profesores.  
 
-· En caso de constatar el uso no autorizado de IA generativa por parte de estudiantes en cualquier trabajo académico, las y los docentes se orientarán por los lineamientos de la universidad en atención a la correspondiente evaluación y sanción de la falta a la integridad académica.
+En caso de constatar el uso no autorizado de IA generativa por parte de estudiantes en cualquier trabajo académico, las y los docentes se orientarán por los lineamientos de la universidad en atención a la correspondiente evaluación y sanción de la falta a la integridad académica.
 
-· Con el fin de fomentar el desarrollo profundo de habilidades de aprendizaje, análisis crítico, redacción académica y autonomía intelectual, el uso de herramientas de IA generativa estará **estrictamente prohibido durante el primer año de la formación de pregrado**. Lo anterior supone favorecer la evaluación presencial de los conocimientos. Esta medida busca asegurar que los y las estudiantes construyan una base sólida de competencias fundamentales sin intermediación tecnológica.
-
-**5.   NORMAS DE BUENA CONVIVENCIA EN LA SALA DE CLASES\***
+### **Normas de buena convivencia en la sala de clases**
 
 Como estudiante, debes cumplir con una serie de normas de convivencia que promueven un ambiente de aprendizaje positivo y respetuoso. Estas normas permiten que estudiantes y profesores se beneficien de la experiencia de la clase. Se detallan a continuación:
 
