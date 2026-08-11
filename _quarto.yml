@@ -1,6 +1,11 @@
 project:
   type: website
   output-dir: docs          # GitHub Pages sirve desde /docs
+  render:
+    - index.qmd              # limita el sitio a estas páginas; otros .qmd
+    - rubricas.qmd            # (ej. guías de clase como C1_termometro/) no se publican
+  resources:
+    - lecturas/**            # copia todos los PDF aunque el nombre tenga & o , (bug de detección automática de Pandoc)
 
 website:
   title: "SOL191 · Sociología del Género"
