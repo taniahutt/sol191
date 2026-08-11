@@ -17,16 +17,17 @@ Este documento contiene las rúbricas y logística detallada de cada componente 
 
 | Componente | Ponderación | Formato | Momento |
 |:---|:---:|:---|:---|
-| Actividades en clase | 20% | Ficha de cierre + actividades | Clases 1–13 |
+| Actividades en clase | 15% | Ficha de cierre + actividades | Clases 1–13 |
 | Prueba 1 | 20% | Ensayo reflexivo, libro abierto | Clase 8 (15-Oct, en sala) |
 | Prueba 2 | 20% | Ensayo reflexivo, libro abierto | Clase 13 (19-Nov, en sala) |
-| Podcast + proceso | 25% | Audio + pre-entrega | Pre-entrega: 27-Sep · Podcast: 8-Nov |
-| Defensa oral | 15% | Oral presencial | Clases 12–14 (12, 19 y 26-Nov) |
+| Proyecto Final — Etapa 1: Podcast | 15% | Audio + transcripción | Entrega: lunes 26-Oct |
+| Proyecto Final — Etapa 2: Mini propuesta de investigación | 15% | Documento, 2–3 páginas | Entrega: lunes 9-Nov |
+| Proyecto Final — Etapa 3: Revisión por pares y defensa oral | 15% | Oral presencial, en pods | Clases 12, 13 y 14 (12, 19 y 26-Nov) |
 | **Total** | **100%** | | |
 
 ---
 
-## 1. Actividades en clase — 20%
+## 1. Actividades en clase — 15%
 
 ### Descripción
 
@@ -95,91 +96,93 @@ Una de las dos preguntas incluye un **caso presentado el día de la prueba** —
 
 ---
 
-## 4. Podcast + proceso — 25%
+## 4. Proyecto Final: Argumento, Investigación y Defensa — 45%
 
-Los grupos son de **3 integrantes**. El proyecto se desarrolla en dos entregas: una preliminar de proceso (5%) y el podcast final (20%).
+El proyecto final se realiza en grupos de tres estudiantes e integra las habilidades desarrolladas durante el curso: análisis crítico de la literatura científica, construcción de argumentos sociológicos y diseño de investigación. Se desarrolla en tres etapas conectadas, de manera que el trabajo avance desde la construcción de un argumento hasta su investigación y defensa.
 
-### 4a. Pre-entrega: Ficha de tema y bibliografía comentada — 5%
+Antes de grabar, cada grupo completa un **check-in informal de tema y bibliografía** el **28 de septiembre** (sin nota; retroalimentación de la profesora o ayudantes). La ayudantía del **23 de septiembre** está dedicada a apoyar la elección de tema.
 
-**Cuándo:** domingo **27 de septiembre** (después de la clase 5, 24-Oct — Instituciones generizadas).
+### 4a. Etapa 1 — Podcast: construcción del argumento (15%)
 
-**Extensión:** 1–2 páginas.
+**Cuándo:** lunes **26 de octubre**. La ayudantía del **21 de octubre** está dedicada a producción y edición.
 
-**Contenido obligatorio:**
-
-1. **Pregunta central del podcast** (1 oración exacta y acotada — no un tema general)
-2. **Tesis o argumento tentativo** (2–3 oraciones que indiquen qué van a argumentar, no solo qué van a describir)
-3. **5 fuentes con anotación estructurada:** para cada una, un párrafo que responda: *"¿Qué dice específicamente este/a autor/a que es relevante para nuestra pregunta, y qué limitación o sesgo tiene?"*
-
-**Requisitos mínimos de fuentes:**
-
-- Al menos 2 fuentes del syllabus del curso
-- Al menos 1 fuente sobre el caso chileno o latinoamericano
-
-La ayudantía del **23 de septiembre** está dedicada a apoyar la elección de tema y bibliografía antes de esta entrega.
-
-### Rúbrica — Pre-entrega (5 pts)
-
-| Criterio | Descripción | Pts |
-|:---|:---|:---:|
-| Pregunta central | Clara, acotada y formulada como pregunta real (no como tema genérico) | 1 |
-| Tesis | Presenta un argumento tentativo, no solo anuncia un tema | 1 |
-| Calidad de las anotaciones | Van más allá del resumen: identifican la relevancia específica para *esta* pregunta y señalan al menos una limitación por fuente | 2 |
-| Cumplimiento de requisitos | Incluye 2+ fuentes del curso y 1+ fuente LATAM/Chile | 1 |
-
----
-
-### 4b. Podcast — 20%
-
-**Cuándo:** domingo **8 de noviembre**, antes del inicio de las defensas (clase 12, 12 de noviembre). Se comparte con el pod correspondiente apenas se recibe, para que cada grupo tenga tiempo de escuchar y preparar sus preguntas antes de su sesión de defensa (ver [logística de pods](#organización-en-pods) más abajo).
-
-**Formato:** archivo de audio, 8–10 minutos. Junto con el audio, deben entregar en Canvas la **transcripción o guión** del podcast.
+**Formato:** archivo de audio, 8–10 minutos, + transcripción o guión en Canvas.
 
 **Requisitos de contenido:**
 
-- El podcast aborda un problema de desigualdad de género **anclado en Chile o Latinoamérica**
-- Desarrolla un **argumento central** (no es un reportaje informativo ni una presentación de tema)
-- Usa **al menos 3 conceptos del curso** correctamente, citando su origen de forma explícita (ej.: *"lo que Risman llama estructura de género..."*, *"en términos de Acker, el trabajador ideal..."*)
-- Las fuentes de la bibliografía comentada deben aparecer referenciadas en el podcast
-- Todos los integrantes del grupo participan de forma audible
+- Plantea una pregunta o *puzzle* sociológico.
+- Desarrolla un argumento basado en evidencia científica (no es un reportaje informativo ni una presentación de tema).
+- Considera explicaciones alternativas al argumento propio.
+- Usa **al menos 3 conceptos del curso** correctamente, citando su origen de forma explícita (ej.: *"lo que Risman llama estructura de género..."*, *"en términos de Acker, el trabajador ideal..."*).
+- **Concluye identificando una pregunta, contradicción o vacío en el conocimiento existente** que pueda investigarse empíricamente — este vacío es el punto de partida de la Etapa 2.
+- Todos los integrantes del grupo participan de forma audible.
 
-La ayudantía del **4 de noviembre** está dedicada a producción/edición del podcast y a la preparación de preguntas para la defensa.
-
-### Rúbrica — Podcast (20 pts)
+#### Rúbrica — Podcast (15 pts)
 
 | Criterio | Excelente | Suficiente | Insuficiente | Pts |
 |:---|:---|:---|:---|:---:|
-| **Argumento** | Tesis clara, desarrollada a lo largo del podcast y con cierre consistente | Argumento presente pero no desarrollado, o se pierde en el camino | Solo descripción o información; sin postura ni conclusión | /6 |
-| **Uso de conceptos del curso** | 3 o más conceptos usados correcta y precisamente, con cita explícita de autores/as | 2 conceptos con algunas imprecisiones | 1 o menos, o usados incorrectamente | /6 |
-| **Fuentes y evidencia** | Las fuentes de la bibliografía aparecen integradas con datos o argumentos concretos | Fuentes mencionadas pero sin integración sustantiva al argumento | No citan fuentes, o no coinciden con las declaradas en la pre-entrega | /4 |
-| **Pertinencia LATAM/Chile** | El caso chileno o latinoamericano es central al argumento, no decorativo | Mencionado pero no desarrollado con profundidad | Ausente o tratado de forma genérica | /2 |
+| **Argumento** | Tesis clara, desarrollada a lo largo del podcast y con cierre consistente | Argumento presente pero no desarrollado, o se pierde en el camino | Solo descripción o información; sin postura ni conclusión | /5 |
+| **Uso de conceptos y literatura del curso** | 3 o más conceptos usados correcta y precisamente, con cita explícita de autores/as | 2 conceptos con algunas imprecisiones | 1 o menos, o usados incorrectamente | /4 |
+| **Explicaciones alternativas** | Considera al menos una explicación alternativa plausible y la pondera frente a la propia | La menciona sin desarrollarla | No considera explicaciones alternativas | /2 |
+| **Identificación del vacío investigable** | El cierre identifica con precisión una pregunta, contradicción o vacío investigable empíricamente | El cierre menciona un vacío, pero es vago o difícil de investigar | No hay cierre que identifique un vacío | /2 |
 | **Claridad y producción** | Fluido, bien organizado; todos los integrantes contribuyen de forma equilibrada | Aceptable, con algunas partes confusas o desequilibradas | Difícil de seguir, o la participación es muy desigual | /2 |
 
 ---
 
-## 5. Defensa oral — 15%
+### 4b. Etapa 2 — Mini propuesta de investigación (15%)
 
-### Descripción general
+**Cuándo:** lunes **9 de noviembre**, antes del inicio de las defensas (clase 12, 12 de noviembre). La ayudantía del **4 de noviembre** está dedicada a construir la propuesta a partir del vacío identificado en el podcast.
 
-La defensa oral evalúa la comprensión profunda del podcast propio (respondiendo) y la capacidad de análisis crítico del trabajo ajeno (preguntando).
+**Extensión:** 2–3 páginas.
 
-### Organización en pods
+**Contenido obligatorio**, a partir del problema identificado en el podcast:
 
-Los 12 grupos se organizan en **pods de 4 grupos** (3 pods). La asignación de escucha dentro de cada pod es **circular**: el grupo A escucha a B, B escucha a C, C escucha a D, D escucha a A. Cada grupo escucha y prepara preguntas para **un solo podcast**.
+1. **Pregunta de investigación.**
+2. **Argumento o mecanismo** que se busca evaluar.
+3. **Hipótesis o expectativas.**
+4. **Diseño metodológico:** datos, muestra y principales variables o medidas.
+5. **Estrategia** para responder la pregunta.
+6. **Principales limitaciones** del diseño.
 
-Los podcasts se comparten vía Canvas apenas se reciben (8 de noviembre), inmediatamente después del cierre de la entrega, para que cada grupo tenga tiempo de escuchar y preparar sus preguntas.
+La propuesta debe mostrar claramente cómo el diseño permite responder la pregunta de investigación y distinguir entre explicaciones alternativas.
 
-### Preparación de preguntas
+#### Rúbrica — Mini propuesta (15 pts)
 
-Cada grupo prepara **exactamente 3 preguntas** para el podcast que le fue asignado. Las preguntas deben ser de tres tipos distintos y obligatorios:
+| Criterio | Descripción | Pts |
+|:---|:---|:---:|
+| **Pregunta de investigación** | Clara, acotada, y se deriva directamente del vacío identificado en el podcast | 2 |
+| **Argumento / mecanismo teórico** | El mecanismo que se busca evaluar está bien definido y conectado con conceptos del curso | 3 |
+| **Hipótesis o expectativas** | Se derivan lógicamente del argumento; son específicas y contrastables | 2 |
+| **Diseño metodológico** | Datos, muestra y variables/medidas son adecuados para la pregunta y están descritos con suficiente detalle | 4 |
+| **Estrategia y explicaciones alternativas** | El diseño permite responder la pregunta y distinguir el argumento propio de explicaciones alternativas plausibles | 2 |
+| **Limitaciones** | Identifica limitaciones reales y específicas del diseño (no genéricas) | 2 |
+
+---
+
+### 4c. Etapa 3 — Revisión por pares y defensa oral (15%)
+
+#### Descripción general
+
+La defensa oral evalúa la comprensión profunda del proyecto propio —podcast y mini propuesta— (respondiendo) y la capacidad de análisis crítico del trabajo ajeno (preguntando).
+
+#### Organización en pods
+
+Los 12 grupos se organizan en **pods de 4 grupos** (3 pods). La asignación de revisión dentro de cada pod es **circular**: el grupo A revisa a B, B revisa a C, C revisa a D, D revisa a A. Cada grupo recibe el **podcast y la mini propuesta** de un solo grupo (no solo el podcast).
+
+Ambos documentos se comparten vía Canvas apenas se reciben (podcast: 26-Oct · mini propuesta: 9-Nov), para que cada grupo tenga tiempo de revisarlos y preparar sus preguntas antes de su sesión de defensa.
+
+#### Preparación de preguntas y comentarios
+
+Cada grupo prepara **4 preguntas**, una de cada tipo, sobre el podcast y la mini propuesta que le fueron asignados:
 
 | Tipo | Descripción | Ejemplo |
 |:---|:---|:---|
-| **Conceptual** | Cuestiona la elección o el uso de un concepto teórico | "¿Por qué usaron el concepto de interseccionalidad y no el de régimen de desigualdad de Acker para analizar este caso?" |
-| **Empírica** | Interroga la evidencia o los datos usados | "¿Qué evidencia respalda su afirmación de que X ocurre en Chile? ¿Existen datos locales sobre esto?" |
-| **Crítica** | Identifica un contraargumento o una limitación no considerada | "¿Cómo responderían a la objeción de que Z se explica por factores económicos y no de género?" |
+| **Conceptual / argumento** | Cuestiona la elección o el uso de un concepto teórico, o la solidez del argumento | "¿Por qué usaron el concepto de interseccionalidad y no el de régimen de desigualdad de Acker para analizar este caso?" |
+| **Empírica / evidencia** | Interroga la evidencia o los datos usados en el podcast | "¿Qué evidencia respalda su afirmación de que X ocurre en Chile? ¿Existen datos locales sobre esto?" |
+| **Metodológica** | Cuestiona una decisión de diseño de la mini propuesta (datos, muestra, medidas, estrategia) | "¿Por qué esa muestra permite distinguir el mecanismo que proponen de una explicación alternativa por clase social?" |
+| **Crítica / explicaciones alternativas** | Identifica un contraargumento o una limitación no considerada | "¿Cómo responderían a la objeción de que Z se explica por factores económicos y no de género?" |
 
-Las preguntas se entregan por escrito a la profesora **24 horas antes** de la sesión de defensa correspondiente:
+Las preguntas y comentarios se entregan por escrito a la profesora **24 horas antes** de la sesión de defensa correspondiente:
 
 | Pod | Sesión de defensa | Preguntas por escrito antes de |
 |:---:|:---|:---|
@@ -187,31 +190,33 @@ Las preguntas se entregan por escrito a la profesora **24 horas antes** de la se
 | Pod 2 | Clase 13 — jueves 19-Nov | miércoles 18-Nov |
 | Pod 3 | Clase 14 — jueves 26-Nov | miércoles 25-Nov |
 
-### Logística: 3 sesiones de 45 minutos
+#### Logística: 3 sesiones de 45 minutos
 
 Las defensas usan los **últimos 45 minutos de las clases 12, 13 y 14** (un pod por sesión). Cada defensa dentro del pod dura **10 minutos**:
 
 | Momento | Duración | Quién |
 |:---|:---:|:---|
-| Presentación brevísima del argumento central del podcast | 1 min | Grupo productor |
-| Preguntas del grupo interrogador + respuestas | 7 min | Grupo interrogador pregunta; grupo productor responde sin notas |
+| Presentación brevísima del argumento (podcast) y del diseño (mini propuesta) | 2 min | Grupo autor |
+| Preguntas del grupo interrogador + respuestas | 6 min | Grupo interrogador pregunta; grupo autor responde sin notas |
 | Comentario de la profesora | 2 min | Profesora |
 
 4 defensas × 10 min = 40 min por sesión (5 min de margen).
 
-### Rúbrica — Respondiendo preguntas (10%)
+Los roles se invierten entre sesiones, de modo que todos los grupos participan como autores (defendiendo su proyecto) y como evaluadores (interrogando el de otro grupo).
+
+#### Rúbrica — Respondiendo preguntas (10%)
 
 | Criterio | Excelente | Suficiente | Insuficiente | Pts |
 |:---|:---|:---|:---|:---:|
-| **Dominio conceptual** | Responden con precisión usando vocabulario del curso; demuestran que comprenden los conceptos que usaron | Responden correctamente pero de forma vaga o sin vocabulario teórico | No pueden responder, o usan conceptos incorrectamente | /4 |
-| **Profundidad argumentativa** | Desarrollan la respuesta con evidencia y razonamiento propio; van más allá de lo que estaba en el podcast | Respuesta correcta pero superficial; repiten el podcast sin agregar | Respuesta evasiva, incorrecta, o no relacionada con la pregunta | /4 |
+| **Dominio conceptual y metodológico** | Responden con precisión usando vocabulario del curso y justifican sus decisiones metodológicas; demuestran que comprenden lo que hicieron | Responden correctamente pero de forma vaga o sin justificar decisiones metodológicas | No pueden responder, o usan conceptos/decisiones incorrectamente | /4 |
+| **Profundidad argumentativa** | Desarrollan la respuesta con evidencia y razonamiento propio; van más allá de lo que estaba en el podcast o la propuesta | Respuesta correcta pero superficial; repiten el material sin agregar | Respuesta evasiva, incorrecta, o no relacionada con la pregunta | /4 |
 | **Capacidad de improvisar** | Responden preguntas inesperadas sin evasión, demostrando comprensión genuina | Responden parcialmente o necesitan reformulación de la pregunta | No pueden responder sin guión, o evaden sistemáticamente | /2 |
 
-### Rúbrica — Haciendo preguntas (5%)
+#### Rúbrica — Haciendo preguntas (5%)
 
 | Criterio | Excelente | Suficiente | Insuficiente | Pts |
 |:---|:---|:---|:---|:---:|
-| **Calidad de las preguntas** | Las 3 preguntas son sustantivas, corresponden a los tipos requeridos, y evidencian escucha crítica del podcast | 2 preguntas sustantivas y 1 genérica; o no todos los tipos están presentes | Preguntas superficiales que podrían hacerse sin haber escuchado el podcast | /3 |
+| **Calidad de las preguntas** | Las 4 preguntas son sustantivas, corresponden a los tipos requeridos, y evidencian revisión crítica del podcast y la propuesta | 3 preguntas sustantivas y 1 genérica; o no todos los tipos están presentes | Preguntas superficiales que podrían hacerse sin haber revisado el material | /3 |
 | **Engagement en la sesión** | Hacen seguimiento activo a las respuestas; demuestran que procesaron el contenido durante la defensa | Hacen las preguntas pero sin seguimiento ni reacción a las respuestas | Leen las preguntas de forma mecánica sin escuchar las respuestas | /2 |
 
 ---
@@ -220,6 +225,6 @@ Las defensas usan los **últimos 45 minutos de las clases 12, 13 y 14** (un pod 
 
 Este diseño de evaluaciones asume que el uso de herramientas de inteligencia artificial (IA) es parte del entorno actual de trabajo y escritura. La política del curso no es de prohibición, sino de **uso declarado y responsable**.
 
-El conjunto de evaluaciones está diseñado de modo que la IA no puede sustituir la comprensión: la ficha de cierre requiere saber qué ocurrió en *esa* clase; la prueba requiere analizar un caso presentado ese día; el podcast compromete fuentes y argumentos que los integrantes deben defender en vivo ante preguntas que no pudieron anticipar. Cada componente verifica el anterior.
+El conjunto de evaluaciones está diseñado de modo que la IA no puede sustituir la comprensión: la ficha de cierre requiere saber qué ocurrió en *esa* clase; la prueba requiere analizar un caso presentado ese día; el podcast y la mini propuesta comprometen fuentes, argumentos y decisiones metodológicas que los integrantes deben defender en vivo ante preguntas que no pudieron anticipar. Cada componente verifica el anterior.
 
 Si en alguna entrega escrita se utilizó IA para revisar gramática, estilo o estructura, debe declararse brevemente al final del documento. El uso de IA para generar contenido sustantivo (argumentos, análisis, síntesis de lecturas) sin declaración constituye una falta de integridad académica y será sancionado según las políticas de la Facultad.

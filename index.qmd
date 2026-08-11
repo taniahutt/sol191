@@ -72,16 +72,19 @@ Este curso provee una comprensión introductoria del género como constructo soc
 Las rúbricas de evaluación detalladas de cada componente están en el documento aparte de [**Rúbricas de evaluación**](rubricas.qmd).
 :::
 
-| Componente | Ponderación | Formato | Momento |
-|:----------------|:------------------:|:----------------|:----------------|
-| Actividades en clase | 20% | Fichas de cierre, guías, discusiones, debates, entre otros. | Clases 1–13 |
-| Prueba 1 | 20% | Ensayo | Clase 8 (15-Oct) |
-| Prueba 2 | 20% | Ensayo | Clase 13 (19-Nov) |
-| Podcast + proceso | 25% | Audio + pre-entrega | Pre-entrega: 27-Sep · Podcast: 8-Nov |
-| Defensa oral | 15% | Oral presencial, en pods | Clases 12–14 |
-| **Total** | **100%** |  |  |
++----------------------+--------------+-------------------------------------------------------------+
+| Componente           | Ponderación  | Formato                                                     |
++:=====================+:============:+:============================================================+
+| Actividades en clase | 15%          | Fichas de cierre, guías, discusiones, debates, entre otros. |
++----------------------+--------------+-------------------------------------------------------------+
+| Pruebas              | 40%          | Ensayos en clases (2 pruebas)                               |
++----------------------+--------------+-------------------------------------------------------------+
+| Proyecto grupal      | 45%          | Podcast + mini propuesta + defensa oral                     |
++----------------------+--------------+-------------------------------------------------------------+
+| **Total**            | **100%**     |                                                             |
++----------------------+--------------+-------------------------------------------------------------+
 
-### Actividades en clase (20%)
+### Actividades en clase (15%)
 
 **(a) Ficha de cierre (\~70% del componente).** Al final de cada clase (últimos 8–10 minutos, clases 1 a 13) cada estudiante completa individualmente una ficha con tres preguntas fijas (en papel o Canvas): qué concepto de la clase le resultó más útil para entender un fenómeno de género (con ejemplo), con qué no está de acuerdo o qué pregunta le quedó abierta, y cómo se conecta lo discutido con el contexto chileno actual. Se debe completar un mínimo de 10 de 12 fichas para la nota máxima; las fichas faltantes actúan como margen para ausencias justificadas o imprevistas.
 
@@ -91,24 +94,23 @@ Las rúbricas de evaluación detalladas de cada componente están en el document
 
 Evaluaciones individuales, en horario de clases, en formato **libro abierto**: se puede traer cualquier material propio (notas, lecturas, resúmenes), pero no se puede consultar a otras personas ni herramientas digitales en línea durante la prueba. Duración: 1 módulo (70 minutos). Formato: 2 preguntas de ensayo.
 
-- **Prueba 1** (clase 8, 15-Oct): unidades 1 a 5.
-- **Prueba 2** (clase 13, 19-Nov): unidades 6 a 11.
+- **Prueba 1**: clases 1 a 6.
+- **Prueba 2**: clases 7 a 15.
 
-### Podcast + proceso (25%)
+### Proyecto Final: Argumento, Investigación y Defensa (45%)
 
-Trabajo grupal (grupos de 3 integrantes), en dos entregas:
+El proyecto final se realiza en grupos de tres estudiantes e integra las habilidades desarrolladas durante el curso: análisis crítico de la literatura científica, construcción de argumentos sociológicos y diseño de investigación. Se desarrolla en tres etapas conectadas, de manera que el trabajo avance desde la construcción de un argumento hasta su investigación y defensa.
 
-- **Pre-entrega — ficha de tema y bibliografía comentada (5%).** Entrega: lunes 28-Sep. 1–2 páginas: pregunta central, tesis tentativa, y 5 fuentes con anotación estructurada (mínimo 2 del programa y 1 sobre el caso en particular).
-- **Podcast final (20%).** Entrega: 9-Nov, antes del inicio de las defensas. Audio de 8–10 minutos + transcripción/guión en Canvas. Debe abordar un problema de desigualdad de género, desarrollar un argumento (no solo informar), usar al menos 3 conceptos del curso citando su origen, referenciar las fuentes de la pre-entrega, y contar con la participación de todo el grupo.
+Antes de empezar a grabar, cada grupo completa un **check-in informal de tema y bibliografía** (sin nota, ver Calendarización) con retroalimentación de la profesora o ayudantes.
 
-### Defensa oral (15%)
+**Etapa 1 — Podcast: construcción del argumento (15%).** Cada grupo selecciona un fenómeno o problema de la sociología del género y desarrolla un podcast de 8–10 minutos (+ transcripción/guión en Canvas). El podcast debe plantear una pregunta o puzzle sociológico, desarrollar un argumento basado en evidencia científica, considerar explicaciones alternativas y utilizar la literatura académica para sustentar sus afirmaciones. Debe concluir identificando una pregunta, contradicción o vacío en el conocimiento existente que pueda ser investigado empíricamente — ese vacío es el punto de partida de la Etapa 2.
 
-Los grupos se organizan en **3 pods**, con asignación circular de escucha. Cada grupo escucha un solo podcast y prepara **3 preguntas** (conceptual, empírica y crítica), entregadas por escrito **24 horas antes** de su sesión de defensa.
+**Etapa 2 — Mini propuesta de investigación (15%).** A partir del problema identificado en el podcast, cada grupo elabora una mini propuesta de investigación de 2–3 páginas que especifica: (1) la pregunta de investigación, (2) el argumento o mecanismo que se busca evaluar, (3) las hipótesis o expectativas, (4) el diseño metodológico —datos, muestra y principales variables o medidas—, (5) la estrategia para responder la pregunta, y (6) las principales limitaciones del diseño. Debe mostrar claramente cómo el diseño permite responder la pregunta y distinguir entre explicaciones alternativas.
 
-Las defensas ocupan los **últimos 45 minutos** de las clases 12, 13 y 14 (un pod por sesión, 4 defensas de 10 minutos cada una)..
+**Etapa 3 — Revisión por pares y defensa oral (15%).** Cada grupo recibe el podcast y la mini propuesta de un solo grupo, que analiza críticamente (evidencia utilizada, argumento, explicaciones alternativas y decisiones metodológicas) y sobre el que prepara preguntas y comentarios, entregados por escrito **24 horas antes** de la sesión. Durante la defensa (últimos 45 minutos de la clase, un pod por sesión), el grupo interrogador pregunta y el grupo autor responde y defiende oralmente sus argumentos y decisiones de investigación.
 
-- 10%: calidad de las respuestas (dominio conceptual, profundidad, capacidad de improvisar).
-- 5%: calidad de las preguntas hechas al grupo escuchado.
+- 10%: calidad de las respuestas (dominio conceptual y metodológico, profundidad, capacidad de improvisar).
+- 5%: calidad de las preguntas y comentarios hechos al grupo revisado.
 
 ### Integridad académica y uso de IA en las evaluaciones
 
@@ -149,32 +151,60 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 - Las **actividades en clase** (fichas de cierre) también son evaluadas (ver sección Evaluaciones), pero no se listan clase a clase aquí.
 - Las lecturas marcadas con **\*\*** son **lecturas mínimas obligatorias**. Las demás son recomendadas pero opcionales. Se recomienda leerlas en el orden listado.
 - Todas las lecturas están disponibles en **Canvas**.
+- El **Proyecto Final** se desarrolla en tres etapas: Etapa 1 — Podcast, Etapa 2 — Mini propuesta de investigación, Etapa 3 — Revisión por pares y Defensa oral.
 :::
 
-| Clase | Fecha | Tema | Lecturas previas a la clase | Evaluaciones |
-|:-------------:|:-------------:|:--------------|:--------------|:--------------|
-| 1 | 13-Ago | Introducción al curso. ¿Por qué una sociología del género? | \*\*Risman (2018), pp. 21–46 <br> Bokser Misses-Liwerant (2020) <br> Valdés (2001) |  |
-| 2 | 20-Ago | Conceptos fundamentales: binarismo, esencialismo y patriarcado | \*\*Connell — "The Question of Gender", pp. 9–18 <br> \*\*Human Rights Watch (2018) <br> \*\*Compton & Bridges (2013) <br> Johnson (2014), cap. 1 |  |
-|  | 27-Ago | **NO HAY CLASES** — profesora en conferencia |  |  |
-| 3 | 3-Sep | Explicaciones para la desigualdad: aplicación al caso de mujeres en STEM | \*\*Angier & Chang (2005) <br> \*\*Valenzuela et al. (2022) <br> Martin (1998) |  |
-| 4 | 10-Sep | Interacciones: cómo se produce y reproduce el género | \*\*Schilt, caps. 2–3 <br> \*\*[Video Ridgeway](https://www.youtube.com/watch?v=nEcfzfyRXF4) <br> Ridgeway & Correll (2004) <br> Martin (2009) <br> Rudman et al. (2012) |  |
-|  | 14 al 19-Sep | **RECESO** — no hay clases |  |  |
-| A | 23-Sep | **Ayudantía:** cómo elegir tema y bibliografía para el podcast |  |  |
-| 5 | 24-Sep | Instituciones generizadas (*gendered*) | \*\*Crocco-Valdivia & Galaz-Valderrama (2023) <br> \*\*Mickey (2019) <br> Johnson (2014), cap. 2 <br> Acker (1990) |  |
-|  | 28-Sep |  |  | **Entrega: pre-entrega podcast** — ficha de tema y bibliografía comentada (5%) |
-| 6 | 1-Oct | Sistema multinivel e interseccionalidad | \*\*Risman (2018), capítulo asignado en clase 5 <br> \*\*Viveros Vigoya (2016) | Completar encuesta de evaluación temprana del curso |
-| 7 | 8-Oct | Feminidades y masculinidades | \*\*Bridges & Pascoe (2018) <br> \*\*Hamilton et al. (2019) <br> \*\*Madrid (2016) |  |
-| A | 14-Oct | **Ayudantía:** preparación para Prueba 1 |  |  |
-| 8 | 15-Oct | Relaciones románticas y sexo-afectivas | \*\*Lamont (2021) <br> \*\*Martínez Echagüe (2021) <br> Sweet (2019) <br> Lamont (2014; 2017) | **Prueba 1 en clases** (20%, 1 módulo) |
-| 9 | 22-Oct | Trabajo remunerado y mercado laboral | \*\*Undurraga (2019) <br> \*\*Villanueva & Lin (2019) <br> Armijo et al. (2021) <br> Cabello-Hutt (2020) |  |
-| 10 | 29-Oct | Familia, mapaternidades y conciliación | \*\*Bass (2015) <br> \*\*Herrera et al. (2018) <br> Berniell et al. (2023) <br> Daminger (2019) |  |
-| A | 4-Nov | **Ayudantía:** producción/edición del podcast y preparación de preguntas para la defensa |  |  |
-| 11 | 5-Nov | Violencia de género | \*\*Ananías Soto et al. (2023) <br> Manne (2019), pp. 78–101 |  |
-|  | 9-Nov |  |  | **Entrega: podcast final** (audio + transcripción, 20%) — se comparte de inmediato con el pod correspondiente |
-| 12 | 12-Nov | Sexualidad y reproducción | \*\*Benavente & Vergara (2006), pp. 25–50 <br> Rostagnol (2014), extractos por definir | **Defensa oral — Pod 1** (últimos 45 min) |
-| A | 18-Nov | **Ayudantía:** preparación para Prueba 2 |  |  |
-| 13 | 19-Nov | Género y tecnología/IA |  | **Prueba 2 en clases** (20%) + **Defensa oral — Pod 2** (últimos 45 min) |
-| 14 | 26-Nov | Cambio social y movimientos feministas en Latinoamérica. | \*\*Gago (2019) <br> | **Defensa oral — Pod 3** (últimos 45 min) |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| Clase   | Fecha        | Tema                                                                                  | Lecturas previas a la clase                                                                                                                                              | Evaluaciones                                        |
++:=======:+:============:+:======================================================================================+:=========================================================================================================================================================================+:====================================================+
+| 1       | 13-Ago       | Introducción al curso. ¿Por qué una sociología del género?                            | \*\*Risman (2018), pp. 21–46 <br> Bokser Misses-Liwerant (2020) <br> Valdés (2001)                                                                                       |                                                     |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 2       | 20-Ago       | Conceptos fundamentales: binarismo, esencialismo y patriarcado                        | \*\*Connell — "The Question of Gender", pp. 9–18 <br> \*\*Human Rights Watch (2018) <br> \*\*Compton & Bridges (2013) <br> Johnson (2014), cap. 1                        |                                                     |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 3       | 27-Ago       | Asíncrónica o ayudantes con guía                                                      | \*\*Angier & Chang (2005) <br> \*\*Valenzuela et al. (2022) <br> Martin (1998)                                                                                           |                                                     |
+|         |              |                                                                                       |                                                                                                                                                                          |                                                     |
+|         |              | Explicaciones para la desigualdad: aplicación al caso de mujeres en STEM              |                                                                                                                                                                          |                                                     |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 4       | 3-Sep        | Interacciones: cómo se produce y reproduce el género                                  | \*\*Schilt, caps. 2–3 <br> \*\*[Video Ridgeway](https://www.youtube.com/watch?v=nEcfzfyRXF4) <br> Ridgeway & Correll (2004) <br> Martin (2009) <br> Rudman et al. (2012) |                                                     |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 5       | 10-Sep       | Instituciones generizadas (*gendered*)                                                | \*\*Crocco-Valdivia & Galaz-Valderrama (2023) <br> \*\*Mickey (2019) <br> Johnson (2014), cap. 2 <br> Acker (1990)                                                       |                                                     |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+|         | 14 al 19-Sep | **RECESO** — no hay clases                                                            |                                                                                                                                                                          |                                                     |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+|         | 23-Sep       | **Ayudantía preparación Prueba 1**                                                    |                                                                                                                                                                          |                                                     |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 6       | 24-Sep       | Sistema multinivel e interseccionalidad                                               | \*\*Risman (2018), capítulo asignado en clase 5 <br> \*\*Viveros Vigoya (2016)                                                                                           | Completar encuesta de evaluación temprana del curso |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 7       | 1-Oct        | Relacionesrománticas y sexo-afectivas                                                 | \*\*Lamont (2021) <br> \*\*Martínez Echagüe (2021) <br> Sweet (2019) <br> Lamont (2014; 2017)                                                                            | **Prueba 1**                                        |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 8       | 8-Oct        | Feminidades y masculinidades                                                          | \*\*Bridges & Pascoe (2018) <br> \*\*Hamilton et al. (2019) <br> \*\*Madrid (2016)                                                                                       |                                                     |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 9       | 15-Oct       | Trabajo remunerado y mercado laboral                                                  | \*\*Undurraga (2019) <br> \*\*Villanueva & Lin (2019) <br> Armijo et al. (2021) <br> Cabello-Hutt (2020)                                                                 | **Pre-entrega: ficha de tema y bibliografía**       |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+|         | 21-Oct       | **Ayudantía:** producción y edición del podcast                                       |                                                                                                                                                                          |                                                     |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 10      | 22-Oct       | Familia, mapaternidades y conciliación                                                | \*\*Bass (2015) <br> \*\*Herrera et al. (2018) <br> Berniell et al. (2023) <br> Daminger (2019)                                                                          |                                                     |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+|         | 26-Oct       |                                                                                       |                                                                                                                                                                          | **Entrega Etapa 1 — Podcast** (15%)                 |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+|         | 28-Oct       | **Ayudantía:** cómo construir la mini propuesta de investigación a partir del podcast |                                                                                                                                                                          |                                                     |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 11      | 29-Oct       | Violencia de género                                                                   | \*\*Ananías Soto et al. (2023) <br> Manne (2019), pp. 78–101                                                                                                             |                                                     |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+|         | 2-Nov        |                                                                                       |                                                                                                                                                                          | **Entrega Mini Propuesta**                          |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 12      | 5-Nov        | Sexualidad y reproducción                                                             | \*\*Benavente & Vergara (2006), pp. 25–50 <br> Rostagnol (2014), extractos por definir                                                                                   |                                                     |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 13      | 12-Nov       | Género y tecnología/IA                                                                | Por definir.                                                                                                                                                             | **Defensa oral — Pod 1** (últimos 45 min)           |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 14      | 19-Nov       | Cambio social y movimientos feministas en Latinoamérica.                              | \*\*Gago (2019) <br>                                                                                                                                                     | **Defensa oral — Pod 2** (últimos 45 min)           |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+|         | 25-Nov       | **Ayudantía:** preparación para prueba final                                          |                                                                                                                                                                          |                                                     |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+| 15      | 26-Nov       | Por definir en conjunto                                                               |                                                                                                                                                                          | **Defensa oral — Pod 3** (últimos 45 min)           |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
+|         | 3-Dic        |                                                                                       | Ensayo (20%)                                                                                                                                                             | **Prueba final**                                    |
++---------+--------------+---------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------+
 
 ------------------------------------------------------------------------
 
