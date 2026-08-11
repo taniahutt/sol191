@@ -10,20 +10,20 @@ format:
 ---
 
 ::: {.callout-note}
-Este documento contiene las rúbricas y logística detallada de cada componente de evaluación. Para las ponderaciones generales y el calendario del curso, ver el [programa](index.qmd).
+Este documento contiene las rúbricas de cada componente de evaluación. Para las ponderaciones generales, la descripción de cada componente y el calendario del curso, ver el [programa](index.qmd).
 :::
 
 ## Resumen
 
-| Componente | Ponderación | Formato | Momento |
-|:---|:---:|:---|:---|
-| Actividades en clase | 15% | Ficha de cierre + actividades | Clases 1–13 |
-| Prueba 1 | 20% | Ensayo reflexivo, libro abierto | Clase 8 (15-Oct, en sala) |
-| Prueba 2 | 20% | Ensayo reflexivo, libro abierto | Clase 13 (19-Nov, en sala) |
-| Proyecto Final — Etapa 1: Podcast | 15% | Audio + transcripción | Entrega: lunes 26-Oct |
-| Proyecto Final — Etapa 2: Mini propuesta de investigación | 15% | Documento, 2–3 páginas | Entrega: lunes 9-Nov |
-| Proyecto Final — Etapa 3: Revisión por pares y defensa oral | 15% | Oral presencial, en pods | Clases 12, 13 y 14 (12, 19 y 26-Nov) |
-| **Total** | **100%** | | |
+| Componente | Ponderación | Formato |
+|:---|:---:|:---|
+| Actividades en clase | 15% | Fichas de cierre (Wooclap) + actividades en clase |
+| Prueba 1 | 20% | Ensayo, libro abierto (clases 1 a 6) |
+| Prueba 2 / Prueba final | 20% | Ensayo, libro abierto (clases 7 a 15 · 3-Dic) |
+| Proyecto Final — Etapa 1: Podcast | 15% | Audio + transcripción (entrega 26-Oct) |
+| Proyecto Final — Etapa 2: Mini propuesta de investigación | 15% | Documento, 2–3 páginas (entrega 2-Nov) |
+| Proyecto Final — Etapa 3: Revisión por pares y defensa oral | 15% | Oral presencial, en pods (clases 13, 14 y 15) |
+| **Total** | **100%** | |
 
 ---
 
@@ -35,27 +35,26 @@ Las actividades en clase tienen dos componentes:
 
 **(A) Ficha de cierre (~70% del componente)**
 
-Al final de cada clase (últimos 8–10 minutos, clases 1 a 13), cada estudiante completa una ficha individual con tres preguntas fijas. Las fichas pueden responderse en papel o a través de Canvas. Se deben completar **mínimo 10 de 12 fichas** para obtener la nota máxima en este componente — las fichas no entregadas actúan como margen para ausencias justificadas o imprevistas.
+Al final de cada clase (últimos minutos, clases 1 a 12), cada estudiante completa individualmente una ficha breve con dos preguntas fijas, a través de **Wooclap**. Se debe completar un **mínimo de 9 fichas** para obtener la nota máxima en este componente.
 
-Las tres preguntas son siempre las mismas:
+Las dos preguntas son siempre las mismas:
 
 1. ¿Qué concepto de la lectura o discusión de hoy te parece más útil para entender un fenómeno de género? Da un ejemplo concreto.
 2. ¿Con qué no estás de acuerdo, o qué pregunta te quedó sin responder?
-3. ¿Cómo se conecta lo discutido hoy con algo del contexto chileno actual?
 
 **(B) Actividades grupales o individuales en clase (~30% del componente)**
 
-Actividades diseñadas para cada clase: análisis de artefactos culturales, discusiones estructuradas, termómetro de actitudes, trabajo grupal, entre otras. Las instrucciones específicas se entregan en clases.
+Actividades diseñadas para cada clase: análisis de casos, discusiones estructuradas, trabajo grupal, entre otras. Las instrucciones específicas se entregan en clases.
 
 ### Rúbrica — Ficha de cierre
 
 | Nivel | Descripción | Puntaje |
 |:---|:---|:---:|
-| **Completa** | Las tres preguntas respondidas con sustancia mínima; al menos una referencia explícita al contenido de la clase o la lectura del día | 1 pt |
-| **Parcial** | Solo 1–2 preguntas respondidas, o respuestas muy superficiales sin conexión con el contenido | 0.5 pt |
+| **Completa** | Las dos preguntas respondidas con sustancia mínima; al menos una referencia explícita al contenido de la clase o la lectura del día | 1 pt |
+| **Parcial** | Solo 1 pregunta respondida, o respuestas muy superficiales sin conexión con el contenido | 0.5 pt |
 | **No entregada** | No presentó o entregó en blanco | 0 pt |
 
-Puntaje total fichas: 10 fichas × 1 pt = 10 pts (escala interna, proporcional al 70% del componente).
+Puntaje total fichas: 9 fichas × 1 pt = 9 pts (escala interna, proporcional al 70% del componente).
 
 ### Rúbrica — Actividades en clase
 
@@ -67,32 +66,30 @@ Puntaje total fichas: 10 fichas × 1 pt = 10 pts (escala interna, proporcional a
 
 ---
 
-## 2 y 3. Pruebas 1 y 2 — 20% cada una
+## 2 y 3. Prueba 1 y Prueba 2 (Prueba final) — 20% cada una
 
 ### Descripción
 
-Ambas pruebas se realizan **en sala, con todo el material que el/la estudiante desee traer**: notas propias, lecturas impresas o en dispositivo personal, resúmenes. No se permite consultar a otras personas ni herramientas digitales en línea (internet, IA) durante la prueba.
+Evaluaciones individuales, en formato **libro abierto**: se puede traer cualquier material propio **impreso o escrito a mano** (notas, lecturas, resúmenes); no se permite el uso de dispositivos electrónicos durante la prueba.
 
 - **Duración:** 1 módulo (70 minutos)
-- **Formato:** 2 preguntas de ensayo-reflexión (50 puntos cada una)
-
-Una de las dos preguntas incluye un **caso presentado el día de la prueba** — un fragmento de noticia, dato estadístico, imagen o extracto de entrevista — que el/la estudiante no pudo ver previamente, y que debe analizar aplicando herramientas teóricas del curso. Esto hace cada prueba única e irreproducible.
+- **Formato:** Ensayo
 
 **Cobertura y fecha:**
 
-- **Prueba 1** — clase 8, **15 de octubre**. Unidades 1 a 5: conceptos fundamentales, explicaciones de la desigualdad, interacciones, instituciones, sistema multinivel e interseccionalidad.
-- **Prueba 2** — clase 13, **19 de noviembre**. Unidades 6 a 11: feminidades, masculinidades, relaciones socioafectivas, trabajo, familia, violencia de género y sexualidad.
+- **Prueba 1** — clase 7, **1 de octubre**. Contenidos de las clases 1 a 6.
+- **Prueba 2 / Prueba final** — **jueves 3 de diciembre**. Contenidos de las clases 7 a 15.
 
-### Rúbrica — Cada pregunta de ensayo (50 pts)
+### Rúbrica — Ensayo (100%)
 
-| Criterio | Excelente (100%) | Suficiente (65%) | Insuficiente (30%) | Ponderación |
+| Criterio | Excelente | Suficiente | Insuficiente | Ponderación |
 |:---|:---|:---|:---|:---:|
+| **Argumento y estructura** | Tesis clara, desarrollada con evidencia y lógica consistente de principio a fin | Argumento presente pero no desarrollado completamente, o con inconsistencias | Sin argumento claro; solo descripción o lista de ideas | 35% |
 | **Uso de conceptos del curso** | Usa 2 o más conceptos correctamente, con definición implícita clara y aplicación precisa al problema | Usa conceptos pero con imprecisiones o sin desarrollar su significado | Menciona conceptos sin aplicarlos o los usa incorrectamente | 30% |
-| **Argumento y estructura** | Tesis clara, desarrollada con evidencia y lógica consistente de principio a fin | Argumento presente pero no desarrollado completamente, o con inconsistencias | Sin argumento claro; solo descripción o lista de ideas | 30% |
 | **Conexión entre lecturas** | Conecta explícitamente 2 o más lecturas o autores/as del curso | Menciona al menos una lectura con conexión relevante al argumento | No referencia lecturas del curso, o las menciona sin relevancia | 25% |
-| **Análisis del caso presentado** | Aplica las herramientas teóricas al caso con profundidad y especificidad | Describe el caso pero el análisis teórico es superficial | No conecta el caso con el marco teórico del curso | 15% |
+| **Claridad y organización de la escritura** | Redacción clara, ordenada y fácil de seguir | Redacción comprensible pero con problemas de orden o claridad | Difícil de seguir, desorganizada | 10% |
 
-> **Nota sobre el formato libro abierto:** quien no leyó puede copiar definiciones del texto pero no puede aplicarlas al caso del día ni construir un argumento coherente. El material abierto desplaza la evaluación desde la memorización hacia la comprensión y la aplicación, que son las competencias centrales del curso.
+> **Nota sobre el formato libro abierto:** quien no leyó puede copiar definiciones del texto pero no puede aplicarlas ni construir un argumento coherente. El material abierto desplaza la evaluación desde la memorización hacia la comprensión y la aplicación, que son las competencias centrales del curso.
 
 ---
 
@@ -100,7 +97,7 @@ Una de las dos preguntas incluye un **caso presentado el día de la prueba** —
 
 El proyecto final se realiza en grupos de tres estudiantes e integra las habilidades desarrolladas durante el curso: análisis crítico de la literatura científica, construcción de argumentos sociológicos y diseño de investigación. Se desarrolla en tres etapas conectadas, de manera que el trabajo avance desde la construcción de un argumento hasta su investigación y defensa.
 
-Antes de grabar, cada grupo completa un **check-in informal de tema y bibliografía** el **28 de septiembre** (sin nota; retroalimentación de la profesora o ayudantes). La ayudantía del **23 de septiembre** está dedicada a apoyar la elección de tema.
+Antes de empezar a grabar, cada grupo completa un **check-in de tema y bibliografía** el **15 de octubre** (clase 9; sin nota, con retroalimentación de la profesora o ayudantes).
 
 ### 4a. Etapa 1 — Podcast: construcción del argumento (15%)
 
@@ -131,7 +128,7 @@ Antes de grabar, cada grupo completa un **check-in informal de tema y bibliograf
 
 ### 4b. Etapa 2 — Mini propuesta de investigación (15%)
 
-**Cuándo:** lunes **9 de noviembre**, antes del inicio de las defensas (clase 12, 12 de noviembre). La ayudantía del **4 de noviembre** está dedicada a construir la propuesta a partir del vacío identificado en el podcast.
+**Cuándo:** lunes **2 de noviembre**, antes del inicio de las defensas. La ayudantía del **28 de octubre** está dedicada a construir la propuesta a partir del vacío identificado en el podcast.
 
 **Extensión:** 2–3 páginas.
 
@@ -144,7 +141,7 @@ Antes de grabar, cada grupo completa un **check-in informal de tema y bibliograf
 5. **Estrategia** para responder la pregunta.
 6. **Principales limitaciones** del diseño.
 
-La propuesta debe mostrar claramente cómo el diseño permite responder la pregunta de investigación y distinguir entre explicaciones alternativas.
+La propuesta debe mostrar claramente cómo el diseño permite responder la pregunta de investigación.
 
 #### Rúbrica — Mini propuesta (15 pts)
 
@@ -167,9 +164,9 @@ La defensa oral evalúa la comprensión profunda del proyecto propio —podcast 
 
 #### Organización en pods
 
-Los 12 grupos se organizan en **pods de 4 grupos** (3 pods). La asignación de revisión dentro de cada pod es **circular**: el grupo A revisa a B, B revisa a C, C revisa a D, D revisa a A. Cada grupo recibe el **podcast y la mini propuesta** de un solo grupo (no solo el podcast).
+Los 12 grupos se organizan en **pods de 4 grupos** (3 pods). La asignación de revisión dentro de cada pod es **circular**: el grupo A revisa a B, B revisa a C, C revisa a D, D revisa a A. Cada grupo recibe el **podcast y la mini propuesta** de un solo grupo.
 
-Ambos documentos se comparten vía Canvas apenas se reciben (podcast: 26-Oct · mini propuesta: 9-Nov), para que cada grupo tenga tiempo de revisarlos y preparar sus preguntas antes de su sesión de defensa.
+Ambos documentos se comparten vía Canvas apenas se reciben (podcast: 26-Oct · mini propuesta: 2-Nov), para que cada grupo tenga tiempo de revisarlos y preparar sus preguntas antes de su sesión de defensa.
 
 #### Preparación de preguntas y comentarios
 
@@ -186,13 +183,13 @@ Las preguntas y comentarios se entregan por escrito a la profesora **24 horas an
 
 | Pod | Sesión de defensa | Preguntas por escrito antes de |
 |:---:|:---|:---|
-| Pod 1 | Clase 12 — jueves 12-Nov | miércoles 11-Nov |
-| Pod 2 | Clase 13 — jueves 19-Nov | miércoles 18-Nov |
-| Pod 3 | Clase 14 — jueves 26-Nov | miércoles 25-Nov |
+| Pod 1 | Clase 13 — jueves 12-Nov | miércoles 11-Nov |
+| Pod 2 | Clase 14 — jueves 19-Nov | miércoles 18-Nov |
+| Pod 3 | Clase 15 — jueves 26-Nov | miércoles 25-Nov |
 
 #### Logística: 3 sesiones de 45 minutos
 
-Las defensas usan los **últimos 45 minutos de las clases 12, 13 y 14** (un pod por sesión). Cada defensa dentro del pod dura **10 minutos**:
+Las defensas usan los **últimos 45 minutos de las clases 13, 14 y 15** (un pod por sesión). Cada defensa dentro del pod dura **10 minutos**:
 
 | Momento | Duración | Quién |
 |:---|:---:|:---|
@@ -218,13 +215,3 @@ Los roles se invierten entre sesiones, de modo que todos los grupos participan c
 |:---|:---|:---|:---|:---:|
 | **Calidad de las preguntas** | Las 4 preguntas son sustantivas, corresponden a los tipos requeridos, y evidencian revisión crítica del podcast y la propuesta | 3 preguntas sustantivas y 1 genérica; o no todos los tipos están presentes | Preguntas superficiales que podrían hacerse sin haber revisado el material | /3 |
 | **Engagement en la sesión** | Hacen seguimiento activo a las respuestas; demuestran que procesaron el contenido durante la defensa | Hacen las preguntas pero sin seguimiento ni reacción a las respuestas | Leen las preguntas de forma mecánica sin escuchar las respuestas | /2 |
-
----
-
-## Nota sobre integridad académica y uso de IA
-
-Este diseño de evaluaciones asume que el uso de herramientas de inteligencia artificial (IA) es parte del entorno actual de trabajo y escritura. La política del curso no es de prohibición, sino de **uso declarado y responsable**.
-
-El conjunto de evaluaciones está diseñado de modo que la IA no puede sustituir la comprensión: la ficha de cierre requiere saber qué ocurrió en *esa* clase; la prueba requiere analizar un caso presentado ese día; el podcast y la mini propuesta comprometen fuentes, argumentos y decisiones metodológicas que los integrantes deben defender en vivo ante preguntas que no pudieron anticipar. Cada componente verifica el anterior.
-
-Si en alguna entrega escrita se utilizó IA para revisar gramática, estilo o estructura, debe declararse brevemente al final del documento. El uso de IA para generar contenido sustantivo (argumentos, análisis, síntesis de lecturas) sin declaración constituye una falta de integridad académica y será sancionado según las políticas de la Facultad.
