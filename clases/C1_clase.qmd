@@ -1,0 +1,566 @@
+---
+title: "Sociología del Género"
+subtitle: "Clase 1: Introducción"
+author: "Tania Cabello-Hutt"
+institute: "SOL191 · Instituto de Sociología · PUC"
+lang: es
+format:
+  revealjs:
+    theme: [default, C1_clase.scss]
+    slide-number: c/t
+    progress: true
+    transition: fade
+    transition-speed: fast
+    footer: "SOL191 Sociología del Género · Clase 1"
+    width: 1280
+    height: 720
+    auto-animate: true
+---
+
+---
+
+# Sociología del Género {background-color="#1e1035" style="color:white;"}
+
+::: {style="color:#d4b8f5; font-size:1.1em; margin-top:0.5em;"}
+SOL191 · Clase 1: Introducción
+:::
+
+::: notes
+Antes de empezar, tener las instrucciones del termómetro listas para distribuir cuando llegue el momento.
+:::
+
+---
+
+## Plan de clase
+
+::: columns
+::: {.column width="50%"}
+- Empezar a conocernos
+- El curso y el programa
+- Generación de buenas prácticas
+- Dudas, preguntas, sugerencias
+:::
+::: {.column width="50%"}
+- Actividad en grupo
+- Recorrido a los estudios de sociología del género en el tiempo
+:::
+:::
+
+::: notes
+**Mejora pedagógica:** agregar tiempos aproximados a cada ítem facilita que los estudiantes se ubiquen en la sesión. Sugerencia:
+
+- Conocernos / introducciones: 15 min
+- Curso y programa: 15 min
+- Buenas prácticas: 8 min
+- Lectura de artículos: 5 min
+- Termómetro + plenario: 30 min
+- Recorrido conceptual: 25 min
+:::
+
+---
+
+## Un poco sobre mí
+
+::: columns
+::: {.column width="65%"}
+**Tania Hutt** (ella/la)
+
+Socióloga, Ph.D.
+
+- Desigualdad de género en el mercado laboral
+- Discriminación en procesos de selección y evaluación
+- Trayectorias laborales durante la transición a la maternidad
+- Estereotipos y discriminación por maternidad y maternidad futura
+
+*Sobre mi posicionalidad en el curso*
+:::
+::: {.column width="35%"}
+:::
+:::
+
+::: notes
+**Posicionalidad:** mujer, profesora e investigadora. Privilegio de educación de posgrado en el extranjero — 7 años en USA. Formación y marco muy americano que estoy trabajando activamente por ampliar. Por eso muchas lecturas en inglés, pero al menos una en español cada semana.
+
+Tengo pareja hombre e hijo de 2 años, lo que sitúa mi experiencia personal "de adentro" en varios temas de género, pero "de afuera" en muchos otros — es importante reconocer eso.
+
+Primera vez que hago este curso en pregrado. La sala de clases como lugar de aprendizaje colectivo: yo también vengo a aprender de ustedes, de su generación, de sus ideas y vivencias.
+
+Este curso es una introducción — podría hacerse de muchas maneras distintas y todas igualmente válidas. Este es solo uno de los recorridos posibles.
+:::
+
+---
+
+## Ayudantes
+
+::: columns
+::: {.column width="50%"}
+**Valentina Lagreze**
+
+Estudiante de primer año de Magíster en Sociología.
+
+Interesada en sociología del delito y desigualdad.
+:::
+::: {.column width="50%"}
+**Isidora Núñez**
+
+Estudiante de primer año de Magíster en Sociología.
+
+Interesada en sociología de género y política.
+:::
+:::
+
+---
+
+## Introducciones: 20 segundos! {background-color="#f8f4ff"}
+
+::: {style="font-size:1.15em; line-height:2;"}
+- Tu nombre
+- Opcional: pronombres
+- En qué carrera/unidad estás
+- Comparte un libro, serie, película, o podcast que recomiendas al curso
+:::
+
+::: notes
+Debería tomar unos 12 minutos.
+
+**Mejora pedagógica:** el formato de 20 segundos es excelente para romper el hielo sin que se extienda. Considerar anotar las recomendaciones en la pizarra o en un doc compartido — crea un recurso colectivo y da señal de que sus aportes importan desde el inicio.
+:::
+
+---
+
+## Hoja de ruta del curso
+
+::: columns
+::: {.column width="50%"}
+**Contenido**
+
+*(Ver programa)*
+:::
+::: {.column width="50%"}
+**Evaluaciones**
+
+- Prueba 1
+- Prueba 2
+- Proyecto grupal
+- Actividades en clases y participación
+:::
+:::
+
+::: notes
+Aquí deberías llevar 24–30 min aproximados.
+
+5 min en este slide.
+:::
+
+---
+
+## Por favor revisar el programa en detalle
+
+- **Políticas del curso** con respecto a integridad académica y justificación de inasistencias
+- **Detalle sobre las evaluaciones**
+- **Calendarización completa** *(siempre sujeta a pequeños cambios)*: revisar ayudantías y fechas de entregas
+- **Sobre las lecturas:**
+  - Mínimas marcadas con `**`
+  - Las demás son opcionales pero recomendadas
+  - Todo disponible en Canvas o link en calendario
+
+::: notes
+4 min.
+:::
+
+---
+
+## Buenas prácticas
+
+- **Preparación antes de la clase:** lectura profunda y reflexiva de los materiales
+- **Profesionalismo y compromiso**
+- **Asistencia y puntualidad**
+- **Uso de pantallas:** en silencio y guardados, a menos que sea necesario
+- **Participación en clases:** escuchar de manera atenta y contribuir con tus ideas, preguntas y reflexiones
+
+---
+
+## Acuerdo de buenas prácticas: creando un ambiente seguro {background-color="#f8f4ff"}
+
+::: {style="font-size:1.1em; line-height:2;"}
+- ¿Qué debemos o no debemos hacer para tener discusiones respetuosas y fructíferas?
+- ¿Qué te haría sentir que estamos en un ambiente seguro y cómodo para dar tu opinión?
+- ¿Cómo aseguramos que todas las personas se sientan incluidas y con una voz?
+:::
+
+::: notes
+Todos podemos opinar, independiente de nuestra postura política o ideológica, siempre manteniendo el respeto hacia las demás personas.
+
+No dejar de opinar por miedo a decir algo incorrecto. Si no estamos seguros cómo decir algo, preguntar cómo hacerlo de mejor manera. Conversar y discutir de manera abierta nos permite aprender mejor.
+
+No asumir que todos saben lo mismo que yo. Si vamos a referir a alguna idea o autores que no son parte del curso, dar una pequeña explicación del argumento al que nos referimos.
+
+6–8 min.
+
+**Mejora pedagógica:** en lugar de solo mencionar estas preguntas, co-construir el acuerdo en tiempo real (pizarra o Wooclap) y dejar un registro visible durante todo el semestre — por ejemplo, una diapositiva fija o un cartel en el aula. Eso transforma el acuerdo en contrato social vivo, no en una formalidad inicial.
+:::
+
+---
+
+## Sugerencias para la lectura de artículos científicos
+
+::: columns
+::: {.column width="50%"}
+**Estrategia de lectura en capas:**
+
+1. Leer abstract, intro y conclusión primero
+2. Identificar el argumento central
+3. Leer el cuerpo con ese argumento en mente
+4. Anotar lo que no entendiste
+5. Traer una pregunta o desacuerdo a clases
+:::
+::: {.column width="48%"}
+**No necesitas:**
+
+- Entenderlo todo perfectamente
+- Memorizar cada dato
+- Compartir la postura del autor/a
+
+**Sí necesitas:**
+
+- Saber qué argumenta el texto
+- Poder conectarlo con los demás materiales
+:::
+:::
+
+::: notes
+5 min.
+
+**Mejora pedagógica:** el slide original estaba vacío. Este contenido es fundamental para el éxito del curso — estudiantado universitario rara vez recibe instrucción explícita sobre cómo leer académicamente. Vale la pena dedicarle 5 minutos reales.
+
+Considerar mostrar un abstract real de una de las lecturas del curso y modelar en vivo cómo extraer el argumento central en 3 minutos.
+:::
+
+---
+
+# Actividad: Termómetro de la Verdad {background-color="#6B4C9A" style="color:white;"}
+
+*¿Qué tan cierto o falso crees que es esto?*
+
+::: notes
+Distribuir tarjetas y guía antes de explicar las instrucciones.
+:::
+
+---
+
+## Instrucciones
+
+::: columns
+::: {.column width="60%"}
+**Grupos de discusión de máximo 5 personas:**
+
+1. Una tarjeta a la vez — una persona la lee en voz alta
+2. Cada persona del grupo da su opinión: *¿qué tan verdad o mentira crees que es esta afirmación y por qué?*
+3. Luego de escuchar a todas las personas, se discute y busca un consenso
+4. La idea es que **no voten**, sino conversar hasta llegar a un acuerdo
+5. Registrar puntaje (1–5) y razón breve
+:::
+::: {.column width="38%"}
+**Escala:**
+
+| Puntaje | Significado |
+|---------|-------------|
+| 1 | Totalmente falso |
+| 2 | Prob. falso |
+| 3 | Depende / no sé |
+| 4 | Prob. verdadero |
+| 5 | Totalmente verdadero |
+
+::: {style="margin-top:0.8em; font-size:0.85em; color:#555;"}
+⏱ **25 min** en grupos · **15 min** plenaria
+:::
+:::
+:::
+
+::: notes
+Circular por los grupos durante la actividad. Tomar nota de qué tarjetas generan más debate — esas son las candidatas para la plenaria.
+:::
+
+---
+
+## Plenaria
+
+::: {style="font-size:1.1em; line-height:2;"}
+- Elegir la afirmación **más controversial**
+- Leer la afirmación y la decisión del grupo
+- ¿Qué fue lo que más les costó de la actividad?
+- ¿Qué cosas **ayudaron** a avanzar en la discusión?
+- ¿Qué cosas les **sorprendieron** de la discusión?
+:::
+
+::: notes
+15 min de discusión en grupo + 15 min de plenario.
+
+**Mejora pedagógica:** conectar explícitamente el plenario con el contenido conceptual que viene. Por ejemplo: "Lo que acaban de notar — que la intuición y la evidencia no siempre van de la mano — es exactamente por qué existe una sociología del género." Esto hace que la actividad no sea solo un icebreaker sino la primera lección.
+:::
+
+---
+
+# ¿Por qué una sociología del género? {background-color="#1e1035" style="color:white;"}
+
+*Un breve recorrido a la sociología del género*
+
+---
+
+## Crítica feminista a las ciencias sociales
+
+*(Acker 1992; Ferree & Hess 1987; Stacey & Thorne 1985)*
+
+::: columns
+::: {.column width="50%"}
+- Exclusión y devaluación de las mujeres
+- **Hombre-centrismo:** las mujeres solo en relación a los hombres
+- Inclusión superficial: *"agregar a las mujeres y revolver"*
+- Implica repensar marcos conceptuales básicos
+:::
+::: {.column width="50%"}
+- Ignora variaciones dentro de un mismo grupo
+- Cosifica diferencias grupales como atributos individuales
+- Género como área de estudio **periférica**
+- Género como **variable**
+:::
+:::
+
+::: notes
+Género como variable: es importante y útil, pero también hay que ir más allá para entender cómo la diferenciación de género y las desventajas de las mujeres se producen y reproducen en la sociedad, considerando la diversidad de experiencias.
+
+**PREGUNTAS:**
+Esta crítica feminista a la sociología se escribió en 1985. ¿Cuánto creen que ha cambiado y cómo? ¿Qué cosas no han cambiado?
+- En muchos sentidos, sigue siendo un área de estudio periférica (aunque con muchísimos avances)
+- Género como variable sigue ocurriendo; se ha extendido a la interseccionalidad: "incluyo estas variables y listo" sin problematizar tanto
+
+**Mejora pedagógica:** esta pregunta es excelente para activar pensamiento crítico. Darles 2 minutos para pensarlo en pares antes de abrir al grupo grande (think-pair-share) produce respuestas más ricas.
+:::
+
+---
+
+## Etapas en la investigación de género
+
+*(Acker 1992; Bokser Misses-Liwerant 2020; Ferree & Hess 1987; Risman 2018)*
+
+::: {style="font-size:0.9em; color:#666; margin-bottom:0.5em;"}
+Estudios de género se inician formalmente en los 70. Esta cronología tiene centralidad limitada a EEUU y Reino Unido.
+:::
+
+::: columns
+::: {.column width="50%"}
+1. Diferencias entre sexos
+2. Sexo como rol
+3. Género como respuesta al "sexo como rol"
+4. Comprensión social del género — *"doing gender"*
+:::
+::: {.column width="50%"}
+5. Crítica al feminismo blanco/privilegiado
+6. Siglo XXI: líneas teóricas recientes
+:::
+:::
+
+---
+
+## 1. Diferencias entre sexos
+
+::: columns
+::: {.column width="65%"}
+- Principal foco en las diferencias **biológicas** entre hombres y mujeres
+- Históricamente usadas para justificar la dominación masculina
+- **Sexo** = diferencias biológicas entre los cuerpos (visión binaria)
+- Las hormonas afectan el desarrollo del cerebro, explicando feminidad, masculinidad y diferencias de género
+:::
+::: {.column width="35%"}
+:::
+:::
+
+::: notes
+La sociología desafía esta visión mostrando que:
+
+- El sexo es interpretado y categorizado a través de procesos sociales
+- Las diferencias biológicas y físicas son en realidad pequeñas y no logran explicar las diferencias que vemos en la sociedad
+- El ambiente y contexto social afecta cómo los genes se manifiestan. Nuestra biología no es tan inmutable como se pensaba antes
+
+Como veremos en las próximas clases.
+:::
+
+---
+
+## 2. Sexo como rol *(psicología)*
+
+::: columns
+::: {.column width="65%"}
+- Desafía la idea de que feminidad y masculinidad se miden en escalas unidimensionales (polos opuestos)
+- **Bem** planteó que la feminidad y masculinidad son independientes del sexo de las personas; son dimensiones paralelas
+- Inicio del estudio de los **estereotipos de género:**
+  - *Descriptivos:* lo que algo es
+  - *Prescriptivos:* lo que algo debe ser
+:::
+::: {.column width="35%"}
+:::
+:::
+
+::: notes
+Bem creó el inventario de roles sexuales (BSRI) para medir la androginia, con ítems estereotípicamente masculinos, femeninos y neutros.
+:::
+
+---
+
+## 3. Género como respuesta a "sexo como rol"
+
+::: columns
+::: {.column width="60%"}
+**Género** = diferencias de tipo relacional y social entre hombres y mujeres
+
+**Crítica al uso de "roles"** *(Lopata & Thorne 1978):*
+
+- Ignora aspectos de poder y privilegio
+- Los mira como funciones complementarias
+- Implica estabilidad a través de espacio-tiempo-grupos
+
+**Socialización de género:** cómo las personas asignadas a la categoría "hombre" al nacer son criadas incentivando comportamientos "masculinos"
+:::
+::: {.column width="38%"}
+:::
+:::
+
+::: notes
+No hay un solo rol universal de mujer y de hombre.
+
+La socialización alimenta el mito de que el género ocurre de manera natural e inevitable.
+:::
+
+---
+
+## 4. Hacia una comprensión social del género
+
+::: columns
+::: {.column width="50%"}
+**Teorías de "doing gender"**
+
+El género es algo que **"hacemos"**, no que **"somos"** *(West & Zimmerman 1987)*
+
+Tenemos la presión de "actuar" nuestro género como se espera que lo hagamos.
+
+Conectado con la **teoría de Butler** de la performatividad.
+:::
+::: {.column width="50%"}
+**Teorías estructurales**
+
+Nacen de las primeras explicaciones estructurales a las diferencias de género en el trabajo *(Kanter 1977)*
+
+La desigualdad no se explica por diferencias de personalidad sino por las oportunidades disponibles, el poder masculino y la segregación de grupos.
+
+:::
+:::
+
+::: notes
+Gran limitación del doing gender: hoy hablamos de "hacer géneros" (plural), ya que hay mucha variación entre tipos de masculinidad, feminidad y no binariedades.
+
+Teorías estructurales — ejemplos de Kanter: si las mujeres tomaban roles de poder y los hombres eran minoría, ¿se revertirían las diferencias? La evidencia mostró que no — los hombres en minoría no eran marginalizados, sino aventajados (glass escalators — especialmente hombres blancos).
+
+No podemos ignorar el género internalizado a nivel individual ni las expectativas que tenemos que cumplir en las interacciones.
+:::
+
+---
+
+## 5. Crítica al feminismo blanco/privilegiado
+
+::: {style="font-size:1.1em; font-style:italic; color:#6B4C9A; border-left: 4px solid #6B4C9A; padding-left:1em; margin-bottom:1em;"}
+"La priorización del género sobre otras identidades y formas de opresión sólo reproducía jerarquías de poder racistas, heterosexistas e imperialistas."
+
+— Bokser Misses-Liwerant (2020)
+:::
+
+::: notes
+**Preguntas para discutir:**
+- ¿Cómo la sociología ha reaccionado a esta crítica? ¿Qué cambios observamos?
+- ¿Cómo creen que se ha dado este debate en Latinoamérica?
+:::
+
+---
+
+## 6. Siglo XXI
+
+::: columns
+::: {.column width="50%"}
+**Expectativas de estatus**
+
+El género enmarca lo que vemos, cómo categorizamos a las personas de manera inconsciente y cómo reaccionamos a ellas.
+
+**Lógicas culturales organizacionales**
+
+Las estructuras organizacionales no son neutras. El género está inscrito en el diseño de las organizaciones, la definición del trabajo y la jerarquía.
+:::
+::: {.column width="50%"}
+**Teorías queer de género**
+
+Desafía las ideas binarias. Trae la sexualidad al centro — la heteronormatividad está mezclada con la desigualdad de género.
+
+**Estudios trans**
+
+Han desafiado la consistencia asumida entre sexo asignado al nacer, género y sexualidad.
+:::
+:::
+
+::: notes
+- Expectativas de estatus: los estereotipos de género como motor que reproduce desigualdades.
+- Estructuras organizacionales: la jerarquía está diseñada para aventajar a quienes no tienen responsabilidades de cuidado.
+- La teoría queer enfatiza múltiples identidades y cuestiona cómo se crean y sostienen esas categorías.
+:::
+
+---
+
+## ¿Qué es el género? {background-color="#f8f4ff"}
+
+::: {style="font-size:1.3em; text-align:center; color:#6B4C9A; margin-top:1em;"}
+Responde en Wooclap
+:::
+
+::: notes
+**Mejora pedagógica:** para maximizar Wooclap, antes de mostrar las respuestas, invitar a leer algunas en voz alta y agruparlas en la pizarra según dimensiones (biológico/social, individual/estructural). Eso ya introduce el contenido del próximo slide de manera inductiva, sin simplemente decírselos.
+:::
+
+---
+
+## Consenso *(siempre en construcción)*
+
+::: {style="border-left: 5px solid #6B4C9A; background:#EDE9FE; padding:1em 1.2em; border-radius:4px; font-size:1.05em; line-height:1.7;"}
+El género es un **sistema de estratificación** que va más allá de las características individuales y que varía a lo largo de diferentes ejes de desigualdad: sexualidad, raza/etnia, clase social, nacionalidad, entre otras.
+
+El género es un **sistema social** que restringe y motiva patrones de comportamiento y genera desigualdades. Es sobre la distribución de **poder, propiedad y prestigio.**
+:::
+
+::: notes
+**Preguntas:**
+- ¿Qué opinan sobre este consenso? ¿Les parece razonable? ¿Falta o sobra algo?
+- ¿Cómo se ajusta o no este consenso a las expectativas que tenían con respecto a lo que es el género?
+
+**Mejora pedagógica:** comparar las respuestas de Wooclap con este consenso disciplinar. ¿En qué coinciden? ¿Qué enfatizaron diferente? Eso cierra el loop de la actividad de manera reflexiva.
+:::
+
+---
+
+## Próxima semana
+
+::: columns
+::: {.column width="55%"}
+**Tema:**
+
+Conceptos fundamentales: binarismo, esencialismo y patriarcado
+
+**Lecturas mínimas `**`:**
+
+- Connell — "The Question of Gender" pp. 9–18
+- Human Rights Watch. 2018. *Acabar con la alteración intersexual.*
+- Compton & Bridges (2013). "On Queering Parenting and Gender-Neutrality."
+:::
+::: {.column width="42%"}
+::: {style="background:#EDE9FE; border-radius:6px; padding:1em; font-size:0.95em;"}
+**Pregunta guía para la lectura:**
+
+¿Cómo se organiza el género como sistema a nivel social? ¿Es lo mismo en todas las sociedades?
+:::
+:::
+:::

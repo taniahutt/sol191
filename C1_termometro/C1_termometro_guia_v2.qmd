@@ -32,7 +32,7 @@ creen, escuchar perspectivas distintas y notar cuántos supuestos cargamos sobre
   \item Escuchen todas las opiniones antes de debatir.
   \item Conversen hasta llegar a un \textbf{consenso grupal}. No voten: dialoguen.
   \item Registren el puntaje acordado (1--5) y una razón breve en el cuadro de abajo.
-  \item Pasen a la siguiente tarjeta cuando hayan llegado a acuerdo.
+  \item Pasen a la siguiente tarjeta cuando hayan llegado a un acuerdo.
 \end{enumerate}
 
 **Escala:** 1 = Totalmente falso · 2 = Prob. falso · 3 = Depende / No sé · 4 = Prob. verdadero · 5 = Totalmente verdadero
@@ -41,25 +41,37 @@ creen, escuchar perspectivas distintas y notar cuántos supuestos cargamos sobre
 
 ## Integrantes del grupo *(máximo 5)* \hfill N.° de grupo: \underline{\hspace{2cm}}
 
-| | Nombre | | Nombre |
-|--|--|--|--|
-| **1.** | \underline{\hspace{5.5cm}} | **4.** | \underline{\hspace{5.5cm}} |
-| **2.** | \underline{\hspace{5.5cm}} | **5.** | \underline{\hspace{5.5cm}} |
-| **3.** | \underline{\hspace{5.5cm}} | | |
+1. \underline{\hspace{12cm}}
 
----
+2. \underline{\hspace{12cm}}
+
+3. \underline{\hspace{12cm}}
+
+4. \underline{\hspace{12cm}}
+
+5. \underline{\hspace{12cm}}
+
+
 
 ## Registro de decisiones
 
-| # | Tarjeta (resumen breve) | Puntaje (1--5) | Razón principal del grupo |
-|---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+\renewcommand{\arraystretch}{1}
+\begin{tabular}{|c|p{4.2cm}|c|p{6.5cm}|}
+\hline
+\textbf{\#} & \textbf{Tarjeta (resumen breve)} & \textbf{Puntaje (1--5)} & \textbf{Razón principal del grupo} \\
+\hline
+1 & & & \\[2.5cm]
+\hline
+2 & & & \\[2.5cm]
+\hline
+3 & & & \\[2.5cm]
+\hline
+4 & & & \\[2.5cm]
+\hline
+5 & & & \\[2.5cm]
+\hline
+\end{tabular}
 
----
 
 \begin{mdframed}[backgroundcolor=amber,linecolor=orange,linewidth=1.5pt]
 \textbf{Plenaria (10 min)} — Cada grupo presenta: (a) la tarjeta donde el debate fue más

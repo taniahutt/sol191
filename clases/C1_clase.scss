@@ -1,0 +1,110 @@
+/*-- scss:defaults --*/
+$body-bg: #ffffff;
+$body-color: #1a1a2e;
+$link-color: #6B4C9A;
+$presentation-heading-color: #6B4C9A;
+$presentation-heading-font: "Cambria", serif;
+$font-family-base: "Calibri", "Arial", sans-serif;
+$presentation-h1-font-size: 2.0em;
+$presentation-h2-font-size: 1.4em;
+$presentation-h3-font-size: 1.1em;
+$code-color: #6B4C9A;
+
+/*-- scss:rules --*/
+
+/* Title slide */
+.reveal .slide-background.title-slide {
+  background: linear-gradient(135deg, #1e1035 0%, #3b1f6b 60%, #6B4C9A 100%);
+}
+
+.title-slide .quarto-title-block {
+  color: white;
+}
+
+.title-slide h1.title {
+  color: #ffffff;
+  font-size: 2.2em;
+  font-weight: bold;
+}
+
+.title-slide .subtitle {
+  color: #d4b8f5;
+  font-size: 1.1em;
+}
+
+.title-slide .author, .title-slide .institute, .title-slide .date {
+  color: #c4a8e8;
+  font-size: 0.85em;
+}
+
+/* Section title slides */
+.reveal .slide-menu-button {
+  color: #6B4C9A;
+}
+
+/* Colored callout boxes */
+.cuadro-datos {
+  background: #EDE9FE;
+  border-left: 5px solid #6B4C9A;
+  padding: 0.8em 1.2em;
+  border-radius: 4px;
+  margin: 0.6em 0;
+}
+
+.cuadro-actividad {
+  background: #FEF9C3;
+  border-left: 5px solid #D97706;
+  padding: 0.8em 1.2em;
+  border-radius: 4px;
+  margin: 0.6em 0;
+}
+
+/* Big stat numbers */
+.stat-grande {
+  font-size: 3em;
+  font-weight: bold;
+  color: #6B4C9A;
+  line-height: 1;
+}
+
+.stat-label {
+  font-size: 0.85em;
+  color: #555;
+  margin-top: 0.2em;
+}
+
+/* Highlight text */
+.hl {
+  color: #6B4C9A;
+  font-weight: bold;
+}
+
+.hl-amber {
+  color: #D97706;
+  font-weight: bold;
+}
+
+/* Section divider slides */
+.slide-seccion {
+  background: #6B4C9A !important;
+  color: white !important;
+}
+
+/* Footer */
+.reveal .slide-footer {
+  color: #999;
+  font-size: 0.7em;
+}
+
+/* Fix list spacing */
+.reveal ul li, .reveal ol li {
+  margin-bottom: 0.3em;
+}
+
+/* Columns helper */
+.col-icon {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.7em;
+  margin-bottom: 0.5em;
+}

@@ -7,17 +7,17 @@ format:
     geometry: [top=1.2cm, bottom=1.2cm, left=1.2cm, right=1.2cm]
     fontsize: 11pt
     lang: es
-    header-includes: |
-      \usepackage{xcolor,tcolorbox,mdframed}
-      \tcbuselibrary{skins}
-      \definecolor{group1}{HTML}{7c3aed}
-      \definecolor{group2}{HTML}{1d4ed8}
-      \definecolor{group3}{HTML}{0f766e}
-      \definecolor{group4}{HTML}{b91c1c}
-      \definecolor{group5}{HTML}{b45309}
-      \definecolor{group6}{HTML}{0369a1}
-      \definecolor{group7}{HTML}{9d174d}
-      \definecolor{group8}{HTML}{374151}
+    header-includes:
+      - \usepackage{xcolor}
+      - \usepackage{tcolorbox}
+      - \definecolor{group1}{HTML}{7c3aed}
+      - \definecolor{group2}{HTML}{1d4ed8}
+      - \definecolor{group3}{HTML}{0f766e}
+      - \definecolor{group4}{HTML}{b91c1c}
+      - \definecolor{group5}{HTML}{b45309}
+      - \definecolor{group6}{HTML}{0369a1}
+      - \definecolor{group7}{HTML}{9d174d}
+      - \definecolor{group8}{HTML}{374151}
 ---
 
 \newpage
@@ -26,50 +26,35 @@ format:
 
 \begin{tcolorbox}[colback=group1!8, colframe=group1, title={\small\bfseries GRUPO 1 \hfill Tarjeta 1}, coltitle=white]
 \centering\large\bfseries “El sexo biológico es binario.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group1!8, colframe=group1, title={\small\bfseries GRUPO 1 \hfill Tarjeta 2}, coltitle=white]
 \centering\large\bfseries “Hay menos mujeres en carreras STEM porque los hombres tienen más facilidades para las matemáticas que las mujeres.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group1!8, colframe=group1, title={\small\bfseries GRUPO 1 \hfill Tarjeta 3}, coltitle=white]
 \centering\large\bfseries “No hay diferencias en el tipo de vínculo de apego que madres y padres pueden tener con sus bebés.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group1!8, colframe=group1, title={\small\bfseries GRUPO 1 \hfill Tarjeta 4}, coltitle=white]
 \centering\large\bfseries “Quienes viven relaciones fuera de la heteronorma tienen más probabilidades de construir una relación sana que quienes viven relaciones más tradicionales.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group1!8, colframe=group1, title={\small\bfseries GRUPO 1 \hfill Tarjeta 5}, coltitle=white]
 \centering\large\bfseries “Los algoritmos de inteligencia artificial tienden a reproducir y amplificar los sesgos de género que existen en la sociedad.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
@@ -80,50 +65,35 @@ Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6c
 
 \begin{tcolorbox}[colback=group2!8, colframe=group2, title={\small\bfseries GRUPO 2 \hfill Tarjeta 1}, coltitle=white]
 \centering\large\bfseries “La caída en la tasa de natalidad en Chile se explica principalmente porque las mujeres hoy priorizan su desarrollo profesional sobre la maternidad.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group2!8, colframe=group2, title={\small\bfseries GRUPO 2 \hfill Tarjeta 2}, coltitle=white]
 \centering\large\bfseries “El uso de lenguaje inclusivo (‘todes’, ‘Latinx’) es una herramienta efectiva para combatir la discriminación de género.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group2!8, colframe=group2, title={\small\bfseries GRUPO 2 \hfill Tarjeta 3}, coltitle=white]
 \centering\large\bfseries “Las mujeres son naturalmente más empáticas y sensibles.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group2!8, colframe=group2, title={\small\bfseries GRUPO 2 \hfill Tarjeta 4}, coltitle=white]
 \centering\large\bfseries “Una ley de posnatal obligatorio tanto para madres como para padres resolvería las desigualdades que genera la maternidad en el mercado laboral.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group2!8, colframe=group2, title={\small\bfseries GRUPO 2 \hfill Tarjeta 5}, coltitle=white]
 \centering\large\bfseries “Los hombres tienden a tener un liderazgo natural que las mujeres no.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
@@ -134,50 +104,35 @@ Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6c
 
 \begin{tcolorbox}[colback=group3!8, colframe=group3, title={\small\bfseries GRUPO 3 \hfill Tarjeta 1}, coltitle=white]
 \centering\large\bfseries “La violencia doméstica afecta mayoritariamente a las mujeres.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group3!8, colframe=group3, title={\small\bfseries GRUPO 3 \hfill Tarjeta 2}, coltitle=white]
 \centering\large\bfseries “Las redes sociales han sido más beneficiosas que perjudiciales para los movimientos feministas y LGBTQ+.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group3!8, colframe=group3, title={\small\bfseries GRUPO 3 \hfill Tarjeta 3}, coltitle=white]
 \centering\large\bfseries “Hoy es más difícil ser hombre joven que hace treinta años.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group3!8, colframe=group3, title={\small\bfseries GRUPO 3 \hfill Tarjeta 4}, coltitle=white]
 \centering\large\bfseries “Los hombres mueren antes que las mujeres en promedio principalmente por razones sociales y de género, no biológicas.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group3!8, colframe=group3, title={\small\bfseries GRUPO 3 \hfill Tarjeta 5}, coltitle=white]
 \centering\large\bfseries “Los hombres tienen un líbido mayor que las mujeres.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
@@ -188,50 +143,35 @@ Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6c
 
 \begin{tcolorbox}[colback=group4!8, colframe=group4, title={\small\bfseries GRUPO 4 \hfill Tarjeta 1}, coltitle=white]
 \centering\large\bfseries “Hay posiciones en el mercado laboral para las cuales ser mujer constituye una ventaja.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group4!8, colframe=group4, title={\small\bfseries GRUPO 4 \hfill Tarjeta 2}, coltitle=white]
 \centering\large\bfseries “Es más grave que una madre abandone a su hijo a que un padre abandone a su hijo.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group4!8, colframe=group4, title={\small\bfseries GRUPO 4 \hfill Tarjeta 3}, coltitle=white]
 \centering\large\bfseries “La moda y la cosmética son herramientas de opresión de género que perpetúan estereotipos y normas de belleza irreales.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group4!8, colframe=group4, title={\small\bfseries GRUPO 4 \hfill Tarjeta 4}, coltitle=white]
 \centering\large\bfseries “El teletrabajo reduce las desigualdades de género en el trabajo.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group4!8, colframe=group4, title={\small\bfseries GRUPO 4 \hfill Tarjeta 5}, coltitle=white]
 \centering\large\bfseries “Los hombres tienen más dificultad que las mujeres para pedir ayuda psicológica por razones de género, y eso contribuye a sus mayores tasas de suicidio.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
@@ -242,50 +182,35 @@ Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6c
 
 \begin{tcolorbox}[colback=group5!8, colframe=group5, title={\small\bfseries GRUPO 5 \hfill Tarjeta 1}, coltitle=white]
 \centering\large\bfseries “Hoy existe tanta presión social sobre la imagen corporal masculina como sobre la femenina.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group5!8, colframe=group5, title={\small\bfseries GRUPO 5 \hfill Tarjeta 2}, coltitle=white]
 \centering\large\bfseries “El género está determinado por nuestra biología.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group5!8, colframe=group5, title={\small\bfseries GRUPO 5 \hfill Tarjeta 3}, coltitle=white]
 \centering\large\bfseries “Si hombres y mujeres estudiaran las mismas carreras y tuvieran las mismas ocupaciones, se terminaría la brecha salarial de género.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group5!8, colframe=group5, title={\small\bfseries GRUPO 5 \hfill Tarjeta 4}, coltitle=white]
 \centering\large\bfseries “Hay conversaciones que es más recomendable que los jóvenes tengan con sus padres y otras con sus madres.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group5!8, colframe=group5, title={\small\bfseries GRUPO 5 \hfill Tarjeta 5}, coltitle=white]
 \centering\large\bfseries “La igualdad de género ya se ha logrado en la sociedad contemporánea y no se necesitan más políticas ni acciones afirmativas para promoverla.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
@@ -296,50 +221,35 @@ Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6c
 
 \begin{tcolorbox}[colback=group6!8, colframe=group6, title={\small\bfseries GRUPO 6 \hfill Tarjeta 1}, coltitle=white]
 \centering\large\bfseries “Los estándares de belleza que circulan en redes sociales (filtros, retoque digital) afectan principalmente a las mujeres, no a los hombres.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group6!8, colframe=group6, title={\small\bfseries GRUPO 6 \hfill Tarjeta 2}, coltitle=white]
 \centering\large\bfseries “El Estado debería incentivar económicamente a las familias para que tengan más hijos.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group6!8, colframe=group6, title={\small\bfseries GRUPO 6 \hfill Tarjeta 3}, coltitle=white]
 \centering\large\bfseries “Las apps de citas (Tinder, Bumble, etc.) han cambiado la forma en que se construyen los roles de género en las relaciones de pareja.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group6!8, colframe=group6, title={\small\bfseries GRUPO 6 \hfill Tarjeta 4}, coltitle=white]
 \centering\large\bfseries “Hay disciplinas para las que las mujeres son naturalmente mejores que los hombres y viceversa.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group6!8, colframe=group6, title={\small\bfseries GRUPO 6 \hfill Tarjeta 5}, coltitle=white]
 \centering\large\bfseries “Las cuotas de género en cargos directivos y políticos son injustas y perpetúan la discriminación positiva en detrimento de los hombres.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
@@ -350,50 +260,35 @@ Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6c
 
 \begin{tcolorbox}[colback=group7!8, colframe=group7, title={\small\bfseries GRUPO 7 \hfill Tarjeta 1}, coltitle=white]
 \centering\large\bfseries “Las instituciones (sus lógicas, procesos, roles) son indiferentes al género de las personas.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group7!8, colframe=group7, title={\small\bfseries GRUPO 7 \hfill Tarjeta 2}, coltitle=white]
 \centering\large\bfseries “La pornografía es inherentemente sexista y perpetúa la objetificación y cosificación de las mujeres.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group7!8, colframe=group7, title={\small\bfseries GRUPO 7 \hfill Tarjeta 3}, coltitle=white]
 \centering\large\bfseries “Los videojuegos siguen siendo un espacio particularmente hostil para las mujeres y las personas LGBTQ+.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group7!8, colframe=group7, title={\small\bfseries GRUPO 7 \hfill Tarjeta 4}, coltitle=white]
 \centering\large\bfseries “El movimiento \#MeToo generó consecuencias desproporcionadas que afectaron a hombres que no habían cometido ningún abuso.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group7!8, colframe=group7, title={\small\bfseries GRUPO 7 \hfill Tarjeta 5}, coltitle=white]
 \centering\large\bfseries “Las identidades de género no binarias son simplemente una moda pasajera y no reflejan una realidad social significativa.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
@@ -404,48 +299,33 @@ Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6c
 
 \begin{tcolorbox}[colback=group8!8, colframe=group8, title={\small\bfseries GRUPO 8 \hfill Tarjeta 1}, coltitle=white]
 \centering\large\bfseries “La educación diferenciada por género es beneficiosa para promover el rendimiento académico de ambos sexos.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group8!8, colframe=group8, title={\small\bfseries GRUPO 8 \hfill Tarjeta 2}, coltitle=white]
 \centering\large\bfseries “Los estudios y la discusión respecto al género son algo que solo concierne a las mujeres.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group8!8, colframe=group8, title={\small\bfseries GRUPO 8 \hfill Tarjeta 3}, coltitle=white]
 \centering\large\bfseries “La masculinidad tóxica es un concepto exagerado y no representa a la mayoría de los hombres.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group8!8, colframe=group8, title={\small\bfseries GRUPO 8 \hfill Tarjeta 4}, coltitle=white]
 \centering\large\bfseries “El contenido de influencers y coaches de citas en redes sociales (tipo ‘redpill’ o ‘sigma male’) contribuye a reproducir roles de género tradicionales entre los jóvenes.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
 
 \vspace{0.5em}
 
 \begin{tcolorbox}[colback=group8!8, colframe=group8, title={\small\bfseries GRUPO 8 \hfill Tarjeta 5}, coltitle=white]
 \centering\large\bfseries “El trabajo de cuidado no remunerado (crianza, labores domésticas) debería contabilizarse en el PIB y en el sistema previsional.”
-\tcblower
-\small\itshape ¿Qué tan verdad o mentira es esta afirmación?\\
-\normalfont 1 (Totalmente falso) \dotfill 3 (Depende) \dotfill 5 (Totalmente verdadero)\\
-Decisión (1--5): \underline{\hspace{1.5cm}} \quad Razón: \underline{\hspace{6cm}}
+
 \end{tcolorbox}
