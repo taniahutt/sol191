@@ -1,0 +1,580 @@
+---
+title: "Sociología del Género"
+subtitle: "Clase 4: Interacciones"
+author: "Tania Cabello-Hutt"
+institute: "SOL191 · Instituto de Sociología · PUC"
+lang: es
+format:
+  revealjs:
+    theme: [default, C1_clase.scss]
+    slide-number: c/t
+    progress: true
+    transition: fade
+    transition-speed: fast
+    footer: "SOL191 Sociología del Género · Clase 4"
+    width: 1280
+    height: 720
+    auto-animate: true
+---
+
+<!--
+CAMBIOS RESPECTO A C4_clase.qmd — copia generada a partir de la revisión pedagógica del 2026-09-02
+(ver Revision_C4_Interacciones.md en esta misma carpeta para el detalle completo)
+
+1. Se movieron las dos slides iniciales sobre "preguntas de investigación" y "dónde buscar
+   información" al final de la clase, condensadas en un solo recordatorio breve (no calzaban
+   con el tema de interacciones y quedaban antes de "Objetivos de hoy").
+2. Se corrigió la cita "Wade & Ferree 2023" a "Wade & Ferree 2022" (3ª edición, W.W. Norton).
+3. Se agregó una slide breve de vocabulario (sexo asignado al nacer, identidad de género,
+   cisgénero, trans, no binario) antes de "Hacer género no binario".
+4. La slide en blanco de "ejemplos de hacer género" ahora sugiere una nube de palabras en vivo
+   (Mentimeter/Slido) en vez de quedar muda.
+5. Se agregó el debate "doing vs. undoing gender" (Deutsch 2007) con actividad de fishbowl, y
+   una nota breve distinguiendo "doing gender" de la performatividad de Butler.
+6. Se actualizó la discusión de "Miss Representation" (2011) con el hallazgo de Eagly et al.
+   (2020) sobre cambio en estereotipos, en formato "predicción antes de revelar", y se agregó
+   una referencia a la literatura reciente sobre manosphere/incels como ejemplo contemporáneo.
+7. Se agregó Rudman, Moss-Racusin, Phelan & Nauts (2012) junto a Rudman & Glick (1999).
+8. Se agregó una nota puente hacia Risman (gender as social structure) antes de expectation
+   states theory, conectando con la Clase 6 (Multinivel).
+9. Se agregó una referencia breve a Westbrook & Schilt (2014) como extensión directa de la
+   lectura de Schilt, más una pregunta comparada con el marco legal chileno (Ley 21.120).
+10. La actividad de Schilt ahora sugiere un tablero compartido (Padlet/Jamboard/Miro) en vez de
+    solo trabajo en grupo verbal, con la pregunta comparada con Chile como bonus.
+11. La slide de las cuatro imágenes sueltas (C4_09-12) ahora tiene una pregunta guía explícita
+    ("spot the doing-gender moment").
+12. Se corrigió/marcó el link de Spotify y el video sobre hombres para que quede claro qué
+    contienen (el video u0loTWc9Y14 no se pudo verificar su título — revisar y completar).
+13. Se agregó una slide de cierre con reflexión anónima de un minuto.
+14. Se agregó una slide de "lecturas complementarias" con la bibliografía nueva sugerida.
+
+Todas las imágenes referenciadas (C4_01.jpg ... C4_15.png) son las mismas del deck original,
+en la misma carpeta — no se agregaron imágenes nuevas.
+-->
+
+---
+
+# Interacciones {background-image="C4_01.jpg" background-size="cover" background-opacity="0.35" style="color:white;"}
+
+::: {style="color:#d4b8f5; font-size:1.1em; margin-top:0.5em;"}
+SOL191 · Clase 4: Interacciones
+:::
+
+---
+
+## Objetivos de hoy
+
+::: {style="font-size:0.95em; line-height:1.8;"}
+1. Reflexionar sobre el rol que las normas y expectativas de género cumplen en la interacción social
+2. Comprender teorías de "hacer género" y expectativa de status
+3. Aplicar estas ideas a la lectura asignada sobre las experiencias de personas trans en el trabajo (Schilt)
+:::
+
+---
+
+## Normas y expectativas de género
+
+::: {style="font-size:0.82em;"}
+::: columns
+::: {.column width="42%"}
+![](C4_02.jpg){fig-align="center"}
+
+![](C4_03.png){fig-align="center"}
+:::
+::: {.column width="55%"}
+El género lo "hacemos" en la medida que obedecemos o rompemos reglas y expectativas de género. Estas expectativas funcionan como "reglas del juego" a las que los individuos rinden cuentas.
+
+Es la manera en que el género como constructo social se refuerza en la interacción social.
+
+Cuando los individuos interactúan, se encuentran expectativas diferenciadas por género sobre su comportamiento, arraigadas en creencias estereotipadas.
+
+En la medida en que las reglas se sigan más o menos, el género se produce en interacción — con variación contextual, cultural y temporal.
+:::
+:::
+:::
+
+::: notes
+Bush y príncipe Abdullah de Arabia Saudita.
+:::
+
+---
+
+## Teorías de "hacer género"
+
+::: {style="font-size:0.88em;"}
+::: {.cuadro-datos}
+"Sostenemos que el 'hacer género' es realizado por mujeres y hombres cuya competencia como miembros de la sociedad es rehén de su producción."
+:::
+
+El género es algo que uno **hace**, más que algo que uno **es**.
+
+::: {.cuadro-datos}
+"Hacer género significa crear diferencias entre niños y niñas y hombres y mujeres, diferencias que no son naturales, esenciales o biológicas. Una vez que las diferencias han sido construidas, se utilizan para reforzar la 'esencialidad' de género."
+
+— West y Zimmerman
+:::
+:::
+
+---
+
+## Ejemplos de "hacer género" {background-color="#f8f4ff"}
+
+::: {.cuadro-actividad}
+**Actividad rápida (5 min): nube de palabras en vivo**
+
+¿Qué ejemplos se les ocurren de cómo "hacemos género" en la vida cotidiana?
+
+Escriban 1-2 ejemplos anónimos desde el celular en Wooclap.
+:::
+
+::: notes
+
+:::
+
+---
+
+## ¿Por qué "hacemos género"? (Wade & Ferree 2022)
+
+::: {style="font-size:0.8em;"}
+- **Lo hemos "sobreaprendido":** es un hábito, hemos aprendido a movernos y expresarnos de una manera y lo seguimos haciendo de manera inconsciente.
+- **Por placer:** hacer el género puede hacernos sentir bien; "performar bien" puede ser visto como una habilidad, y hacerlo de manera exitosa o elaborada puede ser gratificante.
+- **Para otras personas:** porque nos sentimos observados y que debemos hacer género. Depende de la audiencia que tenemos.
+- **Para evitar la fiscalización de género:** tenemos la responsabilidad de explicar y justificar nuestras decisiones cuando no seguimos las normas. Quienes no siguen las normas de feminidad, masculinidad o heteronormatividad pueden ser castigados/as ("puta", "maricón", "niñita", "mandona").
+- Las normas se rompen todo el tiempo, ya sea de manera incidental o intencional.
+:::
+
+::: notes
+Hay veces en que las personas justifican romper las normas y eso "compensa" por el comportamiento, y veces en que es intencional y un acto de resistencia.
+
+Nota de cita: la edición vigente de Wade & Ferree, *Gender: Ideas, Interactions, Institutions*,
+es la 3ª (W.W. Norton, 2022) — verificar si el curso usa esa edición u otra antes de citar en
+lecturas.
+:::
+
+---
+
+## Hacer género no binario {background-color="#f8f4ff"}
+
+::: {style="font-size:0.85em;"}
+::: columns
+::: {.column width="55%"}
+Es un desafío ser visto como no binario en un mundo de género binario, y muchas veces implica mezclar lo femenino con lo masculino.
+
+::: {.cuadro-datos}
+"Quiero que las personas me miren y no piensen que soy hombre o mujer. Si están confundidos, ese es el punto."
+
+— Kline, en Wade & Ferree (2022)
+:::
+
+Es una manera de rechazar el binario, pero que depende del binario.
+:::
+::: {.column width="42%" .fragment}
+![](C4_04.png){fig-align="center" width="95%"}
+:::
+:::
+:::
+
+::: notes
+No binario como una forma de rechazar el binario, pero que depende del binario también, porque no hay comportamientos o apariencias que digan "ni masculino ni femenino".
+:::
+
+
+---
+
+## Diferencias entre socialización y "hacer género"
+
+::: {style="font-size:0.88em;"}
+- Ambos enfoques reconocen que los individuos luchan con cuestiones de género en las que hay creencias y expectativas diferenciadas.
+- Difieren en si estas expectativas se convierten en algo **intrínseco** al individuo (una parte de su identidad) o son una **característica de interacciones** continuas.
+- "Doing Gender" también reconoce que no todo el mundo encuentra las mismas expectativas — puede haber distintas maneras de "hacer" género en su intersección con otras identidades.
+:::
+
+---
+
+## ¿Siempre estamos "haciendo" género? El debate con Deutsch (2007)
+
+::: {style="font-size:0.78em;"}
+Francine Deutsch propone un contrapunto influyente a West y Zimmerman: si *todo* comportamiento cuenta como "hacer género", la teoría explica cualquier cosa y pierde poder analítico. 
+
+- Sugiere estudiar las condiciones bajo las cuales el género se vuelve **menos** relevante en la interacción — se "deshace" (*undoing gender*) — por ejemplo, parejas que reparten tareas domésticas sin género-tipificarlas, o contextos donde el género deja de ser la categoría organizadora principal.
+:::
+
+::: notes
+**Nota aparte:** "hacer género" (West y Zimmerman) no es lo mismo que la **performatividad de género** de Judith Butler — comparten la idea de que el género se construye en el hacer, pero West y Zimmerman parten de personas que rinden cuentas ante otras en la interacción (enfoque interaccionista/etnometodológico), mientras que Butler cuestiona que exista un sujeto previo al acto (enfoque post-estructuralista).
+:::
+
+---
+
+## Discusión: ¿es posible deshacer el género? {background-color="#f8f4ff"}
+
+::: {.cuadro-actividad}
+**5 min.** Dos bandos: uno defiende que el género siempre se está haciendo; el otro defiende que hay condiciones reales donde el género se "deshace" y pierde relevancia (Deutsch 2007).
+
+:::
+
+::: notes
+Referencia: Deutsch, F. M. (2007). Undoing Gender. Gender & Society, 21(1), 106-127.
+https://journals.sagepub.com/doi/10.1177/0891243206293577
+
+Hay un módulo de enseñanza ya armado sobre este debate, útil como apoyo para preparar la
+actividad: "Doing and Undoing Gender" (teaching module) —
+https://gendersociety.wordpress.com/wp-content/uploads/2021/10/yang-yuchen-doing-and-undoing-gender-teaching-module-revised.pdf
+:::
+
+---
+
+## Socialización en los medios
+
+::: {style="font-size:0.9em;"}
+**Miss Representation — tráiler extendido:** <https://www.youtube.com/watch?v=keVhWR9esmA> (documental de 2011, sobre la representación de mujeres en medios y política en EE.UU.)
+
+::: {.cuadro-actividad}
+**Predicción antes de revelar:**
+
+1. Antes de ver el video: ¿creen que los estereotipos de género en medios/opinión pública se han vuelto más fuertes, más débiles, o distintos en los últimos 15 años?
+2. Vean el tráiler y discutan: ¿están de acuerdo o en desacuerdo con lo presentado? ¿cuánto ha cambiado desde 2011?
+
+:::
+:::
+
+::: notes
+3. Revelar el dato: Eagly et al. (2020) encuentran que bajó la creencia de que los hombres son "más competentes", pero **subió** la creencia de que las mujeres son "más comunales/cálidas" en el mismo período — ¿por qué creen que pasó esto?
+
+Referencia: Eagly, A. H., Nater, C., Miller, D. I., Kaufmann, M., & Sczesny, S. (2020). Gender
+stereotypes have changed: A cross-temporal meta-analysis of U.S. public opinion polls from 1946
+to 2018. American Psychologist. PDF: https://www.apa.org/pubs/journals/releases/amp-amp0000494.pdf
+
+Ejemplo contemporáneo opcional para conectar con la "fiscalización de género" de la slide
+anterior: literatura reciente sobre el manosphere/incels como espacio online donde se castiga
+socialmente a quienes no cumplen normas de masculinidad. Ver Judge (2026), "Theorising Incels
+and Co." (Sociology Compass) — https://compass.onlinelibrary.wiley.com/doi/10.1111/soc4.70161
+:::
+
+---
+
+## ¿La socialización nos lleva a "hacer género"?
+
+::: {style="font-size:0.88em;"}
+- Tal vez, pero ese no es el punto central de la teoría de "hacer" género.
+- Lo central es abordar el género como las expectativas de comportamiento que ya existen, sigamos o no estas expectativas.
+- Ya sea que "hagamos" o "no hagamos" el género, esto puede tener consecuencias — por ejemplo, en cómo las demás personas nos tratan en las interacciones.
+- Incluso cuando hombres y mujeres se comportan de manera idéntica, puede haber consecuencias diferentes.
+:::
+
+---
+
+## Creencias de género y relaciones sociales (Ridgeway & Correll 2004)
+
+::: {style="font-size:0.78em;"}
+- Las creencias culturales de género hegemónicas, ampliamente compartidas, tienen efecto en los contextos sociales relacionales.
+  - Situación en que las personas se definen a sí mismas en relación a otras para poder actuar, ya sea en interacciones o solas, si sienten que su comportamiento o sus consecuencias serán evaluadas socialmente.
+- **Gender beliefs:** creencias culturales que definen las características distinguibles entre hombres y mujeres y lo esperable en términos de comportamiento.
+  - Mujeres más comunales (orientación hacia lo comunitario), hombres más instrumentales y con mayor agencia.
+  - Es jerárquico: los hombres son vistos como más competentes en general y en las dimensiones más valoradas por la sociedad, y lo contrario con las mujeres.
+  - Son hegemónicos — todos los conocemos, aunque no los endosemos personalmente.
+:::
+
+::: notes
+Supuesto de que el género es un sistema que constituye una diferencia y organiza la desigualdad en base a esa diferencia.
+
+Son estereotipos, pero también son más que eso: tienen un significado social más amplio que considera las reglas o esquemas culturales.
+
+Para profundizar: Ridgeway desarrolla este argumento en formato de libro en Framed by Gender:
+How Gender Inequality Persists in the Modern World (Oxford University Press, 2011) — versión
+de libre acceso: http://xyonline.net/sites/xyonline.net/files/2019-09/Ridgeway,%20Framed%20by%20Gender%20-%20How%20Gender%20Inequality%20Persists%20in%20the%20Modern%20World%20(2011).pdf
+:::
+
+---
+
+## "Gender stereotypes as gender rules"
+
+::: {style="font-size:0.85em;"}
+Estas creencias no son solo descriptivas (cómo creemos que hombres y mujeres son), sino también:
+
+- **Prescriptivas:** cómo hombres y mujeres deben comportarse.
+- **Proscriptivas:** cómo hombres y mujeres no deben comportarse.
+
+Por ejemplo, las mujeres son penalizadas o castigadas socialmente cuando no siguen normas proscriptivas al ser líderes con agencia, ambiciosas, muy competentes (e.g., Rudman & Glick 1999; Rudman, Moss-Racusin, Phelan & Nauts 2012; Quadlin 2018).
+
+¿Y los hombres?: <https://www.youtube.com/watch?v=u0loTWc9Y14> 
+:::
+
+::: notes
+Rudman, Moss-Racusin, Phelan & Nauts (2012) proponen la "status incongruity hypothesis": el
+backlash contra mujeres líderes no es solo por romper normas de género en abstracto, sino
+porque amenaza específicamente la jerarquía de estatus entre hombres y mujeres — puente directo
+hacia expectation states theory más adelante en esta clase.
+https://www.sciencedirect.com/science/article/abs/pii/S0022103111002514
+:::
+
+---
+
+## Quadlin (2018)
+
+::: {style="font-size:0.85em;"}
+::: columns
+::: {.column width="45%"}
+Las mujeres con rendimiento académico muy alto son penalizadas en el mercado laboral, especialmente cuando vienen de áreas matemáticas. La evidencia sugiere que los empleadores valoran a las mujeres más por ser amistosas, mientras que a los hombres por ser competentes y comprometidos (Quadlin 2018).
+:::
+::: {.column width="53%" .fragment}
+![](C4_05.png){fig-align="center" width="95%"}
+:::
+:::
+:::
+
+::: notes
+En comparación a hombres de muy alto rendimiento y a mujeres de rendimiento moderado-bueno.
+:::
+
+---
+
+## En los contextos sociales relacionales…
+
+::: {style="font-size:0.82em;"}
+1. **Hay una categorización de sexo.** Categorizamos a otras personas con respecto a su sexo de manera automática e inconsciente. Suele ser la primera categoría en que agrupamos, mostrando que el género es un principio organizador importante. En general ocurre en base a apariencias y señales de comportamiento.
+
+2. **El género tiende a ser difuso y operar como identidad "de fondo".** Hay otras identidades culturalmente más específicas (jefe y empleado/a) que están "al frente". El impacto de las creencias varía según el contexto, y se combina con las otras identidades y roles relevantes (ej. sesgo en cómo llevamos a cabo el rol de jefe y empleado/a).
+:::
+
+::: notes
+La psicología cognitiva muestra que... Video de Ridgeway.
+:::
+
+---
+
+## Cuándo el género es efectivamente destacado (*salient*)
+
+::: {style="font-size:0.85em;"}
+::: columns
+::: {.column width="42%"}
+![](C4_06.jpg){fig-align="center"}
+
+![](C4_07.jpg){fig-align="center"}
+:::
+::: {.column width="55%"}
+- **Situaciones mixtas:** cuándo los actores reales o implicados son de diferente categoría sexual.
+- **Situaciones en contextos tipificados por género:** cuando los estereotipos de un género u otro están culturalmente vinculados a las actividades centrales de la situación.
+:::
+:::
+:::
+
+---
+
+## Expectation states theory (Berger et al. 1977; Correll & Ridgeway 2003; Ridgeway & Correll 2004)
+
+::: {style="font-size:0.72em;"}
+Las creencias sobre un mayor status de los hombres moldean implícitamente las expectativas que los participantes tienen de su propia competencia y la de los demás, y estas expectativas operan como profecías autocumplidas. Esto impacta en:
+
+- Autopercepciones de competencia que afectan cómo las personas interactúan, cuánto aportan y cómo valoran ese aporte (relacionado a la clase pasada).
+- **Doble estándar:** incluso cuando a hombres y mujeres les va igual de bien, los hombres se evalúan a sí mismos y a otros hombres con mayor habilidad que a las mujeres.
+  - Para ser evaluadas de manera similar, muchas veces las mujeres deben ser más exitosas en la tarea que los hombres (pero no tanto → Quadlin).
+
+::: {style="color:#7a4fa3; margin-top:0.4em;"}
+Este es el nivel **interaccional** de un modelo de género con tres niveles (individual,
+interaccional, institucional — Risman 2004): lo retomaremos como marco general en la Clase 6
+(Multinivel).
+:::
+:::
+
+::: notes
+Supuestos: aplica para situaciones donde las personas tienen un objetivo o tarea compartida o valorada socialmente. Cuando el género es efectivamente destacado en estas situaciones...
+
+Risman, B. J. (2004). Gender as a Social Structure: Theory Wrestling with Activism. Gender &
+Society, 18(4), 429-450. https://journals.sagepub.com/doi/10.1177/0891243204265349
+:::
+
+---
+
+## Just one of the guys? (Kristen Schilt, 2011)
+
+::: {style="font-size:0.85em;"}
+::: columns
+::: {.column width="62%"}
+- Posición única de moverse a una categoría de género que tiene mayor estatus y ventajas sociales, culturales y económicas.
+- ¿El contexto ocupacional obstaculiza o ayuda a hombres trans a "convertirse" en hombres en el trabajo?
+- ¿Cómo interactúan los empleadores y colegas, consciente o inconscientemente, con hombres trans?
+- ¿Pueden los hombres trans acceder a los beneficios de ser hombre en el trabajo?
+:::
+::: {.column width="35%" .fragment}
+![](C4_08.png){fig-align="center" width="95%"}
+:::
+:::
+:::
+
+---
+
+## Just one of the guys? — Metodología
+
+::: {style="font-size:0.78em;"}
+- Entrevistas con hombres trans sobre sus experiencias en el trabajo, cómo negocian trabajar como hombres y hombres trans:
+  - Personas que se mantuvieron en el mismo trabajo.
+  - Personas que encontraron nuevos trabajos donde siempre fueron conocidos como hombres.
+  - Personas que encontraron nuevos trabajos donde fueron conocidos como trans.
+- En Texas (más conservador) y California (más liberal).
+- Rango de ocupaciones: abogados, construcción, profesores, retail, servicios de comida.
+- 54 entrevistados, en su mayoría blancos (80%), de 18 a 64 años.
+- Comparación de dos estrategias en el trabajo: *open* (hombres trans públicamente trans) y *stealth* (hombres trans que no cuentan que son trans — "disimulo").
+:::
+
+---
+
+## Más allá de Schilt: "gender panics" (Westbrook & Schilt 2014)
+
+::: {style="font-size:0.8em;"}
+Westbrook y Schilt retoman esta misma línea de investigación y muestran que las instituciones (baños, deportes, cárceles, documentos de identidad) deciden "quién cuenta" como hombre o mujer usando criterios distintos y a veces contradictorios: identidad, cuerpo o documentación legal. Cuando estos criterios entran en conflicto surge lo que llaman un **"gender panic"**.
+
+::: {style="font-size:0.85em; color:#555;"}
+Referencia: Westbrook, L., & Schilt, K. (2014). Doing Gender, Determining Gender: Transgender
+People, Gender Panics, and the Maintenance of the Sex/Gender/Sexuality System. Gender & Society,
+28(1), 32-57. PDF abierto:
+https://academicweb.nd.edu/~rwilliam/ndonly/readings/SocProblems/01-GayRightsGayMarriageGayProblems/Doing%20Gender%20Determining%20Gender%202014.pdf
+:::
+:::
+
+---
+
+## Actividad en clases sobre Schilt {background-color="#f8f4ff"}
+
+Grupos de 4-5 personas.
+
+::: {.cuadro-actividad}
+¿Qué significa "alcanzar la hombría social" (*achieving social maleness*)? ¿Cómo se relaciona con el cuerpo? ¿Y de qué manera es un proceso interaccional?
+
+En la pizarra, anotar al menos 1 ejemplo de:
+
+1. Socialización (temprana o no)
+2. Hacer género
+3. Privilegio masculino
+4. Desventaja masculina
+
+:::
+
+::: notes
+15 min de trabajo en equipo (en el tablero compartido), luego plenario 5-10 min a partir de lo
+que ya quedó visible en el tablero para todo el curso.
+
+Ejemplo de hacer género: cómo es adecuado o apropiado tocar a alguien en el trabajo cambia — palmada en el pecho versus abrazos.
+
+Ejemplo de socialización: alerta de quién entra al baño como mujer, cambiar forma de actuar al entrar al baño antes de transicionar; hombres y mujeres afroamericanas con respecto a criminalidad y sexualidad.
+
+Ejemplos de privilegio o desventaja masculina: mecánico, cómo los hombres viejos los tratan, no sentir miedo en la noche, ser una amenaza para mujeres.
+
+Referencias sobre el marco legal chileno para la pregunta bonus:
+- Ley N° 21.120 — guía actualizada 2024 (Poder Judicial): https://secretariadegenero.pjud.cl/images/documentos/LIG/GuaLeyIG_14062024.pdf
+- Instructivo de la Dirección del Trabajo sobre derechos laborales de personas trans (Movilh): https://www.movilh.cl/instructivo-de-la-direccion-del-trabajo-garantiza-derechos-laborales-de-personas-trans/
+
+Herramientas para el tablero compartido: padlet.com · miro.com
+:::
+
+---
+
+## Spot the doing-gender moment {background-color="#f8f4ff"}
+
+::: columns
+::: {.column width="25%"}
+![](C4_09.jpg){fig-align="center"}
+:::
+::: {.column width="25%"}
+![](C4_10.jpg){fig-align="center"}
+:::
+::: {.column width="25%"}
+![](C4_11.jpg){fig-align="center"}
+:::
+::: {.column width="25%"}
+![](C4_12.jpg){fig-align="center"}
+:::
+:::
+
+::: {.cuadro-actividad}
+En parejas (3 min): para cada imagen, ¿qué norma de género se está siguiendo o rompiendo? ¿Cuál de las cuatro razones para "hacer género" (sobreaprendizaje, placer, para otros, evitar fiscalización — Wade & Ferree) explica mejor esa conducta?
+:::
+
+::: notes
+Slide originalmente sin título ni pregunta guía en el deck anterior. Compartir 2-3 ejemplos en
+plenario después del trabajo en parejas.
+:::
+
+---
+
+## Recomendaciones de género
+
+::: columns
+::: {.column width="33%"}
+![](C4_13.png){fig-align="center"}
+:::
+::: {.column width="33%"}
+![](C4_14.png){fig-align="center"}
+:::
+::: {.column width="33%"}
+![](C4_15.png){fig-align="center"}
+:::
+:::
+
+::: {style="font-size:0.8em; text-align:center; margin-top:0.5em;"}
+Podcast recomendado *(agregar título/nombre del episodio)*: <https://open.spotify.com/episode/23ydVYiUUxGOeNaVuZaMy5>
+:::
+
+::: {style="font-size:0.85em; color:#555; text-align:center;"}
+¡Bienvenidas más recomendaciones para compartir con el curso!
+:::
+
+::: notes
+Pendiente: completar el título/nombre del episodio y host del podcast — no se pudo verificar
+automáticamente. Una vez confirmado, reemplazar el texto entre paréntesis.
+:::
+
+---
+
+## Cierre: minuto de reflexión {background-color="#f8f4ff"}
+
+::: {.cuadro-actividad}
+
+Wooclap
+
+:::
+
+::: notes
+Se puede leer un par de respuestas anonimizadas al inicio de la próxima clase como gancho de
+apertura — refuerza que la teoría vista hoy no es abstracta, y da continuidad entre sesiones.
+:::
+
+---
+
+## Lecturas y recursos complementarios (opcionales)
+
+::: {style="font-size:0.75em;"}
+- Deutsch, F. M. (2007). Undoing Gender. *Gender & Society*, 21(1), 106-127.
+- Westbrook, L., & Schilt, K. (2014). Doing Gender, Determining Gender. *Gender & Society*, 28(1), 32-57.
+- Eagly, A. H., Nater, C., Miller, D. I., Kaufmann, M., & Sczesny, S. (2020). Gender stereotypes have changed: A cross-temporal meta-analysis of U.S. public opinion polls from 1946 to 2018. *American Psychologist*.
+- Rudman, L. A., Moss-Racusin, C. A., Phelan, J. E., & Nauts, S. (2012). Status incongruity and backlash effects. *Journal of Experimental Social Psychology*.
+- Risman, B. J. (2004). Gender as a Social Structure: Theory Wrestling with Activism. *Gender & Society*, 18(4), 429-450.
+- Ridgeway, C. L. (2011). *Framed by Gender: How Gender Inequality Persists in the Modern World*. Oxford University Press.
+:::
+
+---
+
+## Próxima semana: Instituciones generizadas
+
+::: {style="font-size:0.82em;"}
+- Crocco-Valdivia, Alejandra Andrea, y Caterine Galaz-Valderrama. 2023. "Mujeres en la academia: Exploración de una organización generizada a partir de una revisión sistemática." *Estudios Pedagógicos* (Valdivia) 49(2): 439–454.
+- Mickey, Ethel L. 2019. "When Gendered Logics Collide: Going Public and Restructuring in a High-Tech Organization." *Gender & Society* 33(4): 509–533.
+:::
+
+---
+
+## Recordatorio: tu pregunta de investigación
+
+::: {style="font-size:0.8em;"}
+Al pensar/ajustar la pregunta de su trabajo final, revisen:
+
+- **Foco y definición, contribución al campo, conexión con teoría, coherencia con metodología, interés propio.**
+- Busquen literatura académica en Google Scholar y Bibliotecas UC — usen palabras clave, revisen el journal, el número de citas, y quién cita un artículo clave.
+- Un gestor de referencias bibliográficas ahorra mucho tiempo: <https://bibliotecas.uc.cl/investigacion/administre-sus-referencias-bibliograficas>
+:::
+
+::: notes
+Slide movida desde el inicio de la clase (donde no calzaba con el tema de interacciones) y
+condensada. Confirmar si este recordatorio se repite cada semana como práctica del curso — si
+es así, considerar dejarlo en una slide "recurrente" aparte del contenido temático de cada
+clase.
+:::

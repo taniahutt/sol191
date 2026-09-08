@@ -1,0 +1,174 @@
+---
+title: "Diferencias de género en la evidencia meta-analítica"
+subtitle: "Selección verificable a partir de Zell, Krizan & Teeter (2015)"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=1.7cm
+    fontsize: 9pt
+    keep-tex: true
+    toc: false
+    number-sections: false
+    colorlinks: true
+    latex-engine: xelatex
+execute:
+  echo: false
+  warning: false
+  message: false
+---
+
+## Cómo leer esta tabla
+
+Esta tabla reproduce **solo información que aparece explícitamente en el Supplemental Table 1 de Zell, Krizan & Teeter (2015)**. No se infieren nombres de constructos a partir de los títulos de los artículos ni se agrega la dirección de la diferencia cuando el suplemento no la reporta.
+
+- **d** = tamaño de efecto absoluto (Cohen's *d*).
+- **k** = número de efectos incluidos en el meta-análisis, tal como lo define Zell et al.
+- Por diseño, la tabla **no dice quién obtiene el valor mayor**, salvo cuando esa dirección aparece explícitamente en la publicación principal (Tabla 3).
+- La categoría de magnitud se deriva mecánicamente de los puntos de corte usados por Zell et al.: muy pequeña (0–.10), pequeña (.11–.35), moderada (.36–.65), grande (.66–1.00), muy grande (>1.00).
+
+> **Nota importante:** El Supplemental Table 1 identifica cada meta-análisis mediante primer autor, año, dominio, *d* y *k*. Por prudencia, esta versión no convierte esos datos en afirmaciones sustantivas sobre el contenido de cada constructo. Para discutir un constructo concreto, conviene consultar el meta-análisis original.
+
+## Selección verificable
+
+La selección prioriza registros en los que el Supplemental Table 1 permite verificar claramente **primer autor, año, dominio, d y k**. Los valores se transcriben del suplemento.
+
+| Dominio | Primer autor | Año | d | k | Magnitud según Zell |
+|:--|:--|--:|--:|--:|:--|
+| Cognitivo | Block | 2000 | 0.16 | 87 | Pequeña |
+| Cognitivo | Boerner | 2014 | 0.23 | 33 | Pequeña |
+| Cognitivo | Byrnes | 1999 | 0.13 | 322 | Pequeña |
+| Cognitivo | Dean | 2008 | 0.19 | 18 | Pequeña |
+| Cognitivo | Else-Quest | 2010 | 0.13 | 87 | Pequeña |
+| Cognitivo | Herlitz | 2013 | 0.36 | 67 | Moderada |
+| Cognitivo | Hyde | 1988 | 0.14 | 120 | Pequeña |
+| Cognitivo | Hyde | 1990a | 0.20 | 59 | Pequeña |
+| Cognitivo | Irwing | 2005 | 0.14 | 22 | Pequeña |
+| Cognitivo | Kirkland | 2013 | 0.18 | 42 | Pequeña |
+| Cognitivo | Lindberg | 2010 | 0.05 | 441 | Muy pequeña |
+| Cognitivo | Lynn | 2004 | 0.25 | 25 | Pequeña |
+| Cognitivo | Maeda | 2013 | 0.57 | 70 | Moderada |
+| Cognitivo | Medland | 2002 | 0.10 | 36 | Muy pequeña |
+| Cognitivo | Meehan | 1984 | 0.14 | 160 | Pequeña |
+| Cognitivo | Richardson | 1995 | 0.20 | 16 | Pequeña |
+| Cognitivo | Riley | 1998 | 0.56 | 26 | Moderada |
+| Cognitivo | Roth | 2012 | 0.10 | 61 | Muy pequeña |
+| Cognitivo | Schram | 1996 | 0.08 | 18 | Muy pequeña |
+| Cognitivo | Schredl | 2008 | 0.22 | 163 | Pequeña |
+| Cognitivo | Severiens | 1998 | 0.10 | 83 | Muy pequeña |
+| Cognitivo | Silverman | 2003 | 0.11 | 38 | Pequeña |
+| Cognitivo | Silverman | 2006 | 0.34 | 73 | Pequeña |
+| Cognitivo | Stuhlmacher | 1999 | 0.09 | 53 | Muy pequeña |
+| Cognitivo | Syzmanowicz | 2011 | 0.35 | 205 | Pequeña |
+| Cognitivo | Thoma | 1986 | 0.12 | 56 | Pequeña |
+| Cognitivo | Thompson | 2014 | 0.19 | 557 | Pequeña |
+| Cognitivo | Voyer | 1995 | 0.37 | 286 | Moderada |
+| Cognitivo | Voyer | 2007 | 0.25 | 123 | Pequeña |
+| Cognitivo | Wood | 1987 | 0.39 | 64 | Moderada |
+| Personalidad/Social | Archer | 2000 | 0.05 | 82 | Muy pequeña |
+| Personalidad/Social | Aven | 1993 | 0.02 | 27 | Muy pequeña |
+| Personalidad/Social | Aydin | 2011 | 0.07 | 15 | Muy pequeña |
+| Personalidad/Social | Balliet | 2011 | 0.05 | 272 | Muy pequeña |
+| Personalidad/Social | Bornstein | 1995 | 0.26 | 121 | Pequeña |
+| Personalidad/Social | Card | 2008 | 0.34 | 148 | Pequeña |
+| Personalidad/Social | Chaplin | 2013 | 0.08 | 445 | Muy pequeña |
+| Personalidad/Social | Cohn | 1991 | 0.22 | 113 | Pequeña |
+| Personalidad/Social | Cross | 2011 | 0.20 | 741 | Pequeña |
+| Personalidad/Social | Daigle | 1996 | 0.05 | 111 | Muy pequeña |
+| Personalidad/Social | Del Guidice | 2011 | 0.03 | 113 | Muy pequeña |
+| Personalidad/Social | Dindia | 1992 | 0.18 | 205 | Pequeña |
+| Personalidad/Social | Eagly | 1981 | 0.16 | 148 | Pequeña |
+| Personalidad/Social | Eagly | 1981 | 0.07 | 181 | Muy pequeña |
+| Personalidad/Social | Eagly | 2003 | 0.02 | 370 | Muy pequeña |
+| Personalidad/Social | Eagly | 1990 | 0.30 | 184 | Pequeña |
+| Personalidad/Social | Eagly | 1991 | 0.14 | 111 | Pequeña |
+| Personalidad/Social | Else-Quest | 2006 | 0.16 | 891 | Pequeña |
+| Personalidad/Social | Else-Quest | 2012 | 0.16 | 697 | Pequeña |
+| Personalidad/Social | Feingold | 1990 | 0.53 | 28 | Moderada |
+| Personalidad/Social | Feingold | 1994 | 0.27 | 147 | Pequeña |
+| Personalidad/Social | Feingold | 1998 | 0.37 | 730 | Moderada |
+| Personalidad/Social | Gentile | 2009 | 0.21 | 428 | Pequeña |
+| Personalidad/Social | Gorrese | 2012 | 0.51 | 43 | Moderada |
+| Personalidad/Social | Guerin | 2012 | 0.04 | 123 | Muy pequeña |
+| Personalidad/Social | Hall | 2011 | 0.17 | 36 | Pequeña |
+| Personalidad/Social | Holt | 2005 | 0.10 | 142 | Muy pequeña |
+| Personalidad/Social | Huang | 2013 | 0.08 | 247 | Muy pequeña |
+| Personalidad/Social | Hyde | 1990 | 0.18 | 330 | Pequeña |
+| Personalidad/Social | Jaffee | 2000 | 0.24 | 255 | Pequeña |
+| Personalidad/Social | Johnson | 2013 | 0.24 | 59 | Pequeña |
+| Personalidad/Social | Kite | 1996 | 0.23 | 97 | Pequeña |
+| Personalidad/Social | Knight | 2002 | 0.45 | 197 | Moderada |
+| Personalidad/Social | Konrad | 2000 | 0.12 | 2540 | Pequeña |
+| Personalidad/Social | LaFrance | 2003 | 0.38 | 418 | Moderada |
+| Personalidad/Social | LaFrance | 2009 | 0.30 | 84 | Pequeña |
+| Personalidad/Social | Leaper | 1998 | 0.26 | 59 | Pequeña |
+| Personalidad/Social | Leaper | 2007 | 0.16 | 194 | Pequeña |
+| Personalidad/Social | Leaper | 2004 | 0.12 | 174 | Pequeña |
+| Personalidad/Social | Li | 2006 | 0.21 | 93 | Pequeña |
+| Personalidad/Social | Lirgg | 1991 | 0.40 | 46 | Moderada |
+| Personalidad/Social | Lundquist | 1994 | 0.11 | 257 | Pequeña |
+| Personalidad/Social | Miettunen | 2007 | 0.28 | 32 | Pequeña |
+| Personalidad/Social | Miller | 2008 | 0.28 | 70 | Pequeña |
+| Personalidad/Social | Murnen | 1997 | 0.31 | 62 | Pequeña |
+| Personalidad/Social | Nam | 2010 | 0.34 | 16 | Pequeña |
+| Personalidad/Social | O'Connor | 1996 | 0.12 | 33 | Pequeña |
+| Personalidad/Social | Paustian-Underdahl | 2012 | 0.05 | 99 | Muy pequeña |
+| Personalidad/Social | Peck | 2000 | 0.41 | 95 | Moderada |
+| Personalidad/Social | Petersen | 2010 | 0.19 | 1870 | Pequeña |
+| Personalidad/Social | Randler | 2007 | 0.10 | 52 | Muy pequeña |
+| Personalidad/Social | Rotundo | 2001 | 0.30 | 66 | Pequeña |
+| Personalidad/Social | Sagarin | 2012 | 0.10 | 199 | Muy pequeña |
+| Personalidad/Social | Schutte | 1997 | 0.34 | 36 | Pequeña |
+| Personalidad/Social | Stier | 1984 | 0.25 | 20 | Pequeña |
+| Personalidad/Social | Stockdale | 2013 | 0.49 | 20 | Moderada |
+| Personalidad/Social | Su | 2009 | 0.49 | 745 | Moderada |
+| Personalidad/Social | Twenge | 1997 | 0.73 | 59 | Grande |
+| Personalidad/Social | Walters | 1998 | 0.03 | 79 | Muy pequeña |
+| Personalidad/Social | Weinburgh | 1995 | 0.20 | 31 | Pequeña |
+| Personalidad/Social | Whitley | 1986 | 0.10 | 58 | Muy pequeña |
+| Personalidad/Social | Whitley | 1997 | 0.23 | 104 | Pequeña |
+| Personalidad/Social | Whitley | 1999 | 0.26 | 66 | Pequeña |
+| Personalidad/Social | Wilgenbusch | 1999 | 0.24 | 66 | Pequeña |
+| Personalidad/Social | You | 2011 | 0.25 | 20 | Pequeña |
+| Bienestar | Davis | 1999 | 0.12 | 119 | Pequeña |
+| Bienestar | Kling | 1999 | 0.20 | 216 | Pequeña |
+| Bienestar | Martocchio | 1989 | 0.02 | 19 | Muy pequeña |
+| Bienestar | Miettunen | 2010 | 0.28 | 88 | Pequeña |
+| Bienestar | Pinquart | 2001 | 0.11 | 617 | Pequeña |
+| Bienestar | Purvanova | 2010 | 0.12 | 409 | Pequeña |
+| Bienestar | Schredl | 2011 | 0.15 | 118 | Pequeña |
+| Bienestar | Tamres | 2002 | 0.16 | 207 | Pequeña |
+| Bienestar | Twenge | 2002 | 0.02 | 85 | Muy pequeña |
+| Bienestar | Vemer | 1989 | 0.04 | 25 | Muy pequeña |
+| Bienestar | Vishnevsky | 2010 | 0.27 | 70 | Pequeña |
+
+## Ejemplos con dirección explícitamente reportada por Zell
+
+La siguiente selección **sí incorpora dirección**, porque Zell et al. la reportan explícitamente en su Tabla 3 (los diez efectos de mayor magnitud):
+
+| Tema | d | k | Resultado según Zell |
+|:--|--:|--:|:--|
+| Masculine vs. feminine traits | 0.73 | 59 | M > F |
+| Mental rotation ability | 0.57 | 70 | M > F |
+| Noxious stimulation/pain | 0.56 | 26 | F > M |
+| Importance of beauty in mates | 0.53 | 28 | M > F |
+| Peer attachment | 0.51 | 43 | F > M |
+| People vs. things interest | 0.49 | 745 | F > M |
+| Aggression | 0.45 | 197 | M > F |
+| Fear induced by films | 0.41 | 95 | F > M |
+| Confidence in physical abilities | 0.40 | 46 | M > F |
+| Same-sex group performance | 0.39 | 64 | M > F |
+
+## Fuente
+
+Zell, E., Krizan, Z., & Teeter, S. R. (2015). *Evaluating gender similarities and differences using metasynthesis*. **American Psychologist, 70**(1), 10–20. https://doi.org/10.1037/a0038208.
+
+El artículo reporta 106 meta-análisis y 386 efectos meta-analíticos; el promedio absoluto fue *d* = .21. citeturn0search0turn0search2
+
+---
+
+## Nota de verificación
+
+**No agregué una columna de “constructo” a propósito.** En la versión extraída del Supplemental Table 1 que pude verificar, Zell presenta claramente primer autor, año, dominio, *d* y *k*, pero no una columna de nombre del constructo. Agregar esos nombres habría requerido inferirlos desde los artículos originales, justamente lo que me pediste que no hiciera.
+
+La tabla, por tanto, es conservadora: **si no está explícito en Zell, no lo convierto en un dato de Zell.**
