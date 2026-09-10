@@ -1,0 +1,432 @@
+---
+title: "Sociología del Género"
+subtitle: "Clase 5: Instituciones generizadas y nivel macro"
+author: "Tania Cabello-Hutt"
+institute: "SOL191 · Instituto de Sociología · PUC"
+lang: es
+format:
+  revealjs:
+    theme: [default, C1_clase.scss]
+    slide-number: c/t
+    progress: true
+    transition: fade
+    transition-speed: fast
+    footer: "SOL191 Sociología del Género · Clase 5"
+    width: 1280
+    height: 720
+    auto-animate: true
+---
+
+```{=html}
+<!--
+CAMBIOS RESPECTO A C5_clase.qmd — copia generada a partir de la revisión de contenidos y
+correcciones discutida en el chat (no incluye ninguna actividad nueva; esa idea quedó en pausa).
+
+1. "Objetivos de hoy" estaba vacía (solo el título) — se agregaron 3 objetivos.
+2. Se quitó la pregunta placeholder "¿Ejemplo de Crocco-Valdivia y Galaz-Valderrama (2023)...?"
+   que había quedado escrita directamente en la slide de "Sexismo estructural", y se agregó una
+   slide nueva dedicada a esa lectura — con un placeholder EXPLÍCITO para que completes los
+   hallazgos reales del artículo, ya que no pude acceder al PDF (bloqueado para lectura
+   automatizada) y no quise inventar contenido específico de un texto que no pude verificar.
+3. Se agregó una slide de contenido real para Mickey (2019) antes de la actividad de reflexión,
+   que hasta ahora nombraba el paper sin explicar nunca el caso ni el hallazgo. Igual que con
+   Crocco-Valdivia, dejé nota para que verifiques cifras/detalles contra el artículo — reconstruí
+   el argumento desde mi conocimiento del paper, no pude acceder al texto completo.
+4. "Cuatro grupos de millennials" estaba vacía — se agregó el contenido de Risman (2018): true
+   believers, innovadores/as, straddlers y rebeldes (verificado por fuente externa).
+5. Se corrigió un error de concordancia verbal en la cita de Acker: "excludes and marginalized"
+   → "excludes and marginalizes". Sigue pendiente verificar la cita exacta y la página contra tu
+   copia del artículo.
+6. Se agregó una línea conectando la slide de "penis panics" (baños) con el concepto de "gender
+   panics" de Westbrook & Schilt, que quedó incorporado en la revisión de la Clase 4 — mismo
+   mecanismo aplicado a otro contexto.
+7. Se agregó una slide de "lecturas complementarias" opcional al final, con Sargent, Yavorsky &
+   Sandoval (2021) sobre coworking spaces — extiende el tema de "nueva economía, nuevas lógicas"
+   de Mickey a un caso más actual.
+8. Nota para ti (no es un cambio en el contenido): el cierre de la clase (slides "Sistema
+   multinivel") ya explica el modelo de tres niveles completo como preparación para Risman la
+   próxima semana — vale la pena que confirmes si esto se repite en la Clase 6 (Multinivel) para
+   evitar duplicar contenido; no tengo ese .qmd a mano para comparar.
+
+Todo lo demás (Acker, procesos organizacionales, baños, Correll et al., Hook, políticas UC) se
+mantiene igual al original — mismas imágenes, mismo texto.
+-->
+```
+
+------------------------------------------------------------------------
+
+## Objetivos de hoy {background-color="#f8f4ff"}
+
+::: {style="font-size:0.95em; line-height:1.8;"}
+1.  Comprender el género como principio organizador de las instituciones, más allá de las creencias individuales o la interacción
+2.  Aplicar la teoría de las organizaciones generizadas (Acker 1990) a casos concretos — la academia y una empresa tecnológica
+3.  Identificar cómo el contexto nacional (políticas, mercado laboral) moldea la desigualdad de género a nivel macro
+:::
+
+------------------------------------------------------------------------
+
+## Instituciones generizadas
+
+::: {style="font-size:0.85em; line-height:1.7;"}
+Además de ser un conjunto de ideas y algo que uno "hace", el género también es un [principio organizador]{.hl} que permea nuestras instituciones sociales.
+
+Las creencias e ideas de género que afectan nuestros ambientes ejercen una influencia en nuestras vidas independiente de nuestras propias creencias, personalidades, e interacciones.
+
+El género permea en las **normas** (creencias y prácticas conocidas y seguidas ampliamente) y **políticas** (expectativas y reglas explícitas y codificadas) institucionales.
+:::
+
+------------------------------------------------------------------------
+
+## Gendered institutions {background-color="#f8f4ff"}
+
+:::::: {style="font-size:0.85em;"}
+::::: columns
+::: {.column width="50%"}
+Donde el género se usa como [principio organizador]{.hl}, por ejemplo, mediante la canalización de hombres y mujeres en diferentes espacios o actividades, que son valorados de manera diferente.
+
+Qué tan saliente es el género —su relevancia— varía a través de las diferentes partes, espacios y actividades de la institución.
+:::
+
+::: {.column width="48%"}
+![](C5_02.png){fig-align="center"}
+:::
+:::::
+::::::
+
+------------------------------------------------------------------------
+
+## Sexismo estructural
+
+::: {style="font-size:0.85em; line-height:1.7;"}
+- Las instituciones generizadas afirman y refuerzan tanto las diferencias de género como la [desigualdad de género]{.hl}, de una manera interseccional.
+- Resulta en desigualdades **institucionalizadas**: producidas y reproducidas por el funcionamiento rutinario de las instituciones.
+:::
+
+::: notes
+Tareas que hacen. Lo que se valora más.
+:::
+
+------------------------------------------------------------------------
+
+## La universidad como organización generizada 
+
+(Crocco-Valdivia y Galaz-Valderrama 2023)
+
+::::: {style="font-size:0.78em; line-height:1.6;"}
+::: {style="font-size:0.78em; line-height:1.55;"}
+- Revisión sistemática de 32 estudios (2015-2020) sobre mujeres académicas y la universidad como organización generizada, con foco en Latinoamérica.
+- Cuatro líneas de estudios:
+  - Desigualdad — techo de cristal en el ascenso a cargos senior
+  - Subjetividad e identidad — autoexigencia, relatos de sexismo cotidiano
+  - Trabajo de cuidado y afectivo — la docencia y gestión se "feminizan", la investigación se "masculiniza"
+  - Neoliberalismo y capitalismo académico — cultura de métricas y precarización.
+- Metáfora de la "cassata" (Mandiola et al. 2019, citada en el artículo): investigación (masculinizada), docencia (feminizada), extensión (ambigua) — tres sabores con distinto estatus.
+:::
+
+::: cuadro-datos
+*"El trabajo de cuidados de las académicas —tradicionalmente circunscrito al ámbito privado— se replica en la universidad \[...\] principalmente a partir de su inserción predominante en labores de gestión universitaria"* (p. 439)
+:::
+:::::
+
+::: notes
+:::
+
+------------------------------------------------------------------------
+
+## Organizaciones generizadas (Acker 1990)
+
+::: {style="font-size:0.72em; line-height:1.6;"}
+- Antes de Acker, las organizaciones se entendían como asexuadas o neutras con respecto al género.
+- Lógica organizacional: los sistemas de reglas y políticas, descripciones de cargo, escalas de salario, y evaluaciones que damos por sentado.
+- El género es una parte integral de la estructura y procesos organizacionales, ya que está implicado en los contratos en los que se basan las organizaciones.
+- La naturaleza generizada de las organizaciones se esconde bajo trabajos y jerarquías que son **aparentemente abstractas y neutras**, pero que en realidad asumen una división del trabajo basada en género y que son definidas por la dominancia masculina.
+  - Asumen que el trabajador típico es hombre, con cuerpo y sexualidad masculina, con rol mínimo en la procreación.
+  - Esto marginaliza a las mujeres y sirve como estrategia de control y mantenimiento de la segregación de género en la organización.
+:::
+
+------------------------------------------------------------------------
+
+## Género en 5 procesos organizacionales
+
+:::: {style="font-size:0.7em; line-height:1.55;"}
+- Divisiones de género: en el tipo de trabajo, los comportamientos que son permitidos, el uso del espacio físico, la distribución del poder.
+- La construcción de símbolos e imágenes que explican, expresan, refuerzan, o a veces oponen estas divisiones. Ej., imagen de gerente como masculinidad fuerte y exitosa.
+- Las interacciones que ejercen dominio y sumisión. Ej., diferencias de género en conversaciones (tomar turnos, interrupciones, tiempo).
+- En la presentación o expresión propia: uso de lenguaje, ropa.
+- En la lógica organizacional: las reglas, contratos, evaluaciones de desempeño.
+
+::: cuadro-datos
+*"The concept of a universal worker excludes and marginalizes women who cannot, almost by definition, achieve the qualities of a real worker because to do so is to become a man"* (150)
+:::
+::::
+
+::: notes
+Verificar la cita exacta y la página contra el PDF del artículo — corregí un error de concordancia verbal ("marginalized" → "marginalizes") pero no pude confirmar la redacción textual completa.
+:::
+------------------------------------------------------------------------
+
+## Nueva economía, nuevas lógicas (Mickey 2019)
+
+::: {style="font-size:0.78em; line-height:1.6;"}
+  - **Desde:** Burocracia racional con clara jerarquía y división del trabajo, reglas y procedimientos escritas y formalizadas, recompensas basadas en el desempeño. Se recompensa la lealtad.
+  - **Hacia:** Era postindustrial con modelos más “planos” y flexibles, equipos autogestionados que hacen un trabajo basado en proyectos. Se recompensa la flexibilidad y adaptabilidad.
+:::
+
+::: notes
+  Cita útil para leer en voz alta (Jessica, trabajadora de RR.HH.): "You can be really, really good at your job and if you don't form relationships here, you're going to fail... No one's going to do you any favors if they don't like you. It's kind of cut-throat." — ilustra la carga de autopromoción y networking que recae sobre las mujeres para lograr visibilidad, mientras que varios hombres entrevistados describen que el ascenso simplemente "les pasó".
+:::
+
+
+-----------------------------------------------------------------------
+
+## Reflexión: ¿siguen generizadas las nuevas lógicas?
+
+::::: columns
+:::: {.column width="90%"}
+::: cuadro-actividad
+**Reflexión corta (1 párrafo):** ¿Siguen siendo generizadas las organizaciones que operan bajo estas nuevas lógicas? ¿De qué manera?
+
+**Responder referiendo a Mickey 2019.**
+:::
+::::
+:::::
+
+::: notes
+
+- startup > Las mujeres sentían oportunidad y pertenencia, pero convivían con una cultura "work hard, play hard" tipo fraternidad (alcohol, sociabilidad informal) que las obligaba a equilibrar ser simpáticas sin parecer "poco profesionales".
+  IPO: Pero los despidos afectan desproporcionadamente a roles feminizados y el nuevo escalafón técnico valora más la vía "ingeniero de software" (masculinizada) que la vía "gerente" (feminizada, de habilidades "blandas").
+  - logica desigual> más mujeres contratadas, pero relegadas a posiciones de bajo estatus y alta inseguridad, mientras los hombres en roles técnicos simplemente "son vistos" y ascienden sin necesitar autopromocionarse.
+:::
+------------------------------------------------------------------------
+
+## Nueva economía, nuevas lógicas (Mickey 2019)
+
+::: {style="font-size:0.78em; line-height:1.6;"}
+  - Estudio de caso etnográfico de "Data Inc." (seudónimo), empresa de software en EE.UU.
+  - **Como startup:** lógica "flexible" de equipos multifuncionales, jerarquía plana, "cada quien hacía de todo". 
+  - **Al salir a la bolsa:** la empresa se burocratiza: jerarquía formal, cargos especializados, escalafones de carrera, y contrata a más mujeres, sobre todo en áreas administrativas (RR.HH., marketing).
+
+  ::: cuadro-datos
+  **Argumento central:** La *colisión* entre la lógica flexible y la burocrática la que produce una nueva desigualdad
+  :::
+
+  ::: notes
+  Cita útil para leer en voz alta (Jessica, trabajadora de RR.HH.): "You can be really, really good at your job and if you don't form relationships here, you're going to fail... No one's going to do you any favors if they don't like you. It's kind of cut-throat." — ilustra la carga de autopromoción y networking que recae sobre las mujeres para lograr visibilidad, mientras que varios hombres entrevistados describen que el ascenso simplemente "les pasó".
+  :::
+:::
+
+------------------------------------------------------------------------
+
+## Ejemplos de instituciones generizadas
+
+:::: {style="font-size:0.9em;"}
+::: cuadro-actividad
+**En grupos de 2-3 personas:**
+
+- Piensen en un ejemplo de una institución que crean es generizada hoy en día.
+- Elijan un ejemplo que refleje aspectos generizados.
+- Luego lo vienen a anotar a la pizarra y, si alguien más ya anotó esa institución, pueden agregar su ejemplo debajo.
+:::
+::::
+
+::: notes
+Ejemplo de cárceles como masculinizadas: el entrenamiento de los gendarmes asume un gendarme hombre en una cárcel de hombres; no considera que los problemas que vive la gendarme mujer son distintos (acoso sexual), y hay poca guía en cómo manejarlo, ni en cómo trabajar en cárceles de mujeres, que tienen importantes diferencias en el tipo de problemas, etc.
+
+Mujeres asignadas a tareas de fuerza física para lidiar con agresión, lo que no les permite avanzar tan rápido como a los hombres.
+
+La habilidad de manejar una situación de violencia se entrena y prepara mejor en hombres, y eso es lo que se valora más también.
+
+Baños:
+:::
+
+------------------------------------------------------------------------
+
+## Baños: ejemplos de campañas "bathroom bill" {background-color="#f8f4ff"}
+
+::::::: {style="font-size:0.75em;"}
+:::::: columns
+::: {.column width="33%"}
+![Campaña "Stop the Gender/Bathroom Bill" (Canadá)](C5_04.png){fig-align="center"}
+:::
+
+::: {.column width="33%"}
+!["Colorado just opened its public bathrooms to either sex"](C5_05.png){fig-align="center"}
+:::
+
+::: {.column width="33%"}
+![Campaña de MDPetitions.com contra el "Bathroom Bill" en Maryland](C5_06.png){fig-align="center"}
+:::
+::::::
+:::::::
+
+------------------------------------------------------------------------
+
+## Baños y "penis panics"
+
+::: {style="font-size:0.75em; line-height:1.5;"}
+- Foco solo en baños de mujeres, no en baños de hombres.
+- Foco en cuerpos biológicamente "masculinos" demuestra que el problema son los genitales, no la identidad.
+- Supuesto heterosexual asume que los baños son zonas libres de sexualidad.
+- Personas LGBTQ han sido históricamente asociadas con predadores sexuales.
+- Espacio "solo de mujeres" en que la presencia del pene es una amenaza y peligro.
+- Imagen de las mujeres como débiles y que necesitan protección.
+- Implican que las personas trans merecen menos protección que mujeres y niños.
+- Mismo mecanismo que los "gender panics" de Westbrook y Schilt (Clase 4): instituciones que deciden "quién cuenta" según criterios en conflicto (identidad, cuerpo, documentos).
+:::
+
+------------------------------------------------------------------------
+
+## Lógica de género en evaluaciones (Correll et al. 2020)
+
+::: {style="font-size:0.8em; line-height:1.6;"}
+- Empresa importante de tecnología en Silicon Valley, CA, USA.
+- Evaluaciones de desempeño de 208 trabajadores, realizadas por gerentes.
+- Análisis del texto completo de la evaluación y el puntaje asignado (1 a 5).
+- 88 códigos de lenguaje. Diferencias en dos tipos de lenguaje:
+  - [Colaborativo]{.hl}: comunal, personalidad positiva, perspectiva de equipo, trabajo de servicio.
+  - ["Hacerse cargo"]{.hl}: agencia, visión, líder, gerente, genio, visionario, comunicación asertiva.
+:::
+
+------------------------------------------------------------------------
+
+## ¿Por qué pasa esto? {background-color="#f8f4ff"}
+
+::::: columns
+::: {.column width="50%"}
+![](C5_07.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](C5_08.png){fig-align="center"}
+:::
+:::::
+
+::: cuadro-actividad
+¿Por qué esto evidencia una lógica generizada?
+:::
+
+::: notes
+En la Figura 2a vemos que los gráficos bivariados para "helpful" tienen una forma no lineal similar para hombres y mujeres. Para ambos, mayores menciones de lenguaje "helpful" se asocian con puntajes más altos en el rango 2 a 4, alcanzando su punto máximo en un puntaje de 4; ser "helpful" no fue un descriptor común entre quienes recibieron un 5. Hay implicancias generizadas importantes en este patrón: las mujeres fueron vistas como más "helpful", pero como serlo no se asocia con los puntajes más altos, ser vista como "helpful" solo las lleva hasta cierto punto.
+
+La Figura 2b muestra diferencias de género claras en los gráficos de "taking charge". Para los hombres, hay una relación positiva y lineal entre "taking charge" y el puntaje, mientras que para las mujeres la relación positiva alcanza su máximo en un puntaje de 4. Las mujeres con puntaje 5 tenían niveles similares de lenguaje de "taking charge" que las mujeres con puntaje 3 (n.s.). En resumen, "taking charge" fue claramente más valorado en los hombres: el nivel más alto de "taking charge" se asoció con un puntaje de 5 para los hombres, pero solo con un 4 para las mujeres. Una explicación es que tomar las riendas frecuentemente en el trabajo se percibe como una conducta altamente agente y, como tal, generó reacciones negativas cuando la ejercieron mujeres (Rudman et al.).
+
+¿Explicación? ¿Por qué es evidencia de una lógica generizada?
+
+15 min.
+:::
+
+------------------------------------------------------------------------
+
+## Perspectiva de género en las políticas organizacionales
+
+::::: columns
+::: {.column width="35%"}
+![Manuales y recursos de equidad de género PUC](C5_09.jpg){fig-align="center"}
+:::
+
+::: {.column width="63%"}
+![Reglamento de calificación académica UC: consideraciones por licencia maternal/parental (Art. 42-45)](C5_10.png){fig-align="center"}
+:::
+:::::
+
+::: notes
+5 min.
+:::
+
+------------------------------------------------------------------------
+
+## La importancia del contexto nacional (Hook 2006)
+
+::: {style="font-size:0.85em; line-height:1.7;"}
+- Modelo teórico integrado que combina los mecanismos de niveles individual, hogar, y nacional para entender el trabajo no remunerado (de cuidados y hogar) que hacen los hombres.
+- Más allá de las características individuales que llevan a los hombres a hacer más trabajo en el hogar, ¿cuáles son las políticas y prácticas que obstaculizan o facilitan el trabajo no remunerado de los hombres?
+- Foco en dos dimensiones del contexto nacional: el **empleo femenino** y la **política de estado**.
+:::
+
+------------------------------------------------------------------------
+
+## Trabajo no remunerado de los padres según contexto nacional
+
+![Predicción del tiempo de trabajo no remunerado de los hombres, según horas de empleo de las mujeres casadas, semanas de licencia parental y elegibilidad de los hombres para usarla (Hook 2006)](C5_11.png){fig-align="center" width="65%"}
+
+::: notes
+Los padres hacen más trabajo no remunerado cuando están casados, las mujeres empleadas trabajan jornada completa, y cuando la licencia parental es corta y está disponible para los hombres. En contextos donde las mujeres casadas y empleadas trabajan pocas horas y los hombres no son elegibles para usar licencia parental, se predice que los padres hacen la misma cantidad de trabajo no remunerado que los hombres sin hijos. En síntesis, las prácticas nacionales de empleo femenino y las políticas nacionales son determinantes clave del tiempo de trabajo no remunerado de los padres a nivel individual.
+
+5 min.
+:::
+
+------------------------------------------------------------------------
+## Formando grupos: Proyecto Final
+
+::: {style="font-size:0.85em; line-height:1.6;"}
+::: cuadro-actividad
+**En grupos de 3 personas**, empiecen a conversar sobre el tema de su proyecto final. Cada quien propone 1-2 ideas y las evalúan juntes según:
+
+- **Interés:** ¿es un fenómeno de género que les genera curiosidad genuina?
+- **Factibilidad:** ¿se puede investigar con el tiempo y los datos disponibles?
+- **Literatura disponible:** ¿hay conceptos y lecturas del curso en los que apoyarse?
+
+Usen la guía impresa para registrar sus ideas y la decisión final.
+:::
+:::
+
+::: notes
+Recordatorio: el check-in de tema y bibliografía es el 15 de octubre (clase 9), sin nota, con retroalimentación de la profesora o ayudantes.
+:::
+
+------------------------------------------------------------------------
+
+## Lecturas mínimas próxima clase
+
+:::: {style="font-size:0.85em; line-height:1.6;"}
+- Capítulo asignado de Risman (2018). Vamos a tener una actividad en clase. *El libro completo está disponible digital en el sitio web de la Biblioteca UC.*
+- Viveros Vigoya, M. (2016). La interseccionalidad: una aproximación situada a la dominación.
+
+::::
+
+::: notes
+25-30 para terminar.
+:::
+
+------------------------------------------------------------------------
+
+## Sistema multinivel: preparación para la lectura de la próxima semana {background-color="#f8f4ff"}
+
+:::::: {style="font-size:0.85em;"}
+::::: columns
+::: {.column width="55%"}
+- Barbara Risman (2018).
+- Entrevistaron a 116 jóvenes que el año 2013 tenían entre 18 y 30 años.
+- Examinar cómo esta generación entiende la estructura de género, o su lugar dentro de ella.
+:::
+
+::: {.column width="43%"}
+![Barbara J. Risman, *Adónde nos llevará la generación millennial: en lucha contra la estructura de género*](C5_12.png){fig-align="center"}
+:::
+:::::
+::::::
+
+::: notes
+Revisar si esta preparación se solapa con el contenido de la Clase 6 (Multinivel) — si ese deck también explica el sistema de tres niveles en profundidad, considerar acortar esta sección para no duplicar contenido.
+:::
+
+------------------------------------------------------------------------
+
+## Cuatro grupos de millennials frente a la estructura de género (Risman 2018)
+
+::: {style="font-size:0.8em; line-height:1.6;"}
+- **1. Verdaderos creyentes (n=30)** En todos los niveles, aceptan, respaldan, y viven el género de forma tradicional.
+- **2. Oscilantes (n=48)** Tienen un pie en una estructura de género tradicional y otro en un mundo sin reglas de género claras.
+- **3. Innovadores/as (n=21)** Rechazan insistentemente la estructura de género en cada nivel de análisis e intentan cambiarla reflexivamente.
+- **4. Rebeldes (n=17)** Critican y cuestionan las categorías de género, rechazan el binarismo.
+:::
+
+::: notes
+5 min. Buen puente hacia la lectura de la próxima semana — quizás preguntar a la clase en cuál grupo se ven reflejados/as antes de nombrar las cuatro categorías.
+:::
+
+------------------------------------------------------------------------
+
+## Asignación aleatoria de grupos
+
+![Asignación de capítulos a leer](millenials_grupos.png){fig-align="center"}

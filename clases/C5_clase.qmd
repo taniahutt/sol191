@@ -29,17 +29,6 @@ SOL191 · Clase 5
 
 ---
 
-## Fecha de la prueba {background-color="#f8f4ff"}
-
-::: {.cuadro-datos}
-**16 respuestas**
-
-- 68,8% Mantener la fecha actual
-- 31,3% Atrasar la prueba
-:::
-
----
-
 ## Objetivos de hoy {background-color="#f8f4ff"}
 
 ---
@@ -328,34 +317,4 @@ Esta diferenciación tiene consecuencias en tres niveles: (1) a nivel individual
 5 min.
 :::
 
----
 
-## Invitación: coloquio ISUC {background-color="#1e1035" style="color:white;"}
-
-::: columns
-::: {.column width="42%"}
-Martes 16 de abril
-
-13:30 horas
-
-Sala Magíster ISUC
-:::
-::: {.column width="56%"}
-![Ciclo Coloquios ISUC 2024: "El castigo a la maternidad futura en el mercado laboral" — Tania Hutt](C5_13.png){fig-align="center"}
-:::
-:::
-
----
-
-## Evaluación temprana del curso
-
-::: {style="font-size:0.9em; line-height:1.7;"}
-- Recibir feedback temprano del curso permite identificar aspectos positivos y mejorables a tiempo.
-- En Canvas, sección Encuestas de Docencia.
-
-¡Muchas gracias!
-:::
-
-::: notes
-15 minutos.
-:::

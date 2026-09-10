@@ -386,3 +386,18 @@ Terminar primer módulo a las 3:50. 20 min de preparación. 44-50 min de present
 ::: notes
 5 min.
 :::
+
+---
+
+## Evaluación temprana del curso
+
+::: {style="font-size:0.9em; line-height:1.7;"}
+- Recibir feedback temprano del curso permite identificar aspectos positivos y mejorables a tiempo.
+- En Canvas, sección Encuestas de Docencia.
+
+¡Muchas gracias!
+:::
+
+::: notes
+15 minutos.
+:::
