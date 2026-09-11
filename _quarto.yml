@@ -7,9 +7,11 @@ project:
     - clases/C1_clase.qmd     # diapositivas de las clases ya dictadas
     - clases/C2_clase.qmd
     - clases/C4_clase_revisada.qmd
+    - clases/C5_clase_revisada.qmd
   resources:
     - lecturas/**            # copia todos los PDF aunque el nombre tenga & o , (bug de detección automática de Pandoc)
     - clases/C3_clase.pdf    # clase 3 fue asincrónica; se publica el PDF de la presentación
+    - .nojekyll               # evita que GitHub Pages procese el sitio con Jekyll (rompía PDFs con tildes/ñ en el nombre)
 
 website:
   title: "SOL191 · Sociología del Género"

@@ -186,7 +186,7 @@ Verificar la cita exacta y la página contra el PDF del artículo — corregí u
 ::: cuadro-actividad
 **Reflexión corta (1 párrafo):** ¿Siguen siendo generizadas las organizaciones que operan bajo estas nuevas lógicas? ¿De qué manera?
 
-**Responder referiendo a Mickey 2019.**
+**Responder refiriendo a Mickey 2019.**
 :::
 ::::
 :::::
@@ -202,17 +202,17 @@ Verificar la cita exacta y la página contra el PDF del artículo — corregí u
 ## Nueva economía, nuevas lógicas (Mickey 2019)
 
 ::: {style="font-size:0.78em; line-height:1.6;"}
-  - Estudio de caso etnográfico de "Data Inc." (seudónimo), empresa de software en EE.UU.
-  - **Como startup:** lógica "flexible" de equipos multifuncionales, jerarquía plana, "cada quien hacía de todo". 
-  - **Al salir a la bolsa:** la empresa se burocratiza: jerarquía formal, cargos especializados, escalafones de carrera, y contrata a más mujeres, sobre todo en áreas administrativas (RR.HH., marketing).
+- Estudio de caso etnográfico de "Data Inc." (seudónimo), empresa de software en EE.UU.
+- **Como startup:** lógica "flexible" de equipos multifuncionales, jerarquía plana, "cada quien hacía de todo".
+- **Al salir a la bolsa:** la empresa se burocratiza: jerarquía formal, cargos especializados, escalafones de carrera, y contrata a más mujeres, sobre todo en áreas administrativas (RR.HH., marketing).
 
-  ::: cuadro-datos
-  **Argumento central:** La *colisión* entre la lógica flexible y la burocrática la que produce una nueva desigualdad
-  :::
+::: cuadro-datos
+**Argumento central:** La *colisión* entre la lógica flexible y la burocrática la que produce una nueva desigualdad
+:::
+:::
 
-  ::: notes
-  Cita útil para leer en voz alta (Jessica, trabajadora de RR.HH.): "You can be really, really good at your job and if you don't form relationships here, you're going to fail... No one's going to do you any favors if they don't like you. It's kind of cut-throat." — ilustra la carga de autopromoción y networking que recae sobre las mujeres para lograr visibilidad, mientras que varios hombres entrevistados describen que el ascenso simplemente "les pasó".
-  :::
+::: notes
+Cita útil para leer en voz alta (Jessica, trabajadora de RR.HH.): "You can be really, really good at your job and if you don't form relationships here, you're going to fail... No one's going to do you any favors if they don't like you. It's kind of cut-throat." — ilustra la carga de autopromoción y networking que recae sobre las mujeres para lograr visibilidad, mientras que varios hombres entrevistados describen que el ascenso simplemente "les pasó".
 :::
 
 ------------------------------------------------------------------------
@@ -356,6 +356,7 @@ Los padres hacen más trabajo no remunerado cuando están casados, las mujeres e
 :::
 
 ------------------------------------------------------------------------
+
 ## Formando grupos: Proyecto Final
 
 ::: {style="font-size:0.85em; line-height:1.6;"}
