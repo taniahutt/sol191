@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -39,10 +42,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-158031087360bce0ff56dc785ce39e06.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-445b8638c3d06994fee0907d791121c4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -331,6 +334,7 @@ Nota
 </section>
 <section id="rúbrica-ensayo-100" class="level3">
 <h3 class="anchored" data-anchor-id="rúbrica-ensayo-100">Rúbrica — Ensayo (100%)</h3>
+<p>Cada estudiante responde 2 de las 3 preguntas. La rúbrica se aplica por separado a cada respuesta; la nota del componente es el promedio de ambas. Los criterios corresponden directamente a lo que piden las instrucciones de la prueba (teorías, diálogo con la literatura —del cual la ejemplificación con un caso empírico es una forma posible, no un requisito aparte—), más un criterio de reflexión crítica que distingue explícitamente entre resumir/memorizar y evaluar.</p>
 <table class="caption-top table">
 <colgroup>
 <col style="width: 19%">
@@ -350,37 +354,37 @@ Nota
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"><strong>Argumento y estructura</strong></td>
-<td style="text-align: left;">Tesis clara, desarrollada con evidencia y lógica consistente de principio a fin</td>
-<td style="text-align: left;">Argumento presente pero no desarrollado completamente, o con inconsistencias</td>
-<td style="text-align: left;">Sin argumento claro; solo descripción o lista de ideas</td>
-<td style="text-align: center;">35%</td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"><strong>Uso de conceptos del curso</strong></td>
-<td style="text-align: left;">Usa 2 o más conceptos correctamente, con definición implícita clara y aplicación precisa al problema</td>
-<td style="text-align: left;">Usa conceptos pero con imprecisiones o sin desarrollar su significado</td>
-<td style="text-align: left;">Menciona conceptos sin aplicarlos o los usa incorrectamente</td>
-<td style="text-align: center;">30%</td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><strong>Conexión entre lecturas</strong></td>
-<td style="text-align: left;">Conecta explícitamente 2 o más lecturas o autores/as del curso</td>
-<td style="text-align: left;">Menciona al menos una lectura con conexión relevante al argumento</td>
-<td style="text-align: left;">No referencia lecturas del curso, o las menciona sin relevancia</td>
+<td style="text-align: left;"><strong>Teorías del curso</strong> (definidas y aplicadas)</td>
+<td style="text-align: left;">Identifica la(s) teoría(s) pertinente(s), las define y explica con precisión (no solo las nombra), y las aplica de forma matizada al caso o pregunta</td>
+<td style="text-align: left;">Nombra y define brevemente la(s) teoría(s), pero la aplicación es genérica, parcial o mecánica</td>
+<td style="text-align: left;">No define la(s) teoría(s) (solo las nombra), o la aplicación es incorrecta o irrelevante</td>
 <td style="text-align: center;">25%</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><strong>Claridad y organización de la escritura</strong></td>
+<td style="text-align: left;"><strong>Diálogo con la literatura</strong> (calidad por sobre cantidad)</td>
+<td style="text-align: left;">Incorpora la literatura del curso de forma sustantiva y precisa: explica el argumento o hallazgo de cada lectura/estudio citado (no solo el tema) y lo pone en diálogo con el argumento propio — ya sea desarrollando 3 o más lecturas/estudios, o trabajando con 1–2 de forma rigurosa y bien conectada.</td>
+<td style="text-align: left;">Incorpora al menos una lectura/estudio de forma reconocible (explica su argumento, no solo el tema), pero el desarrollo es limitado, desequilibrado, o el resto de lo citado queda solo mencionado</td>
+<td style="text-align: left;">No incorpora lecturas/estudios del curso, o los menciona solo de pasada sin explicar su argumento o hallazgo</td>
+<td style="text-align: center;">35%</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>Argumento y reflexión crítica</strong></td>
+<td style="text-align: left;">Construye una tesis propia y evalúa la relación entre teoría y evidencia (compara, matiza, identifica tensiones o límites) en vez de solo describir o resumir lo leído</td>
+<td style="text-align: left;">Presenta una postura, pero se limita mayormente a describir o resumir el contenido, con poca evaluación propia</td>
+<td style="text-align: left;">No hay tesis identificable; la respuesta es una enumeración o resumen sin argumento propio</td>
+<td style="text-align: center;">30%</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>Claridad de la escritura</strong></td>
 <td style="text-align: left;">Redacción clara, ordenada y fácil de seguir</td>
-<td style="text-align: left;">Redacción comprensible pero con problemas de orden o claridad</td>
+<td style="text-align: left;">Comprensible pero con problemas de orden o claridad</td>
 <td style="text-align: left;">Difícil de seguir, desorganizada</td>
 <td style="text-align: center;">10%</td>
 </tr>
 </tbody>
 </table>
 <blockquote class="blockquote">
-<p><strong>Nota sobre el formato libro abierto:</strong> quien no leyó puede copiar definiciones del texto pero no puede aplicarlas ni construir un argumento coherente. El material abierto desplaza la evaluación desde la memorización hacia la comprensión y la aplicación, que son las competencias centrales del curso.</p>
+<p><strong>Nota sobre el formato libro abierto:</strong> al tener acceso a todos sus apuntes, copiar o parafrasear definiciones no basta para obtener un puntaje alto — eso solo cubre el nivel “Suficiente” de Teorías y Diálogo con la literatura, y no aporta al criterio de Argumento y reflexión crítica. El acceso al material desplaza la evaluación desde la memorización hacia la comprensión, la capacidad de aplicar las teorías a casos concretos y la reflexión crítica propia, que son las competencias centrales evaluadas en esta prueba.</p>
 </blockquote>
 <hr>
 </section>
