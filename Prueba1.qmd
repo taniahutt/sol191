@@ -1,0 +1,128 @@
+---
+title: "Prueba 1"
+subtitle: "Sociología del Género (SOL191) · Segundo Semestre 2026"
+lang: es
+format:
+  pdf: default
+  docx: default
+---
+
+**Nombre:** ______________________________________________
+
+## Instrucciones
+
+- Esta prueba es de **libro abierto**: pueden traer y usar durante la prueba cualquier material propio impreso o escrito a mano (notas, lecturas, resúmenes, apuntes de clase). No se permite el uso de dispositivos electrónicos.
+- Debe responder **DOS de las tres preguntas**, a su elección.
+- Duración: **70 minutos** (1 módulo).
+- Extensión máxima: **2 páginas por respuesta**.
+- Al finalizar, entregar esta hoja junto con sus respuestas.
+- En la última página hay una lista de las lecturas mínimas asignadas en las clases 1 a 6, que pueden servir de referencia.
+
+Al responder, deben dar cuenta de:
+
+1. **Teorías del curso:** cuando sea relevante, utilizar las teorías revisadas en clases. Las teorías que utilicen para formular sus respuestas deben quedar explícitas: defínanlas y explíquenlas brevemente (no basta con nombrarlas).
+2. **Diálogo con la literatura:** hagan referencia a los trabajos que respaldan científicamente sus reflexiones. Cada respuesta debe incluir **al menos 3 lecturas debidamente desarrolladas** (no solo mencionadas).
+3. **Ejemplificación:** una manera de dialogar con la literatura es ejemplificar con un caso empírico de alguno de los textos de la bibliografía del curso.
+
+---
+
+## Preguntas
+
+**Marque con una X las dos preguntas que responderá:**
+
+Pregunta 1 ( &nbsp;&nbsp;&nbsp; )     Pregunta 2 ( &nbsp;&nbsp;&nbsp; )     Pregunta 3 ( &nbsp;&nbsp;&nbsp; )
+
+### Pregunta 1 — Sistema de género multinivel
+
+Utilizando el marco de la estructura de género multinivel de Risman (2018), analice cómo el género opera simultáneamente en el nivel individual, interaccional e institucional en **uno** de los siguientes casos estudiados en el curso:
+
+(a) la experiencia de hombres transgénero en el lugar de trabajo (Schilt); o
+(b) mujeres en carreras STEM en Chile (Valenzuela et al., 2022).
+
+Identifique al menos un mecanismo por nivel y explique cómo se refuerzan entre sí.
+
+### Pregunta 2 — Esencialismo y explicaciones sociológicas
+
+Elija **uno** de los siguientes ámbitos vistos en el curso:
+
+- el tratamiento médico y legal de personas intersexuales (Human Rights Watch, 2018); o
+- el binarismo de género en la crianza (Compton & Bridges, 2013).
+
+Luego:
+
+(a) Presente una explicación esencialista o individual de la norma de género en ese ámbito.
+(b) Contrapóngala con una explicación sociológica interaccional **y** una institucional del mismo fenómeno.
+(c) Evalúe, con evidencia de al menos un estudio del curso, qué tan sostenible es la explicación esencialista en ese ámbito.
+
+### Pregunta 3 — Organizaciones generizadas e interseccionalidad
+
+Acker (1990) argumenta que las organizaciones no son neutrales al género, sino que están generizadas en su estructura. Elija un caso institucional visto en el curso (por ejemplo, la academia chilena — Crocco-Valdivia & Galaz-Valderrama, 2023 — o las lógicas de género en conflicto en organizaciones — Mickey, 2019).
+
+Utilizando la interseccionalidad (Viveros Vigoya, 2016), analice qué grupos de personas quedan especialmente desfavorecidos por esa estructura generizada, más allá del género. ¿Qué agrega la interseccionalidad a la teoría de Acker sobre organizaciones generizadas que el concepto, por sí solo, no captura?
+
+{{< pagebreak >}}
+
+## Hoja de respuesta — Pregunta 1
+
+**Nombre:** ______________________________________________
+
+*(responder solo si eligió esta pregunta)*
+
+{{< pagebreak >}}
+
+## Hoja de respuesta — Pregunta 2
+
+**Nombre:** ______________________________________________
+
+*(responder solo si eligió esta pregunta)*
+
+{{< pagebreak >}}
+
+## Hoja de respuesta — Pregunta 3
+
+**Nombre:** ______________________________________________
+
+*(responder solo si eligió esta pregunta)*
+
+{{< pagebreak >}}
+
+## Lecturas mínimas — Clases 1 a 6
+
+**Clase 1 — Introducción al curso. ¿Por qué una sociología del género?**
+
+- Risman (2018), pp. 21–46
+- Bokser Misses-Liwerant (2020)
+- Valdés (2001)
+
+**Clase 2 — Conceptos fundamentales: binarismo, esencialismo y patriarcado**
+
+- Connell (2009), "The Question of Gender", pp. 9–18
+- Human Rights Watch (2018)
+- Compton & Bridges (2013)
+- Johnson (2014), cap. 1
+
+**Clase 3 — Explicaciones para la desigualdad: aplicación al caso de mujeres en STEM**
+
+- Sanchis-Segura (2020)
+- Valenzuela et al. (2022)
+- Martin (1998)
+
+**Clase 4 — Interacciones: cómo se produce y reproduce el género**
+
+- Schilt, caps. 2–3
+- Video Ridgeway
+- Ridgeway & Correll (2004)
+- Martin (2009)
+- Rudman et al. (2012)
+
+**Clase 5 — Instituciones generizadas (*gendered*)**
+
+- Crocco-Valdivia & Galaz-Valderrama (2023)
+- Mickey (2019)
+- Johnson (2014), cap. 2
+- Acker (1990)
+
+**Clase 6 — Sistema multinivel e interseccionalidad**
+
+- Risman (2018), capítulo asignado en clase 5
+- Viveros Vigoya (2016)

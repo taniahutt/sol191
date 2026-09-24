@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c)",
+      "Bash(qpdf --show-npages C1_termometro_tarjetas_v2.pdf)",
+      "Bash(python3 -c ' *)",
+      "Bash(brew install *)",
+      "Bash(python3 -)",
+      "Bash(quarto render *)",
+      "Bash(mdimport -t -d2 C1_termometro_tarjetas_v2.pdf)",
+      "Bash(git add *)",
+      "Bash(git restore *)",
+      "Bash(git commit -m ' *)",
+      "Bash(git rm *)",
+      "Bash(rm -f \"docs/lecturas/.DS_Store\")"
+    ]
+  }
+}

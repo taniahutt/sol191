@@ -82,14 +82,16 @@ Evaluaciones individuales, en formato **libro abierto**: se puede traer cualquie
 
 ### Rúbrica — Ensayo (100%)
 
+Cada estudiante responde 2 de las 3 preguntas. La rúbrica se aplica por separado a cada respuesta; la nota del componente es el promedio de ambas. Los criterios corresponden directamente a lo que piden las instrucciones de la prueba (teorías, diálogo con la literatura —del cual la ejemplificación con un caso empírico es una forma posible, no un requisito aparte—), más un criterio de reflexión crítica que distingue explícitamente entre resumir/memorizar y evaluar.
+
 | Criterio | Excelente | Suficiente | Insuficiente | Ponderación |
 |:---|:---|:---|:---|:---:|
-| **Argumento y estructura** | Tesis clara, desarrollada con evidencia y lógica consistente de principio a fin | Argumento presente pero no desarrollado completamente, o con inconsistencias | Sin argumento claro; solo descripción o lista de ideas | 35% |
-| **Uso de conceptos del curso** | Usa 2 o más conceptos correctamente, con definición implícita clara y aplicación precisa al problema | Usa conceptos pero con imprecisiones o sin desarrollar su significado | Menciona conceptos sin aplicarlos o los usa incorrectamente | 30% |
-| **Conexión entre lecturas** | Conecta explícitamente 2 o más lecturas o autores/as del curso | Menciona al menos una lectura con conexión relevante al argumento | No referencia lecturas del curso, o las menciona sin relevancia | 25% |
-| **Claridad y organización de la escritura** | Redacción clara, ordenada y fácil de seguir | Redacción comprensible pero con problemas de orden o claridad | Difícil de seguir, desorganizada | 10% |
+| **Teorías del curso** (definidas y aplicadas) | Identifica la(s) teoría(s) pertinente(s), las define y explica con precisión (no solo las nombra), y las aplica de forma matizada al caso o pregunta | Nombra y define brevemente la(s) teoría(s), pero la aplicación es genérica, parcial o mecánica | No define la(s) teoría(s) (solo las nombra), o la aplicación es incorrecta o irrelevante | 25% |
+| **Diálogo con la literatura** (calidad por sobre cantidad) | Incorpora la literatura del curso de forma sustantiva y precisa: explica el argumento o hallazgo de cada lectura/estudio citado (no solo el tema) y lo pone en diálogo con el argumento propio — ya sea desarrollando 3 o más lecturas/estudios, o trabajando con 1–2 de forma rigurosa y bien conectada.| Incorpora al menos una lectura/estudio de forma reconocible (explica su argumento, no solo el tema), pero el desarrollo es limitado, desequilibrado, o el resto de lo citado queda solo mencionado | No incorpora lecturas/estudios del curso, o los menciona solo de pasada sin explicar su argumento o hallazgo | 35% |
+| **Argumento y reflexión crítica** | Construye una tesis propia y evalúa la relación entre teoría y evidencia (compara, matiza, identifica tensiones o límites) en vez de solo describir o resumir lo leído | Presenta una postura, pero se limita mayormente a describir o resumir el contenido, con poca evaluación propia | No hay tesis identificable; la respuesta es una enumeración o resumen sin argumento propio | 30% |
+| **Claridad de la escritura** | Redacción clara, ordenada y fácil de seguir | Comprensible pero con problemas de orden o claridad | Difícil de seguir, desorganizada | 10% |
 
-> **Nota sobre el formato libro abierto:** quien no leyó puede copiar definiciones del texto pero no puede aplicarlas ni construir un argumento coherente. El material abierto desplaza la evaluación desde la memorización hacia la comprensión y la aplicación, que son las competencias centrales del curso.
+> **Nota sobre el formato libro abierto:** al tener acceso a todos sus apuntes, copiar o parafrasear definiciones no basta para obtener un puntaje alto — eso solo cubre el nivel "Suficiente" de Teorías y Diálogo con la literatura, y no aporta al criterio de Argumento y reflexión crítica. El acceso al material desplaza la evaluación desde la memorización hacia la comprensión, la capacidad de aplicar las teorías a casos concretos y la reflexión crítica propia, que son las competencias centrales evaluadas en esta prueba.
 
 ---
 
