@@ -18,8 +18,8 @@ Este documento contiene las rúbricas de cada componente de evaluación. Para la
 | Componente | Ponderación | Formato |
 |:---|:---:|:---|
 | Actividades en clase | 15% | Fichas de cierre (Wooclap) + actividades en clase |
-| Prueba 1 | 20% | Ensayo, libro abierto (clases 1 a 6) |
-| Prueba 2 / Prueba final | 20% | Ensayo, libro abierto (clases 7 a 15 · 3-Dic) |
+| Prueba 1 | 20% | Ensayo, libro abierto (clases 1 a 7) |
+| Prueba 2 / Prueba final | 20% | Ensayo, libro abierto (clases 8 a 14 · 3-Dic) |
 | Proyecto Final — Etapa 1: Podcast | 15% | Audio + transcripción (entrega 26-Oct) |
 | Proyecto Final — Etapa 2: Mini propuesta de investigación | 15% | Documento, 2–3 páginas (entrega 2-Nov) |
 | Proyecto Final — Etapa 3: Revisión por pares y defensa oral | 15% | Oral presencial, en pods (clases 13, 14 y 15) |
@@ -77,8 +77,8 @@ Evaluaciones individuales, en formato **libro abierto**: se puede traer cualquie
 
 **Cobertura y fecha:**
 
-- **Prueba 1** — clase 7, **1 de octubre**. Contenidos de las clases 1 a 6.
-- **Prueba 2 / Prueba final** — **jueves 3 de diciembre**. Contenidos de las clases 7 a 15.
+- **Prueba 1** — clase 7, **8 de octubre** (reprogramada; la del 1 de octubre fue cancelada por paro). Contenidos de las clases 1 a 7.
+- **Prueba 2 / Prueba final** — **jueves 3 de diciembre**. Contenidos de las clases 8 a 14.
 
 ### Rúbrica — Ensayo (100%)
 

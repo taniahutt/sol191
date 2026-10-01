@@ -53,10 +53,6 @@ SOL191 · Clase 6: Sistema multinivel e interseccionalidad
 **Hasta ahora:** en la clase 4 vimos el nivel interaccional (hacer género, creencias) y en la clase 5 el nivel institucional (organizaciones). Hoy los integramos en un solo sistema.
 :::
 
-::: notes
-Recap: C4 = interacciones; C5 = instituciones. C6 = cómo se conectan los niveles entre sí.
-:::
-
 ---
 
 ## ¿Por qué creen que las mujeres ganan menos en Chile?
@@ -67,12 +63,6 @@ Respondan en Wooclap:
 **¿Por qué creen que, en promedio, las mujeres ganan menos que los hombres en Chile?**
 
 Escriban libremente todas las razones que se les ocurran.
-:::
-
-
-
-::: notes
-Pregunta abierta de diagnóstico. Las respuestas se revisan en la pizarra en la slide siguiente y se retoman al terminar la Parte I.
 :::
 
 ---
@@ -111,23 +101,11 @@ Procesos ideológicos, significados dados a los cuerpos, normas de interacción 
 :::
 :::
 
-::: notes
-La cultura como un componente de la estructura, como una "caja de herramientas" de conocimiento cultural que nos ayuda a darle sentido y reaccionar al mundo.
-
-Risman plasma la importancia del aspecto cultural de la estructura incorporándolo en cada nivel de la estructura, que tiene aspectos materiales y aspectos culturales.
-:::
-
 ---
 
 ## El sistema multinivel de género
 
 ![](C6_mapa_es.png){.r-stretch fig-align="center" fig-alt="Modelo de Risman en español: el género como estructura social, con tres niveles (individual, interaccional y macro), cada uno con un componente material y uno cultural, conectados por flechas en ambos sentidos."}
-
-::: notes
-Traducción al español del modelo de Risman (2018). Para entender cómo opera el género como estructura social, debemos mirar cada nivel de análisis y las relaciones entre ellos. Y con la relación recursiva entre lo material y lo cultural en cada nivel y a través de diferentes niveles.
-
-En las siguientes slides aparece un mini-mapa en la esquina superior derecha que indica en qué nivel estamos.
-:::
 
 ---
 
@@ -150,10 +128,6 @@ En las siguientes slides aparece un mini-mapa en la esquina superior derecha que
 ![](C6_04.jpg){fig-align="center"}
 :::
 :::
-:::
-
-::: notes
-La estructura tiene implicancias en cómo nos entendemos a nosotros mismos, las identidades y personalidades de las personas.
 :::
 
 ---
@@ -180,12 +154,6 @@ La estructura tiene implicancias en cómo nos entendemos a nosotros mismos, las 
 :::
 :::
 
-::: notes
-La estructura tiene implicancias en cómo nos entendemos a nosotros mismos, las identidades y personalidades de las personas.
-
-Aunque importantes, ni nuestros cuerpos ni la socialización logran explicar la totalidad de la estratificación por género en la sociedad.
-:::
-
 ---
 
 ## Nivel interaccional: representación, acceso, creencias, expectativas {.con-mapa}
@@ -208,10 +176,6 @@ Aunque importantes, ni nuestros cuerpos ni la socialización logran explicar la 
 :::
 :::
 
-::: notes
-En cualquier interacción, las expectativas que están asociadas a nuestra categoría de sexo se hacen visibles y median lo que es esperado o no en esa interacción.
-:::
-
 ---
 
 ## Nivel interaccional: representación, creencias, expectativas {.con-mapa}
@@ -227,10 +191,6 @@ En cualquier interacción, las expectativas que están asociadas a nuestra categ
 - Expectativas de "hacer género" como es esperado.
 - Expectativas de status: se espera que las mujeres tengan una menor competencia, que sean más empáticas, mientras que los hombres más eficaces y con mayor agencia.
 - La resistencia es posible y es una forma de ir cambiando la estructura, pero normalmente viene con costos.
-:::
-
-::: notes
-En cualquier interacción, las expectativas que están asociadas a nuestra categoría de sexo se hacen visibles y median lo que es esperado o no en esa interacción.
 :::
 
 ---
@@ -252,10 +212,6 @@ En cualquier interacción, las expectativas que están asociadas a nuestra categ
   - Sistema basado en género binario.
   - Atenuante de adulterio solo para hombres en caso de femicidio.
   - Diferencias en ley de posnatal.
-:::
-
-::: notes
-Dato de sociedad conyugal: Registro Civil, reportado por La Tercera (30-ene-2024): en 2023, 49% sociedad conyugal, 46% separación de bienes y 3-4% participación en los gananciales; en 2001 la sociedad conyugal era 66%. Por primera vez la separación de bienes igualó a la sociedad conyugal.
 :::
 
 ---
@@ -282,20 +238,12 @@ Dato de sociedad conyugal: Registro Civil, reportado por La Tercera (30-ene-2024
 :::
 :::
 
-::: notes
-Datos del 2020.
-:::
-
 ---
 
 ## Ejercicio: la brecha salarial
 
 ::: {.cuadro-actividad}
 Volvamos a las respuestas de la pizarra: **¿en qué nivel (individual, interaccional o macro) cae cada una?** ¿Qué niveles quedaron sin mencionar?
-:::
-
-::: notes
-Clasificar en la pizarra las respuestas del formulario según los tres niveles. Lo habitual es que la mayoría sean explicaciones del nivel individual. Luego pasar a las slides siguientes, que muestran un ejemplo completo.
 :::
 
 ---
@@ -378,20 +326,12 @@ Clasificar en la pizarra las respuestas del formulario según los tres niveles. 
 - El **término** lo acuña Kimberlé Crenshaw (1989), a propósito de un caso legal de trabajadoras negras de General Motors.
 :::
 
-::: notes
-Comentar solo brevemente. Viveros (2016) muestra que estas ideas circulaban desde hacía mucho tiempo en contextos históricos y geopolíticos diversos. Crenshaw ha aclarado que su intención fue crear un concepto de uso práctico para analizar omisiones jurídicas, no una teoría general de la opresión.
-:::
-
 ---
 
 ## Kimberlé Crenshaw sobre los orígenes de la interseccionalidad
 
 ::: {style="font-size:1em; text-align:center; margin-top:2em;"}
 Video: Kimberlé Crenshaw sobre los orígenes del concepto de interseccionalidad
-:::
-
-::: notes
-(Video incrustado en la presentación original.)
 :::
 
 ---
@@ -429,16 +369,6 @@ Video: Kimberlé Crenshaw sobre los orígenes del concepto de interseccionalidad
 :::
 :::
 
-::: notes
-Analogía: sumar es poner pesos en una balanza; consubstancialidad es una masa de pan: una vez mezclados harina, agua y levadura no puedes sacar un ingrediente ni decir cuánto del pan es "agua".
-
-Tres pruebas de que la suma falla (Viveros): (1) el hombre esclavizado (Davis): no tiene los atributos que definen la dominación masculina (propiedad, proveer, controlar a su familia), así que el género no funciona igual que en un hombre blanco. (2) Matrimonio entre un hombre negro y una mujer blanca en Bogotá: la mujer pierde estatus y también prestigio como mujer, porque su sexualidad se vuelve sospechosa; la raza actúa a través del género. (3) Masculinidades en Armenia y Quibdó: se miden contra un modelo de clase y raza (proveedor responsable, padre presente).
-
-Ejemplo chileno (propio, no de Viveros): la "dueña de casa" se define en contraste con la trabajadora de casa particular. La feminidad de una se construye frente a la de otra, de otra clase y otro origen (Dorlin, citada por Viveros).
-
-Frase de cierre: la pregunta no es cuántas desventajas tiene alguien, sino cómo se producen unas a otras.
-:::
-
 ---
 
 ## Interseccionalidad y estereotipos (Ridgeway & Kricheli-Katz 2013)
@@ -454,10 +384,6 @@ Frase de cierre: la pregunta no es cuántas desventajas tiene alguien, sino cóm
 ## ¿Quién calza con el prototipo?
 
 ![](C6_prototipo.png){.r-stretch fig-align="center" fig-alt="Cuadro con género (hombre, mujer) y categoría racial (blanca, negra, asiática): cuatro combinaciones calzan con el prototipo, los hombres asiáticos están fuera de la diagonal y las mujeres negras doblemente fuera."}
-
-::: notes
-"Fuera de la diagonal" significa que la persona no calza con el prototipo de una de sus categorías (hombres asiáticos: calzan con "asiático" pero no con "hombre") o de ninguna (mujeres negras: no son el prototipo de "mujer" ni de "persona negra"). Esquema propio a partir de Ridgeway & Kricheli-Katz (2013).
-:::
 
 ---
 
@@ -547,10 +473,6 @@ This Photo by Unknown Author is licensed under CC BY-NC-ND
 :::
 :::
 
-::: notes
-Terminar primer módulo a las 3:50. 20 min de preparación. 44-50 min de presentaciones.
-:::
-
 ---
 
 ## Mientras presentan los otros grupos
@@ -561,20 +483,12 @@ Terminar primer módulo a las 3:50. 20 min de preparación. 44-50 min de present
 Anoten, para cada grupo, la idea principal de cada nivel.
 :::
 
-::: notes
-La guía se entrega impresa, una por persona. Cada estudiante completa la fila del grupo que presenta; el grupo propio se completa con lo preparado.
-:::
-
 ---
 
 ## Cuatro grupos de millennials
 
 ::: {style="font-size:0.85em; color:#666; text-align:center; margin-top:2em;"}
 *(Tabla/diagrama de la presentación original — no se pudo extraer su contenido de forma automática.)*
-:::
-
-::: notes
-5 min.
 :::
 
 ---
@@ -588,6 +502,3 @@ La guía se entrega impresa, una por persona. Cada estudiante completa la fila d
 ¡Muchas gracias!
 :::
 
-::: notes
-15 minutos. Dejar el tiempo para que la respondan en clase. Si no alcanza hoy, se responde al inicio de la próxima clase.
-:::

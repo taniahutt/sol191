@@ -1,34 +1,58 @@
 #!/usr/bin/env python3
-"""Elimina las notas del presentador (<aside class="notes">...</aside>)
-de los HTML de revealjs ya renderizados en docs/, para que no queden
-publicadas en GitHub Pages.
+"""Remove Pandoc `::: notes` fenced divs (revealjs speaker notes) from a .qmd file.
 
-Las notas siguen existiendo en los .qmd fuente (bloques `::: notes`) y
-en la vista de orador al presentar localmente con `quarto preview`;
-esto solo limpia la copia pública generada en docs/.
+Usage: python3 strip_speaker_notes.py <input.qmd> <output.qmd>
+
+The notes divs are always fenced with exactly three colons in this project's
+slides (outer containers like columns use four), so a line that is exactly
+"::: notes" opens a block and the next line that is exactly ":::" closes it.
 """
-import re
 import sys
-from pathlib import Path
 
-NOTES_RE = re.compile(r"<aside class=\"notes\">.*?</aside>\s*", re.DOTALL)
 
-def strip_file(path: Path) -> int:
-    html = path.read_text(encoding="utf-8")
-    cleaned, n = NOTES_RE.subn("", html)
-    if n:
-        path.write_text(cleaned, encoding="utf-8")
-    return n
+def strip_notes(lines):
+    out = []
+    skipping = False
+    for line in lines:
+        stripped = line.strip()
+        if not skipping and stripped == "::: notes":
+            skipping = True
+            continue
+        if skipping:
+            if stripped == ":::":
+                skipping = False
+            continue
+        out.append(line)
+
+    # Collapse runs of 2+ blank lines left behind by removed blocks.
+    collapsed = []
+    blank_run = 0
+    for line in out:
+        if line.strip() == "":
+            blank_run += 1
+            if blank_run <= 1:
+                collapsed.append(line)
+        else:
+            blank_run = 0
+            collapsed.append(line)
+    return collapsed
+
 
 def main():
-    docs_dir = Path(__file__).resolve().parent.parent / "docs"
-    total = 0
-    for html_file in docs_dir.rglob("*.html"):
-        n = strip_file(html_file)
-        if n:
-            print(f"  - {html_file.relative_to(docs_dir.parent)}: {n} nota(s) eliminada(s)")
-            total += n
-    print(f"strip_speaker_notes: {total} nota(s) del presentador eliminadas de docs/.")
+    if len(sys.argv) != 3:
+        sys.exit(f"Usage: {sys.argv[0]} <input.qmd> <output.qmd>")
+    input_path, output_path = sys.argv[1], sys.argv[2]
+
+    with open(input_path, encoding="utf-8") as f:
+        lines = f.readlines()
+
+    result = strip_notes(lines)
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        f.writelines(result)
+
+    print(f"Wrote {output_path} ({len(result)} lines, from {len(lines)})")
+
 
 if __name__ == "__main__":
-    sys.exit(main())
+    main()
