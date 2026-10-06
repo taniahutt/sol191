@@ -16,13 +16,13 @@ format:
 - Duración: **70 minutos** (1 módulo).
 - Extensión máxima: **2 páginas por respuesta**.
 - Al finalizar, entregar esta hoja junto con sus respuestas.
-- En la última página hay una lista de las lecturas mínimas asignadas en las clases 1 a 6, que pueden servir de referencia.
+- En la última página hay una lista de las lecturas mínimas asignadas en las clases 1 a 6, que pueden servir de referencia. 
 
 Al responder, deben dar cuenta de:
 
 1. **Teorías del curso:** cuando sea relevante, utilizar las teorías revisadas en clases. Las teorías que utilicen para formular sus respuestas deben quedar explícitas: defínanlas y explíquenlas brevemente (no basta con nombrarlas).
 2. **Diálogo con la literatura:** hagan referencia a los trabajos que respaldan científicamente sus reflexiones. Cada respuesta debe incluir **al menos 3 lecturas debidamente desarrolladas** (no solo mencionadas).
-3. **Ejemplificación:** una manera de dialogar con la literatura es ejemplificar con un caso empírico de alguno de los textos de la bibliografía del curso.
+3. **Ejemplificación:** una manera de dialogar con la literatura es ejemplificar con un caso empírico de alguno de los textos de la bibliografía del curso o de los estudios revisados en clases.
 
 ---
 
@@ -52,7 +52,7 @@ Luego:
 
 (a) Presente una explicación esencialista o individual de la norma de género en ese ámbito.
 (b) Contrapóngala con una explicación sociológica interaccional **y** una institucional del mismo fenómeno.
-(c) Evalúe, con evidencia de al menos un estudio del curso, qué tan sostenible es la explicación esencialista en ese ámbito.
+(c) Evalúe, con evidencia de al menos un estudio del curso (de clase o lectura), qué tan sostenible es la explicación esencialista en ese ámbito.
 
 ### Pregunta 3 — Organizaciones generizadas e interseccionalidad
 
@@ -91,36 +91,27 @@ Utilizando la interseccionalidad (Viveros Vigoya, 2016), analice qué grupos de 
 **Clase 1 — Introducción al curso. ¿Por qué una sociología del género?**
 
 - Risman (2018), pp. 21–46
-- Bokser Misses-Liwerant (2020)
-- Valdés (2001)
 
 **Clase 2 — Conceptos fundamentales: binarismo, esencialismo y patriarcado**
 
 - Connell (2009), "The Question of Gender", pp. 9–18
 - Human Rights Watch (2018)
 - Compton & Bridges (2013)
-- Johnson (2014), cap. 1
 
 **Clase 3 — Explicaciones para la desigualdad: aplicación al caso de mujeres en STEM**
 
 - Sanchis-Segura (2020)
 - Valenzuela et al. (2022)
-- Martin (1998)
 
 **Clase 4 — Interacciones: cómo se produce y reproduce el género**
 
 - Schilt, caps. 2–3
 - Video Ridgeway
-- Ridgeway & Correll (2004)
-- Martin (2009)
-- Rudman et al. (2012)
 
 **Clase 5 — Instituciones generizadas (*gendered*)**
 
 - Crocco-Valdivia & Galaz-Valderrama (2023)
 - Mickey (2019)
-- Johnson (2014), cap. 2
-- Acker (1990)
 
 **Clase 6 — Sistema multinivel e interseccionalidad**
 
