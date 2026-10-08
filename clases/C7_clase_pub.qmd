@@ -36,10 +36,6 @@ SOL191 · Clase 7
 - **Contrastar** esa evidencia, producida mayormente en EE. UU., con datos y estudios de Chile.
 :::
 
-::: notes
-Total: 62 min de clase + 8 min de ficha de cierre. Avanzar lento: es preferible profundizar en las discusiones teóricas (actividad grupal y síntesis final) que cubrir todo el material de las diapositivas.
-:::
-
 ---
 
 ## Para empezar: tomen posición {background-color="#f8f4ff"}
@@ -50,10 +46,6 @@ Total: 62 min de clase + 8 min de ficha de cierre. Avanzar lento: es preferible 
 
 ::: {.cuadro-actividad}
 ¿De acuerdo o en desacuerdo? Voten (Wooclap) y anoten una razón en una frase.
-:::
-
-::: notes
-4 min (0–4). Registrar el resultado de la votación para repetirla al final de la clase y ver si cambió.
 :::
 
 ---
@@ -74,10 +66,6 @@ Sin embargo, el [modelo proactivo-reactivo]{.hl} persiste: los hombres toman la 
 :::
 
 Su respuesta: hombres y mujeres heterosexuales **traducen viejas desigualdades a nuevos espacios** usando creencias de género preexistentes.
-:::
-
-::: notes
-Conectar con Ridgeway y Correll (clase 4): las creencias de género se activan en contextos relacionales. Lamont cita explícitamente que el guion agente/comunal justifica otras desigualdades (brecha salarial, segregación ocupacional, división del trabajo en el hogar).
 :::
 
 ---
@@ -128,10 +116,6 @@ Fuentes: Encuesta ICSO-UDP 2025, «Ser hombre hoy en Chile» (pregunta sobre «u
 ¿Qué supone cada respuesta sobre quién tiene agencia y quién tiene poder? 
 :::
 
-::: notes
-3 min. Dos fuentes chilenas con diseños distintos: ICSO-UDP 2025 es una encuesta social reciente (3 de cada 10 aún lo considera adecuado; 7 de cada 10 no, o le da lo mismo), pero pregunta por «una cita», no por la primera. Match.com 2012 pregunta por la primera cita, pero es una muestra autoseleccionada de suscriptores de un sitio de citas: en 2012 el 77% decía que el hombre debe pagar y 64% de las mujeres lo esperaba. Cuando la mujer se ofrece a pagar (Match 2012): 42% dice que hay que llegar a un acuerdo, 34% que el hombre debería insistir y pagar todo, 23% que ella pague. No son comparables directamente (distinta pregunta, distinta muestra, 13 años). Idea de fondo: pagar no es solo un gesto, es un acto de iniciativa y de definición de quién «lleva» la relación.
-:::
-
 ---
 
 ## Cuatro contextos donde esperaríamos cambio
@@ -143,10 +127,6 @@ Fuentes: Encuesta ICSO-UDP 2025, «Ser hombre hoy en Chile» (pregunta sobre «u
 | **Autodesarrollo de las mujeres** | Independencia económica y proyecto propio | Dos imperativos en tensión; la elección como justificación |
 | **Citas por apps** | Más iniciativa posible para las mujeres | Mismos patrones de contacto y jerarquías de deseabilidad |
 | **Exclusión económica** | Los guiones de "clase media" no aplican | Se desea y se sufre el mismo guion |
-:::
-
-::: notes
-Esta tabla es el mapa de la sección: 1 min. Cada contexto se desarrolla a continuación en una diapositiva (≈3 min cada una). Hoy no se revisa el hookup como "tema de moda", sino como prueba de la tesis de persistencia.
 :::
 
 ---
@@ -161,10 +141,6 @@ Esta tabla es el mapa de la sección: 1 min. Cada contexto se desarrolla a conti
 | ***Egalitarian essentialism*** | Se apoya la igualdad de oportunidades en lo público, pero se cree que hombres y mujeres son esencialmente distintos en lo privado (Pepin y Cotter 2018). |
 | ***Choice feminism*** | Interpretar las prácticas generizadas como elecciones personales, apolíticas, compatibles con una identidad feminista (Stone 2007). |
 | **Narrativas de desesperación** | Temor de las mujeres a ser vistas como "necesitadas" si buscan compromiso o toman la iniciativa. |
-:::
-
-::: notes
-2 min. Se entregan las definiciones para que la actividad grupal sea de análisis y no de búsqueda. Las y los estudiantes pueden pedir más precisión; remitir a las secciones del artículo.
 :::
 
 ---
@@ -184,10 +160,6 @@ Los beneficios de la cultura del *hookup* **no se distribuyen por igual**.
 :::
 :::
 
-::: notes
-3 min. Lamont subraya que aun el hookup, que parece "sin normas", se ordena por supuestos de género sobre quién quiere qué. Es un ejemplo claro de cómo las creencias de género se reproducen incluso donde el guion explícito desaparece.
-:::
-
 ---
 
 ## 2. Autodesarrollo y citas: dos imperativos en tensión
@@ -200,14 +172,6 @@ Los beneficios de la cultura del *hookup* **no se distribuyen por igual**.
   - los procesos de género se "de-generizan" (Daminger 2020),
   - los quiebres se narran como "necesidad excesiva" propia (Dalessandro y Wilkins 2017).
 - Persisten las **narrativas de desesperación**, incluso con más independencia.
-:::
-
-::: notes
-3 min. Punto clave para la síntesis: aquí aparece por primera vez el lenguaje de la elección individual, que vamos a retomar con Martínez Echagüe. Lamont también destaca el placer: las personas disfrutan de los rituales generizados y los viven como compatibles con identidades feministas (Lamont 2014).
-
-**«De-generizar» (Daminger 2020).** El artículo (*De-gendered processes, gendered outcomes*, ASR) estudia parejas que se declaran igualitarias pero terminan con un reparto desigual del trabajo en el hogar. Daminger muestra que las parejas explican esa desigualdad con razones que no mencionan el género: preferencias personales, rasgos de carácter, horarios, «a ella le importa más». El proceso se vuelve «de-generizado» (el género desaparece de la explicación), pero el resultado sigue siendo generizado (casi siempre es ella quien hace más). Lamont lo usa para las citas: si pagar, esperar la iniciativa del hombre o las citas tradicionales se viven como «una preferencia mía», dejan de verse como desigualdad de género y se reduce el conflicto entre ser una mujer progresista y desear estos rituales. Pregunta para la clase: ¿qué otra explicación «neutral» han escuchado para justificar que él pague o que él inicie?
-
-**«Necesidad excesiva» (Dalessandro y Wilkins 2017).** El artículo (*Blinded by love*, Gender & Society) analiza cómo mujeres y hombres jóvenes cuentan sus quiebres amorosos. Muchas mujeres narran el término de la relación como resultado de su propia *neediness* («yo era muy demandante», «esperaba demasiado de él»), en vez de verlo como una falla de la pareja. Así, las expectativas de las mujeres pasan a ser «poco realistas» y el quiebre se transforma en una oportunidad de crecimiento personal (autodesarrollo: «aprendí qué trato puedo esperar»). Los hombres usan un marco parecido: dicen que las expectativas de ellas amenazan sus propios proyectos y que, cuando sean mayores, serán más capaces de atender las necesidades emocionales de otra persona. Efecto: la narrativa de autodesarrollo refuerza que las mujeres sacrifiquen sus necesidades por las de los hombres y que sean quienes cuidan emocionalmente, justo lo contrario de lo que parecía prometer. Ejemplo para la clase: «terminamos porque yo pedía mucho» vs. «terminamos porque él no se comprometía».
 :::
 
 ---
@@ -227,25 +191,6 @@ Los beneficios de la cultura del *hookup* **no se distribuyen por igual**.
 :::
 :::
 
-::: notes
-¿Puede un nuevo espacio para conocer parejas cambiar las creencias de género que guían la interacción? ¿Qué se parece y qué se diferencia del caso chileno? 
-Pregunta intencionalmente abierta: un cambio de espacio o de formato cambia la forma pero no necesariamente las creencias (Ridgeway y Correll).
-
-**Podrían cambiar quién inicia.** La mayoría de las personas jóvenes ya conoce a sus parejas por internet (Rosenfeld y Thomas 2012). Como no hay presentación cara a cara ni un guion fijo, uno esperaría que más mujeres tomen la iniciativa. Bumble se diseñó así (solo ellas pueden escribir primero) y se presentó como «100% feminista».
-
-**Los hombres envían la gran mayoría de los mensajes.** Según los datos de OkCupid (Rudder 2014), las mujeres reciben muchos más contactos de los que envían. Ellas se sienten desbordadas por los mensajes; ellos se frustran, pero siguen escribiendo porque ellas no contactan. El patrón proactivo-reactivo se mantiene aunque la tecnología permita otra cosa.
-
-**Apariencia hegemónica.** Quienes se ajustan más a los estándares dominantes de atractivo (cuerpo, edad, tez, etc.) reciben aún más mensajes. La atención se concentra en pocas personas y la mayoría queda con poco contacto.
-
-**Jerarquía de deseabilidad racializada que se intensifica.** Curington, Lundquist y Lin (2021) muestran que la raza y el color de piel ordenan a quién se contacta y cómo se le trata. En línea, los filtros y los perfiles hacen explícitas y más rápidas estas preferencias, que cara a cara se esconden o se matizan.
-
-**Filtrar y manejar riesgo.** Las mujeres dedican tiempo a seleccionar contactos, verificar identidades y protegerse. Adeyinka-Skold (2020) llama *cyberaggression* al acoso que viven en línea: sexualización rápida de la conversación, imágenes no pedidas y mensajes hostiles cuando rechazan. Los hombres no reportan los mismos temores de seguridad.
-
-**Más empoderador para algunas.** Algunas mujeres prefieren las citas en línea porque pueden controlar el ritmo y filtrar antes de encontrarse. Esto dice mucho sobre los riesgos que enfrentan fuera de línea, no solo sobre la app.
-
-**Chile.** Gómez-Urrutia y Tello-Navarro (2024, *Comunicación y Sociedad*, e8604): estudio cualitativo con 60 estudiantes universitarios/as. Se espera que ellos tomen la iniciativa, y los códigos de género que restringen la sexualidad femenina se trasladan al espacio digital. Ellas evalúan más riesgos y son más cautas al «pelarse» (coquetear con varias personas). Ninguna dice haber subvertido los códigos. No es extrapolable a toda la juventud, como señalan los autores. Conecta con el modelo proactivo-reactivo (iniciativa) y con la sanción a las mujeres que no se ajustan.
-:::
-
 ---
 
 ## 4. Exclusión económica
@@ -261,10 +206,6 @@ Pregunta intencionalmente abierta: un cambio de espacio o de formato cambia la f
 El problema no es que valoren cosas distintas, sino **quién tiene los recursos para actuar el guion**.
 :::
 
-::: notes
-3 min. No encontré estudios chilenos específicos sobre citas y clase social: es un vacío que se puede nombrar abiertamente y plantear como pregunta de investigación para el proyecto final. Conectar con interseccionalidad (clase 6): el guion de género opera como estándar para todos, aunque solo algunos puedan cumplirlo. Quedar "fuera" del guion no es lo mismo que desafiarlo.
-:::
-
 ---
 
 ## ¿Y cuándo sí hay cambio? Contraste con parejas del mismo sexo
@@ -278,20 +219,12 @@ El problema no es que valoren cosas distintas, sino **quién tiene los recursos 
 
 :::
 
-::: notes
-3 min (29–32). Es una diapositiva de cierre de la sección de Lamont, no un tema nuevo. Esta evidencia viene del artículo de 2017; la lectura mínima de 2021 la menciona solo de pasada.
-:::
-
 ---
 
 ## ¿Qué es la igualdad en la pareja? {background-color="#f8f4ff"}
 
 ::: {.cuadro-actividad}
 Escriban individualmente (1 min): ¿qué es para ti un **indicador** de igualdad de género en la pareja heterosexual?
-:::
-
-::: notes
-1 min (32–33). Pedir que lo guarden: después lo compararán con la definición que usa Martínez Echagüe (2026), que tomó como meta una división equitativa del trabajo doméstico y de algunas tareas de cuidado, con el 50/50 como horizonte flexible más que como regla estricta.
 :::
 
 ---
@@ -305,10 +238,6 @@ Escriban individualmente (1 min): ¿qué es para ti un **indicador** de igualdad
 
 - **Datos:** 40 entrevistas con ambos miembros de **20 parejas** heterosexuales, cis y con educación universitaria, en Carolina del Norte.
 - **Argumento:** la desigualdad es el *default*; lograr una división equitativa **requiere trabajo**: el [*equality work*]{.hl}.
-:::
-
-::: notes
-2 min (33–35). Publicado en *Social Forces* 104(3), 2026, pp. 898–916. Parejas de 26 a 46 años, entrevistas entre noviembre de 2019 y abril de 2020. Se eligió a propósito el caso "más fácil" para la igualdad (personas muy educadas, mayoritariamente blancas), lo que limita la generalización. Es trabajo cognitivo y emocional, y se suma al resto del trabajo doméstico que ya hacen mayoritariamente las mujeres. La autora lo diferencia de conceptos cercanos: carga mental, trabajo cognitivo (Daminger 2019) y gestión del hogar, que tratan de decidir qué hay que hacer y hacerlo, no de asegurar que el reparto sea equitativo. Método: análisis abductivo; entrevistó a cada integrante por separado y pidió ejemplos de episodios concretos para reducir respuestas aspiracionales. La nota de 2021 presentó el proyecto; las definiciones teóricas de igualdad que aparecían ahí no están en el artículo.
 :::
 
 ---
@@ -330,10 +259,6 @@ Casi todo recae en las **mujeres**; monitorear es el paso en que más participan
 ¿Cuál de los seis pasos creen que es el más costoso y por qué?
 :::
 
-::: notes
-2 min (35–37). Detalles: en el 75 % de las parejas con ideales igualitarios compartidos, ellas hablaron del tema de forma concreta; en más del 80 %, ellos respondieron de forma vaga. Ejemplo del paso 6: una participante decide no limpiar los platos como "no culpa consciente"; los estándares de limpieza de las mujeres se mencionaron como más altos el doble de veces que los de los hombres; en las 4 parejas que externalizaron, en dos fue fuente de conflicto. Paso 3: los hombres participan cuando también quieren evitar sobrecargarse. Paso 4: exige regular emociones (frustración y culpa) y puede escalar en conflicto. Paso 5: listas compartidas, apps y recordatorios; cuesta más cuando ellos se resisten.
-:::
-
 ---
 
 ## Cuando el trabajo de igualdad falla: revisar los ideales
@@ -346,10 +271,6 @@ Casi todo recae en las **mujeres**; monitorear es el paso en que más participan
 
 ::: {.cuadro-actividad}
 ¿Es esto **justificación** (Daminger; Lamont) o **adaptación**? Si la revisión de ideales ocurre *después* de un esfuerzo fallido, ¿cambia cómo interpretamos el *choice feminism*?
-:::
-
-::: notes
-3 min (37–40). Los 20 casos: 3 parejas se esfuerzan juntas; 6 mujeres dejaron el trabajo de igualdad y revisaron sus ideales; 7 combinan algo de trabajo con algo de revisión; 3 parejas no tenían ideales 50/50 y 1 es abiertamente desigual. La autora diferencia esta estrategia de negar o explicar la desigualdad: no pretende volverla invisible, sino separar "igualdad" del trabajo doméstico. Aun así, como la justificación, hace soportable la desigualdad. Pregunta de fondo: ¿lo que Lamont describe como "preferencia personal" podría ser el resultado de un trabajo de igualdad fallido? Conecta con la paradoja: hacer el trabajo de la pareja o hacer el trabajo de educarla. En dos de las parejas que lo sostienen, ellas educaron antes a sus parejas sobre la igualdad (hallazgo esperanzador: no hace falta el compromiso total de ambos desde el inicio).
 :::
 
 ---
@@ -370,11 +291,6 @@ Casi todo recae en las **mujeres**; monitorear es el paso en que más participan
 ¿Es esto una paradoja de las parejas individuales o una paradoja **estructural**?
 :::
 
-::: notes
-3 min (40–43). Estructura sin determinismo: las restricciones moldean el contexto, pero no determinan si el trabajo fracasa; aun con políticas y trabajos más favorables, la igualdad seguiría siendo esquiva si ellos no hacen su parte. El concepto podría extenderse a otros contextos (por ejemplo, el *equity work* de Wingfield 2019 o la sobrecarga de las mujeres en la academia). Límites que señala la autora: parejas muy educadas, mayoritariamente blancas y relativamente jóvenes; no sabemos cómo funciona con menor educación o en parejas queer (según Lamont 2017, para ellas la desigualdad podría no ser el *default*), lo que conecta con la diapositiva de parejas del mismo sexo. Valenzuela (2023) también es una muestra con educación superior: sirve para ver el mismo mecanismo, no para generalizar.
-:::
-
-
 ---
 
 ## Síntesis: ¿cómo se reconcilian ideales y realidad?
@@ -392,10 +308,6 @@ Casi todo recae en las **mujeres**; monitorear es el paso en que más participan
 ¿Son compatibles estos dos mecanismos o se contradicen? ¿La "elección individual" es el punto de partida o el resultado de un esfuerzo que fracasó? ¿Qué papel tiene el **placer**? ¿Qué agregan los casos chilenos que vimos (Valenzuela, González-Salva)?
 :::
 
-::: notes
-9 min (48–57): es la discusión teórica central. Dar 2 min de reflexión en parejas y luego plenario. Tensión clave: Lamont recurre a la tesis de incentivos asimétricos (England 2010), que Martínez Echagüe cuestiona directamente. Puentes: Risman (nivel individual: las personas construyen identidades de género y disfrutan de las performances normativas); Ridgeway y Correll (creencias esencialistas); Daminger (de-generizar y justificar). Si hay tiempo, repetir la votación inicial: ¿cambió alguien de posición? El artículo de Martínez Echagüe sugiere que "elección individual" no alcanza: el resultado depende de si la pareja colabora.
-:::
-
 ---
 
 ## Para cerrar: tomen posición otra vez {background-color="#f8f4ff"}
@@ -406,10 +318,6 @@ Casi todo recae en las **mujeres**; monitorear es el paso en que más participan
 
 ::: {.cuadro-actividad}
 ¿Cambió su posición? ¿Qué argumento de las lecturas la modificó?
-:::
-
-::: notes
-2 min (57–59). Comparar con la votación inicial. Pregunta final de transferencia: ¿qué les parece reconocible y qué propio de EE. UU. en Lamont y Martínez Echagüe?
 :::
 
 ---
@@ -441,6 +349,3 @@ Casi todo recae en las **mujeres**; monitorear es el paso en que más participan
 ¿Qué mujer "gana" y cuál "pierde" en este juego? ¿Qué muestra sobre *egalitarian essentialism*, sobre quién hace el trabajo emocional y sobre feminidad enfatizada? ¿Qué sesgo tiene el método (el juego, los perfiles, la muestra)?
 :::
 
-::: notes
-5 min (43–48). Es una muestra pequeña, solo de hombres estudiantes de una región y los perfiles son estereotipos construidos por los investigadores (los autores lo reconocen): sirve para discutir mecanismos, no para generalizar. Los números de cada código son frecuencias de citas, no porcentajes. Preguntas de apoyo: Carla combina rasgos que Lamont asocia al autodesarrollo (independencia, proyecto propio): ¿por qué es "buena para el momento" y no "para casar"? Conecta con los dos imperativos de las mujeres (autodesarrollo y relación) y con la clase 8 (masculinidades híbridas y feminidades).
-:::
