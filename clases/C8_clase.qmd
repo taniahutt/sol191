@@ -30,16 +30,28 @@ SOL191 · Clase 8: Feminidades y Masculinidades
 ## Objetivos de hoy
 
 ::: {style="font-size:0.95em;"}
-- Revisar y evaluar diferentes definiciones teóricas de los conceptos de feminidades y masculinidades.
-- Aplicar estos conceptos con ejemplos de estudios empíricos.
+- Revisar y evaluar diferentes definiciones teóricas de los conceptos de feminidades y masculinidades: masculinidad hegemónica, feminidad enfatizada, masculinidades híbrido y feminidades hegemónicas.
+- Aplicar estos conceptos con ejemplos de estudios empíricos recientes.
+- Analizar la "manosfera" como fenómeno contemporáneo y su relación con las crisis de masculinidad.
+- Examinar la divergencia ideológica de género entre jóvenes en América Latina.
+:::
+
+::: notes
+Hoy vamos a cubrir el marco teórico clásico (Connell, Kimmel) pero actualizándolo con la discusión contemporánea sobre masculinidades online y la divergencia ideológica de género. La idea es que piensen críticamente en cómo estos marcos teóricos de los 90s-2000s nos ayudan (o no) a entender fenómenos actuales como la manosfera, Andrew Tate, o las tradwives.
 :::
 
 ---
 
-## Para ti, ¿qué característica es masculina? ¿y femenina? {background-color="#f8f4ff"}
+## Wooclap: ¿Qué tan de acuerdo estás? {background-color="#f8f4ff"}
+
+::: {style="font-size:1.1em; text-align:center; margin-top:1em;"}
+*"Ser hombre hoy es más difícil que en el pasado"*
+
+Responde en la escala de 1 (muy en desacuerdo) a 7 (muy de acuerdo)
+:::
 
 ::: notes
-10 min.
+5 min. Actividad Wooclap con escala slider. Mostrar resultados en vivo. Luego revelar el dato de la encuesta ICSO-UDP (julio 2025): el 54% de los hombres chilenos está de acuerdo con esta frase, versus el 38% de las mujeres. En la derecha política sube a 60%, en el centro e izquierda baja a 37%. Preguntar: ¿se parece a lo que respondió el curso? ¿Qué les dice esa brecha por género y por posición política? Este dato abre exactamente la discusión que vamos a tener hoy: ¿los hombres efectivamente la tienen más difícil, o lo que ha cambiado es la legitimidad de la hegemonía masculina? Esto conecta con el concepto de "vértigo de género" de Bridges y Pascoe que veremos más adelante.
 :::
 
 ---
@@ -63,6 +75,10 @@ Imagen creada por inteligencia artificial para: "foto de cuerpo completo de un h
 :::
 :::
 
+::: notes
+El concepto de masculinidad hegemónica (MH) viene de Connell (1987, 1995). Es importante enfatizar que "hegemónica" viene de Gramsci: no se trata de dominación por fuerza bruta, sino de un liderazgo cultural que se sostiene porque es aceptado como legítimo y "natural". La mayoría de los hombres no encarnan la MH, pero se benefician de ella — lo que Connell llama el "dividendo patriarcal". Preguntar a los estudiantes: ¿quién encarna la MH en Chile hoy? ¿Cómo se ve eso en sus contextos (universidad, familia, medios)?
+:::
+
 ---
 
 ## Masculinidad hegemónica (R. Connell)
@@ -81,6 +97,10 @@ Imagen creada por inteligencia artificial para: "foto de cuerpo completo de un h
 :::
 :::
 
+::: notes
+Es clave que entiendan que la MH es relacional: se define en oposición a lo que no es (no-femenino, no-gay, no-débil). Connell distingue al menos cuatro relaciones entre masculinidades: hegemonía, subordinación, complicidad y marginalización. La mayoría de los hombres son "cómplices" — no encarnan el ideal pero se benefician de la estructura. Esto es fundamental para entender por qué hombres que no son particularmente "machistas" en lo individual pueden seguir reproduciendo desigualdad de género a nivel estructural.
+:::
+
 ---
 
 ## Feminidad enfatizada (R. Connell)
@@ -92,7 +112,7 @@ Imagen creada por inteligencia artificial para: "foto de cuerpo completo de un h
 :::
 
 ::: notes
-Como estar siempre en necesidad de ayuda, ser pequeña y débil, y evitar conductas dominantes.
+Ejemplos de feminidad enfatizada: estar siempre en necesidad de ayuda, ser pequeña y débil, evitar conductas dominantes, priorizar la apariencia para la mirada masculina, ser emocionalmente disponible. Connell argumenta que, a diferencia de la MH, no hay una "feminidad hegemónica" porque las feminidades no dominan a otras feminidades de la misma forma. Hamilton et al. (2019) van a cuestionar esto más adelante en la clase con el concepto de feminidades hegemónicas desde una perspectiva interseccional.
 
 15 min (hasta acá).
 :::
@@ -101,12 +121,15 @@ Como estar siempre en necesidad de ayuda, ser pequeña y débil, y evitar conduc
 
 ## Masculinidad como homofobia (Kimmel)
 
-::: {style="font-size:0.95em;"}
+::: {style="font-size:0.9em;"}
 - Kimmel afirma que la homofobia es un principio organizativo central de nuestra definición de masculinidad.
 - El esfuerzo por demostrar la propia masculinidad a otros hombres conduce al silencio y la complicidad en torno al sexismo y la homofobia.
+- La masculinidad no se demuestra ante las mujeres, sino ante otros hombres: es una "homosocialidad" constante donde el mayor temor es ser considerado insuficientemente masculino.
 :::
 
 ::: notes
+Kimmel (1994) argumenta que "la masculinidad es una demostración homosocial". Lo que organiza la masculinidad no es tanto el deseo de poder sobre las mujeres, sino el miedo a ser juzgado como insuficiente por otros hombres. Esto conecta directamente con Pascoe: el insulto "fag" no es necesariamente sobre orientación sexual, sino sobre fallar en la performance de masculinidad. Preguntar: ¿ven esto en sus propios espacios sociales? ¿Cómo opera entre los hombres de su generación?
+
 35 min.
 :::
 
@@ -126,17 +149,168 @@ Como estar siempre en necesidad de ayuda, ser pequeña y débil, y evitar conduc
 :::
 
 ::: notes
-7 minutos - 10 min de plenario.
+Pascoe (2007) hizo etnografía en un liceo en EEUU. Su hallazgo central es que "fag" funciona como un mecanismo disciplinario: no apunta a la homosexualidad per se, sino a cualquier falla en la masculinidad (ser emocional, débil, no deportivo, etc.). Además es racializado: los chicos afroamericanos podían hacer cosas "femeninas" (bailar, cuidar su apariencia) sin ser llamados "fag" porque ya estaban hipermasculinizados por estereotipos raciales. Consecuencias: represión emocional, violencia, conductas de riesgo, problemas de salud mental, dificultad para formar relaciones íntimas. Esto conecta directamente con los datos del Manosphere Rewired que veremos: 2/3 de los hombres jóvenes sienten que "nadie los conoce realmente".
+
+7 minutos discusión — 10 min plenario.
 :::
 
 ---
 
-## Crisis (Bridges y Pascoe 2018)
+## Crisis de masculinidad (Bridges y Pascoe 2018)
 
-::: {style="font-size:0.85em;"}
+::: {style="font-size:0.82em;"}
 - Connell dice que las relaciones de género son históricamente inestables y tienden a entrar en crisis. Estas crisis afectan las relaciones de género de manera incompleta.
 - Se han intensificado en la historia reciente, resultando en "una gran pérdida de legitimidad del patriarcado" y "diferentes grupos de hombres están negociando esta pérdida en formas muy diferentes".
 - Los periodos de cambio pueden venir con un [vértigo de género]{.hl}, un sentido de malestar e incomodidad en la medida que las estructuras y relaciones de género se van transformando.
+- Esta crisis no es "de" la masculinidad sino de las relaciones de género: el marco hegemónico pierde legitimidad pero no ha sido reemplazado.
+:::
+
+::: notes
+Bridges y Pascoe (2018) advierten que el lenguaje de "crisis de masculinidad" puede ser engañoso. La idea de que "los hombres están en crisis" individualiza un problema estructural y puede generar una reacción defensiva que refuerza el orden de género en vez de transformarlo. Es importante distinguir entre: (1) las dificultades reales que enfrentan los hombres (salud mental, aislamiento, pérdida de empleo), y (2) la narrativa de "crisis" que enmarca estos problemas como causados por el feminismo o la igualdad de género. Esta distinción es clave para entender la manosfera que veremos a continuación.
+:::
+
+---
+
+# La manosfera y las masculinidades online {background-color="#6B4C9A" style="color:white;"}
+
+::: notes
+Transición al tema contemporáneo. Acá vamos a conectar la teoría con el fenómeno empírico de la manosfera, usando el informe de Equimundo (2024).
+:::
+
+---
+
+## La "crisis de conexión" masculina (Equimundo 2024)
+
+::: {style="font-size:0.82em;"}
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Datos del informe *State of American Men 2023***
+
+- [48%]{.hl} de hombres jóvenes (18-23) dice que su vida online es más interesante que la offline.
+- [2/3]{.hl} de hombres jóvenes sienten que "nadie los conoce realmente".
+- [40%]{.hl} de los hombres confían en una o más voces misóginas online.
+- [44%]{.hl} de hombres reportó pensamientos suicidas en las últimas dos semanas.
+:::
+:::
+::: {.column width="48%"}
+- Hombres jóvenes enfrentan una combinación de soledad, confusión sobre qué significa "ser hombre", inestabilidad económica y dificultades en relaciones.
+- La manosfera ofrece respuestas simples a problemas complejos: roles claros, comunidad, sentido de propósito.
+- [53%]{.hl} de los hombres cree que "hoy en día los hombres la tienen más difícil que las mujeres".
+:::
+:::
+:::
+
+::: notes
+Estos datos son del informe Manosphere Rewired (Equimundo & Futures Without Violence, 2024). Es crucial contextualizar: estos problemas son reales (aislamiento, salud mental, falta de propósito), pero la narrativa de la manosfera los enmarca como causados por el feminismo y la igualdad de género, cuando en realidad son consecuencia de estructuras patriarcales que también dañan a los hombres (represión emocional, expectativas de proveedor, etc.). Este es el punto clave del informe: los hombres jóvenes tienen necesidades legítimas de conexión y sentido, y la manosfera explota esas necesidades. Conectar con Kimmel y Pascoe: la misma represión emocional que la MH exige es lo que deja a los hombres sin herramientas para formar conexiones significativas.
+:::
+
+---
+
+## ¿Y en Chile? (Encuesta ICSO-UDP, julio 2025)
+
+::: {style="font-size:0.78em;"}
+::: columns
+::: {.column width="48%"}
+::: {.cuadro-datos}
+**"Ser hombre hoy es más difícil que en el pasado"**
+
+- Hombres: [54%]{.hl} de acuerdo
+- Mujeres: [38%]{.hl} de acuerdo
+- Derecha: 60% · Centro/Izquierda: 37%
+:::
+
+::: {.cuadro-datos}
+**"Es difícil saber cómo comportarse con las mujeres por temor a ser malinterpretado"**
+
+- Hombres: [68%]{.hl} de acuerdo
+- Mujeres: 52% de acuerdo
+:::
+:::
+::: {.column width="48%"}
+::: {.cuadro-datos}
+**Sin embargo...**
+
+- Los avances en derechos de las mujeres son importantes: [79%]{.hl}
+- Prefiere sociedad donde hombres y mujeres compartan responsabilidades por igual: [67%]{.hl}
+- 89% cree que es importante que los hombres expresen sus emociones
+- Hombres que toman postnatal: [86%]{.hl} lo ve positivo
+:::
+:::
+:::
+:::
+
+::: notes
+Estos datos de la encuesta ICSO-UDP (julio 2025, N=1.100, online, no probabilística con cuotas) son muy valiosos para conectar la discusión teórica con la realidad chilena. Muestran exactamente la tensión que describe la literatura: los hombres sienten incomodidad y perciben que la tienen más difícil, pero al mismo tiempo reconocen que los avances en igualdad son importantes y positivos. Esto es el "vértigo de género" de Bridges y Pascoe en datos chilenos. Otro dato clave: la palabra más mencionada para describir a los hombres hoy fue "machistas" — y tanto hombres como mujeres dieron más descriptores negativos que positivos (hombres: 44% negativas vs. 42% positivas; mujeres: 68% negativas vs. 24% positivas). Dato preocupante: el 11% de los hombres y el 10% de los jóvenes 18-29 consideran que la violencia es justificable para que un hombre se haga respetar. Sobre consentimiento: 36% cree que hay consentimiento si la persona no rechaza explícitamente — dato que merece discusión. Conectar con la pregunta Wooclap del inicio.
+:::
+
+---
+
+## ¿Qué es la manosfera?
+
+::: {style="font-size:0.82em;"}
+::: columns
+::: {.column width="55%"}
+Una colección diversa de sitios web, blogs y foros online que promueven la masculinidad, la misoginia y la oposición al feminismo. Incluye:
+
+- **MRAs** (Men's Rights Activists): activistas por "derechos de los hombres"
+- **MGTOW** (Men Going Their Own Way): hombres que rechazan relaciones con mujeres
+- **PUAs** (Pick-Up Artists): artistas de la seducción
+- **TradCons**: conservadores tradicionalistas
+- **Incels**: célibes involuntarios
+:::
+::: {.column width="43%"}
+::: {.cuadro-datos}
+**La "cadena" de la manosfera** (Bates)
+
+Los contenidos se mueven de los grupos más extremos hacia el mainstream, ganando un "barniz de normalización" en el camino. Cada comunidad interactúa con las adyacentes, manteniendo la movilidad de ideas pero aislando los eslabones más altos de la censura pública.
+:::
+:::
+:::
+:::
+
+::: notes
+La investigadora Laura Bates describe la manosfera como una cadena: los contenidos más extremos (incels, violencia explícita) se van "suavizando" a medida que suben hacia figuras más mainstream como Andrew Tate o Jordan Peterson. Esto es importante porque significa que un joven puede entrar buscando consejos sobre fitness o dating y terminar expuesto a ideología misógina progresivamente más radical. La "filosofía de la red pill" (referencia a Matrix) propone que el feminismo es una mentira y que los hombres deben "despertar" a la supuesta misandria. La investigación de Equimundo es particularmente valiosa porque adoptó un enfoque de diseño centrado en el humano: en vez de solo documentar el daño, buscaron entender qué necesidades legítimas están siendo capturadas por la manosfera.
+:::
+
+---
+
+## La fórmula de la manosfera
+
+::: {style="font-size:0.82em;"}
+::: columns
+::: {.column width="32%"}
+::: {.cuadro-datos}
+**1. Validación emocional**
+
+Explotan la inseguridad masculina. Culpan a otros (feminismo, sociedad) y canalizan el resentimiento.
+
+*"Me enseñaron a ser femenino, pero las mujeres rechazan al nice guy"*
+:::
+:::
+::: {.column width="32%"}
+::: {.cuadro-datos}
+**2. Aspiraciones**
+
+Ofrecen modelos claros y un camino paso a paso: fitness, dinero, éxito sexual.
+
+*Escuelas online con suscripción ($199/mes) sobre "productividad" y "energía masculina"*
+:::
+:::
+::: {.column width="32%"}
+::: {.cuadro-datos}
+**3. Comunidad**
+
+Ofrecen pertenencia y accountability grupal. Métricas de progreso. Identidad compartida.
+
+*Grupos activos en redes sociales y membresías pagadas*
+:::
+:::
+:::
+:::
+
+::: notes
+Esta es la fórmula que identifica el informe de Equimundo. Lo que hace tan efectiva a la manosfera es que responde a necesidades reales: (1) los hombres necesitan validación emocional pero no tienen espacios para ello — la MH les dice que las emociones son debilidad; (2) necesitan sentido de propósito y dirección, especialmente en un contexto de precariedad económica; (3) necesitan comunidad y pertenencia. El problema no es que ofrezcan estas cosas, sino que las entregan envueltas en ideología misógina. Preguntar: ¿conocen influencers que sigan este patrón? ¿Se han encontrado con este tipo de contenido en sus redes? La investigación también encontró que el 76% de los hombres dice que internet les permite conectar con personas que no conocerían de otra forma — hay un potencial positivo que está siendo capturado por actores nocivos.
 :::
 
 ---
@@ -144,33 +318,33 @@ Como estar siempre en necesidad de ayuda, ser pequeña y débil, y evitar conduc
 ## Visiones/respuestas al "vértigo de género"
 
 ::: {style="font-size:0.8em;"}
-Dos discursos actuales que han tomado popularidad en redes sociales: muchas críticas y también mucho respaldo, personas que se sienten muy identificadas con estas ideas y sienten que les están dando una voz.
-
-Son ejemplos de discursos que van contra ideas actuales liberales con respecto al género. Hay muchos otros; estos son sólo dos ejemplos.
+Discursos que van contra ideas liberales sobre el género y que han tomado enorme popularidad, especialmente entre jóvenes. Las figuras cambian, pero la estructura del fenómeno se mantiene.
 :::
 
-::: {style="font-size:0.85em;"}
+::: {style="font-size:0.78em;"}
 ::: columns
 ::: {.column width="48%"}
 ::: {.cuadro-datos}
-**Andrew Tate**
+**La manosfera mainstream**
 
-Influencer en redes sociales, empresario, ex boxeador. Ha sido acusado de incentivar la misoginia en hombres jóvenes.
-
-Más de 8,5 millones de seguidores en X, tercera persona más googleada en 2023.
+- **Andrew Tate**: ex boxeador, empresario. Fue la tercera persona más googleada del mundo en 2023. Baneado de Meta, TikTok y YouTube en 2022 por contenido misógino, pero su contenido circula masivamente a través de cuentas de fans y clips. Actualmente enfrenta juicio en Rumania por tráfico de personas y violación, y demandas civiles en Reino Unido por abuso sexual (juicio programado para junio 2026).
+- **Hamza Ahmed**: el influencer de la manosfera más prominente en el Reino Unido según The Guardian. 2,2 millones de suscriptores en YouTube. Vende cursos de "escuela de Adonis" ($199/mes) sobre "productividad", "energía masculina alfa" y "cómo conseguir novia".
 :::
 :::
 ::: {.column width="48%"}
 ::: {.cuadro-datos}
-**Estee Williams**
+**Las "tradwives"**
 
-25 años, influencer "tradwife". 1,3 millones de likes en TikTok.
+- **Nara Smith**: 12 millones de seguidores en TikTok. Cocina elaborados platos desde cero en ropa de diseñador. Aunque ha rechazado la etiqueta tradwife ("soy una mamá que trabaja"), su estética representa la feminidad enfatizada como aspiración.
+- **Estee Williams**: la tradwife original de TikTok. En 2025 abandonó el contenido tradwife tras una crisis familiar (su hija requiere un trasplante de corazón). Su caso ilustra la fragilidad de la feminidad enfatizada como proyecto de vida: la dependencia económica se vuelve una vulnerabilidad ante la adversidad.
 :::
 :::
 :::
 :::
 
 ::: notes
+Es importante presentar estas figuras no como curiosidades individuales sino como expresiones de tendencias estructurales. Tate fue baneado de las principales plataformas en agosto 2022 por violar políticas de "organizaciones e individuos peligrosos", pero su contenido sigue circulando masivamente a través de miles de cuentas de fans — la cadena de la manosfera en acción. Hamza Ahmed es un ejemplo de la segunda generación de influencers de la manosfera: más "pulido", menos explícitamente violento, pero con el mismo modelo (validación emocional → aspiraciones → comunidad con suscripción pagada). En Chile, Johannes Kaiser y su entorno (La Cofradía en YouTube) representan una versión local del fenómeno: su partido (Partido Nacional Libertario) tiene el mayor porcentaje de militantes hombres de Chile. Sobre las tradwives: Nara Smith es interesante porque ilustra la tensión entre feminidad enfatizada como estética y como realidad — ella misma dice que trabaja y que su marido comparte las tareas del hogar, pero su contenido proyecta exactamente lo contrario. El caso de Estee Williams es analíticamente valioso: cuando la vida real se complica, la dependencia económica que el modelo tradwife celebra se convierte en vulnerabilidad. Preguntar: ¿cómo se relacionan estas figuras con los conceptos de MH y feminidad enfatizada? ¿Son reacciones a la crisis o son parte de la reconfiguración de la hegemonía? Dato de Equimundo: los niños expuestos a contenido misógino en redes sociales tienen 5 veces más probabilidades de considerar aceptable agredir físicamente a otra persona. Dato Movember: 2/3 de los hombres jóvenes en UK, EEUU y Australia interactúan regularmente con influencers de masculinidad online.
+
 10 min.
 :::
 
@@ -181,10 +355,11 @@ Más de 8,5 millones de seguidores en X, tercera persona más googleada en 2023.
 ::: {.cuadro-actividad}
 - ¿Qué nos dicen estas ideas sobre las masculinidades y feminidades actuales? ¿Qué rol o espacio tienen estas formas de masculinidad y feminidad?
 - ¿Qué impactos (positivos o negativos) podrían tener estas ideas en la desigualdad de género?
+- Pensando en el informe de Equimundo: ¿cómo se podría responder a la "crisis de conexión" masculina sin reforzar la misoginia?
 :::
 
 ::: notes
-10 min discusión en grupo, luego plenario.
+10 min discusión en grupo, luego plenario. Guiar la discusión hacia la tensión entre: reconocer que los hombres tienen problemas reales (salud mental, aislamiento) vs. la instrumentalización de esos problemas por la manosfera. El informe de Equimundo sugiere que hay un 20% de hombres que ya muestran alguna forma de alianza con la igualdad de género — estos son una "audiencia puente" clave. La respuesta no puede ser solo demonizar la manosfera sino ofrecer alternativas que respondan a las mismas necesidades de conexión, propósito y comunidad.
 :::
 
 ---
@@ -204,6 +379,10 @@ Más de 8,5 millones de seguidores en X, tercera persona más googleada en 2023.
 :::
 :::
 
+::: notes
+Bridges y Pascoe (2014, 2018) proponen este concepto para analizar cómo las masculinidades "progresistas" o "nuevas" no necesariamente desafían la jerarquía de género. Las masculinidades híbrido son una forma de adaptación que puede obscurecer las desigualdades en vez de eliminarlas. Ejemplos del artículo: hombres heterosexuales que adoptan prácticas de cuidado personal ("metrosexuales"), que expresan emociones, que apoyan el feminismo verbalmente. La pregunta clave es: ¿estos cambios desafían la estructura de género o la refuerzan de formas más sutiles? Esto es particularmente relevante para su generación, donde muchos hombres se declaran feministas pero las desigualdades persisten.
+:::
+
 ---
 
 ## Masculinidades híbrido
@@ -212,6 +391,10 @@ Más de 8,5 millones de seguidores en X, tercera persona más googleada en 2023.
 - ¿Qué significan estos cambios, estas masculinidades híbrido? ¿Son cambios a la estructura de género? Hay dos miradas:
   - Sí, reflejan un cambio en las relaciones de género donde estas nuevas configuraciones de identidad son una forma de resistencia a la desigualdad de género.
   - Más que desafiar las relaciones de género, son parte de un proceso dinámico que se asocia a tres tipos de consecuencias que tienen las masculinidades híbrido.
+:::
+
+::: notes
+Acá está la tensión teórica central de Bridges y Pascoe. ¿Es el cambio real o superficial? Ellos argumentan que, en muchos casos, es lo segundo: las masculinidades híbrido permiten a hombres privilegiados parecer progresistas sin renunciar a sus privilegios. Es una forma de actualización hegemónica: el contenido cambia pero la posición estructural se mantiene. Esto es lo que hace que el concepto sea tan útil para analizar fenómenos contemporáneos.
 :::
 
 ---
@@ -232,6 +415,10 @@ Más de 8,5 millones de seguidores en X, tercera persona más googleada en 2023.
 :::
 :::
 
+::: notes
+Distancia discursiva: hombres de clase media/alta, blancos, heterosexuales pueden decir "yo no soy machista" o "yo soy diferente" y con eso se distancian de la MH sin renunciar a sus beneficios. El "machismo" se atribuye a hombres de clase baja, rurales, o de otras etnias. Esto es exactamente lo que pasa en el estudio de Madrid (2016) sobre colegios de elite en Chile: algunos colegios producen una masculinidad que se ve más "moderna" pero mantiene las mismas estructuras de poder. Preguntar: ¿ven esto en la UC? ¿Quién "puede" ser feminista sin costo social y quién no?
+:::
+
 ---
 
 ## Consecuencias de las masculinidades híbrido
@@ -245,6 +432,10 @@ Más de 8,5 millones de seguidores en X, tercera persona más googleada en 2023.
 - Ejemplo: hombre metrosexual que toma prestada la cultura gay.
 :::
 
+::: notes
+El concepto de "turismo simbólico" es particularmente potente: un hombre heterosexual privilegiado puede experimentar con moda, emociones, o estéticas de la cultura queer como algo lúdico, sin enfrentar la discriminación real. Es como un turista que visita un lugar pero puede irse cuando quiera. Otros ejemplos contemporáneos: hombres blancos usando slang afroamericano, hombres heterosexuales haciendo bromas sobre ser gay ("no homo"). La diferencia clave es el costo: para quienes producen originalmente esas identidades en lucha, son fundamentales para su supervivencia y reconocimiento; para los hombres privilegiados, son accesorios opcionales.
+:::
+
 ---
 
 ## Consecuencias de las masculinidades híbrido
@@ -254,6 +445,10 @@ Más de 8,5 millones de seguidores en X, tercera persona más googleada en 2023.
 
 - Fortalece límites simbólicos y sociales entre grupos (raciales, de género, sexualidad, clase), lo que esconde la desigualdad en formas históricamente novedosas.
 - Tal como el "bromance", el "dude sex" depende de relaciones simbólicas que desafían y al mismo tiempo refuerzan sistemas de poder y desigualdad.
+:::
+
+::: notes
+El "bromance" es un buen ejemplo: los hombres pueden tener relaciones afectivas intensas entre sí, pero solo mientras se mantenga absolutamente clara la frontera con la homosexualidad. La cercanía emocional entre hombres se permite solo bajo la condición de que la heterosexualidad no se cuestione. De la misma forma, el "dude sex" (sexo entre hombres que se identifican como heterosexuales) se permite solo cuando hay suficientes marcadores de heterosexualidad que protejan la identidad. Esto refuerza los límites entre hetero y gay en vez de desmantelarlos. En conjunto, las tres consecuencias muestran que el cambio en las masculinidades puede servir para modernizar la hegemonía, no para eliminarla.
 :::
 
 ---
@@ -283,14 +478,16 @@ Cómo dos tradiciones sociológicas explican el rol de las feminidades en la dom
 :::
 
 ::: notes
-In the context of the contemporary United States, women who perform hegemonic femininities may more easily locate and secure sexual and romantic partners who have access to racial privilege, greater education, wealth, income, attractiveness, and popularity.
-
-Because high-status women often recruit and select incoming members, they are in the position to decide to whom and on what basis inclusion should be extended (Armstrong and Hamilton 2013).
+Hamilton et al. (2019) hacen una contribución teórica importante al proponer las "feminidades hegemónicas" desde una perspectiva interseccional. Connell limitó las feminidades a un rol pasivo (complementario o enfatizado), pero Hamilton y sus colegas argumentan que algunas feminidades tienen poder — no sobre los hombres, sino sobre otras mujeres. La tradición de Collins permite ver cómo las feminidades blancas, heterosexuales, de clase alta operan como dominantes sobre otras feminidades. Esto es fundamental para entender, por ejemplo, por qué ciertas formas de feminismo (blanco, liberal) pueden excluir o subordinar a mujeres racializadas, de clase trabajadora, o queer. En el contexto chileno: ¿qué feminidad es la "hegemónica"? ¿Quién define qué es ser "una mujer exitosa" en Chile?
 :::
 
 ---
 
 ![](C8_08.png){fig-align="center" width="85%"}
+
+::: notes
+Este diagrama es central para entender la contribución de Hamilton et al. Muestra cómo las feminidades no son simplemente subordinadas a las masculinidades, sino que tienen su propia jerarquía interna que reproduce desigualdades de raza, clase y sexualidad. Las feminidades hegemónicas son las que simultáneamente defienden y legitiman todos los ejes de opresión en la matriz de dominación.
+:::
 
 ---
 
@@ -309,6 +506,8 @@ Las feminidades hegemónicas pueden recibir ciertos "bonos" o "premios". ¿Ejemp
 :::
 
 ::: notes
+Bonos o premios de la feminidad hegemónica: acceso a parejas románticas y sexuales con privilegio racial, mayor educación, riqueza, atractivo y popularidad. En contextos universitarios, como el que estudia Hamilton, las mujeres de alto estatus a menudo reclutan y seleccionan a las nuevas miembras de sus grupos (sororities, grupos sociales), decidiendo a quién y bajo qué criterios se extiende la inclusión. Ejemplos en Chile: grupos sociales en universidades de elite, estándares de belleza, acceso a ciertos espacios sociales. Las feminidades hegemónicas no buscan dominar a los hombres sino asegurar la posición de ciertas mujeres sobre otras mujeres.
+
 15 min. 10 min de discusión. 25 min en total (segundo módulo).
 :::
 
@@ -329,33 +528,149 @@ Estudia el proceso de construcción de masculinidades hegemónicas en la clase d
 :::
 
 ::: notes
-De este modo, durante 2011 conduje entrevistas de historias de vida focalizadas (Plummer, 2001) con 32 hombres y 9 mujeres (de 19 a 45 años) ex-estudiantes de 18 colegios privados de elite, de los tres tipos identificados en la literatura — tradicionales católicos, nuevos movimientos católicos y no católicos —, todos ellos ubicados en la parte más adinerada de Santiago de Chile: "el barrio alto".
+Madrid (2016) realizó entrevistas de historias de vida con 32 hombres y 9 mujeres (19 a 45 años), ex-estudiantes de 18 colegios privados de elite en Santiago. Identificó tres tipos: tradicionales católicos, nuevos movimientos católicos y no católicos, todos en el barrio alto. Los resultados muestran que la MH se construye de forma diferenciada según el tipo de colegio, pero todas las versiones mantienen la dominación de clase. Este es un excelente caso para aplicar el concepto de masculinidades híbrido: los colegios "progresistas" pueden producir masculinidades que parecen más abiertas pero que siguen reproduciendo privilegio de clase y género. La pregunta sobre feminidades es clave: en estos espacios de elite, ¿qué tipo de feminidad se valoraba? ¿Cómo se intersectan clase y género en la experiencia de las mujeres de estos colegios?
 :::
 
 ---
 
-## Actividad en grupo: ¿distanciamiento ideológico entre hombres y mujeres jóvenes?
+# Divergencia ideológica de género {background-color="#6B4C9A" style="color:white;"}
 
-::: {style="font-size:0.85em;"}
-::: {.cuadro-actividad}
-**Grupos de 4-5 estudiantes**
+::: {style="font-size:0.9em; color: white;"}
+¿Se están separando políticamente los hombres y mujeres jóvenes?
+:::
 
-- Completar guía en grupo.
-- Revisar el artículo sobre las opiniones políticas de hombres y mujeres jóvenes.
-- Identificar el principal resultado destacado en el artículo.
-- ¿Creen que efectivamente se está dando un distanciamiento político de género en las generaciones más jóvenes?
-- ¿Por qué creen que podría estar o no pasando esto? ¿Cómo se podría relacionar con las masculinidades y feminidades?
-- ¿Aplicará esto en el contexto chileno actual? ¿Cómo lo ven en su generación?
+::: notes
+Transición a la última sección de la clase. Acá vamos a ver evidencia empírica sobre una de las manifestaciones más claras del "vértigo de género" a nivel macro: la divergencia ideológica entre hombres y mujeres jóvenes.
+:::
+
+---
+
+## Una nueva brecha global de género (Burn-Murdoch 2024)
+
+![](C8_09.png){fig-align="center" width="90%"}
+
+::: notes
+Este artículo del Financial Times (Burn-Murdoch, 2024) fue ampliamente discutido. Muestra que en EEUU, Alemania, Reino Unido, Corea del Sur, y otros países, se ha abierto una brecha ideológica entre hombres y mujeres jóvenes que no existía en generaciones anteriores. En EEUU, la brecha es de 30 puntos porcentuales. El artículo atribuye el fenómeno a #MeToo como catalizador, redes sociales que crean espacios separados, y una divergencia que se ha vuelto autosustentable. El caso de Corea del Sur es extremo: la brecha ha contribuido al colapso de la tasa de matrimonio y natalidad (0.78 hijos por mujer en 2022). Alice Evans, investigadora de Stanford, lo llama "la gran divergencia de género". Pero: ¿aplica esto en América Latina? Para eso vamos a ver el estudio de Argote (2026).
+:::
+
+---
+
+## Divergencia ideológica en América Latina (Argote 2026)
+
+::: {style="font-size:0.78em;"}
+::: columns
+::: {.column width="55%"}
+**Datos y método**
+
+- LAPOP AmericasBarometer (2006-2023)
+- 6 países: Argentina, Brasil, Chile, Colombia, México, Uruguay
+- 71.228 observaciones
+- Análisis por cohorte de nacimiento
+
+**Hallazgo central**
+
+Existe una clara [brecha ideológica de género]{.hl} entre los jóvenes: mujeres nacidas después de 1980 se inclinan a la izquierda y hombres a la derecha. Esta divergencia está ausente en generaciones anteriores.
+:::
+::: {.column width="43%"}
+::: {.cuadro-datos}
+**El puzzle**
+
+La brecha se da en las *etiquetas* ideológicas (izquierda-derecha) pero **no** en posiciones sustantivas. No hay divergencia en:
+
+- Apoyo a reducir desigualdad
+- Matrimonio igualitario
+- Aborto
+
+Las tendencias en estos temas son paralelas entre géneros.
+:::
+:::
 :::
 :::
 
 ::: notes
-15 min revisar y completar guía – 10 min plenario.
+El estudio de Argote (2026) es particularmente valioso porque aplica al contexto latinoamericano lo que Burn-Murdoch documenta para el norte global, pero con más rigor metodológico y hallazgos más matizados. El puzzle es fascinante: hombres y mujeres jóvenes se están ubicando en lados opuestos del espectro izquierda-derecha, pero cuando les preguntan sobre temas concretos (redistribución, matrimonio igualitario, aborto), sus respuestas van en la misma dirección. Lo que se está separando no son las posiciones sino las *identidades*. Argote lo llama una "divergencia identitaria": los jóvenes se están afiliando a tribus ideológicas opuestas por apego simbólico, no por desacuerdo sustantivo en políticas. Este hallazgo desafía la narrativa simple de "backlash cultural" que domina la discusión pública.
 :::
 
 ---
 
-![](C8_09.png){fig-align="center" width="90%"}
+## ¿Qué explica la brecha? (Argote 2026)
+
+::: {style="font-size:0.82em;"}
+::: columns
+::: {.column width="48%"}
+**Lo que NO la explica**
+
+- ❌ Backlash cultural: los hombres jóvenes no son más conservadores en temas sociales que los mayores
+- ❌ Educación: la brecha existe tanto en universitarios como en no-universitarios
+- ❌ Retroceso económico: el enfriamiento en apoyo a redistribución es generacional y compartido
+:::
+::: {.column width="48%"}
+**Lo que sugiere la evidencia**
+
+- ✓ Efecto de periodo post-2015, concentrado en los hombres
+- ✓ Coincide con Ni Una Menos y Marea Verde
+- ✓ Los hombres rechazan la *identidad* de izquierda — reaccionan contra lo que esa etiqueta representa
+- ✓ [Divergencia identitaria]{.hl}: clasificación en tribus opuestas por apego simbólico, no por desacuerdo en políticas
+:::
+:::
+:::
+
+::: notes
+Este slide resume los hallazgos más provocadores de Argote. Lo que hace que este estudio sea tan relevante para la clase es que conecta la teoría sobre masculinidades con la evidencia cuantitativa a gran escala. La hipótesis de divergencia identitaria sugiere que "la izquierda" se ha recodificado simbólicamente como territorio feminista, y los hombres jóvenes están rechazando esa etiqueta como parte de su identidad de género, no porque estén en desacuerdo con las políticas progresistas. Esto conecta con Bridges y Pascoe: es una forma de distancia discursiva a nivel macro. Los hombres jóvenes se distancian de "la izquierda" para distanciarse del feminismo como identidad, incluso cuando apoyan políticas progresistas en lo sustantivo. Dato electoral: en Argentina 2023, entre votantes de 18-25, 56% de hombres votaron por Milei vs. 34% de mujeres — 22 puntos de diferencia. En Chile 2021, la brecha de género en participación electoral fue de 16 puntos entre jóvenes (63% mujeres vs. 47% hombres), y las jóvenes votaron 68% por Boric. Preguntar: ¿sienten que esto se aplica a su experiencia?
+:::
+
+---
+
+## Datos electorales y actitudinales: la brecha se traduce en votos
+
+::: {style="font-size:0.82em;"}
+::: columns
+::: {.column width="48%"}
+::: {.cuadro-datos}
+**Elecciones recientes (Argote 2026)**
+
+- **Argentina 2023**: entre 18-25 años, 56% hombres votaron por Milei vs. 34% mujeres (22 puntos de diferencia)
+- **Chile 2021**: 68% mujeres sub-30 votaron por Boric. Brecha de participación: 63% mujeres vs. 47% hombres
+- **Brasil 2022**: mujeres 16-29 apoyaron a Lula 58% vs. 44% de hombres jóvenes
+:::
+:::
+::: {.column width="48%"}
+::: {.cuadro-datos}
+**Chile hoy (ICSO-UDP julio 2025)**
+
+- Cambios en relaciones entre sexos "han perjudicado a los hombres": 33% (hombres 39%, mujeres 28%; derecha 45%, izquierda 24%)
+- "Demasiadas reglas sobre lo que los hombres pueden decir o hacer": hombres 58%, mujeres 44%
+- Preferencia presidencial: Kaiser (libertario) 6% — su partido tiene el mayor % de militantes hombres de Chile
+:::
+:::
+:::
+:::
+
+::: notes
+La conexión entre actitudes y voto es el punto donde la teoría se vuelve concreta. Los datos electorales de Argote muestran que la divergencia identitaria tiene consecuencias reales: en Chile 2021, la brecha de participación por género fue tan grande que decidió la elección — Boric ganó en parte porque las mujeres jóvenes fueron a votar mucho más que los hombres jóvenes. El dato de Kaiser es interesante para la discusión local: aunque su apoyo electoral es pequeño (6%), su partido es sintomático del fenómeno — un espacio político explícitamente organizado en torno a una masculinidad anti-feminista. Los datos de ICSO-UDP muestran la misma brecha actitudinal: la percepción de que los cambios han perjudicado a los hombres tiene una fuerte marca política (derecha 45% vs. izquierda 24%), consistente con la hipótesis de Argote de que "la izquierda" se ha recodificado como territorio feminista.
+:::
+
+---
+
+## Actividad en grupo: Brecha de género ideológica en América Latina {background-color="#f8f4ff"}
+
+::: {style="font-size:0.82em;"}
+::: {.cuadro-actividad}
+**Grupos de 4-5 estudiantes. Revisen el material proporcionado y discutan:**
+
+1. **Hallazgo principal**: Argote (2026) encuentra una "divergencia identitaria" — hombres y mujeres jóvenes se identifican con tribus ideológicas opuestas pero no difieren en posiciones sustantivas (redistribución, matrimonio igualitario, aborto). ¿Cómo interpretan este resultado?
+
+2. **Contexto latinoamericano**: A diferencia de EEUU/Europa, la educación universitaria no explica la brecha. ¿Por qué creen que el efecto de la universidad es diferente en América Latina?
+
+3. **Conexión con masculinidades**: ¿Cómo se relaciona esta divergencia con los conceptos de masculinidad hegemónica, crisis de masculinidad y manosfera que vimos hoy? ¿Es la brecha una manifestación del "vértigo de género" de Bridges y Pascoe?
+
+4. **Experiencia propia**: ¿Observan esta brecha en su generación en Chile? ¿En qué se manifiesta? ¿Qué rol juegan las redes sociales?
+:::
+:::
+
+::: notes
+20 min para revisar el material y discutir en grupo — 15 min plenario. La guía impresa incluye el artículo de Burn-Murdoch con los gráficos globales y extractos del artículo de Argote con los datos latinoamericanos. Puntos clave para guiar el plenario: (1) la brecha es en etiquetas, no en contenido — esto es contra-intuitivo y vale la pena profundizar; (2) el rol de los movimientos feministas latinoamericanos (Ni Una Menos, Marea Verde, Mayo Feminista en Chile) como catalizadores de la recodificación simbólica; (3) la distinción entre condiciones materiales reales que afectan a los hombres y la narrativa de "crisis" que instrumentaliza esas condiciones; (4) preguntarles si ven diferencias entre hombres y mujeres en su entorno en cómo se identifican políticamente vs. qué posiciones tienen. El dato sobre México 2024 es interesante como contraejemplo: cuando ambas candidatas principales eran mujeres, Sheinbaum tuvo más apoyo entre hombres (62%) que mujeres (57%), sugiriendo que la brecha no es mecánica sino contextual.
+:::
 
 ---
 

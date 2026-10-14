@@ -1,0 +1,58 @@
+---
+title: "Brecha ideológica de género en América Latina"
+subtitle: "SOL191 · Clase 8"
+author: "Tania Hutt"
+lang: es
+format:
+  pdf:
+    documentclass: article
+    geometry: margin=2.5cm
+    fontsize: 11pt
+    linestretch: 1.15
+  html:
+    theme: cosmo
+---
+
+## Instrucciones
+
+1. Formar grupos de 4 a 5 estudiantes.
+2. Revisar los materiales adjuntos:
+   - Artículo de Burn-Murdoch (2024), *A new global gender divide is emerging* (Financial Times).
+   - Extractos del artículo de Argote (2026), *Gender Gaps in Political Attitudes in Latin America*.
+3. Completar la guía: pueden anotar un punteo de sus respuestas.
+
+## Integrantes del grupo
+
+1.
+2.
+3.
+4.
+5.
+
+---
+
+Argote analiza datos del AmericasBarometer (LAPOP) 2006-2023 para Argentina, Brasil, Chile, Colombia, México y Uruguay (71.228 observaciones). Sus hallazgos principales son:
+
+- **Brecha ideológica**: Mujeres nacidas después de 1980 se identifican más con la izquierda y hombres con la derecha. Esta brecha está ausente en generaciones anteriores.
+- **Sin brecha en temas sustantivos**: No hay divergencia de género en apoyo a reducir desigualdad, matrimonio igualitario ni aborto. Las tendencias son paralelas entre hombres y mujeres.
+- **La educación no explica la brecha**: A diferencia de EEUU/Europa, la brecha existe tanto en universitarios como en no-universitarios.
+- **Efecto post-2015**: La evidencia sugiere un efecto de periodo concentrado en los hombres, que coincide con Ni Una Menos y Marea Verde.
+- **Interpretación**: Argote lo llama una "divergencia identitaria" — los jóvenes se clasifican en tribus ideológicas opuestas por apego simbólico, no por desacuerdo en políticas concretas.
+
+### Pregunta 1
+
+Argote encuentra que la brecha está en las *etiquetas* ideológicas (izquierda-derecha) pero no en las posiciones sustantivas. ¿Cómo interpretan este resultado? ¿Qué significa que hombres y mujeres jóvenes se ubiquen en lados opuestos del espectro pero estén de acuerdo en los temas concretos?
+
+\vspace{5cm}
+
+### Pregunta 2
+
+En las democracias postindustriales (EEUU, Europa), la educación universitaria amplifica la brecha: las mujeres universitarias se vuelven más progresistas que sus pares hombres. En América Latina, la brecha existe tanto entre universitarios como no-universitarios. ¿Por qué creen que la universidad tiene un efecto diferente en América Latina? Consideren las condiciones materiales que enfrentan las mujeres en la región (cuidado, empleo, brechas salariales) independientemente de su nivel educativo.
+
+\vspace{5cm}
+
+### Pregunta 3
+
+¿Cómo ven este fenómeno en su generación en particular? ¿Se está dando este distanciamiento? ¿De qué maneras?
+
+\vspace{5cm}
