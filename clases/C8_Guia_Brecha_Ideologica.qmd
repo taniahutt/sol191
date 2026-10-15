@@ -6,30 +6,25 @@ lang: es
 format:
   pdf:
     documentclass: article
-    geometry: margin=2.5cm
+    geometry: margin=2cm
     fontsize: 11pt
     linestretch: 1.15
   html:
     theme: cosmo
 ---
-
 ## Instrucciones
-
 1. Formar grupos de 4 a 5 estudiantes.
 2. Revisar los materiales adjuntos:
    - Artículo de Burn-Murdoch (2024), *A new global gender divide is emerging* (Financial Times).
-   - Extractos del artículo de Argote (2026), *Gender Gaps in Political Attitudes in Latin America*.
+   - Figuras del artículo de Argote (2026), *Gender Gaps in Political Attitudes in Latin America*.
 3. Completar la guía: pueden anotar un punteo de sus respuestas.
 
 ## Integrantes del grupo
-
 1.
 2.
 3.
 4.
 5.
-
----
 
 Argote analiza datos del AmericasBarometer (LAPOP) 2006-2023 para Argentina, Brasil, Chile, Colombia, México y Uruguay (71.228 observaciones). Sus hallazgos principales son:
 
@@ -39,9 +34,11 @@ Argote analiza datos del AmericasBarometer (LAPOP) 2006-2023 para Argentina, Bra
 - **Efecto post-2015**: La evidencia sugiere un efecto de periodo concentrado en los hombres, que coincide con Ni Una Menos y Marea Verde.
 - **Interpretación**: Argote lo llama una "divergencia identitaria" — los jóvenes se clasifican en tribus ideológicas opuestas por apego simbólico, no por desacuerdo en políticas concretas.
 
+\vspace{3cm}
+
 ### Pregunta 1
 
-Argote encuentra que la brecha está en las *etiquetas* ideológicas (izquierda-derecha) pero no en las posiciones sustantivas. ¿Cómo interpretan este resultado? ¿Qué significa que hombres y mujeres jóvenes se ubiquen en lados opuestos del espectro pero estén de acuerdo en los temas concretos?
+Argote encuentra que la brecha está en las *etiquetas* ideológicas (izquierda-derecha) pero no en las posiciones sustantivas. ¿Cómo interpretan este resultado? ¿Qué limitaciones tiene este argumento?
 
 \vspace{5cm}
 
