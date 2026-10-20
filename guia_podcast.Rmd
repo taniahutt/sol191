@@ -39,7 +39,7 @@ Respondan estas cuatro preguntas por escrito antes de armar nada:
 | Tiempo | Bloque | Qué hacer |
 |------------------------|------------------------|------------------------|
 | 0:00 – 0:45 | **Gancho** | Abran con un dato llamativo, un caso de actualidad o una escena cotidiana. Que genere curiosidad en segundos. |
-| 0:45 – 1:30 | **Presentación y pregunta guía** | Sus nombres, de qué trata el episodio y la pregunta que van a responder. |
+| 0:45 – 1:30 | **Presentación y pregunta guía** | Sus nombres de pila, de qué trata el episodio y la pregunta que van a responder. |
 | 1:30 – 3:30 | **Marco teórico** | Expliquen el concepto o teoría clave en lenguaje simple, con un ejemplo o una analogía. |
 | 3:30 – 7:30 | **Evidencia empírica** | Presenten 2 o 3 datos o estudios. Para cada uno: quién lo produjo, qué midió y qué muestra. Conéctenlos con la teoría. |
 | 7:30 – 9:00 | **Matices y debate** | ¿Qué no explican los datos? ¿Hay otras interpretaciones o límites del estudio? Aquí es donde son interesantes los desacuerdos y tensiones y la pregunta abierta o vacío. |
