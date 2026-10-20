@@ -22,7 +22,7 @@ Este documento contiene las rúbricas de cada componente de evaluación. Para la
 | Prueba 2 / Prueba final | 20% | Ensayo, libro abierto (clases 8 a 14 · 3-Dic) |
 | Proyecto Final — Etapa 1: Podcast | 15% | Audio + transcripción (entrega 29-Oct) |
 | Proyecto Final — Etapa 2: Mini propuesta de investigación | 15% | Documento, 2–3 páginas (entrega 5-Nov) |
-| Proyecto Final — Etapa 3: Revisión por pares y defensa oral | 15% | Oral presencial, en pods (clases 13, 14 y 15) |
+| Proyecto Final — Etapa 3: Revisión por pares y defensa oral | 15% | Oral presencial, en pods (clases 12, 13 y 14) |
 | **Total** | **100%** | |
 
 ---
@@ -99,7 +99,7 @@ Cada estudiante responde 2 de las 3 preguntas. La rúbrica se aplica por separad
 
 El proyecto final se realiza en grupos de tres estudiantes e integra las habilidades desarrolladas durante el curso: análisis crítico de la literatura científica, construcción de argumentos sociológicos y diseño de investigación. Se desarrolla en tres etapas conectadas, de manera que el trabajo avance desde la construcción de un argumento hasta su investigación y defensa.
 
-Antes de empezar a grabar, cada grupo completa un **check-in de tema y bibliografía** el **15 de octubre** (clase 9; sin nota, con retroalimentación de la profesora o ayudantes).
+Antes de empezar a grabar, cada grupo completa un **check-in de tema y bibliografía** el **15 de octubre** (clase 8; sin nota, con retroalimentación de la profesora o ayudantes).
 
 ### 4a. Etapa 1 — Podcast: construcción del argumento (15%)
 
@@ -185,13 +185,13 @@ Las preguntas y comentarios se entregan por escrito a la profesora **24 horas an
 
 | Pod | Sesión de defensa | Preguntas por escrito antes de |
 |:---:|:---|:---|
-| Pod 1 | Clase 13 — jueves 12-Nov | miércoles 11-Nov |
-| Pod 2 | Clase 14 — jueves 19-Nov | miércoles 18-Nov |
-| Pod 3 | Clase 15 — jueves 26-Nov | miércoles 25-Nov |
+| Pod 1 | Clase 12 — jueves 12-Nov | miércoles 11-Nov |
+| Pod 2 | Clase 13 — jueves 19-Nov | miércoles 18-Nov |
+| Pod 3 | Clase 14 — jueves 26-Nov | miércoles 25-Nov |
 
 #### Logística: 3 sesiones de 45 minutos
 
-Las defensas usan los **últimos 45 minutos de las clases 13, 14 y 15** (un pod por sesión). Cada defensa dentro del pod dura **10 minutos**:
+Las defensas usan los **últimos 45 minutos de las clases 12, 13 y 14** (un pod por sesión). Cada defensa dentro del pod dura **10 minutos**:
 
 | Momento | Duración | Quién |
 |:---|:---:|:---|
