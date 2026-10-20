@@ -35,7 +35,7 @@ Las actividades en clase tienen dos componentes:
 
 **(A) Ficha de cierre (~70% del componente)**
 
-Al final de cada clase (últimos minutos, clases 1 a 12), cada estudiante completa individualmente una ficha breve con dos preguntas fijas, a través de **Wooclap**. Se debe completar un **mínimo de 9 fichas** para obtener la nota máxima en este componente.
+Al final de cada clase (últimos minutos, clases 1 a 11), cada estudiante completa individualmente una ficha breve con dos preguntas fijas, a través de **Wooclap**. Se debe completar un **mínimo de 9 fichas** para obtener la nota máxima en este componente.
 
 Las dos preguntas son siempre las mismas:
 
