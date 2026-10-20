@@ -20,8 +20,8 @@ Este documento contiene las rúbricas de cada componente de evaluación. Para la
 | Actividades en clase | 15% | Fichas de cierre (Wooclap) + actividades en clase |
 | Prueba 1 | 20% | Ensayo, libro abierto (clases 1 a 7) |
 | Prueba 2 / Prueba final | 20% | Ensayo, libro abierto (clases 8 a 14 · 3-Dic) |
-| Proyecto Final — Etapa 1: Podcast | 15% | Audio + transcripción (entrega 26-Oct) |
-| Proyecto Final — Etapa 2: Mini propuesta de investigación | 15% | Documento, 2–3 páginas (entrega 2-Nov) |
+| Proyecto Final — Etapa 1: Podcast | 15% | Audio + transcripción (entrega 29-Oct) |
+| Proyecto Final — Etapa 2: Mini propuesta de investigación | 15% | Documento, 2–3 páginas (entrega 5-Nov) |
 | Proyecto Final — Etapa 3: Revisión por pares y defensa oral | 15% | Oral presencial, en pods (clases 13, 14 y 15) |
 | **Total** | **100%** | |
 
@@ -103,7 +103,7 @@ Antes de empezar a grabar, cada grupo completa un **check-in de tema y bibliogra
 
 ### 4a. Etapa 1 — Podcast: construcción del argumento (15%)
 
-**Cuándo:** lunes **26 de octubre**. La ayudantía del **21 de octubre** está dedicada a producción y edición.
+**Cuándo:** jueves **29 de octubre**. La ayudantía del **21 de octubre** está dedicada a producción y edición.
 
 **Formato:** archivo de audio, 8–10 minutos, + transcripción o guión en Canvas.
 
@@ -130,7 +130,7 @@ Antes de empezar a grabar, cada grupo completa un **check-in de tema y bibliogra
 
 ### 4b. Etapa 2 — Mini propuesta de investigación (15%)
 
-**Cuándo:** lunes **2 de noviembre**, antes del inicio de las defensas. La ayudantía del **28 de octubre** está dedicada a construir la propuesta a partir del vacío identificado en el podcast.
+**Cuándo:** jueves **5 de noviembre**, antes del inicio de las defensas. La ayudantía del **28 de octubre** está dedicada a construir la propuesta a partir del vacío identificado en el podcast.
 
 **Extensión:** 2–3 páginas.
 
@@ -168,7 +168,7 @@ La defensa oral evalúa la comprensión profunda del proyecto propio —podcast 
 
 Los 12 grupos se organizan en **pods de 4 grupos** (3 pods). La asignación de revisión dentro de cada pod es **circular**: el grupo A revisa a B, B revisa a C, C revisa a D, D revisa a A. Cada grupo recibe el **podcast y la mini propuesta** de un solo grupo.
 
-Ambos documentos se comparten vía Canvas apenas se reciben (podcast: 26-Oct · mini propuesta: 2-Nov), para que cada grupo tenga tiempo de revisarlos y preparar sus preguntas antes de su sesión de defensa.
+Ambos documentos se comparten vía Canvas apenas se reciben (podcast: 29-Oct · mini propuesta: 5-Nov), para que cada grupo tenga tiempo de revisarlos y preparar sus preguntas antes de su sesión de defensa.
 
 #### Preparación de preguntas y comentarios
 
