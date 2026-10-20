@@ -4,6 +4,7 @@ project:
   render:
     - index.qmd              # limita el sitio a estas páginas; otros .qmd
     - rubricas.qmd            # (ej. guías de clase como C1_termometro/) no se publican
+    - guia_podcast.Rmd
     - clases/C1_clase.qmd     # diapositivas de las clases ya dictadas
     - clases/C2_clase.qmd
     - clases/C4_clase_revisada.qmd
@@ -23,6 +24,8 @@ website:
         text: Programa
       - href: rubricas.qmd
         text: Rúbricas de evaluación
+      - href: guia_podcast.Rmd
+        text: Guía del podcast
       # Agrega páginas aquí a medida que crees clases, guías, etc.
       # - href: clases/c01.qmd
       #   text: Clases
