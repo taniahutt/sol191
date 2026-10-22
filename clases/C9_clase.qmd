@@ -28,6 +28,81 @@ SOL191 · Clase 9: Trabajo remunerado y mercado laboral
 
 ---
 
+## Contexto: desigualdad de género en el mercado laboral chileno
+
+::: {style="font-size:0.78em;"}
+::: columns
+::: {.column width="48%"}
+::: {.cuadro-datos}
+**Participación laboral**
+
+- Mujeres: [53,0%]{.hl} · Hombres: 70,3% (trim. jun-ago 2026)
+- En 1990 la brecha era de ~40 puntos; hoy es de [17,3 puntos]{.hl}
+- La participación femenina casi se duplicó: de ~32% (1990) a 53% (2026)
+:::
+:::
+::: {.column width="48%"}
+::: {.cuadro-datos}
+**Participación según nivel educativo**
+
+- Mujeres con educación superior: ~57% participa formalmente
+- Mujeres con educación básica: ~18-30%
+- La brecha de género se concentra en los niveles educativos más bajos
+:::
+:::
+:::
+:::
+
+::: notes
+Fuente: INE, Boletín Estadístico Empleo Trimestral n°335 (30 sept 2026); INE "Mujeres en Chile y mercado del trabajo: participación laboral femenina y brechas salariales". La brecha de participación se achica con más educación porque mayor escolaridad eleva el costo de oportunidad de quedarse fuera del mercado laboral y da acceso a empleos más compatibles con la doble jornada (trabajo remunerado + cuidado).
+:::
+
+---
+
+## Contexto: desempleo, informalidad y segregación ocupacional
+
+::: {style="font-size:0.78em;"}
+::: columns
+::: {.column width="48%"}
+::: {.cuadro-datos}
+**Desempleo (trim. jun-ago 2026)**
+
+- Mujeres: [10,3%]{.hl}
+- Hombres: 9,1%
+:::
+
+::: {.cuadro-datos}
+**Informalidad (abril 2026)**
+
+- Mujeres: [28,9%]{.hl}
+- Hombres: 25,5%
+:::
+:::
+::: {.column width="48%"}
+::: {.cuadro-datos}
+**Industrias más feminizadas**
+
+- Salud y asistencia social
+- Educación
+- Trabajo doméstico remunerado
+:::
+
+::: {.cuadro-datos}
+**Industrias más masculinizadas**
+
+- Construcción
+- Minería
+:::
+:::
+:::
+:::
+
+::: notes
+Fuente: INE Boletín Estadístico Informalidad Laboral n°34 (5 mayo 2026) y n°335 Empleo Trimestral (30 sept 2026); OIT, "La segregación ocupacional de género y sus efectos" (resumen ejecutivo); Cooperativa.cl sobre construcción como industria más masculinizada de Chile. Mujeres y hombres enfrentan desempleo e informalidad en magnitudes distintas, y además están distribuidos de forma muy desigual entre industrias: esta segregación ocupacional horizontal es clave para entender la brecha salarial que veremos más adelante en la clase.
+:::
+
+---
+
 ## Objetivos de hoy
 
 ::: {style="font-size:0.85em;"}
@@ -77,7 +152,7 @@ Esto motiva un estudio experimental que diseñé para Chile: ¿qué estereotipos
 
 ---
 
-## Estudio experimental en Chile (Hutt, en proceso)
+## Estudio experimental en Chile (en proceso)
 
 ::: {style="font-size:0.78em;"}
 ::: {.nonincremental}
@@ -189,6 +264,18 @@ Esta es la forma más precisa de enunciar el resultado de género: no es que los
 
 ## Discriminación en contrataciones en Chile (Undurraga 2019)
 
+
+::: {.cuadro-actividad}
+Contestar en Wooclap:
+- ¿Cuál es un resultado de este artículo?
+
+:::
+
+
+---
+
+## Discriminación en contrataciones en Chile (Undurraga 2019)
+
 ::: {style="font-size:0.8em;"}
 Estudio cualitativo con reclutadores y empleadores en Santiago sobre cómo operan los criterios de selección y qué sesgos se activan en la contratación.
 
@@ -270,8 +357,10 @@ La distinción es fundamental porque los datos que encontraron en internet mezcl
 ## Video brecha salarial para discusión
 
 ::: {style="font-size:1.1em; text-align:center; margin-top:2em; color:#6B4C9A;"}
-🎥 Video incrustado para discusión grupal
+🎥 https://www.youtube.com/watch?v=1oqyrflOQFc 
 :::
+
+¿Cómo lo que hemos aprendido en este curso nos ayuda a evaluar estos argumentos?
 
 ---
 
@@ -297,8 +386,8 @@ La distinción es fundamental porque los datos que encontraron en internet mezcl
 
 Pensando en todo lo que vimos hoy (castigo a la maternidad, discriminación en contrataciones, brecha salarial):
 
-1. ¿Cuál fue el hallazgo que más te sorprendió o desafió tus supuestos previos? ¿Por qué?
-2. Si pudieras cambiar **una** política o práctica laboral en Chile para reducir la desigualdad de género en el trabajo, ¿cuál sería y por qué?
+
+1. Si pudieras cambiar **una** política o práctica laboral en Chile para reducir la desigualdad de género en el trabajo, ¿cuál sería y por qué?
 :::
 :::
 :::
