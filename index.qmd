@@ -18,6 +18,16 @@ format:
 **El programa puede ser modificado o actualizado durante el semestre.** Por favor revisar este documento cada semana.
 :::
 
+::: callout-important
+## Advertencia de contenido
+
+Este curso aborda temas que pueden resultar difíciles o dolorosos, y varias lecturas, datos y discusiones tratan sobre **violencia de género** (violencia física, sexual, psicológica y digital, acoso, femicidio y abuso sexual), **sexualidad y reproducción** y **discriminación**. Esto se concentra especialmente en las clases 11 y 12, pero puede aparecer en otras sesiones.
+
+Si algún contenido te afecta personal o emocionalmente, puedes **salir de la sala o pausar la lectura** cuando lo necesites, sin dar explicaciones. Si quieres conversar sobre cómo abordar una lectura o una actividad, escribe a la profesora o a las ayudantes; buscaremos alternativas para que puedas cumplir con los objetivos del curso. También puedes llamar al **Fono 1455** (orientación en violencia contra las mujeres, gratuito y confidencial, Sernameg).
+
+Esperamos que las discusiones se hagan con respeto, sin exigir que nadie comparta experiencias personales.
+:::
+
 ------------------------------------------------------------------------
 
 ## Información del curso
