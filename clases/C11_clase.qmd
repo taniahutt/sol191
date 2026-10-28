@@ -1,7 +1,7 @@
 ---
 title: "Sociología del Género"
 subtitle: "Clase 11: Violencia de género"
-author: "Tania Cabello-Hutt"
+author: "Tania Hutt"
 institute: "SOL191 · Instituto de Sociología · PUC"
 lang: es
 format:
@@ -27,6 +27,27 @@ SOL191 · Clase 11: Violencia de género
 
 ---
 
+## Advertencia de contenido {background-color="#f8f4ff"}
+
+::: {style="font-size:0.9em;"}
+::: {.nonincremental}
+::: {.cuadro-actividad}
+Hoy hablaremos de **violencia física, sexual, psicológica y digital, acoso, femicidio y abuso sexual**. Puede ser difícil o doloroso, sobre todo si es parte de tu experiencia.
+
+- Puedes **salir de la sala, tomar agua o una pausa** cuando lo necesites, sin pedir permiso ni dar explicaciones.
+- Puedes **participar de forma más pasiva** o **no compartir** experiencias personales: nadie está obligado/a a hacerlo.
+- Puedes **volver cuando quieras**; haremos pausas durante la clase.
+- Si quieres conversar después, escríbeme a mí o a las ayudantes.
+:::
+:::
+:::
+
+::: notes
+Leer con calma y dejar unos segundos antes de seguir. Recordar que el Fono 1455 (Sernameg) ofrece orientación gratuita y confidencial en violencia contra las mujeres.
+:::
+
+---
+
 ## Algunas cifras de Chile
 
 ::: {style="font-size:0.9em;"}
@@ -37,7 +58,7 @@ SOL191 · Clase 11: Violencia de género
 :::
 
 ::: {.cuadro-datos}
-El 2023, **20 femicidios** (Sernameg) y **132 femicidios frustrados**.
+El 2023, **43 femicidios** consumados y **259 frustrados** (Sernameg).
 :::
 :::
 ::: {.column width="50%"}
@@ -110,27 +131,124 @@ La sociedad ofrece **"himpathy"** o simpatía excesiva a quienes perpetúan viol
 :::
 
 ::: notes
-This case exemplifies "himpathy" as Turner's potential and future prospects were given more consideration and sympathy than the trauma and suffering of his victim. The societal reaction often focused on the harm the sentence would do to Turner's life rather than the severe impact his actions had on the victim, illustrating the tendency to prioritize the well-being of male perpetrators over female victims in cases of misogynistic violence.
+"Himpathy" (Manne 2018): la simpatía se desplaza hacia el agresor y su futuro, y no hacia la víctima. En el caso Pradenas, el debate público se centró en su estatus, su familia y el efecto de una condena en su reputación, desplazando el foco del daño y el trauma de las víctimas.
 :::
 
 ---
 
-## Discusión en grupo: Ananías et al. (2023)
+## Segato: violencia expresiva y mandato de masculinidad
 
-::: {style="font-size:0.9em;"}
+::: {style="font-size:0.85em;"}
+*(Segato 2016)*
+
+::: {.cuadro-datos}
+La violencia sexual no responde a un deseo sexual: es una violencia [expresiva]{.hl}, un acto de poder que se exhibe y se dirige también a otros hombres.
+:::
+
+- El agresor busca **reconocimiento y pertenencia** ante sus pares (la "cofradía masculina"), cumpliendo un **mandato de masculinidad**.
+- La repetición de la violencia produce una **pedagogía de la crueldad**: se normaliza y se aprende.
+- Por eso el agresor no es una "anomalía" individual: es el resultado de un orden de género.
+
 ::: {.cuadro-actividad}
-**Violencia digital a mujeres en Chile**
-
-- ¿Qué porcentaje de mujeres ha sufrido violencia digital?
-- ¿En qué aspectos es interseccional la violencia digital?
-- ¿Cuáles son los tipos de violencia digital? ¿Cuáles son más comunes?
-- ¿Es menos "real" la violencia en el espacio digital?
-- ¿Qué consecuencias tiene la violencia digital en las mujeres?
+¿Qué cambia si entendemos la violencia como mensaje a otros hombres y no solo como agresión a una víctima?
 :::
 :::
 
 ::: notes
-20 min.
+Contrastar con Manne: ella pone el foco en el castigo a quienes desafían el orden; Segato, en la función del acto entre hombres. Revisar que lo resumido coincida con la introducción asignada.
+:::
+
+---
+
+## Chile: marco legal y la Ley 21.675 (2024)
+
+::: {style="font-size:0.82em;"}
+::: columns
+::: {.column width="48%"}
+::: {.cuadro-datos}
+**Hitos legales**
+
+- Ley 20.480 (2010): tipifica el **femicidio**
+- Ley 21.212 (2020, "Ley Gabriela"): incluye parejas sin convivencia
+- Ley 21.565 (2023): protección y reparación a familias de víctimas de femicidio
+- **Ley 21.675 (2024):** prevenir, sancionar y erradicar la violencia contra las mujeres por razón de género
+:::
+:::
+::: {.column width="48%"}
+::: {.cuadro-datos}
+**Novedades de la Ley 21.675**
+
+- Reconoce violencia **simbólica, institucional, política y gineco-obstétrica**
+- Va más allá de la violencia en la pareja y la familia
+:::
+:::
+:::
+:::
+
+---
+
+## ¿Cómo se define la violencia de género en la ley?
+
+::: {style="font-size:0.8em;"}
+*(Valdebenito Zárate & Villena Llanos 2025)*
+
+A partir de debates parlamentarios, informes de organizaciones feministas y entrevistas, identifican **cuatro marcos** para entender la violencia de género:
+
+1. Violencia intrafamiliar
+2. Violencia contra las mujeres por razón de género
+3. Violencia de género desde una perspectiva feminista e interseccional
+4. Violencia como problema no definido por el género
+
+Encuentran **tensiones** entre la mirada institucional y las demandas históricas del movimiento feminista, y concluyen que la ley avanza pero reproduce algunas representaciones tradicionales y omite voces críticas.
+:::
+
+::: notes
+Contextualizar con el resto de la clase: ¿qué marco predomina en las cifras que vimos? ¿Qué marcos de Manne y Segato quedan fuera de la ley?
+:::
+
+---
+
+## Discusión en grupo: ley y definiciones de violencia
+
+::: {style="font-size:0.9em;"}
+::: {.cuadro-actividad}
+- ¿Qué marco refleja mejor las cifras y los casos que vimos hoy (Pradenas, Rifo)?
+- ¿Qué cambia en la política pública si la violencia se define como "intrafamiliar" o como "de género"?
+- ¿Qué dimensiones de Armstrong et al. (2018) y Segato (2016) quedan fuera de la ley?
+- ¿Qué actores deberían estar en la definición de la violencia?
+:::
+:::
+
+::: notes
+20 min en grupos.
+:::
+
+---
+
+## Violencia digital: lo central de Ananías et al. (2023)
+
+::: {style="font-size:0.72em;"}
+::: columns
+::: {.column width="52%"}
+::: {.cuadro-datos}
+**73,8%** de 531 mujeres encuestadas había sufrido violencia digital (muestra **no probabilística**, ONG Amaranta, inicio de la pandemia).
+:::
+
+- Más reportado: violencia verbal (66,4%), acoso (59%) e imágenes sexuales sin consentimiento (49,6%)
+- Origen: anónimos o perfiles falsos (41,9%), pareja o ex pareja (18,1%), hombres del entorno (14,8%)
+- 46,3% de quienes tuvieron pareja sufrió control mediante dispositivos
+:::
+::: {.column width="46%"}
+- Consecuencias: efectos emocionales, en la autoestima, sentirse vigilada, aislamiento
+- Solo 12,2% intentó denunciar, con poca respuesta positiva
+- No hubo más ataques a activistas que a no activistas: el **género** es el principal factor
+- La violencia está **normalizada**
+:::
+:::
+
+::: {.cuadro-actividad}
+¿Por qué no podemos generalizar el 73,8%? ¿Es menos "real" la violencia digital?
+:::
 :::
 
 ---
@@ -181,36 +299,4 @@ This case exemplifies "himpathy" as Turner's potential and future prospects were
 Este tipo de violencia, también llamada maltrato en el hogar o violencia de pareja, es cualquier patrón de comportamiento que se utilice para adquirir o mantener el poder y el control sobre una pareja íntima. Una de las formas más comunes de violencia que sufren las mujeres.
 
 15 minutos.
-:::
-
----
-
-## Presentaciones
-
-::: {style="font-size:0.85em;"}
-- Sus presentaciones serán evaluadas con la rúbrica que está en Canvas y revisaron en la ayudantía: [10% de la nota]{.hl}. Por favor revisar la rúbrica.
-- Cada persona entregará retroalimentación a cada grupo ([5% de la nota]{.hl}). Durante la presentación, completarán un formulario (traer computador o celular por favor) donde responderán preguntas simples que serán feedback para cada grupo (no afectarán su nota).
-- Si entregan retroalimentación a todos los grupos, tendrán una nota 7.
-- 6 minutos de presentación y 2-3 minutos de preguntas.
-:::
-
-::: notes
-5 min.
-:::
-
----
-
-## Feedback de pares
-
-::: columns
-::: {.column width="55%"}
-::: {style="font-size:0.9em;"}
-- Contenido: aspecto positivo y mejorable (o dudas) de la propuesta.
-- Presentación: aspecto mejorable a cada persona.
-- Por favor entregar feedback constructivo.
-:::
-:::
-::: {.column width="43%"}
-![](C11_06.png){fig-align="center"}
-:::
 :::

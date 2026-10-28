@@ -168,7 +168,7 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 | 9 | 22-Oct | [Trabajo remunerado y mercado laboral](clases/C9_clase_pub.html) | \*\*[Undurraga (2019)](lecturas/C9/Undurraga%20-%202019%20-%20Who%20Will%20Get%20the%20Job%20Hiring%20Practices%20and%20Inequal.pdf) <br> \*\*[Villanueva & Lin (2019)](lecturas/C9/Villanueva%20and%20Lin%20-%20Motherhood%20Wage%20Penalties%20in%20Latin%20America%20The%20Si.pdf) <br> [Armijo et al. (2021)](lecturas/C9/Armijo%20et%20al.%20-%202021%20-%20Agencia%20individual%20y%20colectiva%20en%20dirigentas%20sindi.pdf) <br> [Cabello-Hutt (2020)](lecturas/C9/Cabello-Hutt%20-%202020%20-%20Changes%20in%20work%20and%20care%20trajectories%20during%20the%20t.pdf) |  |
 |  | 28-Oct | **Ayudantía:** cómo construir la mini propuesta de investigación a partir del podcast |  |  |
 | 10 | 29-Oct | Familia, mapaternidades y conciliación | \*\*[Bass (2015)](lecturas/C10/Bass%20-%202015%20-%20Preparing%20for%20Parenthood%20Gender%2C%20Aspirations%2C%20an.pdf) <br> \*\*[Herrera et al. (2018)](lecturas/C10/Herrera%20et%20al.%20-%202018%20-%20“Soy%20un%20papá%20súper%20normal”%20Experiencias%20parentale.pdf) <br> [Berniell et al. (2023)](lecturas/C10/Berniell%20et%20al.%20-%202023%20-%20Motherhood%20and%20flexible%20jobs%20Evidence%20from%20Latin%20.pdf) <br> [Daminger (2019)](lecturas/C10/Daminger%20-%202019%20-%20The%20Cognitive%20Dimension%20of%20Household%20Labor.pdf) | **Entrega Podcast** (15%) |
-| 11 | 5-Nov | Violencia de género <br> **Advertencia de contenido:** esta clase y sus lecturas tratan sobre violencia física, sexual, psicológica y digital, acoso, femicidio y abuso sexual. | \*\*[Ananías Soto et al. (2023)](lecturas/C11/Ananias%20et%20al%202023.pdf) <br> Manne (2019), pp. 78–101 | **Entrega Mini Propuesta** (15%) |
+| 11 | 5-Nov | Violencia de género <br> **Advertencia de contenido:** esta clase y sus lecturas tratan sobre violencia física, sexual, psicológica y digital, acoso, femicidio y abuso sexual. | \*\*[Armstrong, Gleckman-Krut & Johnson (2018)](https://doi.org/10.1146/annurev-soc-073117-041410) <br> \*\*[Segato (2016), *La guerra contra las mujeres*, cap. 1 (selección de pasajes)](lecturas/C11/Segato_seleccion_C11.pdf) <br> Manne (2018), pp. 78–101: *libro disponible en línea en el sitio web de la Biblioteca UC* <br> [Ananías Soto et al. (2023)](lecturas/C11/Ananias%20et%20al%202023.pdf) <br> [Valdebenito Zárate & Villena Llanos (2025)](https://doi.org/10.70635/riej.vi11.79) (se trabaja en clase) | **Entrega Mini Propuesta** (15%) |
 | 12 | 12-Nov | Sexualidad y reproducción | \*\*[Benavente & Vergara (2006), pp. 25–50](lecturas/C12/Benavente%20y%20Vergara%202006.pdf) <br> Rostagnol (2014), extractos por definir | **Defensa oral — Pod 1** (últimos 45 min) |
 | 13 | 19-Nov | Género y tecnología/IA | Por definir. | **Defensa oral — Pod 2** (últimos 45 min) |
 |  | 25-Nov | **Ayudantía:** preparación para prueba final |  |  |
@@ -186,6 +186,8 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 - Angier, Natalie, and Kenneth Chang. 2005. "Gray Matter and Sexes: A Gray Area Scientifically." *The New York Times.*
 
 - Armijo, Lorena et al. 2021. "Agencia Individual y Colectiva en Dirigentas Sindicales de la Industria de la Minería en Chile: Un Análisis Articulando Perspectiva de las Capacidades y Género." *Izquierdas* 50: 0–0.
+
+- Armstrong, Elizabeth A., Miriam Gleckman-Krut, and Lanora Johnson. 2018. "Silence, Power, and Inequality: An Intersectional Approach to Sexual Violence." *Annual Review of Sociology* 44: 99–122. <https://doi.org/10.1146/annurev-soc-073117-041410>
 
 - Bass, Brooke Conroy. 2015. "Preparing for Parenthood?: Gender, Aspirations, and the Reproduction of Labor Market Inequality." *Gender & Society* 29(3): 362–385.
 
@@ -225,7 +227,7 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 
 - Madrid, Sebastián. 2016. "La formación de masculinidades hegemónicas en la clase dominante: el caso de la sexualidad en los colegios privados de elite en Chile." *Sexualidad, Salud y Sociedad (Rio de Janeiro)*: 369–398. <https://doi.org/10.1590/1984-6487.sess.2016.22.17.a>
 
-- Manne, Kate. 2019. *Down Girl: The Logic of Misogyny.* Oxford: Oxford University Press.
+- Manne, Kate. 2018. *Down Girl: The Logic of Misogyny.* Oxford: Oxford University Press.
 
 - Martin, Karin A. 1998. "Becoming a Gendered Body: Practices of Preschools." *American Sociological Review* 63(4): 494–511.
 
@@ -245,11 +247,15 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 
 - Schilt, Kristen. 2011. *Just One of the Guys?: Transgender Men and the Persistence of Gender Inequality.* Chicago: University of Chicago Press.
 
+- Segato, Rita Laura. 2016. *La guerra contra las mujeres.* Madrid: Traficantes de Sueños. Selección de pasajes del capítulo 1 (pp. 37–47).
+
 - Sweet, Paige L. 2019. "The Sociology of Gaslighting." *American Sociological Review* 84(5): 851–875.
 
 - Undurraga, Rosario. 2019. "Who Will Get the Job? Hiring Practices and Inequalities in the Chilean Labour Market." *Bulletin of Latin American Research* 38(5): 575–590.
 
 - Valdés, Teresa. 2001. "Estudios de Género para el Siglo XXI en América Latina." <https://bibliotecadigital.academia.cl/xmlui/bitstream/handle/123456789/2860/85-100.pdf>
+
+- Valdebenito Zárate, Javiera, and Carolina Villena Llanos. 2025. "Tensiones y convergencias discursivas: Reflexiones sobre la Ley 21.675 de violencia de género en Chile y los marcos feministas." *Revista de Estudios Judiciales* 11. <https://doi.org/10.70635/riej.vi11.79>
 
 - Valenzuela, Fernando A. et al. 2022. "Bichos Raros: Género y Subjetividades en el Campo de la Investigación en Matemáticas en Chile." *Psicoperspectivas* 21(2): 118–130.
 
