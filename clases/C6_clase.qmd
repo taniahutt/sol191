@@ -1,7 +1,7 @@
 ---
 title: "Sociología del Género"
 subtitle: "Clase 6: Sistema multinivel e interseccionalidad"
-author: "Tania Cabello-Hutt"
+author: "Tania Hutt"
 institute: "SOL191 · Instituto de Sociología · PUC"
 lang: es
 format:
