@@ -29,53 +29,101 @@ SOL191 · Clase 11: Violencia de género
 
 ## Advertencia de contenido {background-color="#f8f4ff"}
 
-::: {style="font-size:0.9em;"}
-::: {.nonincremental}
+::: {style="font-size:0.88em;"}
 ::: {.cuadro-actividad}
 Hoy hablaremos de **violencia física, sexual, psicológica y digital, acoso, femicidio y abuso sexual**. Puede ser difícil o doloroso, sobre todo si es parte de tu experiencia.
 
 - Puedes **salir de la sala, tomar agua o una pausa** cuando lo necesites, sin pedir permiso ni dar explicaciones.
 - Puedes **participar de forma más pasiva** o **no compartir** experiencias personales: nadie está obligado/a a hacerlo.
-- Puedes **volver cuando quieras**; haremos pausas durante la clase.
+- Puedes **volver cuando quieras**.
 - Si quieres conversar después, escríbeme a mí o a las ayudantes.
+:::
+
+::: {style="font-size:0.85em; margin-top:0.4em;"}
+**Fono 1455** (SernamEG): orientación gratuita y confidencial en violencia contra las mujeres.
+:::
+:::
+
+::: notes
+Leer con calma y dejar unos segundos antes de seguir. La columna de Manne que leeremos en clase cita lenguaje sexual explícito de un chat grupal: avisarlo antes de repartirla.
+:::
+
+---
+
+## Objetivos de hoy
+
+::: {style="font-size:0.85em; line-height:1.7;"}
+1. Dimensionar la violencia de género en Chile con datos actuales y entender qué miden (y qué no) esas cifras.
+2. Comparar dos teorías de la violencia: la misoginia como **control social** (Manne) y la violencia como **mensaje entre hombres** (Segato).
+3. Analizar un caso reciente a partir de una columna de Manne: cómo los grupos de pares habilitan y encubren la violencia.
+4. Discutir los alcances y límites de la respuesta institucional chilena (Ley 21.675, violencia digital).
+:::
+
+---
+
+## ¿Qué tan extendida es? Encuesta Nacional de Violencia contra las Mujeres 2024
+
+::: {style="font-size:0.8em;"}
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**1 de cada 3** mujeres (33,4%) ha sufrido violencia psicológica, física o sexual en su vida; **1 de cada 5** (20,3%) en el último año.
+:::
+
+- Psicológica: 28,6% vida · 18,5% año
+- Física: 10,9% vida · 3,5% año
+- Sexual: 8,7% vida · 3,2% año
+- Agresor principal más frecuente: **ex pareja** (33% en violencia psicológica, 35% en física)
+:::
+::: {.column width="48%"}
+::: {.cuadro-datos}
+**41,4%** ha sufrido violencia en **espacios públicos** alguna vez (31,3% insultos sexuales; 22,5% tocaciones sin consentimiento).
+:::
+
+- Solo **12,1%** denunció el último episodio de violencia sexual (16,3% en 2020).
+:::
+:::
+
+::: {style="font-size:0.7em; color:#777;"}
+Fuente: Subsecretaría de Prevención del Delito, ENVCM 2024. Mujeres de 15 a 65 años, zonas urbanas, muestra probabilística (n = 7.100).
+:::
+:::
+
+::: notes
+La violencia general bajó significativamente entre 2020 y 2024 (vida 41,4% → 33,4%; año 21,7% → 20,3%). Preguntar: ¿por qué podría bajar la prevalencia y, al mismo tiempo, bajar la denuncia de la violencia sexual? Posibles respuestas: cambios reales, cambios en la disposición a reportar en la encuesta, desconfianza en las instituciones. Motivos de no denuncia de violencia sexual más frecuentes en 2024: no sabía que podía denunciar, vergüenza, miedo, creer que denunciar no sirve.
+
+Esta encuesta mide sobre todo violencia de pareja, familia y espacios públicos/laborales/educativos: no mide la violencia digital como categoría propia. Retomarlo con Ananías.
+:::
+
+---
+
+## Femicidios en Chile
+
+::: {style="font-size:0.85em;"}
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+En 2024: **43 femicidios consumados**, **319 frustrados** y **80 tentados** (SernamEG).
+:::
+
+- Los consumados se mantienen estables (43-44 por año desde 2020).
+- Los frustrados se han **duplicado**: 151 en 2020 → 319 en 2024.
+:::
+::: {.column width="48%"}
+::: {.cuadro-actividad}
+¿Qué indica que los consumados se mantengan y los frustrados aumenten? ¿Más violencia, más registro o más intervención a tiempo?
+:::
 :::
 :::
 :::
 
 ::: notes
-Leer con calma y dejar unos segundos antes de seguir. Recordar que el Fono 1455 (Sernameg) ofrece orientación gratuita y confidencial en violencia contra las mujeres.
+Cifras de SernamEG, reportadas por La Tercera y BioBioChile (2025). El Poder Judicial registra 44 consumados en 2024 por diferencias de clasificación. En 2024, 29% de las víctimas de femicidio consumado y 48% de las de femicidio frustrado tenían denuncias previas: es un dato clave para hablar de la respuesta institucional. Para 2025, la prensa reporta unos 330 frustrados y 43-44 consumados según SernamEG (47 según la Red Chilena contra la Violencia hacia las Mujeres): verificar en sernameg.gob.cl antes de la clase si se quiere usar 2025. Mencionar que la Red Chilena registra más femicidios porque usa una definición más amplia.
 :::
 
 ---
 
-## Algunas cifras de Chile
-
-::: {style="font-size:0.9em;"}
-::: columns
-::: {.column width="50%"}
-::: {.cuadro-datos}
-**1 de cada 4** mujeres fue víctima de violencia intrafamiliar en 2022.
-:::
-
-::: {.cuadro-datos}
-El 2023, **43 femicidios** consumados y **259 frustrados** (Sernameg).
-:::
-:::
-::: {.column width="50%"}
-::: {.cuadro-datos}
-Promedio de edad de primer abuso sexual (niños y niñas) es de **10,5 años** (2021).
-:::
-
-::: {.cuadro-datos}
-**9 de cada 10** mujeres han sido víctimas de acoso sexual callejero al menos una vez en su vida.
-:::
-:::
-:::
-:::
-
----
-
-## Cifras PUC: violencia sexual
+## Cifras PUC: violencia sexual (2019)
 
 ::: columns
 ::: {.column width="60%"}
@@ -88,81 +136,280 @@ Promedio de edad de primer abuso sexual (niños y niñas) es de **10,5 años** (
 :::
 :::
 
+::: notes
+Prevalencia de victimización por sexo y estamento (2019): entre estudiantes de pregrado, alrededor de 1 de cada 4 mujeres vs. 6-9% de los hombres. Agresor conocido: 74,8%. PENDIENTE: confirmar a qué pregunta corresponde el gráfico de Sí/No/No responde (¿denunció?) y agregarle título. Revisar si existe una medición PUC más reciente que la de 2019.
+:::
+
+---
+
+# ¿Cómo explicamos la violencia? {background-color="#6B4C9A" style="color:white;"}
+
+---
+
+## La violencia sexual como mecanismo de desigualdad (Armstrong et al. 2018)
+
+::: {style="font-size:0.78em;"}
+::: {.cuadro-datos}
+La violencia sexual es **causa y consecuencia** de desigualdades de género, raza/etnia, clase, sexualidad, edad, discapacidad y ciudadanía. Funciona como mecanismo de desigualdad que se vuelve más eficaz porque se [silencia]{.hl}.
+:::
+
+::: columns
+::: {.column width="50%"}
+**Ideas clave de la literatura feminista e interseccional:**
+
+- **Poder:** es dominación, no desviación individual (p. ej., violación como arma de guerra y colonización).
+- **Interseccionalidad:** las políticas centradas solo en género o solo en raza fallan a las mujeres de color (Crenshaw, Collins).
+- **Organizaciones:** universidades, iglesias, ejércitos o cárceles la facilitan y encubren.
+:::
+::: {.column width="48%"}
+- **Cultura:** guiones heterosexuales (él insiste, ella resiste) y **mitos de violación** que culpan a la víctima.
+- **Masculinidades:** la violencia sexual sostiene la masculinidad y produce jerarquías entre hombres.
+- **El poder de definir:** quién decide qué cuenta como violencia (en la ley, en la cultura y en la propia experiencia).
+:::
+:::
+:::
+
+::: notes
+Armstrong, Gleckman-Krut & Johnson (2018), Annual Review of Sociology 44: 99–122. Siete "insights": poder, interseccionalidad, organizaciones e instituciones, cultura, discurso e interacción, masculinidades y narrativa. Se apoyan en Collins: la violencia es el "pegamento conceptual" que une los sistemas de dominación. El foco es Estados Unidos: preguntar qué cambia en Chile (por ejemplo, clase y pueblos originarios en lugar de raza en el sentido estadounidense). Conectar "organizaciones" con la columna de Manne: Armstrong et al. (2006) mostraron cómo la organización de la vida universitaria (residencias, control masculino de las fiestas) produce agresiones sexuales en el campus; y Sanday (2007, citado en p. 114) muestra que los grupos solo de hombres atacan a mujeres para renovar sus lazos. Ambas ideas son el puente directo con Segato y con el caso de Cornell.
+:::
+
+---
+
+## El mito de la "violación real" (Armstrong et al. 2018)
+
+::: {style="font-size:0.78em;"}
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**El arquetipo:** un desconocido ataca con violencia a una mujer "respetable"; ella resiste y denuncia.
+:::
+
+**Lo que muestra la evidencia:**
+
+- La mayoría de las víctimas **conoce** a su agresor.
+- Muchas no se resisten físicamente; la mayoría de los agresores no usa fuerza física ni armas.
+- La mayoría **no denuncia** y muchas **no nombran** su experiencia como violación.
+- Las denuncias falsas son raras (**2–10%**, similar a otros delitos violentos).
+:::
+::: {.column width="48%"}
+**Consecuencias institucionales:**
+
+- "Segundas agresiones": policía, fiscalía, tribunales y servicios médicos evalúan la credibilidad según edad, raza, clase o sexualidad.
+- Apostar solo por la vía penal llevó a un **feminismo carcelario** que dejó fuera a mujeres racializadas y pobres.
+- **Silencio sociológico:** entre 1975 y 2017, las tres revistas centrales de la disciplina publicaron solo 13 artículos sobre violencia sexual.
+
+::: {.cuadro-actividad}
+¿Cuánto se parece este arquetipo a la imagen que circula en los medios y en nuestras conversaciones? ¿Y a los datos de Chile que vimos?
+:::
+:::
+:::
+:::
+
+::: notes
+Datos de Chile que lo confirman: en la ENVCM 2024 el principal agresor es la ex pareja y solo 12,1% denunció el último episodio de violencia sexual; en la PUC (2019), 74,8% de los agresores eran conocidos. Sobre denuncias falsas: Armstrong et al. explican que el estudio de Kanin (1994), que afirmaba 41% de denuncias falsas, tenía graves problemas metodológicos y sigue citándose pese a estar refutado (pp. 112–113). Las "segundas agresiones" conectan con el caso Rifo (Corte Suprema) y con las dificultades de denuncia que reportan Ananías et al. (Fiscalía que archiva). Sobre el movimiento: en Estados Unidos, la alianza con la "guerra contra el crimen" y la Violence Against Women Act de 1994 reforzaron el castigo penal; Richie y Crenshaw critican sus efectos sobre mujeres racializadas; alternativas: organización comunitaria y justicia restaurativa. Esto prepara el plenario sobre cómo abordar el problema. Sobre el silencio: AJS, ASR y Annual Review of Sociology publicaron 13 artículos entre 1975 y 2017; solo 5% de las publicaciones de ciencias sociales sobre violación en 1975–2015 aparecieron en revistas de sociología.
+:::
+
 ---
 
 ## Misoginia según Manne
 
 ::: {style="font-size:0.85em;"}
-*(Manne 2018)*
+*(Manne 2018, Down Girl)*
 
 ::: {.cuadro-datos}
 Más allá del odio u hostilidad individual hacia las mujeres, la misoginia es un [sistema de control social]{.hl}. Funciona para fiscalizar y asegurar la subordinación de la mujer y mantener normas patriarcales.
 :::
 
-Sexismo es la ideología que racionaliza y justifica el patriarcado, mientras que la misoginia es "la policía" que castiga a quienes desafían este orden.
-
-**El castigo misógino:** castigo a las mujeres que desafían las normas de género o fracasan en servir los intereses de los hombres.
-
-  - Incluye el abuso verbal, la violencia física, el aislamiento social, entre otras.
+- **Sexismo** es la ideología que racionaliza y justifica el patriarcado; la **misoginia** es "la policía" que castiga a quienes desafían ese orden.
+- **El castigo misógino:** castigo a las mujeres que desafían las normas de género o fracasan en servir los intereses de los hombres (abuso verbal, violencia física, aislamiento social, entre otras).
 
 ::: {.cuadro-actividad}
-¿Ejemplos de comportamientos o situaciones dónde las mujeres desafían las normas y pueden ser fiscalizadas? ¿Y de hombres?
+¿Ejemplos de situaciones en las que las mujeres desafían las normas y son fiscalizadas? ¿Y de hombres?
 :::
 :::
 
 ---
 
-## Misoginia y justicia (Manne)
+## Himpathy e injusticia epistémica
 
-::: {style="font-size:0.8em;"}
-*(Manne 2018)*
-
+::: {style="font-size:0.78em;"}
+::: columns
+::: {.column width="50%"}
 ::: {.cuadro-datos}
-La sociedad ofrece **"himpathy"** o simpatía excesiva a quienes perpetúan violencia hacia las mujeres, minimizando sus acciones y/o culpando a las víctimas, lo que perpetúa el sistema patriarcal.
+**"Himpathy"** (Manne): simpatía excesiva hacia los hombres que ejercen violencia, que minimiza sus actos, protege su futuro y desplaza la culpa hacia la víctima.
 :::
 
-- Caso Martín Pradenas: acusado de violencia sexual a varias mujeres durante años. El foco estuvo en Pradenas, su estatus y su familia, y en cómo una condena afectaría su futuro y reputación — quitando el foco al sufrimiento y trauma de sus víctimas.
-
+**Caso Martín Pradenas.** Condenado en 2023 a 17 años por siete delitos sexuales contra seis personas, entre ellas Antonia Barra. Gran parte del debate público se centró en su familia, su estatus y su futuro.
+:::
+::: {.column width="48%"}
 ::: {.cuadro-datos}
-**Injusticia epistémica:** cuando los conocimientos, experiencias y voces de las mujeres son devaluados o ignorados, reforzando su estatus subordinado.
+**Injusticia epistémica** (Fricker; usada por Manne): se resta credibilidad a las mujeres como testigos de su propia experiencia.
 :::
 
-- Caso Nabila Rifo: sobreviviente de intento de femicidio. Hubo escepticismo sobre su testimonio y foco en su vida personal y su personalidad, lo que distrae del crimen cometido contra ella.
+**Caso Nabila Rifo.** En 2017 la Corte Suprema recalificó el femicidio frustrado como lesiones graves, porque "no quedó demostrado cabalmente el dolo de matar", y rebajó la condena de su agresor.
+:::
+:::
 :::
 
 ::: notes
-"Himpathy" (Manne 2018): la simpatía se desplaza hacia el agresor y su futuro, y no hacia la víctima. En el caso Pradenas, el debate público se centró en su estatus, su familia y el efecto de una condena en su reputación, desplazando el foco del daño y el trauma de las víctimas.
+Pradenas: un primer juicio (2022) lo condenó a 20 años, pero fue anulado por la Corte Suprema por falta de imparcialidad de un juez; el segundo juicio (julio 2023, Temuco) lo condenó a 17 años. Rifo: agresión en Coyhaique en mayo de 2016; la Corte Suprema (11 julio 2017, 4 votos contra 1) recalificó el femicidio frustrado y rebajó la condena de 26 años a 18. Preguntar: ¿qué tiene que demostrar una mujer para que su testimonio se tome en serio? Conectar con la denuncia baja que vimos en la ENVCM ("temor a que no me creyeran").
 :::
 
 ---
 
-## Segato: violencia expresiva y mandato de masculinidad
+## Segato: la violencia como mensaje
 
-::: {style="font-size:0.85em;"}
-*(Segato 2016)*
+::: {style="font-size:0.76em;"}
+*(Segato 2016, cap. 1, selección de pasajes)*
 
 ::: {.cuadro-datos}
-La violencia sexual no responde a un deseo sexual: es una violencia [expresiva]{.hl}, un acto de poder que se exhibe y se dirige también a otros hombres.
+La violación es violencia [expresiva]{.hl} más que instrumental: su fin es expresar el control absoluto de una voluntad sobre otra. Por eso es un **enunciado**, y se dirige a interlocutores.
 :::
 
-- El agresor busca **reconocimiento y pertenencia** ante sus pares (la "cofradía masculina"), cumpliendo un **mandato de masculinidad**.
-- La repetición de la violencia produce una **pedagogía de la crueldad**: se normaliza y se aprende.
-- Por eso el agresor no es una "anomalía" individual: es el resultado de un orden de género.
+::: columns
+::: {.column width="50%"}
+**Eje vertical:** el agresor habla a la víctima. Se presenta como "moralizador": la mujer debe ser contenida, disciplinada.
 
-::: {.cuadro-actividad}
-¿Qué cambia si entendemos la violencia como mensaje a otros hombres y no solo como agresión a una víctima?
+**Eje horizontal** (su mayor aporte): habla a **sus pares**. Pide ingreso a la "hermandad viril" y compite por un lugar en ella.
+:::
+::: {.column width="48%"}
+- La masculinidad es un **estatus** que se conquista y debe reconfirmarse, mediante un **tributo** que entregan las mujeres.
+- Los violadores, la mayoría de las veces, "no actúan en soledad".
+- En el hogar el hombre abusa **porque puede**; en el espacio público, **para demostrar que puede**.
+:::
 :::
 :::
 
 ::: notes
-Contrastar con Manne: ella pone el foco en el castigo a quienes desafían el orden; Segato, en la función del acto entre hombres. Revisar que lo resumido coincida con la introducción asignada.
+Todo esto está en la selección asignada (pp. 37–47). Segato desarrolla el modelo a partir de entrevistas con condenados por violación en la cárcel de Brasilia (1993–1995) y lo aplica a los feminicidios de Ciudad Juárez. Conceptos como "mandato de masculinidad" y "pedagogía de la crueldad" aparecen en otros capítulos del libro, no en la selección: si se mencionan, aclararlo. Último pasaje de la selección: culpar a las víctimas como mecanismo colectivo para reducir la disonancia ("debe haber una razón"), lo que conecta directamente con la himpathy de Manne.
+:::
+
+---
+
+## Manne y Segato: ¿en qué se parecen y en qué difieren?
+
+::: {style="font-size:0.78em;"}
+| | **Manne** | **Segato** |
+|---|---|---|
+| ¿Qué es la violencia? | Castigo: **control social** sobre mujeres que desafían el orden | **Mensaje**: acto expresivo de dominio |
+| ¿A quién se dirige? | A la mujer que transgrede (y a todas, como advertencia) | A la víctima **y a los otros hombres** |
+| ¿Qué la sostiene? | La himpathy y el descrédito de las víctimas | La hermandad masculina y el mandato de demostrar masculinidad |
+
+::: {.cuadro-actividad}
+En parejas (3 min): piensen en un caso de violencia de pareja en el hogar. ¿Qué teoría lo explica mejor? ¿Y un caso de violencia sexual grupal?
+:::
+:::
+
+::: notes
+Respuesta esperada: Manne se ajusta mejor a la violencia de pareja como castigo y control (y la ENVCM muestra que la ex pareja es el principal agresor, por ejemplo cuando ella termina la relación). Segato distingue explícitamente la violencia doméstica ("porque puede") de la pública ("para demostrar que puede"), y su eje horizontal explica mejor la violencia grupal. Esto prepara la actividad: el caso de la columna es exactamente un caso grupal.
+:::
+
+---
+
+## Actividad: lectura y discusión de la columna de Manne {background-color="#f8f4ff"}
+
+::: {style="font-size:0.78em;"}
+Manne, K. (2026, 20 de octubre). "What Makes Men in Groups Behave So Badly?" *The New York Times*.
+
+Caso: el chat grupal de la fraternidad Chi Phi (Cornell) la noche en que una estudiante ("Jane Doe") denuncia haber sido agredida sexualmente por siete hombres.
+
+::: {.cuadro-actividad}
+**1. Lectura individual (10 min).** Mientras leen, marquen:
+
+- un pasaje que ilustre la **himpathy**,
+- un pasaje que ilustre el **eje horizontal** de Segato (hablarle a los pares),
+- un dato o evidencia que use Manne.
+:::
+
+**Advertencia:** la columna cita lenguaje sexual explícito del chat.
+:::
+
+::: notes
+Repartir la columna impresa o en Canvas. Son 5 páginas cortas en inglés. Si el tiempo es poco, se puede asignar como lectura previa y usar estos 10 minutos para releer los pasajes marcados en grupo.
+:::
+
+---
+
+## Actividad: discusión en grupos (25 min) {background-color="#f8f4ff"}
+
+::: {style="font-size:0.74em;"}
+::: {.cuadro-actividad}
+**En grupos de 4.**
+
+**A. Mecanismos (8 min).** ¿Cómo explica Manne que hombres que "eran algo así como amigos" de Jane Doe la ofrecieran al grupo? Identifiquen en el texto el **"bro code"**, el **silencio** de quienes vieron el chat y la **himpathy** posterior (¿quiénes terminan sintiéndose víctimas?).
+
+**B. Teoría (8 min).** El chat como "escenario": ¿qué mensajes se dirigen a la víctima y cuáles a los pares? ¿Qué agrega Segato que Manne no explica, o al revés? Usen el testimonio de Diego Estrada (ex presidente de una fraternidad).
+
+**C. Evidencia (9 min).** Manne cita un estudio según el cual los hombres que entran a fraternidades tienen 3 veces más probabilidad de cometer violencia sexual en su primer año. ¿Cuánto apoya este dato la frase "las fraternidades pueden convertir hombres en violadores"? ¿Qué otra explicación habría que descartar?
+:::
+:::
+
+::: notes
+Pedir que citen pasajes concretos. Ronda A: dos de los acusados enviaron después mensajes de apoyo a Jane Doe ("I'm so so sorry", "You need anything?") y eran los mismos que la ofrecieron en el chat. Bro code: cuando un hombre propone algo inmoral o ilegal, los otros lo acompañan; la regla secundaria es no criticar ni intervenir. Nadie objetó abiertamente; varios escalaron; al menos dos entraron a la habitación tras ver el chat (un miembro sí compartió el chat, quizás por escrúpulo moral). Himpathy: en otras fraternidades se lamentaba que los acusados fueran "arruinados" y se culpaba a Jane Doe por beber e ir a la casa; un acusado se queja de sentirse abandonado por la "hermandad".
+
+Ronda B: el chat es literalmente el eje horizontal de Segato. El emoji del diablo y el "CHI PHIII" muestran la masculinidad "performada, probada y celebrada" ante el grupo; el carácter prohibido es parte de la excitación colectiva. Estrada calló por no querer parecer un "moralista" y por miedo a perder su trabajo, alimentación y vivienda; su reflexión final ("mi trabajo es proteger a mis hermanos... versus la necesidad de ser una buena persona") muestra la lealtad al grupo por sobre la ética. Manne agrega la tecnología: los grupos se coordinan más fácil y a mayor escala (Pelicot en Francia, grupo de Facebook en Italia, chats documentados por CNN, el caso de Maddie Kowalski). Segato aporta la idea de la violencia como lenguaje que entienden "los avisados": en el chat ese lenguaje es literal.
+
+Ronda C: Manne dice que esos hombres no tenían más probabilidad de haber agredido antes, lo que apunta a un efecto de la fraternidad; pero hay que discutir la autoselección (quién elige entrar) y otras variables. Para 4° año, es una buena oportunidad para hablar de causalidad. Datos de Cornell: 35% de las estudiantes de pregrado reporta alguna agresión sexual (encuesta 2025) vs. 23% en 2023. Equivalentes chilenos para el plenario: grupos de WhatsApp, equipos deportivos, colegios, y el **Caso Nido** (foro machista denunciado en 2019 que publicaba material íntimo de mujeres sin consentimiento; citado en Ananías et al. 2023, p. 17–18).
+:::
+
+---
+
+## Plenario abierto: ¿cómo abordarlo? (15 min)
+
+::: {style="font-size:0.88em;"}
+::: {.cuadro-actividad}
+Si el problema no es solo el individuo, sino el **grupo que habilita y calla** y las **instituciones que lo permiten**:
+
+- ¿Cómo abordarían este problema? ¿Qué debería cambiar y quién es responsable de cambiarlo?
+- Manne propone **prohibir las fraternidades**. ¿Están de acuerdo? ¿Cuál sería el equivalente en Chile?
+:::
+:::
+
+::: notes
+Plenario abierto, sin reporte por grupos: partir pidiendo propuestas concretas y luego tensionarlas. Posibles ejes:
+(1) Prohibir o sancionar: Manne descarta suspender las fiestas (como la Ley Seca: lleva las prácticas a la clandestinidad) y propone prohibir las fraternidades; el ex presidente de fraternidad Estrada "casi" está de acuerdo, pero siente que traiciona a sus "hermanos". ¿Qué se pierde y qué se gana?
+(2) Cambiar la norma del grupo: intervención de quienes observan, que denunciar no sea "traición"; ¿quién protege a quien interviene?
+(3) Instituciones: Armstrong et al. muestran que las organizaciones facilitan y encubren la violencia, y que confiar solo en la vía penal tiene límites (feminismo carcelario; alternativas comunitarias y restaurativas). ¿Qué rol le cabe a la universidad?
+(4) Plataformas: el chat y la difusión digital (Ananías et al.; Caso Nido en Chile).
+Cerrar distinguiendo tres niveles: individual (el agresor), interaccional (el grupo) e institucional (universidad, plataformas, justicia), como en el sistema multinivel de clases anteriores.
+:::
+
+---
+
+## Violencia digital en Chile (Ananías et al. 2023)
+
+::: {style="font-size:0.72em;"}
+::: columns
+::: {.column width="52%"}
+::: {.cuadro-datos}
+Encuesta online a 531 mujeres (cis, trans y no binaries) en 2020, muestra **no probabilística** por cuotas (ONG Amaranta). **73,8%** había sufrido violencia digital.
+:::
+
+- Más reportado: violencia verbal (66,4%), acoso u hostigamiento (59%), **envío de fotos o videos de penes sin consentimiento** (49,6%).
+- Agresores: anónimos o perfiles falsos (41,9%), pareja o ex pareja (18,1%), hombres del entorno (14,8%).
+- **46,3%** de las encuestadas vivió control o violencia digital de una pareja (revisar el celular, exigir contraseñas o ubicación).
+:::
+::: {.column width="46%"}
+- Solo 12,2% intentó denunciar, la mayoría sin respuesta positiva.
+- No hubo más ataques a activistas que a no activistas: el **género** sería el principal factor de exposición.
+- Al publicarse el estudio, Chile no tenía una ley integral sobre violencia digital.
+
+::: {.cuadro-actividad}
+El 73,8% incluye a 58 mujeres que primero dijeron que **no** habían sufrido violencia, pero luego describieron situaciones de control de su pareja. ¿Qué nos dice esto sobre cómo se mide (y se reconoce) la violencia?
+:::
+:::
+:::
+:::
+
+::: notes
+Corrección importante: el 49,6% es envío de imágenes de genitales masculinos sin consentimiento; la difusión no consentida de imágenes íntimas propias fue 3,2%. Las autoras señalan que esta forma de violencia estaba tan normalizada que ni ellas la habían reconocido como tal antes. Antes de la contra-pregunta el porcentaje era 62,9%. La violencia digital se entiende como un continuo de la violencia de género offline. El 12,2% corresponde a 41 casos. Los problemas para denunciar: Fiscalía archiva, falta de brigadas especializadas en regiones; las mujeres se apoyan en redes de amigas, familia y terapia ante el "abandono del Estado". Sobre la ley: Ley 21.675 (2024) no define la violencia digital como un tipo separado; la violencia simbólica incluye mensajes en "cualquier medio de comunicación o plataforma". Pregunta adicional: ¿qué no podemos concluir de una muestra no probabilística?
 :::
 
 ---
 
 ## Chile: marco legal y la Ley 21.675 (2024)
 
-::: {style="font-size:0.82em;"}
+::: {style="font-size:0.8em;"}
 ::: columns
 ::: {.column width="48%"}
 ::: {.cuadro-datos}
@@ -171,152 +418,40 @@ Contrastar con Manne: ella pone el foco en el castigo a quienes desafían el ord
 - Ley 20.480 (2010): tipifica el **femicidio**
 - Ley 21.212 (2020, "Ley Gabriela"): incluye parejas sin convivencia
 - Ley 21.565 (2023): protección y reparación a familias de víctimas de femicidio
-- **Ley 21.675 (2024):** prevenir, sancionar y erradicar la violencia contra las mujeres por razón de género
+- **Ley 21.675 (2024):** prevenir, sancionar y erradicar la violencia contra las mujeres en razón de su género
 :::
 :::
 ::: {.column width="48%"}
 ::: {.cuadro-datos}
-**Novedades de la Ley 21.675**
+**Ley 21.675, art. 6: nueve formas de violencia**
 
-- Reconoce violencia **simbólica, institucional, política y gineco-obstétrica**
-- Va más allá de la violencia en la pareja y la familia
+Física, psicológica, sexual, económica, **simbólica, institucional, política, en el trabajo y gineco-obstétrica**. Es una lista abierta, que va más allá de la pareja y la familia.
 :::
 :::
 :::
-:::
-
----
-
-## ¿Cómo se define la violencia de género en la ley?
-
-::: {style="font-size:0.8em;"}
-*(Valdebenito Zárate & Villena Llanos 2025)*
-
-A partir de debates parlamentarios, informes de organizaciones feministas y entrevistas, identifican **cuatro marcos** para entender la violencia de género:
-
-1. Violencia intrafamiliar
-2. Violencia contra las mujeres por razón de género
-3. Violencia de género desde una perspectiva feminista e interseccional
-4. Violencia como problema no definido por el género
-
-Encuentran **tensiones** entre la mirada institucional y las demandas históricas del movimiento feminista, y concluyen que la ley avanza pero reproduce algunas representaciones tradicionales y omite voces críticas.
 :::
 
 ::: notes
-Contextualizar con el resto de la clase: ¿qué marco predomina en las cifras que vimos? ¿Qué marcos de Manne y Segato quedan fuera de la ley?
+Publicada el 14 de junio de 2024, tras 7 años de tramitación. La violencia institucional del art. 6 incluye actos u omisiones que retrasen u obstaculicen el ejercicio de derechos: conectar con Rifo y con la experiencia de denuncia en Ananías. Debate: algunos actores (p. ej. Fundación para el Progreso) critican la violencia simbólica por riesgo a la libertad de expresión; según revisiones de jurisprudencia 2024–2026, los tribunales casi no han aplicado los tipos simbólico, político y gineco-obstétrico. Verificar el nombre exacto de la Ley 21.565 antes de la clase.
 :::
 
 ---
 
-## Discusión en grupo: ¿Qué hace que los hombres en grupo dañen a las mujeres?
+## Reflexión final (Wooclap)
 
-::: {style="font-size:0.72em;"}
-::: {.nonincremental}
-*(Manne, "What Makes Men in Groups Behave So Badly?", NYT 2026)*
-
-Caso: el chat grupal de la fraternidad Chi Phi (Cornell) y la denuncia de una estudiante por agresión sexual por parte de varios hombres.
-
+::: {style="font-size:0.88em;"}
 ::: {.cuadro-actividad}
-**En grupos de 4 personas (20 min).**
+**3 minutos, anónimo:**
 
-**1. Mecanismos (7 min).** Según Manne, ¿cómo opera la dinámica grupal? Identifiquen en el texto: la **lealtad entre pares** ("bro code"), el **silencio** de quienes observan, y la **himpathy** (¿hacia quién se dirige la simpatía?).
-
-**2. Conexión teórica (7 min).** ¿Qué parte del caso ilustra mejor la **violencia expresiva** y la **cofradía masculina** de Segato? ¿Qué agrega Manne que Segato no dice, o al revés?
-
-**3. Aplicación y acción (6 min).** Elijan una:
-
-- ¿Qué equivalentes encuentran en Chile (grupos de WhatsApp, colegios, equipos deportivos, clubes)? ¿Y qué rol juega lo digital (Ananías et al. 2023)?
-- Manne dice que prohibir las fiestas es insuficiente. ¿Qué intervenciones atacarían el problema de fondo: cambiar la norma del grupo, sancionar, educar, regular plataformas?
+- ¿Qué idea de hoy cambia cómo entiendes la violencia de género?
+- Si pudieras cambiar **una** cosa en tu entorno (universidad, grupo de amigos, redes), ¿qué sería?
 :::
+
+::: {style="font-size:0.85em; margin-top:0.5em;"}
+**Fono 1455** (SernamEG) · **Fono 149** (Carabineros, Fono Familia)
 :::
 :::
 
 ::: notes
-Advertencia: el artículo describe violencia sexual y cita lenguaje explícito del chat; recordar la advertencia de contenido y que pueden participar de forma más pasiva. Cronograma: 20 min en grupos + 10 min de plenario (un grupo por ronda reporta). Pedir que citen pasajes concretos.
-
-Respuestas esperadas. Ronda 1: (a) lealtad entre pares: el "bro code" hace que denunciar o intervenir se viva como traición; el ex presidente de fraternidad (Estrada) cuenta que se calló para no ser visto como "aguafiestas" y por miedo a perder trabajo y vivienda, y que su primera reacción fue proteger a sus "hermanos", no ser buena persona; (b) silencio de los espectadores: nadie objetó abiertamente el chat, varios lo escalaron, y al menos dos hombres entraron a la habitación después de verlo; (c) himpathy: la simpatía se dirige a los acusados ("arruinados", "abandonados por la hermandad", se sienten víctimas) y se culpa a la denunciante (alcohol, ir a la casa). Datos que cita: estudio de 2007 (hombres que ingresan a fraternidades tienen 3 veces más probabilidad de cometer violencia sexual durante el primer año, sin diferencias previas), informe de 1985 que ya describía el mismo patrón, y la encuesta de Cornell 2025 (35% de las estudiantes de pregrado con alguna agresión sexual vs. 23% en 2023).
-
-Ronda 2: Segato: la violencia sexual es expresiva, se exhibe ante pares y busca reconocimiento y pertenencia en la cofradía; el chat es literalmente el escenario donde la masculinidad se "prueba" frente al grupo. Manne aporta el mecanismo de sanción interna (no denunciar, lealtad) y la himpathy posterior, es decir, cómo el grupo y la comunidad protegen al agresor después. Segato enfatiza el mandato y la pedagogía de la crueldad; Manne, la tecnología que amplifica y facilita la coordinación (casos de Pelicot en Francia, grupos de Facebook en Italia, chats de drogar y agredir a parejas). Conectar con Pradenas y Rifo vistos antes.
-
-Ronda 3: opciones de respuesta. Chile: grupos de WhatsApp y redes con circulación de imágenes sin consentimiento, colegios y universidades, el estudio de Ananías et al. (hombres del entorno y perfiles anónimos entre los agresores digitales). Intervenciones: Manne es escéptica con prohibir las fiestas ("como la Prohibición") porque empuja las prácticas a la clandestinidad; preguntar qué cambiaría la norma del grupo (intervención de espectadores, liderazgo masculino, protocolos de denuncia con protección para quien denuncia y para quien interviene).
-
-Para el cierre: distinguir lo individual (el agresor) de lo colectivo (el grupo que habilita) y lo institucional (la universidad, las plataformas). Marco legal (Valdebenito & Villena 2025) queda como lectura complementaria.
-:::
-
----
-
-## Violencia digital: lo central de Ananías et al. (2023)
-
-::: {style="font-size:0.72em;"}
-::: columns
-::: {.column width="52%"}
-::: {.cuadro-datos}
-**73,8%** de 531 mujeres encuestadas había sufrido violencia digital (muestra **no probabilística**, ONG Amaranta, inicio de la pandemia).
-:::
-
-- Más reportado: violencia verbal (66,4%), acoso (59%) e imágenes sexuales sin consentimiento (49,6%)
-- Origen: anónimos o perfiles falsos (41,9%), pareja o ex pareja (18,1%), hombres del entorno (14,8%)
-- 46,3% de quienes tuvieron pareja sufrió control mediante dispositivos
-:::
-::: {.column width="46%"}
-- Consecuencias: efectos emocionales, en la autoestima, sentirse vigilada, aislamiento
-- Solo 12,2% intentó denunciar, con poca respuesta positiva
-- No hubo más ataques a activistas que a no activistas: el **género** es el principal factor
-- La violencia está **normalizada**
-:::
-:::
-
-::: {.cuadro-actividad}
-¿Por qué no podemos generalizar el 73,8%? ¿Es menos "real" la violencia digital?
-:::
-:::
-
----
-
-## Tipos de violencia de género (ONU Mujeres)
-
-::: {style="font-size:0.62em;"}
-::: columns
-::: {.column width="62%"}
-**Violencia contra mujeres y niñas en el ámbito privado**
-
-- Violencia económica
-- Violencia psicológica
-- Violencia emocional
-- Violencia física
-- Violencia sexual
-
-**Feminicidio**
-
-- Asesinatos por honor
-
-**Violencia sexual**
-
-- Acoso sexual
-- Violación
-- Violación correctiva
-- Cultura de la violación
-
-**Trata de personas**
-
-**Mutilación genital femenina**
-
-**Matrimonio infantil**
-
-**Violencia en línea o digital**
-
-- Ciberacoso
-- Sexteo o sexting
-- Doxing
-:::
-::: {.column width="36%"}
-![](C11_05.png){fig-align="center"}
-:::
-:::
-:::
-
-::: notes
-Este tipo de violencia, también llamada maltrato en el hogar o violencia de pareja, es cualquier patrón de comportamiento que se utilice para adquirir o mantener el poder y el control sobre una pareja íntima. Una de las formas más comunes de violencia que sufren las mujeres.
-
-15 minutos.
+Leer 2-3 respuestas en voz alta si el grupo se siente cómodo.
 :::
