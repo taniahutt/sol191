@@ -2,3 +2,7 @@
 **/*.quarto_ipynb
 **/.DS_Store
 CLASE3.mp4
+
+# Podcasts de estudiantes
+/podcasts/
+/podcasts sol191/
