@@ -17,8 +17,6 @@ format:
     auto-animate: true
 ---
 
----
-
 # Violencia de género {background-image="C11_01.jpg" background-size="cover" background-opacity="0.35" style="color:white;"}
 
 ::: {style="color:#d4b8f5; font-size:1.1em; margin-top:0.5em;"}
@@ -31,16 +29,16 @@ SOL191 · Clase 11: Violencia de género
 
 ::: {style="font-size:0.88em;"}
 ::: {.cuadro-actividad}
-Hoy hablaremos de **violencia física, sexual, psicológica y digital, acoso, femicidio y abuso sexual**. Puede ser difícil o doloroso, sobre todo si es parte de tu experiencia.
+Hoy hablaremos de **violencia física, sexual, psicológica y digital, acoso, femicidio y abuso sexual**. Puede ser difícil o doloroso.
 
 - Puedes **salir de la sala, tomar agua o una pausa** cuando lo necesites, sin pedir permiso ni dar explicaciones.
-- Puedes **participar de forma más pasiva** o **no compartir** experiencias personales: nadie está obligado/a a hacerlo.
+- Puedes **participar de forma más pasiva** y no es necesario compartir experiencias personales.
 - Puedes **volver cuando quieras**.
 - Si quieres conversar después, escríbeme a mí o a las ayudantes.
 :::
 
 ::: {style="font-size:0.85em; margin-top:0.4em;"}
-**Fono 1455** (SernamEG): orientación gratuita y confidencial en violencia contra las mujeres.
+**Fono 1455** (SernamEG): orientación gratuita y confidencial en violencia de género.
 :::
 :::
 
@@ -123,6 +121,49 @@ Cifras de SernamEG, reportadas por La Tercera y BioBioChile (2025). El Poder Jud
 
 ---
 
+## Abuso sexual en la niñez: Primera Encuesta Nacional (CUIDA UC)
+
+::: {style="font-size:0.78em;"}
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**18%** de la población adulta sufrió abuso sexual antes de los 18 años: [28% de las mujeres]{.hl} y 8% de los hombres. Un 5% sufrió violación.
+:::
+
+- Más de la mitad (55%) ocurrió entre los **6 y 12 años**.
+- **94%** de los ofensores son hombres (98% en el caso de las niñas; 76% en el de los niños).
+- **77%** de los ofensores eran conocidos: familiares (41%, sobre todo tíos, primos y padrastros) o conocidos de la familia (36%).
+:::
+::: {.column width="48%"}
+::: {.cuadro-datos}
+**38%** nunca se lo contó a nadie, y casi la mitad (48%) de quienes lo contaron tardaron **10 años o más**.
+:::
+
+- Solo **9%** denunció y 17% recibió atención especializada o tratamiento de salud mental.
+
+::: {.cuadro-actividad}
+¿Qué mecanismos de Armstrong et al. (silencio, poder de definir) y de Segato (en el hogar "porque puede") ayudan a entender estos datos?
+:::
+:::
+:::
+
+::: {style="font-size:0.68em; color:#777;"}
+Fuente: CUIDA, Centro de Investigación del Abuso y la Adversidad Temprana (UC y Fundación Para la Confianza). Encuesta probabilística a 2.101 personas de 18 a 65 años en 13 regiones, diciembre 2021 a enero 2022.
+:::
+:::
+
+::: notes
+Definición del estudio: abuso sexual infantil cuando la víctima es menor de 18 años y el ofensor tiene 12 años o más; se mide con preguntas autoaplicadas basadas en la clasificación NIS-3, con encuestadoras mujeres. Las cifras se comparan con meta-análisis internacionales: Pereda et al. (2009) 19,2% mujeres y 7,4% hombres; Stoltenborgh et al. 18,4% y 7,6%. Es decir, la prevalencia en mujeres en Chile es más alta que los promedios internacionales.
+
+Otros datos útiles: el ofensor más frecuente tiene entre 35 y 54 años (53%), pero 19% tenía entre 12 y 17. Un 10% es abuso entre pares (menos de 5 años de diferencia). Los mecanismos más usados por el ofensor: abusar de la confianza (37%), usar fuerza física (26%), obligar a guardar secreto (26%). 27% de quienes vivieron estas experiencias no se considera víctima de abuso sexual (los hombres se consideran víctimas menos que las mujeres: 63% vs. 76%), lo que conecta con el "poder de definir" de Armstrong et al. y con la contra-pregunta de Ananías et al.
+
+Para discutir con mirada metodológica: la prevalencia reportada es mayor entre personas con educación superior (22%) que con educación básica (13%). ¿Más abuso o más capacidad de reconocerlo y reportarlo?
+
+Quienes vivieron abuso sexual en la niñez reportan más trastornos de salud mental diagnosticados (50% vs. 25% al menos uno) y más problemas con drogas (36% vs. 13%). El ambiente protector (un adulto que cuida, rutina estable, amistades) aparece asociado a menor abuso.
+:::
+
+---
+
 ## Cifras PUC: violencia sexual (2019)
 
 ::: columns
@@ -140,36 +181,34 @@ Cifras de SernamEG, reportadas por La Tercera y BioBioChile (2025). El Poder Jud
 Prevalencia de victimización por sexo y estamento (2019): entre estudiantes de pregrado, alrededor de 1 de cada 4 mujeres vs. 6-9% de los hombres. Agresor conocido: 74,8%. PENDIENTE: confirmar a qué pregunta corresponde el gráfico de Sí/No/No responde (¿denunció?) y agregarle título. Revisar si existe una medición PUC más reciente que la de 2019.
 :::
 
----
-
 # ¿Cómo explicamos la violencia? {background-color="#6B4C9A" style="color:white;"}
 
 ---
 
 ## La violencia sexual como mecanismo de desigualdad (Armstrong et al. 2018)
 
-::: {style="font-size:0.78em;"}
+::: {style="font-size:0.72em;"}
 ::: {.cuadro-datos}
-La violencia sexual es **causa y consecuencia** de desigualdades de género, raza/etnia, clase, sexualidad, edad, discapacidad y ciudadanía. Funciona como mecanismo de desigualdad que se vuelve más eficaz porque se [silencia]{.hl}.
+La violencia sexual es **causa y consecuencia** de múltiples desigualdades, y es más eficaz porque se [silencia]{.hl}.
 :::
 
 ::: columns
 ::: {.column width="50%"}
-**Ideas clave de la literatura feminista e interseccional:**
-
-- **Poder:** es dominación, no desviación individual (p. ej., violación como arma de guerra y colonización).
-- **Interseccionalidad:** las políticas centradas solo en género o solo en raza fallan a las mujeres de color (Crenshaw, Collins).
-- **Organizaciones:** universidades, iglesias, ejércitos o cárceles la facilitan y encubren.
+- **Poder:** dominación, no desviación individual.
+- **Interseccionalidad:** mirar solo el género (o solo la raza) deja fuera a muchas víctimas.
+- **Organizaciones:** universidades, iglesias o ejércitos la facilitan y encubren.
 :::
 ::: {.column width="48%"}
-- **Cultura:** guiones heterosexuales (él insiste, ella resiste) y **mitos de violación** que culpan a la víctima.
-- **Masculinidades:** la violencia sexual sostiene la masculinidad y produce jerarquías entre hombres.
-- **El poder de definir:** quién decide qué cuenta como violencia (en la ley, en la cultura y en la propia experiencia).
+- **Cultura:** guiones sexuales y **mitos de violación** que culpan a la víctima.
+- **Masculinidades:** sostiene la masculinidad y las jerarquías entre hombres.
+- **Poder de definir:** quién decide qué cuenta como violencia.
 :::
 :::
 :::
 
 ::: notes
+Versión completa de la slide. La violencia sexual es causa y consecuencia de desigualdades de género, raza/etnia, clase, sexualidad, edad, discapacidad y ciudadanía. Poder: es dominación (p. ej., violación como arma de guerra y de colonización). Interseccionalidad: las políticas centradas solo en género o solo en raza fallan a las mujeres de color (Crenshaw, Collins). Organizaciones: también cárceles y lugares de trabajo. Cultura: guiones heterosexuales en que él insiste y ella resiste. Poder de definir: en la ley, en la cultura y en la propia experiencia.
+
 Armstrong, Gleckman-Krut & Johnson (2018), Annual Review of Sociology 44: 99–122. Siete "insights": poder, interseccionalidad, organizaciones e instituciones, cultura, discurso e interacción, masculinidades y narrativa. Se apoyan en Collins: la violencia es el "pegamento conceptual" que une los sistemas de dominación. El foco es Estados Unidos: preguntar qué cambia en Chile (por ejemplo, clase y pueblos originarios en lugar de raza en el sentido estadounidense). Conectar "organizaciones" con la columna de Manne: Armstrong et al. (2006) mostraron cómo la organización de la vida universitaria (residencias, control masculino de las fiestas) produce agresiones sexuales en el campus; y Sanday (2007, citado en p. 114) muestra que los grupos solo de hombres atacan a mujeres para renovar sus lazos. Ambas ideas son el puente directo con Segato y con el caso de Cornell.
 :::
 
@@ -177,35 +216,36 @@ Armstrong, Gleckman-Krut & Johnson (2018), Annual Review of Sociology 44: 99–1
 
 ## El mito de la "violación real" (Armstrong et al. 2018)
 
-::: {style="font-size:0.78em;"}
+::: {style="font-size:0.72em;"}
 ::: columns
 ::: {.column width="50%"}
 ::: {.cuadro-datos}
-**El arquetipo:** un desconocido ataca con violencia a una mujer "respetable"; ella resiste y denuncia.
+**El arquetipo:** un desconocido ataca con violencia a una mujer "respetable", que resiste y denuncia.
 :::
 
-**Lo que muestra la evidencia:**
+**La evidencia:**
 
-- La mayoría de las víctimas **conoce** a su agresor.
-- Muchas no se resisten físicamente; la mayoría de los agresores no usa fuerza física ni armas.
-- La mayoría **no denuncia** y muchas **no nombran** su experiencia como violación.
-- Las denuncias falsas son raras (**2–10%**, similar a otros delitos violentos).
+- La mayoría **conoce** a su agresor.
+- La mayoría **no denuncia**; muchas **no lo nombran** como violación.
+- Denuncias falsas: **2–10%**, como en otros delitos.
 :::
 ::: {.column width="48%"}
-**Consecuencias institucionales:**
+**Instituciones:**
 
-- "Segundas agresiones": policía, fiscalía, tribunales y servicios médicos evalúan la credibilidad según edad, raza, clase o sexualidad.
-- Apostar solo por la vía penal llevó a un **feminismo carcelario** que dejó fuera a mujeres racializadas y pobres.
-- **Silencio sociológico:** entre 1975 y 2017, las tres revistas centrales de la disciplina publicaron solo 13 artículos sobre violencia sexual.
+- **"Segundas agresiones"** en policía, tribunales y salud.
+- Límites del **feminismo carcelario**.
+- **Silencio sociológico** sobre el tema.
 
 ::: {.cuadro-actividad}
-¿Cuánto se parece este arquetipo a la imagen que circula en los medios y en nuestras conversaciones? ¿Y a los datos de Chile que vimos?
+¿Se parece este arquetipo a los datos de Chile que vimos?
 :::
 :::
 :::
 :::
 
 ::: notes
+Versión completa de la slide. Evidencia: muchas víctimas no se resisten físicamente y la mayoría de los agresores no usa fuerza física ni armas. "Segundas agresiones": policía, fiscalía, tribunales y servicios médicos evalúan la credibilidad según edad, raza, clase o sexualidad. Feminismo carcelario: apostar solo por la vía penal dejó fuera a mujeres racializadas y pobres. Silencio sociológico: entre 1975 y 2017, las tres revistas centrales de la disciplina publicaron solo 13 artículos sobre violencia sexual. Pregunta ampliada: ¿cuánto se parece el arquetipo a la imagen que circula en los medios y en nuestras conversaciones?
+
 Datos de Chile que lo confirman: en la ENVCM 2024 el principal agresor es la ex pareja y solo 12,1% denunció el último episodio de violencia sexual; en la PUC (2019), 74,8% de los agresores eran conocidos. Sobre denuncias falsas: Armstrong et al. explican que el estudio de Kanin (1994), que afirmaba 41% de denuncias falsas, tenía graves problemas metodológicos y sigue citándose pese a estar refutado (pp. 112–113). Las "segundas agresiones" conectan con el caso Rifo (Corte Suprema) y con las dificultades de denuncia que reportan Ananías et al. (Fiscalía que archiva). Sobre el movimiento: en Estados Unidos, la alianza con la "guerra contra el crimen" y la Violence Against Women Act de 1994 reforzaron el castigo penal; Richie y Crenshaw critican sus efectos sobre mujeres racializadas; alternativas: organización comunitaria y justicia restaurativa. Esto prepara el plenario sobre cómo abordar el problema. Sobre el silencio: AJS, ASR y Annual Review of Sociology publicaron 13 artículos entre 1975 y 2017; solo 5% de las publicaciones de ciencias sociales sobre violación en 1975–2015 aparecieron en revistas de sociología.
 :::
 
@@ -213,45 +253,50 @@ Datos de Chile que lo confirman: en la ENVCM 2024 el principal agresor es la ex 
 
 ## Misoginia según Manne
 
-::: {style="font-size:0.85em;"}
+::: {style="font-size:0.78em;"}
 *(Manne 2018, Down Girl)*
 
 ::: {.cuadro-datos}
-Más allá del odio u hostilidad individual hacia las mujeres, la misoginia es un [sistema de control social]{.hl}. Funciona para fiscalizar y asegurar la subordinación de la mujer y mantener normas patriarcales.
+La misoginia no es solo odio individual: es un [sistema de control social]{.hl} que fiscaliza la subordinación de las mujeres.
 :::
 
-- **Sexismo** es la ideología que racionaliza y justifica el patriarcado; la **misoginia** es "la policía" que castiga a quienes desafían ese orden.
-- **El castigo misógino:** castigo a las mujeres que desafían las normas de género o fracasan en servir los intereses de los hombres (abuso verbal, violencia física, aislamiento social, entre otras).
+- **Sexismo:** la ideología que justifica el orden de género.
+- **Misoginia:** "la policía" que castiga a quienes lo desafían.
 
 ::: {.cuadro-actividad}
-¿Ejemplos de situaciones en las que las mujeres desafían las normas y son fiscalizadas? ¿Y de hombres?
+¿Ejemplos de mujeres que desafían las normas y son fiscalizadas? ¿Y de hombres?
 :::
+:::
+
+::: notes
+Versión completa: más allá del odio u hostilidad individual, la misoginia funciona para fiscalizar y asegurar la subordinación de las mujeres y mantener normas patriarcales. El castigo misógino recae sobre las mujeres que desafían las normas de género o que fracasan en servir los intereses de los hombres, e incluye abuso verbal, violencia física y aislamiento social, entre otras formas.
 :::
 
 ---
 
 ## Himpathy e injusticia epistémica
 
-::: {style="font-size:0.78em;"}
+::: {style="font-size:0.74em;"}
 ::: columns
 ::: {.column width="50%"}
 ::: {.cuadro-datos}
-**"Himpathy"** (Manne): simpatía excesiva hacia los hombres que ejercen violencia, que minimiza sus actos, protege su futuro y desplaza la culpa hacia la víctima.
+**"Himpathy"** (Manne): simpatía excesiva hacia los hombres que ejercen violencia, que protege su futuro y culpa a la víctima.
 :::
 
-**Caso Martín Pradenas.** Condenado en 2023 a 17 años por siete delitos sexuales contra seis personas, entre ellas Antonia Barra. Gran parte del debate público se centró en su familia, su estatus y su futuro.
+**Caso Pradenas** (condenado en 2023): el debate se centró en su familia, su estatus y su futuro.
 :::
 ::: {.column width="48%"}
 ::: {.cuadro-datos}
-**Injusticia epistémica** (Fricker; usada por Manne): se resta credibilidad a las mujeres como testigos de su propia experiencia.
+**Injusticia epistémica** (Fricker): se resta credibilidad a las mujeres como testigos de su propia experiencia.
 :::
 
-**Caso Nabila Rifo.** En 2017 la Corte Suprema recalificó el femicidio frustrado como lesiones graves, porque "no quedó demostrado cabalmente el dolo de matar", y rebajó la condena de su agresor.
+**Caso Nabila Rifo:** en 2017 la Corte Suprema descartó el femicidio frustrado porque "no quedó demostrado cabalmente el dolo de matar".
 :::
 :::
 :::
 
 ::: notes
+Versión completa: Pradenas fue condenado en 2023 a 17 años por siete delitos sexuales contra seis personas, entre ellas Antonia Barra. La Corte Suprema recalificó el femicidio frustrado de Rifo como lesiones graves y rebajó la condena del agresor. La injusticia epistémica es un concepto de Miranda Fricker que Manne usa.
 Pradenas: un primer juicio (2022) lo condenó a 20 años, pero fue anulado por la Corte Suprema por falta de imparcialidad de un juez; el segundo juicio (julio 2023, Temuco) lo condenó a 17 años. Rifo: agresión en Coyhaique en mayo de 2016; la Corte Suprema (11 julio 2017, 4 votos contra 1) recalificó el femicidio frustrado y rebajó la condena de 26 años a 18. Preguntar: ¿qué tiene que demostrar una mujer para que su testimonio se tome en serio? Conectar con la denuncia baja que vimos en la ENVCM ("temor a que no me creyeran").
 :::
 
@@ -407,44 +452,14 @@ Corrección importante: el 49,6% es envío de imágenes de genitales masculinos 
 
 ---
 
-## Chile: marco legal y la Ley 21.675 (2024)
-
-::: {style="font-size:0.8em;"}
-::: columns
-::: {.column width="48%"}
-::: {.cuadro-datos}
-**Hitos legales**
-
-- Ley 20.480 (2010): tipifica el **femicidio**
-- Ley 21.212 (2020, "Ley Gabriela"): incluye parejas sin convivencia
-- Ley 21.565 (2023): protección y reparación a familias de víctimas de femicidio
-- **Ley 21.675 (2024):** prevenir, sancionar y erradicar la violencia contra las mujeres en razón de su género
-:::
-:::
-::: {.column width="48%"}
-::: {.cuadro-datos}
-**Ley 21.675, art. 6: nueve formas de violencia**
-
-Física, psicológica, sexual, económica, **simbólica, institucional, política, en el trabajo y gineco-obstétrica**. Es una lista abierta, que va más allá de la pareja y la familia.
-:::
-:::
-:::
-:::
-
-::: notes
-Publicada el 14 de junio de 2024, tras 7 años de tramitación. La violencia institucional del art. 6 incluye actos u omisiones que retrasen u obstaculicen el ejercicio de derechos: conectar con Rifo y con la experiencia de denuncia en Ananías. Debate: algunos actores (p. ej. Fundación para el Progreso) critican la violencia simbólica por riesgo a la libertad de expresión; según revisiones de jurisprudencia 2024–2026, los tribunales casi no han aplicado los tipos simbólico, político y gineco-obstétrico. Verificar el nombre exacto de la Ley 21.565 antes de la clase.
-:::
-
----
-
 ## Reflexión final (Wooclap)
 
 ::: {style="font-size:0.88em;"}
 ::: {.cuadro-actividad}
-**3 minutos, anónimo:**
+**5 minutos, anónimo:**
 
 - ¿Qué idea de hoy cambia cómo entiendes la violencia de género?
-- Si pudieras cambiar **una** cosa en tu entorno (universidad, grupo de amigos, redes), ¿qué sería?
+
 :::
 
 ::: {style="font-size:0.85em; margin-top:0.5em;"}
