@@ -181,13 +181,7 @@ Cada grupo prepara **4 preguntas**, una de cada tipo, sobre el podcast y la mini
 | **Metodológica** | Cuestiona una decisión de diseño de la mini propuesta (datos, muestra, medidas, estrategia) | "¿Por qué esa muestra permite distinguir el mecanismo que proponen de una explicación alternativa por clase social?" |
 | **Crítica / explicaciones alternativas** | Identifica un contraargumento o una limitación no considerada | "¿Cómo responderían a la objeción de que Z se explica por factores económicos y no de género?" |
 
-Las preguntas y comentarios se entregan por escrito a la profesora **24 horas antes** de la sesión de defensa correspondiente:
-
-| Pod | Sesión de defensa | Preguntas por escrito antes de |
-|:---:|:---|:---|
-| Pod 1 | Clase 12 — jueves 12-Nov | miércoles 11-Nov |
-| Pod 2 | Clase 13 — jueves 19-Nov | miércoles 18-Nov |
-| Pod 3 | Clase 14 — jueves 26-Nov | miércoles 25-Nov |
+Las preguntas y comentarios **no se entregan con anticipación**: cada grupo interrogador debe llegar a la sesión de defensa con sus 4 preguntas listas (por escrito, para su propio uso).
 
 #### Logística: 3 sesiones de 45 minutos
 
