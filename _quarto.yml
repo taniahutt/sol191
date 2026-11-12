@@ -15,6 +15,7 @@ project:
     - clases/C9_clase_pub.qmd
     - clases/C10_clase_pub.qmd
     - clases/C11_clase_pub.qmd
+    - clases/C12_clase_pub.qmd
   resources:
     - lecturas/**            # copia todos los PDF aunque el nombre tenga & o , (bug de detección automática de Pandoc)
     - clases/C3_clase.pdf    # clase 3 fue asincrónica; se publica el PDF de la presentación
