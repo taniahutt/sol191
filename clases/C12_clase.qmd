@@ -65,7 +65,7 @@ Teoría: 15 min en total (esta diapositiva hasta "Imperativo del coito"). Ir rá
 ## Cuerpo para sí, cuerpo para otro
 
 ::: {style="font-size:0.78em;"}
-*(Benavente y Vergara 2006)*
+*(Benavente y Vergara 2006, cap. I, pp. 40–45)*
 
 ::: columns
 ::: {.column width="50%"}
@@ -166,7 +166,7 @@ VERIFICAR: la versión anterior de esta diapositiva decía 5,08 / 5,35 / 4,83 (n
 ## ¿Es biológica la "brecha del orgasmo"?
 
 ::: {style="font-size:0.78em;"}
-*(Frederick, St. John, Garcia y Lloyd 2018; muestra nacional de EE.UU., n ≈ 52.600)*
+*(Frederick, St. John, Garcia y Lloyd 2018; encuesta online anónima en el sitio de NBC News, N = 52.588 personas adultas de EE.UU.; muestra **no representativa**)*
 
 Personas que tienen orgasmo "habitualmente o siempre" en el sexo con pareja:
 
@@ -182,46 +182,54 @@ Personas que tienen orgasmo "habitualmente o siempre" en el sexo con pareja:
 Si la brecha fuera solo biológica, las lesbianas no estarían cerca de los hombres.
 :::
 
+::: notes
+La muestra no es probabilística: la encuesta estuvo publicada diez días en el sitio de NBC News, sin marco muestral, y los autores no afirman que represente a la población de EE.UU. Lo robusto es la comparación entre grupos, no los porcentajes como estimación poblacional. Usarlo en la actividad como ejemplo de rigor (¿qué podemos concluir y qué no?).
+:::
+
 ---
 
 ## Orgasmo y placer en el contexto universitario
 
 ::: {style="font-size:0.7em;"}
-*(Armstrong, England y Fogarty 2012; encuesta online a estudiantes de 21 universidades de EE.UU. y 85 entrevistas)*
+*(Armstrong, England y Fogarty 2012; datos de las **mujeres** que respondieron una encuesta online en 21 universidades de EE.UU., más 85 entrevistas en dos universidades)*
 
-- Hay mayor satisfacción y tasa de orgasmo en relaciones que en encuentros casuales.
-- Una mayor variedad de prácticas se asocia a una mayor satisfacción. Las mujeres participan de más prácticas en relaciones que en encuentros casuales y esto explica en parte la brecha entre ambos.
-- Hombres y mujeres reportan que los hombres generalmente no se preocupan del placer femenino en los encuentros casuales, pero sí en las relaciones. Las mujeres sí reportan esfuerzos por el placer masculino en encuentros casuales.
-- [Doble estándar]{.hl}: el "derecho" al placer se volvió recíproco en las relaciones, pero en encuentros casuales las mujeres no parecen tener el mismo derecho que los hombres.
+- Las mujeres reportan más orgasmo y disfrute sexual en relaciones que en encuentros casuales.
+- Parte de esa diferencia se explica porque en las relaciones hay más **prácticas que favorecen el orgasmo femenino**.
+- En las entrevistas, hombres y mujeres describen a los hombres como poco atentos al placer femenino en los encuentros casuales y más atentos en las relaciones.
+- [Doble estándar]{.hl} *(entrevistas)*: hombres y mujeres cuestionan el derecho de las mujeres al placer en encuentros casuales, pero no el de los hombres.
 :::
 
 ---
 
-## Actividad: ¿Mito o dato?
+## Actividad: Discusión
 
 ::: {style="font-size:0.78em;"}
 ::: {.cuadro-actividad}
-**En grupos (20 min: 12 de trabajo y 8 de plenario).** Cada grupo recibe un mito. Respondan con evidencia de las lecturas y de la clase:
+**En grupos (20 min: 12 de trabajo y 8 de plenario).** Cada grupo recibe una afirmación. Respondan con evidencia de las lecturas y de la clase:
 
 1. ¿Es mito o dato? ¿Qué evidencia lo respalda o lo contradice?
 2. ¿Qué lo sostiene socialmente?
 3. ¿A quién beneficia que se siga creyendo?
 :::
 
-1. "La brecha del orgasmo es biológica."
-2. "La brecha es igual en todas partes."
-3. "Las mujeres tienen menos deseo sexual."
-4. "El sexo 'de verdad' es penetración."
-5. "La liberación sexual ya ocurrió."
-6. "Hablar de placer en la escuela sexualiza."
+1. "Las mujeres tienen menos orgasmos porque su cuerpo es más complicado."
+2. "Si hombres y mujeres dicen estar igual de satisfechos, no hay desigualdad."
+3. "En los encuentros casuales ellas disfrutan menos porque necesitan amor para disfrutar."
+4. "El bajo deseo de las mujeres es un rasgo, no una circunstancia."
+5. "La educación sexual debe enseñar riesgo de salud y reproducción; el consentimiento y el placer es asunto de cada familia."
 :::
 
 ::: notes
 Asignar los mitos 1 a 6 entre los 12 grupos (dos grupos por mito, para comparar en el plenario). Las diapositivas siguientes son un banco de evidencia que pueden consultar los grupos y que sirve para el plenario.
 
-Pistas por mito: 1 → Frederick (2018). 2 → Armstrong et al. (2012) y Mahar, Mintz y Akers (2020): las cifras cambian según el contexto y la formulación de la encuesta. 3 → Benavente y Vergara (2006), cuerpo para otro y cap. II pp. 70–84: el deseo depende del cansancio, la crianza y la precariedad. 4 → McPhillips et al. (2001) y ENSSEX (62,4%). 5 → Gill (2008) y Fahs (2014). 6 → Fine y McClelland (2006).
+Pistas por mito:
 
-Mitos de reserva si un grupo termina antes: "La satisfacción sexual mide lo mismo para todas las personas" (McClelland 2010) y "El orgasmo de ella es de ella" (Chadwick y van Anders 2017).
+1. Frederick et al. (2018): las lesbianas (86%) se acercan a los hombres (95%) y las mujeres heterosexuales quedan en 65%; si fuera el cuerpo, no habría esa diferencia (discutir que la muestra no es representativa). McPhillips et al. (2001) y Mahar, Mintz y Akers (2020): la priorización cultural del coito, la falta de "derecho" de las mujeres al placer en pareja, los guiones de masculinidad y las distracciones cognitivas (revisión acotada a sexo heterosexual entre personas cisgénero). ENSSEX: 62,4% cree que sin orgasmo no hay relación satisfactoria.
+2. McClelland (2010, 2014): justicia íntima; las mujeres asocian el extremo bajo de la escala con dolor y los hombres con no tener sexo, y ellas califican alto cuando su pareja está satisfecha. ENSSEX (5,3 frente a 4,8) como punto de partida. Benavente y Vergara: ellas no se declaran satisfechas si no están seguras de que la relación funciona.
+3. Armstrong, England y Fogarty (2012): la diferencia se explica en parte porque en las relaciones hay más prácticas que favorecen el orgasmo femenino, y por el doble estándar (se cuestiona el derecho de ellas al placer en encuentros casuales, no el de ellos). Contrastar con Benavente: en mujeres de clase media alta el placer se significa desde el amor, lo que es una norma aprendida, no una necesidad.
+4. Benavente y Vergara (2006), cuerpo para otro (cap. I, pp. 40–45) y cap. II, pp. 70–84: en mujeres de clase media alta pesan el cansancio y la "plena crianza"; en mujeres populares de edad intermedia, la precariedad de los espacios y la presencia de los niños, con falta de deseo y la sensación de tener que estar siempre disponibles. Conectar con la carga mental de la clase 10.
+5. Gill (2008): la "agencia" sexual en la publicidad puede ser una tecnología de disciplina; Fahs (2014): "tener que disfrutar" también es una norma. Chadwick y van Anders (2017): el orgasmo de ella como logro de masculinidad (experimento con viñetas; la relación con fingir es hipótesis). Jackson y Scott (2007): fingir como performance y trabajo emocional.
+6. Fine (1988) y Fine y McClelland (2006): el discurso ausente del deseo y el *thick desire*. Contreras Tinoco y Silva-Segovia (2018): las posiciones discursivas de jóvenes chilenos y mexicanos. Hirsch y Khan (2020): ciudadanía sexual. Debate chileno sobre educación sexual integral (verificar estado actual).
 :::
 
 ---
@@ -232,17 +240,17 @@ Mitos de reserva si un grupo termina antes: "La satisfacción sexual mide lo mis
 ::: columns
 ::: {.column width="50%"}
 ::: {.cuadro-datos}
-**Justicia íntima** *(McClelland 2010)*
-
-La satisfacción que declaran las personas es una mala medida de igualdad: lo que sentimos que "merecemos" depende de nuestra posición social. Las mujeres suelen evaluar con umbrales más bajos ("que no duela", "que él esté bien").
+**Justicia íntima** *(McClelland 2010, 2014)*
+ Incorporar el "derecho" y el merecimiento al estudiar la satisfacción sexual: lo que sentimos que "merecemos" depende de nuestra posición social, así que la satisfacción declarada no basta para medir igualdad. 
+ En su trabajo empírico, las mujeres asociaban el extremo bajo de la escala con **dolor**; los hombres, con no tener sexo. Las mujeres también califican alto cuando su pareja está satisfecha.
 :::
 :::
 ::: {.column width="50%"}
 ::: {.cuadro-datos}
 **Fingir el orgasmo**
 
-- *Jackson y Scott (2007):* fingir se entiende como parte del trabajo emocional dentro de la heterosexualidad normativa.
-- *Chadwick y van Anders (2017, 810 hombres):* el orgasmo de la pareja funciona como un logro de masculinidad para ellos. Ayuda a entender por qué ellas fingen.
+- *Jackson y Scott (2007):* el placer y el orgasmo son una **performance interactiva e interpretativa**: "leer" a la pareja y producir una actuación calibrada. La presión a fingir se entiende como parte del trabajo emocional de mantener una relación heterosexual.
+- *Chadwick y van Anders (2017):* experimento con viñetas; 810 hombres imaginaron al azar que una mujer tenía o no un orgasmo con ellos: Cuando lo tenía funciona como logro de masculinidad. Podría explicar por qué algunas mujeres fingen.
 :::
 :::
 :::
@@ -250,57 +258,18 @@ La satisfacción que declaran las personas es una mala medida de igualdad: lo qu
 
 ---
 
-## Evidencia 2: deseo y educación sexual
+## Deseo y educación sexual
 
 ::: {style="font-size:0.72em;"}
 ::: columns
-::: {.column width="50%"}
 ::: {.cuadro-datos}
 **El discurso ausente del deseo** *(Fine 1988; Fine y McClelland 2006)*
 
-La educación sexual enseña a las niñas sobre peligro, riesgo y reproducción, y casi nunca sobre deseo. Proponen un deseo *thick* ("denso"): el deseo se enseña en su contexto social, con derechos y sin ignorar la desigualdad.
-:::
-:::
-::: {.column width="50%"}
-::: {.cuadro-datos}
-**Jóvenes chilenos y mexicanos** *(Contreras y Silva-Segovia 2018)*
-
-Con jóvenes de 15 a 19 años (Antofagasta y Ocotlán) identifican cinco posiciones: esencialista, sexista, mercantilista, romántica y contrasexual.
+La educación sexual enseña a las niñas sobre peligro, riesgo y reproducción, y casi nunca sobre deseo. Proponen que el deseo se enseñe en su contexto social, con derechos y sin ignorar la desigualdad.
 :::
 :::
 :::
 
-::: {.cuadro-datos}
-**Placer y clase en Chile** *(Benavente y Vergara 2006, cap. II, pp. 70–84)*: para las mujeres de clase media el placer "no les pertenece completamente" y queda ligado al amor y a la relación; en las parejas jóvenes de sectores populares es central.
-:::
-:::
-
----
-
-## Evidencia 3: ¿ya nos liberamos?
-
-::: {style="font-size:0.75em;"}
-::: columns
-::: {.column width="50%"}
-::: {.cuadro-datos}
-**Sujeto sexual posfeminista** *(Gill 2008)*
-
-La agencia sexual aparece como "elección" individual, pero sigue ajustada a un modelo de cuerpo y de deseo que ya estaba definido.
-:::
-:::
-::: {.column width="50%"}
-::: {.cuadro-datos}
-**"Libertad para" y "libertad de"** *(Fahs 2014)*
-
-La política sexo-positiva puede volverse una norma más: "tener que disfrutar" también presiona.
-:::
-:::
-:::
-
-::: {.cuadro-datos}
-**Proyectos y geografías sexuales** *(Hirsch y Khan 2020)*: para entender el sexo hay que ver qué buscan las personas (proyectos sexuales) y en qué espacios y relaciones de poder ocurre (geografías sexuales).
-:::
-:::
 
 ---
 
