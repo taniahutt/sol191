@@ -1,6 +1,6 @@
 ---
 title: "Sociología del Género"
-subtitle: "Clase 13: Debates Feministas"
+subtitle: "Clase 13: Género e inteligencia artificial"
 author: "Tania Hutt"
 institute: "SOL191 · Instituto de Sociología · PUC"
 lang: es
@@ -17,191 +17,417 @@ format:
     auto-animate: true
 ---
 
----
 
-# Debates Feministas {background-image="C13_01.jpg" background-size="cover" background-opacity="0.35" style="color:white;"}
 
-::: {style="color:#d4b8f5; font-size:1.1em; margin-top:0.5em;"}
-SOL191 · Clase 13: Debates Feministas
+## Antes de empezar: hagan una predicción
+
+::: {.cuadro-actividad}
+**Pregunta (Wooclap):** Le pedimos a ChatGPT que escriba el currículum de **Ana** y el de **Juan** para el mismo cargo, y luego que les ponga nota de 1 a 100.
+
+¿Qué creen que cambia entre los dos currículums? ¿Quién saca mejor nota?
+:::
+
+::: notes
+5 min. Dejar que voten y no dar la respuesta todavía: se responde con Guilbeault et al. (2025) en la sección de resultados.
 :::
 
 ---
 
-## Objetivos de hoy
+## ¿Por qué la IA es un tema sociológico?
 
-::: {style="font-size:0.9em; line-height:1.8;"}
-- Recolectar información sobre dos temas actuales asociados al feminismo y la desigualdad de género: [la gestación subrogada]{.hl} y [el trabajo sexual]{.hl}.
-- Desarrollar un debate en clases para evaluar críticamente una tesis asociada a cada tema.
+::: {style="font-size:0.85em;"}
+*(Joyce et al. 2021)*
+
+::: {.cuadro-datos}
+Los sistemas de IA son [sociotécnicos]{.hl}: en su código, su diseño y su uso hay valores, prácticas institucionales y desigualdades.
+:::
+
+- La IA más común hoy es el **aprendizaje automático**: sistemas que se entrenan con datos existentes para clasificar y predecir, y cuyas decisiones vuelven al mundo social (quién recibe un beneficio, a quién se contrata, a quién se vigila).
+- Ya se usa en salud, policía, justicia, educación, migración y trabajo.
+- Se presenta como "objetiva" y "basada en datos", lo que le da **autoridad** y oculta las decisiones humanas que hay detrás.
+:::
+
+::: notes
+Marco: 15 min en total (hasta "¿Cómo se estudia?"). Joyce et al. citan ejemplos: un algoritmo de salud en EE.UU. que recomendaba menos atención a pacientes negros que a pacientes blancos con las mismas condiciones, y sistemas de reconocimiento facial que reconocen peor a mujeres y personas no blancas.
 :::
 
 ---
 
-## Instrucciones {background-color="#f8f4ff"}
+## Los datos nunca son neutrales
+
+::: {style="font-size:0.85em;"}
+*(Joyce et al. 2021)*
+
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Lo que la sociología ya sabía**
+
+- Durkheim: las tasas de suicidio hablan de integración social.
+- Du Bois: la mortalidad infantil es "un índice de condición social".
+- Clasificar es un acto moral y político.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Lo que esto implica para la IA**
+
+- Los datos sobre X (código postal, ficha clínica, salario) son también datos sobre [desigualdades]{.hl} de género, clase y raza.
+- Si se usan sin mirada sociológica, la IA **reproduce y puede intensificar** esas desigualdades.
+:::
+:::
+:::
+:::
+
+---
+
+## Dos miradas sobre el problema
+
+::: {style="font-size:0.8em;"}
+*(Joyce et al. 2021)*
+
+| | Mirada de la industria | Mirada sociológica |
+|:--|:--|:--|
+| ¿Qué es el problema? | **"Sesgo"** de programadores individuales | **Desigualdad** incrustada en instituciones |
+| ¿Dónde está? | En los datos o en el código | En todo el proceso: quién financia, diseña, usa y es afectado |
+| ¿Cómo se resuelve? | Capacitar personas, ajustar el algoritmo, "equidad" (*fairness*) | Cambio estructural; preguntar dónde, cuándo, cómo y **para quién** se desarrolla la IA |
+
+[La pregunta no es solo técnica: es una pregunta sobre poder y orden social.]{.hl}
+:::
+
+::: notes
+Conectar con la interseccionalidad (clase 6): Joyce et al. proponen un enfoque estructural e interseccional, apoyado en Collins y Crenshaw, en lugar de uno centrado en el individuo.
+:::
+
+---
+
+## ¿Cómo se estudia la IA desde la sociología del género?
 
 ::: {style="font-size:0.72em;"}
-- División del curso en 2 grupos, uno "a favor" y otro "en contra".
-- Asignar roles dentro de su equipo:
-  - Investigadores, sistematizadores de argumentos.
-  - Tomadores de notas, presentador/a de apertura de debate, presentador/a de respuesta, presentador/a de cierre.
-- Fuentes o tipos de evidencia para defender sus argumentos
-  - Artículos académicos, libros o tesis, artículos de medios confiables, organizaciones de la sociedad civil, estadísticas oficiales.
-  - Evitar argumentos en base a experiencia personal u opinión personal.
-- Tiempos: **25 minutos** de preparación en equipos y **25 minutos** de debate.
-:::
-
----
-
-## Estructura del debate
-
-::: {style="font-size:0.78em; line-height:1.7;"}
-- Posición "a favor": 5 minutos
-- Posición "en contra": 5 minutos
-- 5 minutos para que equipos preparen sus respuestas
-- Respuesta de equipo "en contra": 3 minutos
-- Respuesta de equipo "a favor": 3 minutos
-- Cierre de equipo "en contra": 3 minutos
-- Cierre de equipo "a favor": 3 minutos
-- Votación: ¿qué grupo presentó mejores argumentos?
+| Pregunta | Método | Estudio |
+|:--|:--|:--|
+| ¿Cómo representa la IA a mujeres y hombres? | **Auditoría** de algoritmos con datos de "verdad" conocida | Schwemmer et al. (2020); Guilbeault et al. (2025) |
+| ¿Cambia la IA lo que las personas creen? | **Experimento** | Guilbeault et al. (2025) |
+| ¿Cómo se fabrica el género en un producto de IA? | **Etnografía** en empresas | Zhou (2026) |
+| ¿Qué pasa cuando interactuamos con IA? | **Métodos mixtos** (simulación + encuesta) | Moon y Feng (2026) |
+| ¿Quién siente que la IA lo discrimina? | **Encuesta** en 28 países | Rafnsdóttir et al. (2026) |
 :::
 
 ::: notes
-25 minutos
+Destacar que son los mismos métodos que vimos durante el curso, aplicados a un objeto nuevo. Útil para pensar sus mini propuestas.
 :::
 
 ---
 
-## Preparación en equipos
-
-::: {style="font-size:0.85em; line-height:1.8;"}
-- 15 minutos para recolectar evidencia e información relevante
-- 10 minutos para discutir ideas de argumentos e identificar aquellos más fuertes
-  - 3-4 argumentos.
-:::
-
-::: notes
-25 minutos
-:::
-
----
-
-## Debate 1: Gestación subrogada (GS)
+## Mecanismos: ¿cómo se cuela el género en la IA?
 
 ::: {style="font-size:0.78em;"}
 ::: columns
-::: {.column width="40%"}
-![](C13_02.png){fig-align="center"}
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**1. Reproducción**
 
-::: {style="font-size:0.7em; color:#999; text-align:center;"}
-*This Photo by Unknown Author is licensed under CC BY-SA-NC*
-:::
-:::
-::: {.column width="58%"}
-- La GS es un método de reproducción asistida donde una mujer lleva un embarazo para otra pareja.
-- GS tradicional vía inseminación artificial de la mujer con espermios del padre, haciendo a esta mujer también la madre genética.
-- GS gestacional vía implantación de un embrión de la pareja solicitante o bien de donantes de óvulos y/o espermios.
-- Puede ser [comercial]{.hl}, es decir, donde se le entrega una recompensa económica a la mujer gestante por su embarazo, o
-- Puede ser [altruista]{.hl}, donde la mujer no recibe ningún pago fuera de reembolsos por costos médicos y asociados al embarazo.
-- Pero la distinción en la realidad no es tan clara.
-:::
-:::
+Datos sesgados producen resultados sesgados. Si en los textos "hombre" va con "programador" y "mujer" con "dueña de casa", el modelo aprende esa asociación.
 :::
 
----
+::: {.cuadro-datos}
+**2. Amplificación**
 
-## Regulación de la gestación subrogada en el mundo
+La IA no solo copia: exagera las diferencias y las lleva a nuevos espacios.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**3. Producción**
 
-![Según datos 2022](C13_03.png){fig-align="center" width="65%"}
-
----
-
-## ¿Quién recurre a la gestación subrogada?
-
-::: {style="font-size:0.85em; line-height:1.7;"}
-- Puede ser usado por parejas infértiles, parejas homosexuales, personas solteras, mujeres que han tenido enfermedades que las han dejado infértiles, o que tienen enfermedades genéticas que se traspasarían al feto, entre otras.
-- Como en muchos países no es legal o no está regulado, muchas personas recurren a la GS en otros países.
-- En Chile no está regulado y se han enviado proyectos de ley para regularlo, sin éxito.
-- Hay muchos argumentos a favor y en contra de la gestación subrogada en el debate actual.
+Las empresas fabrican el género de sus productos al optimizarlos con métricas.
 :::
 
----
+::: {.cuadro-datos}
+**4. Aprendizaje recursivo**
 
-## Tesis: gestación subrogada
+Las personas y la IA se entrenan mutuamente y estabilizan normas de género.
+:::
+:::
+:::
 
-::: {.cuadro-actividad}
-**Tesis a debatir:**
+[Todos operan sobre desigualdades interseccionales: género, edad, raza y precariedad laboral.]{.hl}
+:::
 
-"La gestación subrogada, en cualquiera de sus formatos, debería ser legal en todas partes del mundo."
+::: notes
+Mecanismos: 15 min en total (esta diapositiva y las tres siguientes). Esta es la vista general; las diapositivas siguientes desarrollan amplificación, producción y aprendizaje recursivo.
 :::
 
 ---
 
-## Cierre debate 1
-
-::: {.cuadro-actividad}
-- ¿Tenían una posición clara frente a este debate previo a esta actividad?
-- ¿Alguien cambió de opinión con respecto a este debate?
-:::
-
----
-
-## Debate 2: Trabajo sexual
+## Amplificación: creencias de estatus en nuevos espacios
 
 ::: {style="font-size:0.85em;"}
-::: columns
-::: {.column width="42%"}
-![](C13_04.jpg){fig-align="center"}
+*(Schwemmer et al. 2020, a partir de Ridgeway; Guilbeault et al. 2025)*
+
+::: {.cuadro-datos}
+Para Ridgeway, el género es en su raíz una **desigualdad de estatus**. Las creencias que asocian a las mujeres con menos competencia se "transfieren" a cada nuevo espacio social: un [proceso de amplificación]{.hl}.
 :::
-::: {.column width="55%"}
-- El trabajo sexual incluye cualquier tipo de trabajo donde un servicio sexual se provee a cambio de un beneficio o recompensa económica.
-  - Servicios sexuales directos, pornografía, entre otros.
-  - Refiere a una transacción consensuada entre adultos, no considera el tráfico sexual.
-- La mayoría de las trabajadoras sexuales son [mujeres cis o trans]{.hl} y la mayoría de los consumidores son hombres.
+
+- Los algoritmos prometían saltarse el sesgo humano, pero se entrenan con datos "encontrados" en el mundo real: imágenes, textos, búsquedas.
+- Por eso funcionan "no como cámaras de la realidad social, sino como **motores**" que la reproducen.
+- La IA es un caso nuevo de amplificación: lleva los estereotipos a sistemas que usan millones de personas.
 :::
-:::
+
+::: notes
+Conectar con la clase 4 (Ridgeway y Correll, creencias de estatus) y con la clase 9 (contratación).
 :::
 
 ---
 
-## Datos sobre trabajo sexual
+## Producción: *doing data, doing gender*
 
-::: columns
-::: {.column width="62%"}
-![](C13_05.png){fig-align="center"}
+::: {style="font-size:0.8em;"}
+*(Zhou 2026)*
+
+::: {.cuadro-datos}
+Partiendo de West y Zimmerman ("hacer género") y Butler, Zhou propone que en la IA comercial el género también se **hace**, pero lo validan las **métricas**, no las personas.
 :::
-::: {.column width="36%"}
-![](C13_06.png){fig-align="center"}
-:::
+
+El [ciclo de optimización]{.hl}:
+
+1. Ideas vagas de marca ("dulce pero picante") se traducen en **parámetros**: tono de voz, sonrisa, mirada, guion.
+2. Se prueban variantes en vivo (pruebas A/B) y se miden visualizaciones, clics y ventas.
+3. La variante que "convierte" se vuelve el **estándar** de la industria.
+
+[El resultado parece natural y "lo que el público quiere", pero es una suma de decisiones humanas.]{.hl}
 :::
 
 ---
 
-## Tesis: trabajo sexual
+## Aprendizaje recursivo humano–IA
+
+::: {style="font-size:0.82em;"}
+*(Moon y Feng 2026)*
+
+::: {.cuadro-datos}
+**Tecnofeminismo** (Wajcman): el género y la tecnología se construyen mutuamente. La tecnología no es neutral, pero tampoco está condenada a ser patriarcal.
+:::
+
+- Cuando interactuamos con la IA aprendemos qué tipo de lenguaje "funciona" y adaptamos nuestra forma de hablar.
+- La IA, a su vez, refuerza esos guiones.
+- Resultado: la IA puede **normalizar** una forma masculinizada de competencia, como la del "trabajador ideal" de Acker, aunque parezca neutral.
+:::
+
+::: notes
+Conectar con Acker (clase 5): organizaciones generizadas y el "trabajador ideal".
+:::
+
+---
+
+## Resultados 1: la IA envejece a los hombres y rejuvenece a las mujeres
+
+::: {style="font-size:0.7em;"}
+*(Guilbeault, Delecourt y Desikan 2025, Nature)*
+
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**En internet** (~1,4 millones de imágenes y videos de Google, Wikipedia, IMDb, Flickr y YouTube, y 9 modelos de lenguaje)
+
+- Las mujeres aparecen **más jóvenes** que los hombres en todas las ocupaciones, aunque el censo de EE.UU. no muestra diferencias de edad sistemáticas.
+- En IMDb, las celebridades mujeres aparecen 6,5 años más jóvenes en promedio.
+- La brecha es mayor en las ocupaciones de **más estatus e ingresos**.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**En ChatGPT** (~40.000 currículums, junio 2024)
+
+- Con nombre de mujer, el CV sale **1,6 años más joven**, con graduación más reciente y casi **1 año menos de experiencia**.
+- Al evaluar, ChatGPT da mejores notas a más edad, **sobre todo si es hombre**: los hombres mayores reciben los puntajes más altos.
+:::
+:::
+:::
 
 ::: {.cuadro-actividad}
-**Tesis a debatir:**
+Volvamos a la predicción del inicio: ¿acertaron?
+:::
+:::
 
-"El trabajo sexual debería ser legal y regulado, como cualquier otro trabajo."
+::: notes
+Resultados: 15 min en total (5 diapositivas, unos 3 min cada una). Experimento complementario (n = 459, muestra representativa de EE.UU.): quienes buscaron en Google y subieron una imagen de una mujer estimaron la edad promedio de una ocupación 5,46 años menor que quienes subieron la imagen de un hombre. Conectar con el "edadismo de género" en el mercado laboral (clase 9).
 :::
 
 ---
 
-## Cierre debate 2
+## Resultados 2: correcta y sesgada al mismo tiempo
 
+::: {style="font-size:0.72em;"}
+*(Schwemmer et al. 2020; Google Cloud Vision con fotos oficiales de congresistas de EE.UU. y sus imágenes en Twitter)*
+
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Sesgo de identificación**: ¿la IA "ve" a las personas?
+
+- Fotos oficiales: reconoce a [75,5%]{.hl} de las mujeres y 85,8% de los hombres.
+- Fotos de Twitter: 25,8% de las mujeres y 45,3% de los hombres.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Sesgo de contenido**: ¿qué etiquetas pone?
+
+- Mujeres: ~**3 veces más** etiquetas de apariencia física ("peinado", "belleza", "sonrisa", "niña", "presentadora de TV").
+- Hombres: ~1,5 veces más etiquetas de ocupación ("funcionario", "caballero", "ejecutivo").
+:::
+:::
+:::
+
+Todas son congresistas. Las etiquetas no son falsas, pero de muchas etiquetas correctas posibles, el sistema [elige]{.hl} apariencia para ellas y profesión para ellos.
+:::
+
+::: notes
+Amazon Rekognition etiquetó a congresistas mujeres como "adolescente", "niña" y "kid", aunque la persona más joven del grupo tenía 34 años. Conecta con Goffman, *Gender Advertisements*: representar a las mujeres de forma infantil y "poco seria".
+:::
+
+---
+
+## Resultados 3: "Los números la hicieron suave"
+
+::: {style="font-size:0.72em;"}
+*(Zhou 2026; 120 horas de etnografía en dos startups chinas que crean vendedoras virtuales para comercio en vivo, y 48 entrevistas)*
+
+::: columns
+::: {.column width="50%"}
+- Las avatares son casi siempre mujeres jóvenes: "Lo femenino simplemente funciona".
+- En 8 versiones de una avatar, la voz subió de **205 a 230 Hz** y la cintura se adelgazó. Nadie lo llamó "más femenino": se registró como "claridad" o "ajuste a la marca".
+- Una avatar segura, rápida e ingeniosa fracasó en 48 horas: "demasiado".
+- Para whisky, cambiar a un *qipao* y halagos ("un trago para hombres con presencia") subió la conversión 14%.
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+"La hicimos suave porque a los números les gustaba suave. **Ahora los números nos dicen que ella es suave.**"
+
+*(analista entrevistado por Zhou)*
+:::
+
+Resultado: una [feminidad hegemónica]{.hl} suave, admiradora y deferente, que se escala como estándar.
+:::
+:::
+:::
+
+---
+
+## Resultados 4: negociar con una IA
+
+::: {style="font-size:0.72em;"}
+*(Moon y Feng 2026; 51 estudiantes negocian una oferta de trabajo con un chatbot de RR.HH. basado en ChatGPT)*
+
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**La paradoja**
+
+- No hubo diferencias significativas entre mujeres y hombres en los resultados.
+- Pero el estilo **masculinizado** (directo, asertivo, con cifras) obtuvo más puntos que el **feminizado** (cálido, con matices): 10.079 frente a 7.523.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Adaptarse a la IA**
+
+- El 78% cambió su forma de negociar porque era una IA. Una participante: "Fui extremadamente directa y excluí toda emoción".
+- Aunque la IA no tenía género, muchas personas le atribuyeron uno, generalmente el propio. Quienes la vieron como "hombre" obtuvieron salarios US$3.500 más altos.
+:::
+:::
+:::
+
+[La igualdad se logró pidiéndoles a todas las personas que negociaran "como hombres".]{.hl}
+:::
+
+::: notes
+Muestra pequeña de estudiantes en EE.UU.: tomarlo como evidencia exploratoria. Conectar con el doble vínculo de las mujeres asertivas (Rudman, clase 4): aquí no hubo castigo social, pero sí se premió un solo estilo.
+:::
+
+---
+
+## Resultados 5: ¿quién siente que la IA lo discrimina?
+
+::: {style="font-size:0.75em;"}
+*(Rafnsdóttir et al. 2026; encuesta a 4.417 trabajadores y postulantes en 28 países europeos, 2023)*
+
+| | Hombres | Mujeres | Otro género |
+|:--|:-:|:-:|:-:|
+| Cree que la IA **podría** discriminarle | 37% | 44% | 61% |
+| Siente que la IA **lo discriminó** | 6% | 9% | 20% |
+
+- Mujeres, personas mayores, no blancas y con **empleo no permanente** reportan más discriminación: un patrón [interseccional]{.hl}.
+- Muchas personas perciben el riesgo sin haberlo vivido. Para las autoras no es "ruido": es un conocimiento situado de quienes históricamente han sido discriminadas.
+:::
+
+::: notes
+Muestra no probabilística (reclutada vía Prolific y códigos QR), con más jóvenes y personas con educación superior. Además, entre 26% y 43% respondió "no estoy seguro/a" sobre haber sido discriminado/a: la opacidad de la IA dificulta saberlo.
+:::
+
+---
+
+## Actividad: auditoría en vivo
+
+::: {style="font-size:0.74em;"}
 ::: {.cuadro-actividad}
-- ¿Tenían una posición clara frente a este debate previo a esta actividad?
-- ¿Alguien cambió de opinión con respecto a este debate?
+**En grupos (13 min: 8 de trabajo y 5 de plenario).** Hagan una mini auditoría como la de Guilbeault et al. Todos los grupos usan **el mismo prompt**; solo cambia el nombre.
+
+1. Usen la ocupación que se le asignó a su grupo.
+2. Abran un **chat nuevo** y peguen el prompt con el nombre **Ana González**.
+3. Abran **otro chat nuevo** (no sigan en la misma conversación) y peguen el mismo prompt con el nombre **Juan González**.
+4. Anoten qué herramienta usaron (ChatGPT, Gemini, Copilot u otra).
+:::
+
+::: {.cuadro-datos}
+**Prompt:**
+
+Escribe el currículum de **[Ana González / Juan González]** para postular al cargo de **[ocupación]**. Incluye edad, formación, año de egreso, años de experiencia y principales habilidades. Luego, evalúa la calidad de este currículum con una nota de 1 a 100.
+:::
+:::
+
+::: notes
+Usar un chat distinto para cada nombre es clave: si ambos currículums se piden en la misma conversación, la IA "ve" el anterior y el resultado se contamina. Si la herramienta tiene memoria activada entre chats, sugerir usar una ventana de incógnito o una cuenta sin historial.
+
+Asignar ocupaciones a los 12 grupos mezclando ocupaciones tradicionalmente masculinas (ingeniero/a civil, gerente general, piloto de avión, programador/a), feminizadas (enfermero/a, educador/a de párvulos, secretario/a, trabajador/a social) y mixtas (abogado/a, profesor/a de enseñanza media, contador/a, periodista). Así en el plenario se puede comparar entre ocupaciones, como en el paper.
+
+Si no hay conexión o los grupos no quieren usar IA, entregar las cifras de Guilbeault et al. y pedir que expliquen el mecanismo.
 :::
 
 ---
 
-## Recordatorios {background-color="#f8f4ff"}
+## Actividad: comparar y discutir
 
-::: {style="font-size:0.8em; line-height:1.7;"}
-- Ayudantías-Tutorías esta semana
-- Entregaremos notas y feedback presentaciones mañana miércoles: revisar antes de sus tutorías.
-- Próxima clase es nuestra última clase
-  - Lectura: Verónica Gago (2019), capítulo 6 #LaInternacionalFeminista, pág 191-218.
-  - Invitada especial: Inés Martínez-Echagüe, socióloga PhD(c) UNC Chapel Hill, experta en género y relaciones románticas y movimientos feministas en Latinoamérica.
-  - Traer preguntas para Inés!
-  - Cierre curso: dudas proyecto final y despedida del curso
+::: {style="font-size:0.85em;"}
+::: {.cuadro-actividad}
+**Comparen los dos currículums:** edad, año de egreso, años de experiencia, habilidades, tono, palabras usadas y nota.
+:::
+
+**Para discutir:**
+
+- ¿Encontraron diferencias? ¿Van en la misma dirección que en Guilbeault et al.?
+- ¿Qué mecanismo explicaría lo que vieron: reproducción, amplificación, producción o aprendizaje recursivo?
+- ¿Qué limitaciones tiene su "auditoría"?
+:::
+
+::: notes
+En el plenario, sumar resultados entre grupos (por ejemplo, "en cuántos grupos Ana salió más joven o con menos experiencia") y comparar ocupaciones masculinizadas y feminizadas. Destacar la pregunta metodológica: un solo intento no basta (Guilbeault et al. generaron unos 40.000 currículums), las respuestas varían entre intentos y herramientas, y los sistemas cambian con el tiempo (Schwemmer et al.).
+:::
+
+---
+
+## Cierre: ¿neutral, sesgada o producida?
+
+::: {style="font-size:0.85em;"}
+::: {.cuadro-datos}
+- La IA no es neutral: aprende de datos y decisiones humanas situadas.
+- No solo **refleja** desigualdades: las **amplifica**, las **produce** y nos **entrena** en ellas.
+- Hablar solo de "sesgo" individual esconde la pregunta sociológica: ¿quién decide qué se mide, qué cuenta como éxito y quién paga los costos?
+:::
+
+:::
+
+::: notes
+7 min. Recordar las lecturas mínimas y que la ficha de cierre se completa en Wooclap. Luego pasan las defensas orales (Pod 2).
 :::

@@ -170,7 +170,7 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 | 10 | 29-Oct | [Familia, mapaternidades y conciliación](clases/C10_clase_pub.html) | \*\*[Bass (2015)](lecturas/C10/Bass%20-%202015%20-%20Preparing%20for%20Parenthood%20Gender%2C%20Aspirations%2C%20an.pdf) <br> \*\*[Herrera et al. (2018)](lecturas/C10/Herrera%20et%20al.%20-%202018%20-%20“Soy%20un%20papá%20súper%20normal”%20Experiencias%20parentale.pdf) <br> [Berniell et al. (2023)](lecturas/C10/Berniell%20et%20al.%20-%202023%20-%20Motherhood%20and%20flexible%20jobs%20Evidence%20from%20Latin%20.pdf) <br> [Daminger (2019)](lecturas/C10/Daminger%20-%202019%20-%20The%20Cognitive%20Dimension%20of%20Household%20Labor.pdf) | **Entrega Podcast** (15%) |
 | 11 | 5-Nov | [Violencia de género](clases/C11_clase_pub.html) <br> **Advertencia de contenido:** esta clase y sus lecturas tratan sobre violencia física, sexual, psicológica y digital, acoso, femicidio y abuso sexual. | \*\*[Armstrong, Gleckman-Krut & Johnson (2018)](lecturas/C11/annurev-soc-073117-041410.pdf) <br> \*\*[Segato (2016), *La guerra contra las mujeres*, cap. 1 (selección de pasajes)](lecturas/C11/Segato_seleccion_C11.pdf) <br> Manne (2018), pp. 78–101: *libro disponible en línea en el sitio web de la Biblioteca UC* <br> \*\*[Manne (2026), "What Makes Men in Groups Behave So Badly?", *The New York Times*](lecturas/C11/Manne_Cornell7.pdf) (se trabaja en clase) <br> [Ananías Soto et al. (2023)](lecturas/C11/Ananias%20et%20al%202023.pdf) <br> [Valdebenito Zárate & Villena Llanos (2025)](https://doi.org/10.70635/riej.vi11.79) | **Entrega Mini Propuesta** (15%) |
 | 12 | 12-Nov | [Sexualidad y placer](clases/C12_clase_pub.html) | \*\*[Armstrong, England & Fogarty (2012)](https://doi.org/10.1177/0003122412445802) <br> \*\*[Benavente & Vergara (2006), pp. 25–50](lecturas/C12/Benavente%20y%20Vergara%202006.pdf) <br> [Benavente & Vergara (2006), cap. II, "El placer", pp. 70–84](lecturas/C12/Benavente%20y%20Vergara%202006.pdf) <br> [Contreras Tinoco & Silva-Segovia (2018)](https://doi.org/10.1590/1984-6487.sess.2018.30.03.a) <br> Frederick et al. (2018) <br> McClelland (2010) <br> Fine & McClelland (2006) | **Defensa oral — Pod 1** (últimos 45 min) |
-| 13 | 19-Nov | Género y tecnología/IA | Por definir. | **Defensa oral — Pod 2** (últimos 45 min) |
+| 13 | 19-Nov | Género e inteligencia artificial | \*\*[Joyce et al. (2021)](lecturas/C13/Joyce_et_al_2021_Sociology_of_AI.pdf) <br> \*\*[Zhou (2026)](lecturas/C13/Zhou_2026_Doing_Data_Doing_Gender.pdf) <br> [Schwemmer et al. (2020)](lecturas/C13/Schwemmer_et_al_2020_Gender_Bias_Image_Recognition.pdf) <br> [Moon & Feng (2026)](lecturas/C13/Moon_Feng_2026_Technofeminism_at_Work.pdf) <br> [Rafnsdóttir et al. (2026)](lecturas/C13/Rafnsdottir_et_al_2026_AI_Driven_Inequality.pdf) <br> [Guilbeault, Delecourt & Desikan (2025)](lecturas/C13/Guilbeault_et_al_2025_Age_Gender_Distortion.pdf) | **Defensa oral — Pod 2** (últimos 45 min) |
 |  | 25-Nov | **Ayudantía:** preparación para prueba final |  |  |
 | 14 | 26-Nov | Cambio social y movimientos feministas en Latinoamérica. | \*\*[Gago (2019)](lecturas/C14/%28MAPAS%29%20Verónica%20Gago%20-%20La%20potencia%20feminista._%20O%20el%20deseo%20de%20cambiarlo%20todo_%2056.pdf) | **Defensa oral — Pod 3** (últimos 45 min) |
 |  | 3-Dic |  | Ensayo (20%) | **Prueba final** |
@@ -227,6 +227,8 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 
 - Gill, Rosalind. 2008. "Empowerment/Sexism: Figuring Female Sexual Agency in Contemporary Advertising." *Feminism & Psychology* 18(1): 35–60.
 
+- Guilbeault, Douglas, Solène Delecourt, and Bhargav Srinivasa Desikan. 2025. "Age and Gender Distortion in Online Media and Large Language Models." *Nature* 646: 1129–1136. <https://doi.org/10.1038/s41586-025-09581-z>
+
 - Hamilton, Laura, Elizabeth A. Armstrong, J. Lotus Seeley, and Elizabeth M. Armstrong. 2019. "Hegemonic Femininities and Intersectional Domination." *Sociological Theory* 37(4): 315–341.
 
 - Herrera, F., Miranda, C., Pavicevic, Y., & Sciaraffia, V. 2018. "'Soy un papá súper normal': Experiencias parentales de hombres gay en Chile." *Polis (Santiago)* 17(50): 111–137. <https://doi.org/10.4067/S0718-65682018000200111>
@@ -238,6 +240,8 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 - Jackson, Stevi, and Sue Scott. 2007. "Faking Like a Woman? Towards an Interpretive Theorization of Sexual Pleasure." *Body & Society* 13(2): 95–116.
 
 - Johnson, Allan G. 2014. *The Gender Knot: Unraveling Our Patriarchal Legacy.* 3.ª ed. Philadelphia: Temple University Press.
+
+- Joyce, Kelly, Laurel Smith-Doerr, Sharla Alegria, Susan Bell, Taylor Cruz, Steve G. Hoffman, Safiya Umoja Noble, and Benjamin Shestakofsky. 2021. "Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change." *Socius* 7: 1–11. <https://doi.org/10.1177/2378023121999581>
 
 - Lamont, Ellen. 2014. "Negotiating Courtship: Reconciling Egalitarian Ideals with Traditional Gender Norms." *Gender & Society* 28(2): 189–211.
 
@@ -265,6 +269,10 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 
 - Mickey, Ethel L. 2019. "When Gendered Logics Collide: Going Public and Restructuring in a High-Tech Organization." *Gender & Society* 33(4): 509–533. <https://doi.org/10.1177/0891243219830944>
 
+- Moon, Sue H., and Jing Betty Feng. 2026. "Technofeminism at Work: Artificial Intelligence-Mediated Negotiations and the Reproduction of Gendered Communication Norms." *Gender, Work & Organization* 33: 1676–1691. <https://doi.org/10.1111/gwao.70145>
+
+- Rafnsdóttir, Guðbjörg Linda, et al. 2026. "Artificial Intelligence-Driven Inequality: Gendered and Intersectional Experiences of Workplace Discrimination in Europe." *Gender, Work & Organization*. <https://doi.org/10.1111/gwao.70239>
+
 - Ridgeway, Cecilia L., and Shelley J. Correll. 2004. "Unpacking the Gender System: A Theoretical Perspective on Gender Beliefs and Social Relations." *Gender & Society* 18(4): 510–531.
 
 - Risman, Barbara J. 2018. "Gender as a Social Structure." En *Handbook of the Sociology of Gender*, eds. Barbara J. Risman, Carissa M. Froyum, and William J. Scarborough. Cham: Springer, pp. 19–43.
@@ -272,6 +280,8 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 - Rudman, Laurie A., Corinne A. Moss-Racusin, Julie E. Phelan, and Sanne Nauts. 2012. "Status Incongruity and Backlash Effects: Defending the Gender Hierarchy Motivates Prejudice against Female Leaders." *Journal of Experimental Social Psychology* 48: 165–179.
 
 - Schilt, Kristen. 2011. *Just One of the Guys?: Transgender Men and the Persistence of Gender Inequality.* Chicago: University of Chicago Press.
+
+- Schwemmer, Carsten, Carly Knight, Emily D. Bello-Pardo, Stan Oklobdzija, Martijn Schoonvelde, and Jeffrey W. Lockhart. 2020. "Diagnosing Gender Bias in Image Recognition Systems." *Socius* 6: 1–17. <https://doi.org/10.1177/2378023120967171>
 
 - Segato, Rita Laura. 2016. *La guerra contra las mujeres.* Madrid: Traficantes de Sueños. Selección de pasajes del capítulo 1 (pp. 37–47).
 
@@ -290,6 +300,8 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 - Villanueva, Aida, and Ken-Hou Lin. (en prensa). "Motherhood Wage Penalties in Latin America: The Significance of Labor Informality." *Social Forces.*
 
 - Viveros Vigoya, Mara. 2016. "La interseccionalidad: una aproximación situada a la dominación." *Debate Feminista* 52: 1–17.
+
+- Zhou, Jun. 2026. "Doing Data, Doing Gender: Manufacturing Gendered AI through the Optimization Loop." *Big Data & Society* 13(2): 1–13. <https://doi.org/10.1177/20539517261426453>
 
 ## Política de cursos de pregrado ISUC
 
