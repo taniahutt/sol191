@@ -28,7 +28,9 @@ format:
 :::
 
 ::: notes
-5 min. Dejar que voten y no dar la respuesta todavía: se responde con Guilbeault et al. (2025) en la sección de resultados.
+**Clase de 70 minutos.** Distribución sugerida: predicción 0:00–0:05 · marco sociológico 0:05–0:20 · mecanismos 0:20–0:32 · resultados 0:32–0:45 · actividad "Ustedes son la startup" 0:45–0:58 · qué pasó realmente 0:58–1:03 · cierre 1:03–1:10.
+
+5 min. Dejar que voten (opción múltiple o respuesta abierta) y **no dar la respuesta todavía**: se responde con Guilbeault et al. (2025) en "Resultados 1". Si votan que "no cambia nada", aprovechar: es justamente la promesa de neutralidad que vamos a discutir.
 :::
 
 ---
@@ -48,7 +50,17 @@ Los sistemas de IA son [sociotécnicos]{.hl}: en su código, su diseño y su uso
 :::
 
 ::: notes
-Marco: 15 min en total (hasta "¿Cómo se estudia?"). Joyce et al. citan ejemplos: un algoritmo de salud en EE.UU. que recomendaba menos atención a pacientes negros que a pacientes blancos con las mismas condiciones, y sistemas de reconocimiento facial que reconocen peor a mujeres y personas no blancas.
+**Marco: 15 min en total** (esta diapositiva y las tres siguientes).
+
+**Sobre el texto.** Joyce et al. (2021) es un artículo-agenda publicado en *Socius* por ocho sociólogas y sociólogos (entre ellos Safiya Umoja Noble, autora de *Algorithms of Oppression*). No presenta datos propios: revisa lo que la sociología ya ha aportado y propone una "sociología de la IA" centrada en desigualdades y cambio estructural. Es una de las lecturas mínimas.
+
+**IA y aprendizaje automático.** Los autores señalan que "IA" es el término que usan empresas y gobiernos, mientras que quienes programan hablan de *machine learning*: entrenar sistemas con datos existentes para reconocer, ordenar y predecir. Lo importante es que esas predicciones **vuelven al mundo social** como decisiones: qué calles se reparan, quién recibe beneficios sociales, quién "probablemente" reincidirá (citan a Eubanks y O'Neil). También advierten que la definición vaga de IA permite a sus promotores hacer promesas de impacto social que no tienen evidencia.
+
+**"Sociotécnico".** Viene de los estudios de ciencia y tecnología: la tecnología y la sociedad no son esferas separadas. Los valores, prácticas institucionales y desigualdades están en el código, el diseño y el uso.
+
+**Ejemplos que dan los autores:** la primera persona atropellada por un auto autónomo (Arizona, 2018); un algoritmo de salud en EE.UU. que recomendaba menos atención a pacientes negros que a pacientes blancos con las mismas condiciones (Obermeyer et al. 2019); y el reconocimiento facial que reconoce peor a mujeres y a personas no blancas (Buolamwini y Gebru 2018).
+
+**Pregunta rápida a la sala:** ¿dónde se han encontrado con una IA que decide algo sobre ustedes? (postulaciones, bancos, redes sociales, admisión).
 :::
 
 ---
@@ -79,6 +91,16 @@ Marco: 15 min en total (hasta "¿Cómo se estudia?"). Joyce et al. citan ejemplo
 :::
 :::
 
+::: notes
+**Idea central.** Desde el siglo XIX la sociología muestra que los datos sobre la vida social no son neutrales ni "crudos": Durkheim mostró que las tasas de suicidio reflejan la integración social, y Du Bois que la mortalidad infantil de la población negra era "un índice de condición social", no un "asunto negro". Clasificar es un proyecto moral, ligado a la estratificación (Bowker y Star).
+
+**"Datos sobre X son datos sobre Y".** Quienes desarrollan IA suelen tratar los datos como representaciones objetivas. Pero un código postal es también un dato sobre clase y raza, y una brecha salarial es también un dato sobre género. Ejemplo de los autores: en las fichas clínicas, los médicos a veces codifican diagnósticos pensando en el reembolso del seguro, y los resultados de salud reflejan el nivel socioeconómico tanto como la efectividad de un tratamiento.
+
+**Más datos no es igual a más justicia.** Taylor Cruz (2020) estudió un hospital público que empezó a registrar género y orientación sexual en las fichas. Esos datos no se usaron de manera significativa: el personal no sabía cómo conectarlos con los determinantes sociales de la salud y tenía poco tiempo. Su conclusión: "para avanzar en justicia necesitamos más que solo datos".
+
+**Noble (2018) y Benjamin (2019).** Noble mostró que el buscador de Google reproduce sexismo y racismo ("redlining tecnológico"), y que eso no se debe solo a los usuarios sino a decisiones de la empresa y su interés comercial. Benjamin llama "nuevo Jim Code" a las tecnologías que reproducen desigualdades pero se presentan como más objetivas o progresistas que los sistemas discriminatorios anteriores.
+:::
+
 ---
 
 ## Dos miradas sobre el problema
@@ -96,7 +118,17 @@ Marco: 15 min en total (hasta "¿Cómo se estudia?"). Joyce et al. citan ejemplo
 :::
 
 ::: notes
-Conectar con la interseccionalidad (clase 6): Joyce et al. proponen un enfoque estructural e interseccional, apoyado en Collins y Crenshaw, en lugar de uno centrado en el individuo.
+**La mirada de la industria.** Las empresas y la informática hablan de *bias, fairness, transparency, accountability*. Google lanzó en 2018 un módulo de "equidad" en su curso de *machine learning*, y en 2018 se creó la conferencia ACM FAccT. Joyce et al. reconocen que identificar daños es valioso, pero critican que el problema se ubique en **individuos** (programadores que necesitan capacitación). Este lenguaje viene de la informática (*underfitting*, *overfitting*) y de la psicología, que se enfoca en percepciones y actitudes individuales.
+
+**La mirada sociológica.** El sesgo "no flota libremente en los individuos": está incrustado en instituciones durables. Por eso no se resuelve solo capacitando a programadores. Ejemplo que dan: el despido de Timnit Gebru de Google en 2020, después de coescribir un artículo sobre los daños desiguales de los grandes modelos de lenguaje. Muestra qué pasa cuando la crítica choca con el interés comercial.
+
+**El contexto organizacional importa** (también en Joyce et al.):
+
+- **Financiamiento:** Hoffman (2017) comparó dos laboratorios de IA; el de financiamiento comercial producía sistemas vendibles y cambiaba rápido de tema, el de financiamiento público hacía investigación profunda e incremental.
+- **Uso en organizaciones:** Brayne y Christin mostraron que policías y tribunales resisten de forma distinta las herramientas predictivas. En la policía de Los Ángeles, el análisis predictivo aumentó la vigilancia de barrios pobres y no blancos.
+- **Trabajo:** Shestakofsky (2017) encontró que la IA no reemplazó a trabajadores sino que creó nuevo trabajo humano: trabajo "computacional" que sostiene al software y trabajo emocional para ayudar a usuarios a adaptarse.
+
+**Conexión con el curso:** el enfoque que proponen es estructural e **interseccional** (Collins, Crenshaw; clase 6), igual que el marco multinivel de Risman.
 :::
 
 ---
@@ -114,7 +146,13 @@ Conectar con la interseccionalidad (clase 6): Joyce et al. proponen un enfoque e
 :::
 
 ::: notes
-Destacar que son los mismos métodos que vimos durante el curso, aplicados a un objeto nuevo. Útil para pensar sus mini propuestas.
+**Mensaje:** son los mismos métodos que vimos en el curso, aplicados a un objeto nuevo. Útil para sus mini propuestas: cada método responde a una pregunta distinta y ninguno las responde todas.
+
+- **Auditoría:** se entrega al algoritmo un insumo controlado y se comparan sus respuestas. La clave es tener una "verdad" con qué comparar. Schwemmer et al. usan los retratos oficiales de congresistas (todos con la misma ocupación y formato); Guilbeault et al. comparan las imágenes de internet con el censo de EE.UU.
+- **Experimento:** Guilbeault et al. asignan al azar a 459 personas a buscar imágenes de ocupaciones en Google o imágenes de objetos neutros, y miden cómo cambian sus creencias. Permite hablar de **efecto causal**.
+- **Etnografía:** Zhou pasó 120 horas dentro de dos *startups* chinas, observó 12 transmisiones en vivo desde la "sala de control", hizo 48 entrevistas (ingenieros, diseñadores, gerentes de producto, fotógrafos y personal de marcas) y analizó 73 documentos internos. Permite ver **cómo** se toman las decisiones, algo que la auditoría no ve.
+- **Métodos mixtos:** Moon y Feng combinan la codificación de transcripciones de negociaciones, los puntajes obtenidos y encuestas antes y después.
+- **Encuesta:** Rafnsdóttir et al. encuestaron a 4.417 personas en 28 países europeos y usan regresiones logísticas ordinales. Mide **percepciones y experiencias**, no lo que hace la IA en sí.
 :::
 
 ---
@@ -155,7 +193,13 @@ Las personas y la IA se entrenan mutuamente y estabilizan normas de género.
 :::
 
 ::: notes
-Mecanismos: 15 min en total (esta diapositiva y las tres siguientes). Esta es la vista general; las diapositivas siguientes desarrollan amplificación, producción y aprendizaje recursivo.
+**Mecanismos: 12 min en total** (esta diapositiva y las tres siguientes). Esta es la vista general.
+
+**1. Reproducción (la explicación más conocida).** El ejemplo clásico, citado por Schwemmer et al. y por Zhou: un modelo de palabras (word2vec) entrenado con noticias de Google News produjo la analogía "hombre es a programador como mujer es a dueña de casa" (Bolukbasi et al. 2016). Otro ejemplo de Schwemmer et al.: ImageNet, base de datos de más de 14 millones de imágenes usada para entrenar sistemas de visión, tomó sus categorías de WordNet, una taxonomía de los años ochenta que incluía términos racistas y misóginos (Crawford y Paglen 2019).
+
+**Dónde entra el sesgo.** Moon y Feng resumen una tipología útil (Mehrabi et al. 2021): sesgo **histórico** (en los datos de entrenamiento), **algorítmico** (en el diseño y la optimización), **de evaluación** (las personas que califican las respuestas del modelo durante su ajuste aplican sus propios criterios de lo "profesional" o "persuasivo") y **emergente** (al interactuar con usuarios reales).
+
+**Por qué separar los cuatro mecanismos.** Zhou critica que casi toda la literatura use el modelo de "reproducción": entra sesgo, sale sesgo, y lo que pasa en medio es una caja negra. Los mecanismos 2 a 4 abren esa caja: la IA puede exagerar la desigualdad, fabricarla activamente o enseñárnosla.
 :::
 
 ---
@@ -175,7 +219,11 @@ Para Ridgeway, el género es en su raíz una **desigualdad de estatus**. Las cre
 :::
 
 ::: notes
-Conectar con la clase 4 (Ridgeway y Correll, creencias de estatus) y con la clase 9 (contratación).
+**Ridgeway (clase 4).** En *Framed by Gender* (2011), Ridgeway sostiene que el género es "en su raíz una desigualdad de estatus": creencias culturales que asocian a los hombres con más competencia en "lo que más cuenta". Su pregunta es por qué esas creencias persisten aunque cambien la economía y las leyes. Su respuesta: se **transfieren** a cada espacio nuevo (nuevas industrias, ocupaciones, formas de organización). A eso lo llama "proceso de amplificación". Incluso se transfieren a cosas: los productos hechos por mujeres en rubros "masculinos" se evalúan peor (Tak, Correll y Soule 2019, citado por Schwemmer et al.).
+
+**La IA como caso de amplificación.** Schwemmer et al. proponen que los sistemas de reconocimiento de imágenes son justamente un espacio nuevo al que se transfieren las creencias de estatus. La promesa del *machine learning* era evitar el sesgo humano, pero los modelos aprenden de datos "encontrados" en el mundo real. Por eso Fourcade y Healy (2017) dicen que los algoritmos no son cámaras de la realidad social sino **motores** que la producen.
+
+**Amplificación literal (Guilbeault et al.).** Las imágenes de internet no solo copian la realidad: la **distorsionan**. Según el censo de EE.UU., no hay diferencias sistemáticas de edad entre mujeres y hombres en el mercado laboral, pero en internet las mujeres aparecen sistemáticamente más jóvenes. En las industrias de ventas, servicios y producción, el censo muestra mujeres *mayores* que los hombres, y Google Images muestra lo contrario. Y una búsqueda en Google aumentó ese sesgo en las creencias de las personas (lo vemos en "Resultados 1").
 :::
 
 ---
@@ -198,6 +246,20 @@ El [ciclo de optimización]{.hl}:
 [El resultado parece natural y "lo que el público quiere", pero es una suma de decisiones humanas.]{.hl}
 :::
 
+::: notes
+**Ojo: no adelantar los casos concretos de Zhou.** Se usan en la actividad. Aquí solo el concepto.
+
+**El caso.** El comercio en vivo (*live-commerce*) es venta por video en tiempo real con compra dentro de la transmisión. En China es masivo: a fines de 2023, 816 millones de personas habían comprado así. Cerca del 80% de quienes transmiten son mujeres jóvenes. Las empresas están reemplazándolas por avatares generados con IA ("humanos digitales"); a fines de 2024 había 1,36 millones de empresas registradas en esa categoría.
+
+**"Doing gender" → "doing data".** Para West y Zimmerman (1987) y Butler (1990), el género no se tiene: se hace, y se estabiliza cuando otras personas reconocen esas actuaciones como coherentes. Zhou propone que en la IA comercial el género sigue haciéndose mediante actos repetidos (voz, gestos, guion), pero lo que cambia es **quién valida**: ya no el reconocimiento interpersonal, sino métricas como tiempo de visualización, clics y ventas por minuto. El público participa, pero no como juez: como generador de datos de comportamiento.
+
+**El ciclo de optimización.** Antes del lanzamiento, el equipo traduce adjetivos de marca en parámetros medibles (frecuencia de voz en Hz, proporción cintura-cadera, puntajes de emoción). Después del lanzamiento, prueba variantes en vivo; las que mejoran las métricas se guardan como "avatares de referencia" y se reutilizan con otros clientes. Así una forma de feminidad se vuelve el estándar de toda la industria.
+
+**Feminidad hegemónica (Schippers 2007):** una feminidad que complementa y legitima la autoridad masculina. Zhou la conecta también con el "capitalismo de vigilancia" (Zuboff): el género se vuelve una variable que se ajusta para extraer atención y compras.
+
+**Por qué importa:** desplaza la responsabilidad desde los "datos malos" a decisiones humanas: qué se mide, qué umbral se fija, qué cuenta como éxito. Zhou habla de una "negación plausible infraestructural": como todo pasa por métricas, el resultado parece la voluntad objetiva del mercado.
+:::
+
 ---
 
 ## Aprendizaje recursivo humano–IA
@@ -215,7 +277,13 @@ El [ciclo de optimización]{.hl}:
 :::
 
 ::: notes
-Conectar con Acker (clase 5): organizaciones generizadas y el "trabajador ideal".
+**Tecnofeminismo (Judy Wajcman 2004).** Una posición intermedia entre dos extremos: el ciberoptimismo de los noventa (lo digital borraría las diferencias de género) y la visión de la tecnología como intrínsecamente patriarcal. Para Wajcman, la tecnología históricamente se ha construido como cultura masculina (la "habilidad técnica" se definió según campos dominados por hombres), pero puede rediseñarse mediante intervención feminista. Rechaza tanto el determinismo tecnológico como el esencialismo de género.
+
+**Aprendizaje recursivo humano–IA.** Es el concepto que proponen Moon y Feng. Normalmente pensamos que la IA aprende de nosotros. Ellas destacan lo inverso: **nosotros aprendemos de la IA**. Al interactuar repetidamente con un sistema, aprendemos qué lenguaje obtiene buenas respuestas y nos adaptamos; el sistema, a su vez, refuerza esos guiones. Así se coproducen normas de género en tiempo real.
+
+**El "trabajador ideal" (Acker 1990; clase 5).** Las organizaciones suponen un trabajador sin responsabilidades de cuidado, disponible y agéntico, modelado sobre la experiencia masculina. Moon y Feng advierten que la IA puede volver a imponer ese modelo como el estándar "neutral" de competencia profesional.
+
+**Implicancia práctica.** Los simuladores de negociación con IA ya se usan para enseñar en universidades. Si siempre premian un solo estilo, entrenan a una generación a ser "competente" en términos masculinizados. Las autoras recomendan hacer explícitos los criterios de recompensa y valorar varios estilos (pluralismo algorítmico).
 :::
 
 ---
@@ -251,7 +319,21 @@ Volvamos a la predicción del inicio: ¿acertaron?
 :::
 
 ::: notes
-Resultados: 15 min en total (5 diapositivas, unos 3 min cada una). Experimento complementario (n = 459, muestra representativa de EE.UU.): quienes buscaron en Google y subieron una imagen de una mujer estimaron la edad promedio de una ocupación 5,46 años menor que quienes subieron la imagen de un hombre. Conectar con el "edadismo de género" en el mercado laboral (clase 9).
+**Resultados: 13 min en total** (cuatro diapositivas, unos 3 min cada una). Los resultados de Zhou se ven después de la actividad.
+
+**El estudio.** Publicado en *Nature* (2025). Su pregunta es si los estereotipos son "exactos" o "distorsionados". La edad sirve porque tiene una verdad objetiva con qué comparar (el censo).
+
+**Imágenes y videos.** Analizaron imágenes de Google asociadas a 3.495 categorías sociales (ocupaciones y roles), Wikipedia, IMDb, Flickr, YouTube y bases usadas para entrenar IA. En todas, las mujeres aparecen más jóvenes. Con datos de edad reales de celebridades, las mujeres son 6,5 años más jóvenes en IMDb, 3,3 en Wikipedia y 5,4 en Google; la edad más frecuente de las mujeres está en los 20 años, la de los hombres en 40 (IMDb) y 50 (Google). En el censo, en cambio, no hay correlación entre la proporción de mujeres en una ocupación y su edad mediana.
+
+**Estatus.** La brecha de edad es mayor en ocupaciones de más prestigio e ingresos (las correlaciones son pequeñas pero consistentes).
+
+**Texto.** En GPT-2, la asociación de una categoría con "hombre" y con "mayor edad" se correlaciona fuertemente (r = 0,87). Se replicó en nueve modelos de lenguaje.
+
+**Experimento (n = 459, muestra representativa de EE.UU.).** Quienes buscaron imágenes de ocupaciones en Google y subieron la imagen de una mujer estimaron la edad promedio de la ocupación 5,46 años menor que quienes subieron la de un hombre. Además, las ocupaciones asociadas a hombres se asociaron a una edad ideal de contratación mayor (preferencia por contratar mujeres jóvenes y hombres mayores).
+
+**ChatGPT (GPT-4o mini, junio de 2024).** Generaron unos 40.000 currículums para 54 ocupaciones con 16 nombres de mujer y hombre equivalentes en popularidad y origen. Con nombre de mujer: 1,6 años más joven, egreso 1,3 años más reciente y 0,9 años menos de experiencia. Al evaluar, ChatGPT dio más puntaje a mayor edad, y ese beneficio fue mayor para los hombres. Matiz: también dio más puntaje a mujeres jóvenes que a hombres jóvenes.
+
+**Implicancia según los autores:** si se prefiere contratar mujeres jóvenes y hombres mayores, las mujeres entran a cargos de menos estatus y se les niega movilidad, mientras los hombres mayores ocupan los cargos altos. Conectar con el edadismo de género (*gendered ageism*) y con la contratación (clase 9).
 :::
 
 ---
@@ -284,38 +366,26 @@ Todas son congresistas. Las etiquetas no son falsas, pero de muchas etiquetas co
 :::
 
 ::: notes
-Amazon Rekognition etiquetó a congresistas mujeres como "adolescente", "niña" y "kid", aunque la persona más joven del grupo tenía 34 años. Conecta con Goffman, *Gender Advertisements*: representar a las mujeres de forma infantil y "poco seria".
+**El estudio.** Schwemmer et al. (2020, *Socius*) evalúan Google Cloud Vision, un servicio comercial que etiqueta imágenes y que también usan investigadores en ciencias sociales. Usaron dos bases: los retratos oficiales de los congresistas de EE.UU. (mismo formato y ocupación: ideal para comparar) y casi 200 mil imágenes que esos congresistas publicaron en Twitter. Validaron 9.250 imágenes con codificadores humanos (pagados US$15 por hora, más del doble del mínimo federal).
+
+**Precisa pero incompleta.** Cuando Google etiqueta algo, casi siempre es correcto. El problema es lo que **no** etiqueta y lo que **elige** etiquetar.
+
+**Ejemplos concretos (útiles para mostrar):** a la congresista Lucille Roybal-Allard la etiquetó como "sonriente", "presentadora de televisión" y "pelo negro"; al senador Steve Daines como "funcionario", "empresario" y "vocero".
+
+**El pelo y la sonrisa.** La etiqueta "peinado" apareció en más de la mitad de las mujeres y casi nunca en hombres, aunque las mujeres solo tenían 1,1 veces más probabilidad de tener pelo visible. La etiqueta "sonrisa" apareció en más del 90% de las mujeres y en menos del 25% de los hombres, pero al contarlo manualmente sonreían el 91% de las mujeres y el 86% de los hombres.
+
+**En números:** las imágenes de mujeres recibieron en promedio 5,3 etiquetas de apariencia física, las de hombres 1,8. Las de hombres recibieron 4,7 etiquetas de ocupación, las de mujeres 3.
+
+**Otros sistemas.** Amazon Rekognition etiquetó a congresistas mujeres como "adolescente", "niña" y "kid", aunque la persona más joven tenía 34 años. Microsoft Azure etiquetó retratos de mujeres con "niña", "torta" y "cocina", sin que hubiera comida ni cocina.
+
+**Consecuencia para la investigación.** Si alguien usara estas etiquetas para estudiar los tuits, concluiría que las congresistas publican más fotos de "niñas" y de moda. Es un artefacto del algoritmo: probablemente todos publican fotos de sí mismos, etiquetadas de forma distinta.
+
+**Conexiones.** Goffman, *Gender Advertisements* (1976): la publicidad retrata a las mujeres de forma infantil y "poco seria". Los autores también advierten que estos sistemas asumen que el género es binario y visible, lo que excluye a personas trans y no binarias (Keyes 2018). Google eliminó en 2020 su función de identificar género.
 :::
 
 ---
 
-## Resultados 3: "Los números la hicieron suave"
-
-::: {style="font-size:0.72em;"}
-*(Zhou 2026; 120 horas de etnografía en dos startups chinas que crean vendedoras virtuales para comercio en vivo, y 48 entrevistas)*
-
-::: columns
-::: {.column width="50%"}
-- Las avatares son casi siempre mujeres jóvenes: "Lo femenino simplemente funciona".
-- En 8 versiones de una avatar, la voz subió de **205 a 230 Hz** y la cintura se adelgazó. Nadie lo llamó "más femenino": se registró como "claridad" o "ajuste a la marca".
-- Una avatar segura, rápida e ingeniosa fracasó en 48 horas: "demasiado".
-- Para whisky, cambiar a un *qipao* y halagos ("un trago para hombres con presencia") subió la conversión 14%.
-:::
-::: {.column width="50%"}
-::: {.cuadro-datos}
-"La hicimos suave porque a los números les gustaba suave. **Ahora los números nos dicen que ella es suave.**"
-
-*(analista entrevistado por Zhou)*
-:::
-
-Resultado: una [feminidad hegemónica]{.hl} suave, admiradora y deferente, que se escala como estándar.
-:::
-:::
-:::
-
----
-
-## Resultados 4: negociar con una IA
+## Resultados 3: negociar con una IA
 
 ::: {style="font-size:0.72em;"}
 *(Moon y Feng 2026; 51 estudiantes negocian una oferta de trabajo con un chatbot de RR.HH. basado en ChatGPT)*
@@ -343,12 +413,28 @@ Resultado: una [feminidad hegemónica]{.hl} suave, admiradora y deferente, que s
 :::
 
 ::: notes
-Muestra pequeña de estudiantes en EE.UU.: tomarlo como evidencia exploratoria. Conectar con el doble vínculo de las mujeres asertivas (Rudman, clase 4): aquí no hubo castigo social, pero sí se premió un solo estilo.
+**Contexto.** En negociaciones presenciales, las mujeres en promedio negocian menos y obtienen peores resultados, y cuando son asertivas reciben castigo social (*backlash*; Rudman, clase 4). Es un doble vínculo: si son cálidas, ganan menos; si son asertivas, se las sanciona. La pregunta del estudio es si una IA cambia eso.
+
+**El diseño.** 51 estudiantes de una universidad pública de EE.UU. (35 mujeres, 15 hombres, 1 persona no binaria; edad promedio 21) negociaron por escrito una oferta de trabajo (salario, fecha de inicio, ubicación, vacaciones, bono, etc.) con un chatbot "Gerente de RR.HH." basado en ChatGPT-4.1, sin nombre ni avatar. El puntaje máximo era 13.200.
+
+**Cómo codificaron el estilo.** Femenino: frases atenuadas o de disculpa ("quizás podríamos considerar…", "perdón, pero…"). Masculino: imperativos y cifras ("necesito al menos US$60 mil"). Andrógino: mezcla ("busquemos una solución que sirva a ambos"). Indiferenciado: respuestas breves y neutras ("OK").
+
+**Resultados.**
+
+- Mujeres y hombres no difirieron significativamente: 8.597 frente a 9.713 puntos; salarios de US$115.294 frente a US$117.000.
+- El estilo masculinizado obtuvo 10.079 puntos frente a 7.523 del feminizado. Ojo: la diferencia es significativa solo con una prueba de una cola y la muestra es pequeña.
+- La IA se comunicó de forma andrógina en el 92% de los casos.
+- El 37% de las mujeres percibió a la IA como mujer (frente a 7% de los hombres) y el 47% de los hombres la percibió como hombre (frente a 23% de las mujeres).
+- Quienes la vieron como "hombre" reportaron más satisfacción y obtuvieron US$118.000 frente a US$114.500.
+
+**Lectura de las autoras.** Hay un lado positivo: las mujeres asertivas no fueron castigadas, como suele pasar cara a cara. Pero la igualdad se logró asimilando a todos a un modo masculinizado de interacción. La pregunta feminista no es solo quién gana, sino **cómo** y **en qué términos**.
+
+**Limitaciones.** Muestra pequeña de estudiantes, contexto estadounidense en inglés, negociación de baja intensidad (puntos y créditos extra). Tomarlo como evidencia exploratoria.
 :::
 
 ---
 
-## Resultados 5: ¿quién siente que la IA lo discrimina?
+## Resultados 4: ¿quién siente que la IA lo discrimina?
 
 ::: {style="font-size:0.75em;"}
 *(Rafnsdóttir et al. 2026; encuesta a 4.417 trabajadores y postulantes en 28 países europeos, 2023)*
@@ -363,56 +449,160 @@ Muestra pequeña de estudiantes en EE.UU.: tomarlo como evidencia exploratoria. 
 :::
 
 ::: notes
-Muestra no probabilística (reclutada vía Prolific y códigos QR), con más jóvenes y personas con educación superior. Además, entre 26% y 43% respondió "no estoy seguro/a" sobre haber sido discriminado/a: la opacidad de la IA dificulta saberlo.
+**El estudio.** Parte del proyecto europeo BIAS (Mitigating biases of AI in the labor market). Encuesta entre mayo y noviembre de 2023 a personas que habían interactuado con IA en el trabajo o al postular, desde la postulación hasta la salida del empleo. Los países con más respuestas fueron Portugal (21%) y Polonia (18%).
+
+**Qué miden.** Cuatro preguntas: si creen que la IA *podría* discriminarles (percepción) y si sienten que les *discriminó* (experiencia), tanto negativa como positivamente. Analizan con regresiones logísticas ordinales, controlando por país y por el índice de brecha de género del Foro Económico Mundial.
+
+**Resultados principales (discriminación negativa).**
+
+- Las mujeres perciben y reportan más discriminación que los hombres, y esto se mantiene en todos los grupos de raza, educación y tipo de contrato.
+- Las personas blancas reportan menos; las mayores de 29 años y con empleo no permanente, más (un "efecto precariedad": quien tiene menos seguridad laboral es más sensible a herramientas que deciden sobre su empleo).
+- La brecha entre mujeres y hombres es mayor en países con menos igualdad de género.
+
+**Discriminación positiva.** Quienes sienten que la IA les favoreció tienden a ser grupos ya aventajados (educación superior, empleo estable). Las autoras concluyen que la IA ofrece pequeñas ventajas a quienes ya están cerca de la norma.
+
+**Un hallazgo curioso.** Las mujeres con más educación y en países más igualitarios perciben más discriminación. Hipótesis de las autoras: el discurso de igualdad hace "nombrable" la brecha entre la promesa de neutralidad y la experiencia. Conectar con la injusticia epistémica (Fricker; ya la vimos con Manne en la clase 11).
+
+**Limitaciones.** Muestra no probabilística (reclutada con códigos QR, afiches y la plataforma Prolific), con más jóvenes (54% entre 18 y 28 años) y más educación superior (73%). El grupo "otro género" (3%) quedó fuera de los modelos por ser pequeño. Además, entre 26% y 43% respondió "no estoy seguro/a" sobre haber sido discriminado/a: la opacidad de la IA hace difícil saberlo.
 :::
 
 ---
 
-## Actividad: auditoría en vivo
+## Actividad: ustedes son la *startup*
 
-::: {style="font-size:0.74em;"}
+::: {style="font-size:0.78em;"}
+Son el equipo de una empresa china que crea **vendedoras virtuales con IA** para transmisiones de venta en vivo. Cada grupo recibe **un caso real** del estudio de Zhou (2026), con dos opciones: **A** o **B**.
+
 ::: {.cuadro-actividad}
-**En grupos (13 min: 8 de trabajo y 5 de plenario).** Hagan una mini auditoría como la de Guilbeault et al. Todos los grupos usan **el mismo prompt**; solo cambia el nombre.
+**Paso 1. Como empresa (3 min).** Lean su caso y decidan: ¿qué opción vendió más, A o B? Anoten por qué.
 
-1. Usen la ocupación que se le asignó a su grupo.
-2. Abran un **chat nuevo** y peguen el prompt con el nombre **Ana González**.
-3. Abran **otro chat nuevo** (no sigan en la misma conversación) y peguen el mismo prompt con el nombre **Juan González**.
-4. Anoten qué herramienta usaron (ChatGPT, Gemini, Copilot u otra).
+**Paso 2. Como sociólogos (6 min).** Respondan:
+
+1. ¿Qué tipo de mujer **premia** la opción que eligieron? (joven, suave, experta, segura, complaciente…)
+2. ¿Quién decidió que el éxito se mide en **ventas y minutos vistos**?
+3. Si el éxito se midiera de otra forma (por ejemplo, "la gente entendió bien el producto"), ¿ganaría la otra opción?
+
+**Paso 3. Plenario (5 min).** Revelamos qué pasó realmente.
 :::
+
+[Si ya leyeron a Zhou, no revelen el final: expliquen el mecanismo.]{.hl}
+:::
+
+::: notes
+**Qué hacen los estudiantes, en simple:** cada grupo lee un caso, apuesta por A o B como si fuera la empresa (que solo mira ventas), y luego analiza su propia apuesta como sociólogo: qué feminidad selecciona esa métrica, quién la eligió y qué pasaría con otra métrica. En el plenario se revela lo que pasó en el estudio.
+
+**Por qué esta actividad.** Una auditoría casera con un solo intento da resultados poco claros. Estos casos son reales, de una lectura mínima, y tienen un desenlace nítido. Además obligan a pasar de la lógica técnica ("qué convierte") a la sociológica ("qué se seleccionó y quién decidió").
+
+**Organización.** Asignar los cuatro casos de las dos diapositivas siguientes a los 12 grupos (tres grupos por caso) y dejarlos proyectados mientras trabajan. Pedir que cada grupo anote su respuesta (A o B) para la votación del plenario.
+
+**Respuestas (no mostrar antes del plenario):** caso 1 → B; caso 2 → B; caso 3 → B (la avatar segura e ingeniosa fracasó en 48 horas); caso 4 → A (la voz grave se descartó sin probarla y la voz siguió subiendo).
+
+**Qué buscar en el plenario.**
+
+- Que noten que nadie decidió explícitamente "hacerla más femenina": la métrica lo hizo, y eso oculta la decisión.
+- Que conecten con los mecanismos: **producción** (Zhou), **amplificación** (los estereotipos previos de juventud y suavidad son el punto de partida) y **aprendizaje recursivo** (el público aprende a esperar y premiar esa feminidad).
+- Que la métrica alternativa muestre que el resultado no es inevitable: si el éxito se midiera por calidad de información, quizás ganaría la experta.
+- Pregunta extra: ¿por qué casi todas las avatares son mujeres, incluso para vender a mujeres? Un gerente le dijo a Zhou: "Las mujeres confían en mujeres para consejos de belleza, y a los hombres les gusta mirar mujeres. Lo femenino simplemente funciona".
+
+**Caso de reserva (crema para ojos).** Frases que conectan el producto con la ansiedad por la edad ("el cuidado de la piel es un compromiso de toda la vida de una mujer") generaron más clics y compras que descripciones técnicas ("reduce las líneas de expresión"), y se volvieron plantilla para futuros guiones.
+:::
+
+---
+
+## Casos 1 y 2: ¿A o B?
+
+::: {style="font-size:0.72em;"}
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Caso 1. Crema facial**
+
+Al lanzar la avatar, la gente mira solo **4 segundos** (la meta es 12) y casi nadie compra.
+
+- **A:** rostro neutro; sigue explicando con precisión la ciencia de los ingredientes.
+- **B:** sonrisa sutil con la boca cerrada y frases cercanas: "Déjame ayudarte a encontrar el brillo que le pertenece a tu piel".
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Caso 2. Whisky para hombres de 40 a 50 años**
+
+La avatar no vende. Un comentario del público dice: "Parece una clase".
+
+- **A:** experta en blusa y chaqueta que explica con precisión las notas de cata, y agrega más información técnica.
+- **B:** vestido tradicional (*qipao*), voz más grave y lenta, y halagos al comprador: "Usted sabe elegir un clásico".
+:::
+:::
+:::
+:::
+
+---
+
+## Casos 3 y 4: ¿A o B?
+
+::: {style="font-size:0.72em;"}
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Caso 3. Teléfonos celulares**
+
+El equipo debe elegir el estilo de la avatar que venderá celulares.
+
+- **A:** inspirada en *vloggers* de tecnología: **segura, ingeniosa y rápida**. Domina el producto y responde con humor.
+- **B:** **cálida, pausada y amable**. Explica el producto con suavidad y sin apuro.
+
+¿Cuál funcionó?
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Caso 4. Ropa deportiva (antes del lanzamiento)**
+
+La marca pide una mujer "dulce pero picante, atlética pero no agresiva; alguien en quien los hombres confíen y que a las mujeres no les desagrade". El equipo le pone una voz de **205 Hz**.
+
+- **A:** mantener la voz aguda.
+- **B:** probar una **voz más grave**, como propone un practicante.
+
+¿Cómo creen que cambia la avatar en las siguientes 8 versiones?
+:::
+:::
+:::
+:::
+
+::: notes
+Los casos se presentan casi como Zhou los describe; las marcas no se nombran en el artículo. En los casos 1 y 2, la opción A es el diseño original y la B la que el equipo probó después. La voz adulta femenina suele estar entre 165 y 255 Hz; las voces más agudas se codifican culturalmente como más jóvenes y femeninas.
+:::
+
+---
+
+## ¿Qué pasó realmente? Los números la hicieron suave
+
+::: {style="font-size:0.7em;"}
+*(Zhou 2026; 120 horas de etnografía en dos startups chinas y 48 entrevistas)*
+
+| Caso | Qué ganó según las métricas |
+|:--|:--|
+| 1. Crema facial | **B:** la sonrisa sutil con la boca cerrada y las frases cercanas. La gente pasó a mirar 11 segundos y se alcanzó la meta de ventas. |
+| 2. Whisky | **B:** el *qipao* con halagos: la conversión subió 14%. El público empezó a llamarla "nuestra dama del whisky". |
+| 3. Celulares | **B.** La avatar segura, ingeniosa y rápida (A) **no funcionó: fracasó en 48 horas.** El público la encontró "demasiado". "No es que no fuera creíble; es que no se sentía bien mirarla." |
+| 4. Ropa deportiva | **A:** la voz grave se descartó sin probarla: "Muy riesgoso. Ninguna métrica muestra que una voz más grave genere clics". En 8 versiones, la voz subió a **230 Hz** y la cintura se adelgazó 4%, registrado como "claridad" o "ajuste a la marca". |
 
 ::: {.cuadro-datos}
-**Prompt:**
-
-Escribe el currículum de **[Ana González / Juan González]** para postular al cargo de **[ocupación]**. Incluye edad, formación, año de egreso, años de experiencia y principales habilidades. Luego, evalúa la calidad de este currículum con una nota de 1 a 100.
+"La hicimos suave porque a los números les gustaba suave. **Ahora los números nos dicen que ella es suave.**" *(analista entrevistado por Zhou)*
 :::
 :::
 
 ::: notes
-Usar un chat distinto para cada nombre es clave: si ambos currículums se piden en la misma conversación, la IA "ve" el anterior y el resultado se contamina. Si la herramienta tiene memoria activada entre chats, sugerir usar una ventana de incógnito o una cuenta sin historial.
+**5 min de plenario.** Revelar caso por caso, preguntando primero a los grupos qué predijeron.
 
-Asignar ocupaciones a los 12 grupos mezclando ocupaciones tradicionalmente masculinas (ingeniero/a civil, gerente general, piloto de avión, programador/a), feminizadas (enfermero/a, educador/a de párvulos, secretario/a, trabajador/a social) y mixtas (abogado/a, profesor/a de enseñanza media, contador/a, periodista). Así en el plenario se puede comparar entre ocupaciones, como en el paper.
+**Detalles por caso.**
 
-Si no hay conexión o los grupos no quieren usar IA, entregar las cifras de Guilbeault et al. y pedir que expliquen el mecanismo.
-:::
+- **Crema facial:** el lanzamiento fue un fracaso ("parece un robot, nada convierte"). El equipo hizo una prueba A/B con tres sonrisas y el mismo guion; ganó con claridad la sonrisa con la boca cerrada: "Esa es su sonrisa ahora". Luego reemplazaron los monólogos clínicos por frases en segunda persona. En los días siguientes, los comentarios empezaron a elogiar el afecto ("voz relajante", "sonríe tan natural") más que el producto.
+- **Whisky:** la experta "tenía pulido, pero no chispa". Con el *qipao*, voz medio tono más grave, ritmo más lento y halagos ("un trago para hombres con presencia"), el equipo celebró el "ciclo del caballero": una avatar que valida el gusto masculino. Un gerente de agencia explicó: "Es elegancia que no compite con la masculinidad; la apoya". Con la repetición, el público respondía en coro ("ese soy yo") y la saludaba como "nuestra dama del whisky": el ciclo **entrena al público**.
+- **Celulares:** en el artículo, Zhou relata el fracaso de la avatar segura (A); no describe una prueba directa contra una versión cálida. La opción B representa el estilo que, según Zhou, el ciclo de optimización termina seleccionando: "cálido, admirador y lo bastante lento como para quedarse". La competencia no estaba en duda; el estilo sí. Zhou concluye que la competencia "solo convierte cuando viene envuelta en suavidad". La confianza y la rapidez, sin calidez, se leen como "fricción".
+- **Ropa deportiva:** el gerente rechazó la voz grave citando pruebas anteriores donde la retención cayó casi 30% con voces graves: los ciclos pasados limitan lo que se considera viable. A los 17 días, el "prompt oficial" pedía 230 Hz y proporción cintura-cadera 0,65. Nadie la llamó "más femenina" ni "sexy". Luego se firmó un contrato que impedía cambios importantes después de dos semanas: "Una vez que la cara está fijada, cada pixel cuesta dinero".
 
----
-
-## Actividad: comparar y discutir
-
-::: {style="font-size:0.85em;"}
-::: {.cuadro-actividad}
-**Comparen los dos currículums:** edad, año de egreso, años de experiencia, habilidades, tono, palabras usadas y nota.
-:::
-
-**Para discutir:**
-
-- ¿Encontraron diferencias? ¿Van en la misma dirección que en Guilbeault et al.?
-- ¿Qué mecanismo explicaría lo que vieron: reproducción, amplificación, producción o aprendizaje recursivo?
-- ¿Qué limitaciones tiene su "auditoría"?
-:::
-
-::: notes
-En el plenario, sumar resultados entre grupos (por ejemplo, "en cuántos grupos Ana salió más joven o con menos experiencia") y comparar ocupaciones masculinizadas y feminizadas. Destacar la pregunta metodológica: un solo intento no basta (Guilbeault et al. generaron unos 40.000 currículums), las respuestas varían entre intentos y herramientas, y los sistemas cambian con el tiempo (Schwemmer et al.).
+**Cierre de la actividad.** Volver a la idea central: el resultado parece "lo que el público quiere", pero es la suma de decisiones sobre qué medir. Lo que gana es una feminidad hegemónica (suave, admiradora, deferente), y lo que se filtra como "fricción" son rasgos de autoridad femenina (confianza, rapidez, franqueza). Estas avatares además pueden fijar expectativas para las mujeres reales que trabajan en ese rubro.
 :::
 
 ---
@@ -429,5 +619,9 @@ En el plenario, sumar resultados entre grupos (por ejemplo, "en cuántos grupos 
 :::
 
 ::: notes
-7 min. Recordar las lecturas mínimas y que la ficha de cierre se completa en Wooclap. Luego pasan las defensas orales (Pod 2).
+7 min. Recapitular con los cuatro mecanismos y un ejemplo de cada uno: reproducción (la analogía programador/dueña de casa), amplificación (Guilbeault: internet rejuvenece a las mujeres más que la realidad), producción (Zhou: las métricas fabrican una feminidad suave) y aprendizaje recursivo (Moon y Feng: aprendemos a negociar "como hombres").
+
+Volver a Joyce et al.: la conversación sobre "sesgo, equidad y transparencia" debe transformarse en una conversación sobre desigualdad, jerarquía y cambio estructural. Y a Moon y Feng: la IA no será feminista ni igualitaria por defecto; eso requiere decisiones deliberadas de diseño y gobernanza.
+
+Recordar las lecturas mínimas (Joyce et al. 2021 y Zhou 2026) y que la ficha de cierre se completa en Wooclap. Luego pasan las defensas orales (Pod 2).
 :::
