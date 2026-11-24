@@ -27,41 +27,400 @@ SOL191 · Clase 14: Cambio social y movimientos feministas
 
 ---
 
-## Objetivos de hoy
+## Cambiar lo que parecía imposible
 
-::: {style="font-size:0.9em; line-height:1.8;"}
-- Revisión de rúbrica y dudas trabajo final
-- Evaluación docente y despedida curso
-- Break 10 minutos
-- Clase sobre movimientos feministas en Latam: Inés Martínez Echagüe (UNC Chapel Hill)
-- Preguntas y cierre
+::: {style="font-size:0.74em;"}
+*(Gago 2019)*
+
+::: {.cuadro-actividad}
+"Tiemblan los Chicago Boys. Aguanta el movimiento feminista" *(grafiti en la Universidad Católica de Chile, 2018; epígrafe del último capítulo de Gago)*
+:::
+
+En 2015, una marcha contra los femicidios en Argentina (#NiUnaMenos) se convirtió en pocos años en una **huelga feminista internacional** (8M). Gago escribe desde dentro de ese proceso.
+
+::: {.cuadro-datos}
+**Idea central:** el cambio social se construye colectivamente y desde abajo. Un movimiento amplía lo que una sociedad cree posible: "No sabemos lo que podemos hasta que experimentamos el desplazamiento de los límites".
+:::
+:::
+
+::: notes
+**Sobre la autora y el texto.** Verónica Gago es una investigadora argentina, doctora en Ciencias Sociales e integrante del colectivo Ni Una Menos. *La potencia feminista* (2019) está escrito "desde dentro" de la organización de las huelgas: ella lo llama **pensar situado** e investigación militante. Un pensar situado es feminista (el pensamiento tiene cuerpo), parcial (es una perspectiva), un proceso, e internacionalista "desde el Sur".
+
+**El epígrafe.** El capítulo final ("Ocho tesis sobre la revolución feminista") abre con un grafiti de nuestra universidad en 2018, el año del "mayo feminista" en Chile, con tomas universitarias contra el acoso y la educación sexista. Muestra que esta historia también es nuestra. Los "Chicago Boys" remiten a los economistas formados en Chicago (muchos de la UC) que diseñaron el modelo neoliberal chileno: Gago lee al feminismo como una fuerza **antineoliberal desde abajo**.
+
+**Potencia.** No es "poder sobre" otros, sino capacidad colectiva de ampliar lo posible: el "deseo de cambiarlo todo". Para Gago el deseo tiene un potencial cognitivo: moverse juntas también es una forma de conocer.
+
+**Del Ni Una Menos a la huelga.** La primera marcha masiva contra los femicidios fue en junio de 2015. En octubre de 2016 vino el primer paro de mujeres y en 2017 el paro internacional del 8M. Entre 2016 y 2019 el paro tomó varios nombres (paro de mujeres, lesbianas, trans y travestis; huelga feminista plurinacional). La huelga transformó la denuncia de los femicidios en un movimiento masivo y radical.
+
+**Genealogía.** Gago insiste en que no fue espontáneo: lo hicieron posible los Encuentros Nacionales de Mujeres (desde hace más de tres décadas), la campaña por el aborto legal, las Madres y Abuelas de Plaza de Mayo, el movimiento de disidencias sexuales y los movimientos de desocupados de la crisis de 2001.
 :::
 
 ---
 
-## Trabajo final
+## Tres ideas más para llevarse de Gago
 
-![](C14_02.png){fig-align="center" width="80%"}
+::: {style="font-size:0.66em;"}
+::: {.cuadro-datos}
+**1. Lo que no se ve, no se valora.** Al preguntarse quién puede "parar", la huelga hizo visible el trabajo doméstico, de cuidado, comunitario e informal, y sacó la violencia machista del "gueto" doméstico para conectarla con la violencia económica, laboral e institucional.
+:::
+
+::: {.cuadro-datos}
+**2. La fuerza de un movimiento está en unir luchas distintas.** El feminismo latinoamericano fue masivo y radical a la vez porque conectó a trabajadoras informales, migrantes, estudiantes, disidencias sexuales y dueñas de casa.
+:::
+
+::: {.cuadro-datos}
+**3. Todo avance genera resistencia.** Los derechos se conquistan en la calle y en las instituciones, y los avances provocan una contraofensiva (por ejemplo, contra la "ideología de género"). El cambio no es lineal.
+:::
+:::
+
+::: notes
+Estas tres ideas condensan las "Ocho tesis sobre la revolución feminista" (capítulo 8, que Gago presenta como "manifiesto condensado").
+
+**Idea 1 (tesis 1, 2 y 4).** La huelga funcionó como investigación práctica: ¿cómo para una dueña de casa, una trabajadora informal o una cuidadora? En Argentina, cerca del 40% de quienes trabajan lo hacen en la economía informal o popular; con la consigna "trabajadoras somos todas" se amplió la noción de clase trabajadora. Gago sitúa el origen de la desigualdad en la reproducción de la vida, explotada por ser obligatoria, gratuita o mal pagada. Sobre la violencia: el movimiento conectó femicidios, deuda, precariedad, extractivismo y violencia institucional, y buscó salir de la figura de víctima y del "puro duelo" hacia la organización. Critica las respuestas que aíslan el problema "con una secretaría o un programa", aunque reconoce que esos instrumentos importan. Conectar con las clases 9 y 10 (trabajo y cuidados) y 11 (violencia, Segato).
+
+**Idea 2 (tesis 3 y 6).** Gago llama **transversalidad** a construir proximidad entre luchas diferentes sin borrar sus diferencias. Lo que se definía como "minoritario" toma escala de masas, y eso desafía la lógica de "reconocer minorías" para pacificarlas. Su internacionalismo es "transnacional y plurinacional", construido desde cada territorio. Conectar con interseccionalidad (clase 6).
+
+**Idea 3 (tesis 5 y 7).** El movimiento construye redes propias y a la vez interpela al Estado: "desarma el binarismo reforma o revolución". Los feminismos "resisten ser reducidos a un cupo o a una tematización". La tesis 7 describe una triple contraofensiva (militar, económica y religiosa), que incluye la cruzada contra la "ideología de género" y la vuelta a la familia como encierro. Esto conecta con los datos de actitudes en Chile que vemos más adelante.
+
+**Pregunta para la sala:** ¿reconocen estas ideas en el movimiento feminista chileno reciente (mayo feminista de 2018, *Un violador en tu camino* de Las Tesis en 2019)?
+:::
 
 ---
 
-## Trabajo final: entrega y consultas
+## ¿Es posible el cambio? Lo que dice la sociología
 
-::: {style="font-size:0.85em;"}
+::: {style="font-size:0.66em;"}
+::: {.cuadro-datos}
+**La igualdad avanza, pero de forma desigual y no automática.**
+:::
+
+- **Una revolución desigual y estancada** *(England 2010)*: las mujeres entraron a espacios masculinos mucho más que los hombres a los femeninos, porque lo femenino sigue desvalorizado.
+- **Las actitudes no avanzan en línea recta** *(Cotter, Hermsen y Vanneman 2011)*: en EE.UU. crecieron hasta mediados de los noventa y luego se estancaron.
+- **Las creencias cambian más lento que las condiciones** *(Ridgeway 2011)*, pero cambian cuando cambian las condiciones materiales y las interacciones.
+- **El cambio debe darse en varios niveles a la vez** *(Risman 2018)*: individuos, interacciones e instituciones.
+:::
+
+::: notes
+**England (2010), "The Gender Revolution: Uneven and Stalled", *Gender & Society*.** Uno de los artículos más citados de la sociología del género. Muestra que desde los años sesenta el cambio fue **asimétrico**: las mujeres tuvieron incentivos para entrar a carreras y empleos masculinos (mejor pagados y más valorados), pero los hombres tuvieron pocos incentivos para entrar a ocupaciones o tareas femeninas, porque siguen desvalorizadas. Además, el cambio fue mayor entre mujeres de clase media y profesional. La idea de que mujeres y hombres son "esencialmente" distintos se mantiene aunque se acepte la igualdad de oportunidades. Lección: para avanzar hay que **revalorizar lo feminizado**, no solo abrir lo masculino a las mujeres (conectar con cuidados, clase 10).
+
+**Cotter, Hermsen y Vanneman (2011), *American Journal of Sociology*.** Con datos de la General Social Survey de 1977 a 2008, muestran que las actitudes de género igualitarias en EE.UU. crecieron rápido hasta mediados de los noventa, se estancaron y luego retomaron un crecimiento más lento. Proponen que se difundió un marco de "igualitarismo esencialista": igualdad en lo público, pero la maternidad intensiva como elección "natural".
+
+**Ridgeway (2011), *Framed by Gender* (clase 4).** Las creencias de estatus son persistentes porque se transfieren a cada espacio nuevo, pero no son inmutables: cambian, con rezago, cuando cambian las condiciones materiales (por ejemplo, más mujeres con ingresos propios) y cuando las personas actúan de formas que contradicen el estereotipo.
+
+**Risman (2018), "Gender as a Social Structure" (lectura de la clase 1).** El género como estructura social con niveles individual, interaccional e institucional. Por eso el cambio duradero exige actuar en los tres niveles a la vez: no basta con cambiar actitudes si las instituciones siguen igual, ni con cambiar leyes si las expectativas cotidianas no cambian.
+
+**Matiz útil:** Knight y Brinton (2017, *AJS*) muestran que en Europa no surgió un solo tipo de igualitarismo sino varios (por ejemplo, igualitarismo liberal e "igualitarismo familista"). La igualdad no tiene una sola forma.
+:::
+
+---
+
+## Chile: algunos cambios medibles
+
+::: {style="font-size:0.7em;"}
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Trabajo no remunerado** *(INE, II ENUT 2023)*
+
+- Mujeres: **4 h 57 min** al día; hombres: **2 h 52 min**.
+- La brecha sigue siendo de **2 horas diarias**.
+- Pero las mujeres dedican casi **1 hora menos** que en 2015.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Mujeres en la Cámara de Diputados** *(Ley de cuotas 20.840, desde 2017)*
+
+- 2013 (sin cuota): **15,8%**
+- 2017: **22,6%**
+- 2021: **35,5%**
+:::
+:::
+:::
+
+[Lo que se mide se puede discutir; lo que se regula puede cambiar.]{.hl}
+:::
+
+::: notes
+**ENUT.** La II Encuesta Nacional sobre Uso del Tiempo (INE) se aplicó entre septiembre y diciembre de 2023 en las principales zonas urbanas, a personas de 12 años y más; los resultados se publicaron en enero de 2025. En un día promedio, las mujeres destinan 4:57 horas al trabajo no remunerado (doméstico, de cuidado, voluntario y ayuda a otros hogares) y los hombres 2:52. Entre las personas ocupadas, la carga total de trabajo (pagado y no pagado) es de 10:58 horas para las mujeres y 9:49 para los hombres. Frente a la ENUT 2015, las mujeres dedican casi una hora menos al trabajo no remunerado: hay cambio, aunque la brecha persiste.
+
+Por qué importa para la clase: medir el trabajo no remunerado fue una demanda histórica del feminismo y de la economía feminista (la Plataforma de Acción de Beijing de 1995 llamó a medirlo). Es justamente lo que Gago llama hacer visible el trabajo invisible, traducido a estadística oficial.
+
+**Ley de cuotas.** La Ley 20.840 (2015) exige que ni hombres ni mujeres superen el 60% de las candidaturas de cada partido a diputados y senadores. Es transitoria y rige para las elecciones de 2017, 2021, 2025 y 2029. En 2013 se eligieron 19 diputadas de 120 (15,8%); en 2017, 35 de 155 (22,6%); en 2021, 55 de 155 (35,5%). Matiz que se puede comentar: la cuota aumentó las candidatas, pero la tasa de éxito de cada candidata bajó (según Servel), porque muchas se ubican en distritos o listas con menos opciones. Para 2025, revisar el dato oficial antes de mencionarlo (las fuentes que encontré no coinciden).
+:::
+
+---
+
+## Chile: ¿qué piensa la gente del feminismo y la igualdad?
+
+::: {style="font-size:0.62em;"}
+*(Ipsos, Día Internacional de la Mujer 2026; encuesta online, Chile n ≈ 500, diciembre 2025–enero 2026)*
+
+| % de acuerdo | Total | Hombres | Mujeres |
+|:--|:-:|:-:|:-:|
+| "Me defino como feminista" | 35% *(39% en 2019)* | 29% | 39% |
+| "En igualdad de derechos, ya se ha avanzado lo suficiente" | **65%** *(48% en 2019)* | 70% | 61% |
+| "Se ha avanzado tanto que se discrimina a los hombres" | 53% | 63% | 44% |
+| "Funcionaría mejor con más mujeres en cargos de poder" | 59% | 53% | 65% |
+
+[Hay apoyo amplio a la igualdad, pero crece la sensación de que "ya basta", sobre todo entre hombres.]{.hl}
+:::
+
+::: notes
+**Fuente y cautelas.** Encuesta anual de Ipsos con el Global Institute for Women's Leadership del King's College London, aplicada en 29 países entre el 24 de diciembre de 2025 y el 9 de enero de 2026 (23.268 personas). En Chile la muestra es de unas 500 personas de 16 a 74 años, online; Ipsos advierte que en Chile la muestra es más urbana, educada y acomodada que la población general, por lo que refleja al segmento más "conectado".
+
+**Lo más llamativo.** Chile es, después de Polonia, el país donde más creció entre 2019 y 2026 la idea de que "ya se ha avanzado lo suficiente" en igualdad (+17 puntos, de 48% a 65%). Chile también está entre los países con mayor acuerdo con que la igualdad "discrimina a los hombres" (53%, frente a 44% del promedio de 29 países). Ese tipo de respuesta es coherente con la idea de Gago de una contraofensiva frente a la fuerza del movimiento, aunque estos datos no permiten probar causalidad.
+
+**Otros datos que se pueden mencionar.**
+
+- Cadem (marzo de 2020): 79% cree que Chile es un país machista y 76% estuvo de acuerdo con las marchas del 8M. En 2018, durante el mayo feminista, 77% decía que Chile era machista (90% de las mujeres y 64% de los hombres).
+- Argote (2026, lectura de la clase 8), con datos LAPOP de 2006 a 2023 para seis países, incluido Chile: entre quienes nacieron después de 1980, las mujeres se ubican más a la izquierda y los hombres más a la derecha, una brecha que no existe en generaciones mayores. Pero no hay divergencia en temas concretos como el matrimonio igualitario o el aborto, que avanzan en ambos géneros. Argote lo interpreta como una divergencia **identitaria**, con un efecto de período posterior a 2015 concentrado en hombres.
+
+**Pregunta para la sala:** ¿cómo se explica que una mayoría crea que Chile es machista y, a la vez, que "ya se ha avanzado lo suficiente"?
+:::
+
+---
+
+## ¿Y la sociología? Cuatro formas de contribuir
+
+::: {style="font-size:0.68em;"}
+*(Burawoy 2005, "For Public Sociology")*
+
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Profesional:** producir conocimiento riguroso sobre cómo se reproduce la desigualdad (por ejemplo, England, Ridgeway, Risman).
+:::
+
+::: {.cuadro-datos}
+**De políticas públicas:** medir y evaluar (la ENUT, la ley de cuotas, la Ley 21.675, las auditorías de IA).
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Crítica:** cuestionar los supuestos de la propia disciplina y de las instituciones (Gago, Segato, la crítica feminista a la "neutralidad").
+:::
+
+::: {.cuadro-datos}
+**Pública:** conversar con la sociedad y darle palabras a lo que vive. Su **podcast** fue un ejercicio de sociología pública.
+:::
+:::
+:::
+:::
+
+::: notes
+**Burawoy (2005).** En su discurso como presidente de la American Sociological Association, Michael Burawoy distinguió cuatro tipos de sociología según para quién se produce el conocimiento (audiencias académicas o extraacadémicas) y para qué (conocimiento instrumental o reflexivo): **profesional**, **de políticas públicas**, **crítica** y **pública**. Su argumento es que se necesitan las cuatro y que se alimentan entre sí.
+
+**Ejemplos del curso para cada una.**
+
+- **Profesional:** los estudios con datos y métodos rigurosos que leímos (England, Ridgeway, Armstrong et al., Guilbeault et al.).
+- **De políticas públicas:** la ENUT existe porque investigadoras y movimientos insistieron en medir el trabajo no remunerado; la evaluación de las cuotas; el análisis de la Ley 21.675 (Valdebenito y Villena, clase 11); las auditorías de algoritmos (clase 13).
+- **Crítica:** Segato y Gago cuestionan que el Estado o el mercado sean neutrales; Joyce et al. critican el lenguaje del "sesgo" individual.
+- **Pública:** traducir la investigación para audiencias amplias y "ofrecer un léxico a las gentes para que puedan dar voz a lo que ya saben" (Segato). Palabras como femicidio, acoso o carga mental cambiaron lo que podemos ver y discutir.
+
+**Una tensión para discutir.** Gago hace investigación militante, desde dentro del movimiento; la sociología profesional valora la distancia y la evidencia. ¿Se contradicen? Una respuesta posible: todo conocimiento es situado, y la rigurosidad consiste en hacer explícito desde dónde se mira y someter las ideas a la evidencia, también las que nos gustan.
+:::
+
+---
+
+## Perspectiva de género en la investigación: cómo hacerlo
+
+::: {style="font-size:0.64em;"}
+No es un tema más: es una forma de mirar cualquier tema (salud, trabajo, ciudad, tecnología, educación).
+
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**1. Pregunta y datos**
+
+Incluir sexo y género en el diseño, reportar quiénes participaron y **desagregar** los resultados *(guías SAGER, Heidari et al. 2016)*.
+:::
+
+::: {.cuadro-datos}
+**2. Medición**
+
+Medir por separado sexo asignado al nacer e identidad de género, sin asumir que son binarios *(Westbrook y Saperstein 2015; Academias Nacionales de EE.UU. 2022)*.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**3. Análisis interseccional**
+
+Comparar entre y dentro de los grupos: no todas las mujeres ni todos los hombres viven lo mismo *(McCall 2005)*.
+:::
+
+::: {.cuadro-datos}
+**4. Instituciones y reflexividad**
+
+Mirar reglas y rutinas que parecen neutrales *(Acker 2006)* y explicitar desde dónde se investiga *(Haraway 1988)*.
+:::
+:::
+:::
+
+[La evidencia muestra que incorporar el análisis de sexo y género mejora la calidad de la investigación *(Tannenbaum et al. 2019, Nature)*.]{.hl}
+:::
+
+::: notes
+**Idea central.** La perspectiva de género no es solo para quienes estudian "temas de género": es una dimensión analítica que mejora cualquier investigación. Estos son textos de referencia, revisados por pares o ampliamente usados en la disciplina.
+
+**1. Guías SAGER (Heidari, Babor, De Castro, Tort y Curno 2016, *Research Integrity and Peer Review*).** Guías de la European Association of Science Editors (Sex and Gender Equity in Research), que muchas revistas piden seguir. Recomiendan usar los términos sexo y género con precisión, informar la composición de la muestra, analizar y reportar resultados desagregados (o justificar por qué no) y discutir las implicancias. En la práctica: si su encuesta o estudio de clientes no reporta resultados por sexo o género, puede ocultar diferencias importantes. **¿Hay algo más actual?** No existe una versión nueva de SAGER: siguen siendo el estándar de referencia, se publicó una corrección menor en 2024 y en 2026 cumplen diez años (campaña SAGER@10 de EASE y GENDRO). En 2024 se publicaron las recomendaciones SAGER-swissethics, que las aplican a los protocolos que revisan los comités de ética.
+
+**2. Westbrook y Saperstein (2015, *Gender & Society*), "New Categories Are Not Enough".** Revisaron cómo las grandes encuestas sociales miden sexo y género y mostraron que suelen confundirlos, asumir que son binarios y estables, y registrarlos sin preguntarlos. Proponen medir por separado sexo asignado al nacer e identidad de género, y considerar el género también como algo que se hace en la interacción. **Estándar más actual:** el informe de consenso de las Academias Nacionales de Ciencias, Ingeniería y Medicina de EE.UU. (2022), *Measuring Sex, Gender Identity, and Sexual Orientation*, recomienda no usar una variable como sustituto de la otra, medir la identidad de género en dos pasos (sexo asignado al nacer e identidad de género actual) y permitir la autoidentificación. **En Chile:** el Censo 2024 preguntó por primera vez la identidad de género a mayores de 18 años (unas 60 mil personas, 0,4%, se declararon trans o no binarias), pero no preguntó orientación sexual; el INE lo abordó después con la Encuesta Diversidades.
+
+**3. McCall (2005, *Signs*), "The Complexity of Intersectionality".** Distingue tres enfoques metodológicos: anticategorial (cuestiona las categorías mismas), intracategorial (estudia a grupos en intersecciones específicas, por ejemplo mujeres migrantes) e intercategorial (compara sistemáticamente entre grupos definidos por varias dimensiones). Útil para decidir cómo operacionalizar la interseccionalidad (clase 6). Un complemento desde la sociología: Choo y Ferree (2010, *Sociological Theory*), "Practicing Intersectionality in Sociological Research", proponen mirar la interseccionalidad también en interacciones e instituciones, no solo en la inclusión de grupos.
+
+**4a. Acker (2006, *Gender & Society*), "Inequality Regimes".** Desarrolla su texto de 1990 (clase 5): toda organización tiene un "régimen de desigualdad", es decir, prácticas, procesos y significados que producen desigualdades de clase, género y raza (en la contratación, la definición de los cargos, los salarios, las jornadas). Útil para quien trabaje en recursos humanos, el Estado o consultoría: preguntar qué supone cada procedimiento sobre el "trabajador ideal".
+
+**4b. Haraway (1988, *Feminist Studies*), "Situated Knowledges".** Todo conocimiento se produce desde una posición; la objetividad no es una "mirada desde ningún lugar", sino hacerse cargo de la posición desde la que se mira. Conecta con el "pensar situado" de Gago.
+
+**Evidencia de que importa.** Tannenbaum, Ellis, Eyssel, Zou y Schiebinger (2019, *Nature*), "Sex and gender analysis improves science and engineering", revisan casos de medicina, ingeniería y tecnología donde no considerar sexo y género produjo errores o productos peores (por ejemplo, diseños pensados para un cuerpo masculino "promedio" o sistemas de IA que reproducen estereotipos, como vimos en la clase 13), y casos donde incorporarlo generó mejores resultados. Es parte del proyecto *Gendered Innovations* de Stanford. Su versión más reciente es *Gendered Innovations 2* (Schiebinger y Klinge, eds., 2020), un informe de la Comisión Europea que amplía el enfoque al **análisis interseccional** y lo aplica a salud, inteligencia artificial, transporte y cambio climático. La Comisión Europea exige integrar la dimensión de género en los proyectos que financia (Horizonte Europa).
+:::
+
+---
+
+## En cualquier trabajo: preguntas para llevar
+
+::: {style="font-size:0.7em;"}
+Sea en el Estado, una empresa, una ONG, una consultora o la academia:
+
+::: {.cuadro-actividad}
+1. **¿Quién está y quién falta** en los datos, en las decisiones y en el equipo?
+2. **¿Los datos están desagregados** por género y por otras dimensiones (edad, clase, territorio)?
+3. **¿Qué supone** la política, el producto o el instrumento sobre la persona "típica"?
+4. **¿Quién hace el trabajo de cuidado** que hace posible que esto funcione?
+5. **¿Quién se beneficia y quién paga los costos?** ¿Cambia la respuesta para distintas mujeres y hombres?
+:::
+
+[Incorporar estas preguntas en todo el ciclo de una política o proyecto es lo que se conoce como **transversalización de la perspectiva de género** (ONU, 1997).]{.hl}
+:::
+
+::: notes
+**Uso.** Una lista breve para que se lleven a cualquier trabajo. Cada pregunta conecta con algo del curso:
+
+1. **Quién falta:** las auditorías de IA (clase 13) y la crítica de Joyce et al. a los datos "neutrales"; la representación política y la ley de cuotas.
+2. **Desagregar:** guías SAGER; sin datos desagregados, las brechas no se ven (por ejemplo, la ENUT).
+3. **La persona "típica":** el "trabajador ideal" de Acker (clase 5) y los regímenes de desigualdad; los diseños pensados para un usuario masculino promedio (Tannenbaum et al. 2019).
+4. **El cuidado:** las clases 9 y 10 (trabajo no remunerado, carga mental) y la idea de Gago de hacer visible el trabajo invisible.
+5. **Beneficios y costos:** la mirada interseccional (McCall 2005; clase 6) y el análisis de las políticas (Ley 21.675, clase 11).
+
+**Transversalización (*gender mainstreaming*).** El Consejo Económico y Social de la ONU (1997) la definió como evaluar las implicancias para mujeres y hombres de cualquier acción planificada (leyes, políticas o programas), en todas las áreas y niveles, para que ambos se beneficien por igual y no se perpetúe la desigualdad. Se impulsó tras la Conferencia de Beijing (1995). Una crítica conocida desde la sociología es que puede quedar en un trámite técnico si no cambia las relaciones de poder, lo que conecta con la advertencia de Gago y de Joyce et al. sobre reducir la desigualdad a "un programa" o a un "sesgo".
+
+**Pregunta para la sala:** piensen en el trabajo que les gustaría tener en cinco años. ¿Cuál de estas preguntas sería más útil ahí?
+:::
+
+---
+
+## Mirando al futuro
+
+::: {style="font-size:0.7em;"}
 ::: columns
 ::: {.column width="55%"}
-![](C14_03.png){fig-align="center"}
+::: {.cuadro-datos}
+**Tres ideas para cerrar el curso**
+
+1. La desigualdad de género no es natural: se produce en cuerpos, interacciones, instituciones, mercados y tecnologías.
+2. Lo que se produce socialmente se puede cambiar, aunque el cambio sea desigual, lento y enfrente resistencias.
+3. La sociología ayuda a ver, medir, explicar y nombrar esa desigualdad: es una herramienta para cambiarla.
+:::
 :::
 ::: {.column width="43%"}
+::: {.cuadro-actividad}
+**Para cerrar (Wooclap):**
+
+- ¿Qué desigualdad de género te gustaría ayudar a cambiar?
+- ¿Qué herramienta del curso usarías para hacerlo?
+:::
+:::
+:::
+:::
+
+::: notes
+**Cierre del curso.** Volver a la pregunta de la clase 1: ¿por qué una sociología del género? Recapitular brevemente el recorrido: conceptos y explicaciones de la desigualdad (clases 1 a 3), interacciones e instituciones (4 y 5), el marco multinivel e interseccional (6), y su aplicación a relaciones, masculinidades, trabajo, familia, violencia, sexualidad y tecnología (7 a 13).
+
+**Mirada a futuro.** Los desafíos siguen abiertos: la educación sexual integral, la implementación de la Ley 21.675, la crisis de los cuidados, la IA en la contratación, la contraofensiva contra la "ideología de género" y la brecha ideológica entre jóvenes. Invitar a pensar en su propia trayectoria (investigación, políticas públicas, organizaciones o vida cotidiana): la mirada sociológica sirve para cambiar lo que parece imposible de cambiar. Cerrar con la frase de Gago: "No sabemos lo que podemos hasta que experimentamos el desplazamiento de los límites".
+
+**Actividad final.** 3 a 5 min en Wooclap con nube de palabras o respuestas abiertas; leer algunas en voz alta antes de pasar a la evaluación docente.
+:::
+
+---
+
+## En tiempos de evaluación docente, a considerar (1/2)
+
+::: {style="font-size:0.68em;"}
+**Cómo describen los estudiantes a profesoras y profesores**
+
 ::: {.cuadro-datos}
-**Entrega:** [2 de julio]{.hl} a las 23:59pm en Canvas
+**"Brillante" y "genio" son palabras de hombres.** En más de 14 millones de reseñas de RateMyProfessors, los estudiantes usaron "brillante" y "genio" sobre todo para describir a profesores hombres, y más en las disciplinas donde hay menos mujeres, como física y filosofía *(Storage, Horne, Cimpian y Leslie 2016)*.
 :::
 
-Recibiremos dudas por correo hasta el 1 de julio a las 11am.
+::: {.cuadro-datos}
+**Ellas son "teacher", ellos son "professor".** En los comentarios de las evaluaciones, a las académicas se las llamaba con más frecuencia "teacher" (docente) y no "professor" (académica), un título que sí se usaba para sus colegas hombres *(Mitchell y Martin 2018)*.
+:::
 
-Enviar correo a mí, Bianca y Alonso para asegurar pronta respuesta.
+::: {.cuadro-datos}
+**Mismo curso, distinto nombre.** En un curso online, cada docente usó a veces una identidad masculina y otras una femenina. Los estudiantes evaluaron mejor a la identidad "masculina", aunque era la misma persona haciendo lo mismo *(MacNell, Driscoll y Hunt 2015)*.
 :::
 :::
+
+::: notes
+**Por qué estas diapositivas.** Son una aplicación directa del curso a algo que harán en los minutos siguientes. Conectan con Ridgeway (creencias de estatus que asocian a los hombres con más competencia), con el doble vínculo de las mujeres con autoridad (Rudman, clase 4), con las expectativas de "brillantez" que vimos en la clase 3 (mujeres en STEM) y con Acker: las evaluaciones docentes se usan en contrataciones, renovaciones y promociones.
+
+**Storage et al. (2016, *PLOS ONE* 11(3): e0150194).** Contaron cuántas veces aparecían "brilliant" y "genius" en más de 14 millones de reseñas anónimas de RateMyProfessors. Las disciplinas donde más se usan esas palabras tienen menos mujeres y menos personas afroamericanas con doctorado, incluso controlando por puntajes en pruebas de matemáticas. Según la cobertura del estudio, esas palabras se usaron más para profesores hombres. Se basa en el trabajo de Leslie, Cimpian y colegas (2015, *Science*), que mostró que en los campos que creen que el éxito depende del "talento natural" hay menos mujeres.
+
+**Ejemplo complementario (exploratorio, no revisado por pares).** En 2015, el historiador Ben Schmidt publicó una herramienta interactiva con las mismas reseñas de RateMyProfessors. Mostraba que palabras como "genius" o "brilliant" se asociaban más a hombres, y palabras como "helpful", "nice" o "bossy" (mandona) más a mujeres. Sirve como ilustración, pero no como evidencia rigurosa.
+
+**Mitchell y Martin (2018, *PS: Political Science & Politics* 51(3): 648–652).** Analizaron los comentarios de las evaluaciones de una profesora y un profesor que dictaban cursos equivalentes. A ella se la llamaba más "teacher" y a él más "professor". También codificaron comentarios sobre personalidad, apariencia y competencia; no reporto aquí esas cifras porque no las verifiqué en el texto completo. **Cautela:** en 2020 los autores publicaron una corrección: algunas pruebas estadísticas estaban mal calculadas y, al corregirlas, varios resultados pierden significancia. Usarlo como ejemplo ilustrativo, no como prueba definitiva.
+
+**MacNell, Driscoll y Hunt (2015, *Innovative Higher Education* 40: 291–303).** En un curso online, dos asistentes docentes (una mujer y un hombre) usaron cada uno una identidad masculina en un grupo y una femenina en otro, sin que los estudiantes los vieran. La identidad "masculina" recibió evaluaciones significativamente más altas, sin importar el género real de quien enseñaba, y las notas de los estudiantes no difirieron entre grupos. **Cautela:** es un estudio pequeño (dos docentes, cuatro grupos) y un reanálisis posterior cuestionó su robustez.
+:::
+
+---
+
+## En tiempos de evaluación docente, a considerar (2/2)
+
+::: {style="font-size:0.64em;"}
+**Cómo califican los estudiantes**
+
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Liderazgo para ellos, organización para ellas.** En una universidad francesa, con asignación aleatoria, los estudiantes evaluaron mejor a los profesores en "liderar la clase" y "aportar al desarrollo intelectual". En preparación, materiales y retroalimentación, ellas salieron igual o mejor. Y sus estudiantes rindieron igual en el examen *(Boring 2017)*.
+:::
+
+::: {.cuadro-datos}
+**Mismo aprendizaje, peor nota.** En una universidad holandesa, con casi 20.000 evaluaciones y asignación aleatoria, las profesoras recibieron peores evaluaciones aunque sus estudiantes sacaron las mismas notas. El sesgo viene de los estudiantes hombres y es mayor en cursos matemáticos y hacia profesoras jóvenes *(Mengel, Sauermann y Zölitz 2019)*.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**En Chile: la cara también cuenta.** En la FEN de la Universidad de Chile, un rostro que se percibe "dominante" mejora la evaluación de los profesores y empeora la de las profesoras *(Paredes, Pino y Díaz 2024)*.
+:::
+
+::: {.cuadro-datos}
+**Pero no siempre.** Un experimento doble ciego en Suecia no encontró sesgo *(Andersson et al. 2025)*, y en una universidad chilena las profesoras obtuvieron mejores promedios *(Undurraga et al. 2025)*.
+:::
+:::
+:::
+
+::: {.cuadro-actividad}
+**Al evaluar hoy:** evalúen prácticas concretas (claridad, organización, retroalimentación, aprendizaje), no la personalidad, la apariencia ni el "carisma".
+:::
+:::
+
+::: notes
+**Boring (2017, *Journal of Public Economics* 145: 27–41).** En una universidad francesa de ciencias sociales, los estudiantes de primer año no eligen sus cursos obligatorios y se asignan al azar a profesoras o profesores. Los estudiantes hombres dan puntajes más altos a los profesores hombres; por ejemplo, en "capacidad de liderar la clase" la diferencia es de 0,34 puntos. Estudiantes de ambos géneros evalúan mejor a los hombres en dimensiones asociadas a estereotipos masculinos (liderazgo, conocimiento, relación con temas actuales, contribución al desarrollo intelectual). En dimensiones asociadas a estereotipos femeninos (preparación y organización, materiales, claridad de la evaluación, retroalimentación), las evaluaciones son similares, y las estudiantes mujeres incluso evalúan mejor a las profesoras. Los estudiantes rinden igual en los exámenes finales con profesoras y profesores. Boring lo explica con la teoría de la congruencia de rol (Eagly y Karau 2002). También muestra que las profesoras que ponen notas bajas o dan retroalimentación negativa son peor evaluadas que los hombres que hacen lo mismo.
+
+**Mengel, Sauermann y Zölitz (2019, *Journal of the European Economic Association* 17(2): 535–566).** En la Escuela de Negocios y Economía de Maastricht, los estudiantes se asignan al azar a grupos y docentes, lo que funciona como un cuasiexperimento. Con 19.952 evaluaciones, las mujeres reciben evaluaciones sistemáticamente más bajas. Como las notas y las horas de estudio de sus estudiantes no difieren según el género del docente, concluyen que es sesgo y no calidad de la enseñanza. Advierten efectos en la carrera: menos confianza de las académicas jóvenes y más tiempo dedicado a docencia en desmedro de la investigación.
+
+**Paredes, Pino y Díaz (2024, *Economics & Human Biology* 54: 101381).** Con datos de todos los profesores de la FEN de la Universidad de Chile, usan la proporción entre ancho y alto del rostro como indicador de "dominancia" percibida. Un rostro más "dominante" se asocia a mejores evaluaciones para los hombres y peores para las mujeres, controlando por atractivo y por una medida de la productividad docente. Lo interpretan como normas que premian la asertividad en hombres y la castigan en mujeres (conectar con el doble vínculo).
+
+**Evidencia en contra o matizada (importante para no exagerar).**
+
+- Andersson, Backman, Bengtsson y Engström (2025, *Journal of Economic Behavior & Organization* 238: 107153): en un experimento doble ciego en Uppsala, asignaron al azar un nombre masculino o femenino a tutores en línea y no encontraron sesgo en ninguna dimensión. Es un contexto distinto (Suecia, tutoría breve en línea).
+- Undurraga, Montalva y Guerrero Barrera (2025, *Profesorado* 29(2)): en una universidad chilena (2022–2024), las docentes obtuvieron mejores promedios en todas las dimensiones de la práctica docente, aunque a nivel institucional fueron recomendadas en igual medida que los hombres.
+- La revisión de Kreitzer y Sweet-Cushman (2022, *Journal of Academic Ethics*), con más de 100 estudios, concluye que hay sesgos de género y raza, que las evaluaciones se relacionan poco con el aprendizaje y que el efecto del género depende del contexto.
+
+**¿Se puede reducir?** Peterson et al. (2019, *PLOS ONE*) agregaron al formulario un breve texto que advertía sobre los sesgos de género y raza; en ese grupo, las profesoras recibieron evaluaciones más altas. Otro experimento posterior (2024–2025) no logró reducir las diferencias en los comentarios escritos. De ahí la recomendación práctica: evaluar conductas concretas.
 :::
 
 ---
@@ -89,14 +448,3 @@ En Canvas: Encuestas de Docencia
 
 ---
 
-## Invitada especial: Inés Martinez-Echagüe
-
-::: {style="font-size:0.88em;"}
-::: {.cuadro-datos}
-- Candidata doctoral en Sociología, University of North Carolina at Chapel Hill, EEUU.
-- Magíster en Políticas Públicas y Género, en FLACSO.
-- Socióloga, Universidad de la República en Uruguay.
-:::
-
-Investiga sobre [género y desigualdad]{.hl}, [movimientos feministas]{.hl}, relaciones románticas y amor, trabajos de cuidado, entre otros.
-:::

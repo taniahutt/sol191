@@ -95,7 +95,7 @@ Las rúbricas de evaluación detalladas de cada componente están en el document
 Evaluaciones individuales, en horario de clases, en formato **libro abierto**: se puede traer cualquier material propio impreso o escrito a mano (notas, lecturas, resúmenes). Duración: 1 módulo (70 minutos). Formato: Ensayo.
 
 - **Prueba 1**: clases 1 a 7.
-- **Prueba 2**: clases 8 a 14.
+- **Prueba 2**: clases 8 a 14. **Jueves 3 de diciembre, de 11:30 a 13:30, en la sala N10.**
 
 ### Proyecto Final: argumento, investigación y defensa (45%)
 
@@ -173,7 +173,7 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 | 13 | 19-Nov | Género e inteligencia artificial | \*\*[Joyce et al. (2021)](lecturas/C13/Joyce_et_al_2021_Sociology_of_AI.pdf) <br> \*\*[Zhou (2026)](lecturas/C13/Zhou_2026_Doing_Data_Doing_Gender.pdf) <br> [Schwemmer et al. (2020)](lecturas/C13/Schwemmer_et_al_2020_Gender_Bias_Image_Recognition.pdf) <br> [Moon & Feng (2026)](lecturas/C13/Moon_Feng_2026_Technofeminism_at_Work.pdf) <br> [Rafnsdóttir et al. (2026)](lecturas/C13/Rafnsdottir_et_al_2026_AI_Driven_Inequality.pdf) <br> [Guilbeault, Delecourt & Desikan (2025)](lecturas/C13/Guilbeault_et_al_2025_Age_Gender_Distortion.pdf) | **Defensa oral — Pod 2** (últimos 45 min) |
 |  | 25-Nov | **Ayudantía:** preparación para prueba final |  |  |
 | 14 | 26-Nov | Cambio social y movimientos feministas en Latinoamérica. | \*\*[Gago (2019)](lecturas/C14/%28MAPAS%29%20Verónica%20Gago%20-%20La%20potencia%20feminista._%20O%20el%20deseo%20de%20cambiarlo%20todo_%2056.pdf) | **Defensa oral — Pod 3** (últimos 45 min) |
-|  | 3-Dic |  | Ensayo (20%) | **Prueba final** |
+|  | 3-Dic |  | Ensayo (20%) | **Prueba final** (11:30–13:30, sala N10) |
 
 ------------------------------------------------------------------------
 
@@ -181,7 +181,11 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 
 - Acker, Joan. 1990. "Hierarchies, Jobs and Bodies: A Theory of Gendered Organizations." *Gender & Society* 4: 139–158.
 
+- Acker, Joan. 2006. "Inequality Regimes: Gender, Class, and Race in Organizations." *Gender & Society* 20(4): 441–464. <https://doi.org/10.1177/0891243206289499>
+
 - Ananías Soto, C. A., Vergara Sánchez, K. D., Herrera Monsalve, C. V., & Barra Ortiz, B. Y. (2023). Violencia digital de género en Chile: Un estudio durante la pandemia de COVID-19. *Sexualidad, Salud y Sociedad (Rio de Janeiro)*, e22306. <https://doi.org/10.1590/1984-6487.sess.2023.39.e22306.a.es>
+
+- Andersson, Ola, Malin Backman, Niklas Bengtsson, and Per Engström. 2025. "Are Economics Students Biased against Female Teachers? Evidence from a Randomized, Double-Blind Natural Field Experiment." *Journal of Economic Behavior & Organization* 238: 107153.
 
 - Angier, Natalie, and Kenneth Chang. 2005. "Gray Matter and Sexes: A Gray Area Scientifically." *The New York Times.*
 
@@ -199,11 +203,17 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 
 - Bokser Misses-Liwerant, Judit. 2020. "Mujer y género en el siglo XXI. Perspectivas, implicaciones y dilemas." *Revista Mexicana de Ciencias Políticas y Sociales* 65(240): 9–24.
 
+- Boring, Anne. 2017. "Gender Biases in Student Evaluations of Teaching." *Journal of Public Economics* 145: 27–41.
+
 - Bridges, Tristan, and C. J. Pascoe. 2018. "On the Elasticity of Gender Hegemony: Why Hybrid Masculinities Fail to Undermine Gender and Sexual Inequality." En *Gender Reckonings: New Social Theory and Research*, pp. 254–274.
+
+- Burawoy, Michael. 2005. "For Public Sociology." *American Sociological Review* 70(1): 4–28. <https://doi.org/10.1177/000312240507000102>
 
 - Cabello-Hutt, Tania. 2020. "Changes in Work and Care Trajectories during the Transition to Motherhood." *Social Science Research* 90: 102439.
 
 - Chadwick, Sara B., and Sari M. van Anders. 2017. "Do Women's Orgasms Function as a Masculinity Achievement for Men?" *Journal of Sex Research* 54(9): 1141–1152.
+
+- Choo, Hae Yeon, and Myra Marx Ferree. 2010. "Practicing Intersectionality in Sociological Research: A Critical Analysis of Inclusions, Interactions, and Institutions in the Study of Inequalities." *Sociological Theory* 28(2): 129–149.
 
 - Compton, D'Lane, and Tristan Bridges. 2013. "On Queering Parenting and Gender-Neutrality." *Inequality by (Interior) Design.* <https://inequalitybyinteriordesign.wordpress.com/2013/03/20/on-queering-parenting-and-gender-neutrality/>
 
@@ -211,9 +221,13 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 
 - Contreras Tinoco, Karen A., y Jaime Silva-Segovia. 2018. "Posiciones discursivas sobre sexualidad, deseo y placer sexual en jóvenes estudiantes chilenos y mexicanos." *Sexualidad, Salud y Sociedad* 30: 50–78. <https://doi.org/10.1590/1984-6487.sess.2018.30.03.a>
 
+- Cotter, David, Joan M. Hermsen, and Reeve Vanneman. 2011. "The End of the Gender Revolution? Gender Role Attitudes from 1977 to 2008." *American Journal of Sociology* 117(1): 259–289. <https://doi.org/10.1086/658853>
+
 - Crocco-Valdivia, Alejandra Andrea, and Caterine Galaz-Valderrama. 2023. "Mujeres en la academia: Exploración de una organización generizada a partir de una revisión sistemática." *Estudios Pedagógicos (Valdivia)* 49(2): 439–454. <https://doi.org/10.4067/S0718-07052023000200439>
 
 - Daminger, Allison. 2019. "The Cognitive Dimension of Household Labor." *American Sociological Review* 84(4): 609–633.
+
+- England, Paula. 2010. "The Gender Revolution: Uneven and Stalled." *Gender & Society* 24(2): 149–166. <https://doi.org/10.1177/0891243210361475>
 
 - Fahs, Breanne. 2014. "'Freedom to' and 'Freedom from': A New Vision for Sex-Positive Politics." *Sexualities* 17(3): 267–290.
 
@@ -231,6 +245,10 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 
 - Hamilton, Laura, Elizabeth A. Armstrong, J. Lotus Seeley, and Elizabeth M. Armstrong. 2019. "Hegemonic Femininities and Intersectional Domination." *Sociological Theory* 37(4): 315–341.
 
+- Haraway, Donna. 1988. "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective." *Feminist Studies* 14(3): 575–599. <https://doi.org/10.2307/3178066>
+
+- Heidari, Shirin, Thomas F. Babor, Paola De Castro, Sera Tort, and Mirjam Curno. 2016. "Sex and Gender Equity in Research: Rationale for the SAGER Guidelines and Recommended Use." *Research Integrity and Peer Review* 1: 2. <https://doi.org/10.1186/s41073-016-0007-6>
+
 - Herrera, F., Miranda, C., Pavicevic, Y., & Sciaraffia, V. 2018. "'Soy un papá súper normal': Experiencias parentales de hombres gay en Chile." *Polis (Santiago)* 17(50): 111–137. <https://doi.org/10.4067/S0718-65682018000200111>
 
 - Hirsch, Jennifer S., and Shamus Khan. 2020. *Sexual Citizens: A Landmark Study of Sex, Power, and Assault on Campus.* New York: W. W. Norton.
@@ -243,11 +261,17 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 
 - Joyce, Kelly, Laurel Smith-Doerr, Sharla Alegria, Susan Bell, Taylor Cruz, Steve G. Hoffman, Safiya Umoja Noble, and Benjamin Shestakofsky. 2021. "Toward a Sociology of Artificial Intelligence: A Call for Research on Inequalities and Structural Change." *Socius* 7: 1–11. <https://doi.org/10.1177/2378023121999581>
 
+- Knight, Carly R., and Mary C. Brinton. 2017. "One Egalitarianism or Several? Two Decades of Gender-Role Attitude Change in Europe." *American Journal of Sociology* 122(5): 1485–1532. <https://doi.org/10.1086/689814>
+
+- Kreitzer, Rebecca J., and Jennie Sweet-Cushman. 2022. "Evaluating Student Evaluations of Teaching: A Review of Measurement and Equity Bias in SETs and Recommendations for Ethical Reform." *Journal of Academic Ethics* 20: 73–84. <https://doi.org/10.1007/s10805-021-09400-w>
+
 - Lamont, Ellen. 2014. "Negotiating Courtship: Reconciling Egalitarian Ideals with Traditional Gender Norms." *Gender & Society* 28(2): 189–211.
 
 - Lamont, Ellen. 2017. "Gender, Relationships, and Sexual Behavior Among College Students." *Sexuality & Culture* 21(1): 171–191.
 
 - Lamont, Ellen. 2021. "The Persistence of Gendered Dating." *Sociology Compass* 15(11): e12933.
+
+- MacNell, Lillian, Adam Driscoll, and Andrea N. Hunt. 2015. "What's in a Name: Exposing Gender Bias in Student Ratings of Teaching." *Innovative Higher Education* 40: 291–303. <https://doi.org/10.1007/s10755-014-9313-4>
 
 - Madrid, Sebastián. 2016. "La formación de masculinidades hegemónicas en la clase dominante: el caso de la sexualidad en los colegios privados de elite en Chile." *Sexualidad, Salud y Sociedad (Rio de Janeiro)*: 369–398. <https://doi.org/10.1590/1984-6487.sess.2016.22.17.a>
 
@@ -261,23 +285,39 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 
 - Martínez Echagüe, Inés. 2021. "La igualdad se trabaja." <http://www.razonesypersonas.com/2021/07/la-igualdad-se-trabaja.html>
 
+- McCall, Leslie. 2005. "The Complexity of Intersectionality." *Signs* 30(3): 1771–1800. <https://doi.org/10.1086/426800>
+
 - McClelland, Sara I. 2010. "Intimate Justice: A Critical Analysis of Sexual Satisfaction." *Social and Personality Psychology Compass* 4(9): 663–680.
 
 - McClelland, Sara I. 2014. "'What Do You Mean When You Say That You Are Sexually Satisfied?' A Mixed Methods Study." *Feminism & Psychology* 24(1): 74–96.
 
 - McPhillips, Kathryn, Virginia Braun, and Nicola Gavey. 2001. "Defining (Hetero)Sex: How Imperative Is the 'Coital Imperative'?" *Women's Studies International Forum* 24(2): 229–240.
 
+- Mengel, Friederike, Jan Sauermann, and Ulf Zölitz. 2019. "Gender Bias in Teaching Evaluations." *Journal of the European Economic Association* 17(2): 535–566. <https://doi.org/10.1093/jeea/jvx057>
+
 - Mickey, Ethel L. 2019. "When Gendered Logics Collide: Going Public and Restructuring in a High-Tech Organization." *Gender & Society* 33(4): 509–533. <https://doi.org/10.1177/0891243219830944>
 
+- Mitchell, Kristina M. W., and Jonathan Martin. 2018. "Gender Bias in Student Evaluations." *PS: Political Science & Politics* 51(3): 648–652. <https://doi.org/10.1017/S104909651800001X>
+
 - Moon, Sue H., and Jing Betty Feng. 2026. "Technofeminism at Work: Artificial Intelligence-Mediated Negotiations and the Reproduction of Gendered Communication Norms." *Gender, Work & Organization* 33: 1676–1691. <https://doi.org/10.1111/gwao.70145>
+
+- National Academies of Sciences, Engineering, and Medicine. 2022. *Measuring Sex, Gender Identity, and Sexual Orientation.* Washington, DC: The National Academies Press. <https://doi.org/10.17226/26424>
+
+- Paredes, Valentina, Francisco J. Pino, and David Díaz. 2024. "Does Facial Structure Explain Differences in Student Evaluations of Teaching? The Role of fWHR as a Proxy for Perceived Dominance." *Economics & Human Biology* 54: 101381.
+
+- Peterson, David A. M., Lori A. Biederman, David Andersen, Tessa M. Ditonto, and Kevin Roe. 2019. "Mitigating Gender Bias in Student Evaluations of Teaching." *PLOS ONE* 14(5): e0216241. <https://doi.org/10.1371/journal.pone.0216241>
 
 - Rafnsdóttir, Guðbjörg Linda, et al. 2026. "Artificial Intelligence-Driven Inequality: Gendered and Intersectional Experiences of Workplace Discrimination in Europe." *Gender, Work & Organization*. <https://doi.org/10.1111/gwao.70239>
 
 - Ridgeway, Cecilia L., and Shelley J. Correll. 2004. "Unpacking the Gender System: A Theoretical Perspective on Gender Beliefs and Social Relations." *Gender & Society* 18(4): 510–531.
 
+- Ridgeway, Cecilia L. 2011. *Framed by Gender: How Gender Inequality Persists in the Modern World.* New York: Oxford University Press.
+
 - Risman, Barbara J. 2018. "Gender as a Social Structure." En *Handbook of the Sociology of Gender*, eds. Barbara J. Risman, Carissa M. Froyum, and William J. Scarborough. Cham: Springer, pp. 19–43.
 
 - Rudman, Laurie A., Corinne A. Moss-Racusin, Julie E. Phelan, and Sanne Nauts. 2012. "Status Incongruity and Backlash Effects: Defending the Gender Hierarchy Motivates Prejudice against Female Leaders." *Journal of Experimental Social Psychology* 48: 165–179.
+
+- Schiebinger, Londa, and Ineke Klinge, eds. 2020. *Gendered Innovations 2: How Inclusive Analysis Contributes to Research and Innovation.* Luxemburgo: Comisión Europea. <https://doi.org/10.2777/316197>
 
 - Schilt, Kristen. 2011. *Just One of the Guys?: Transgender Men and the Persistence of Gender Inequality.* Chicago: University of Chicago Press.
 
@@ -287,9 +327,15 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 
 - Shirazi, Taraneh, Kaytlin J. Renfro, Elisabeth Lloyd, and Kim Wallen. 2018. "Women's Experience of Orgasm during Intercourse: Question Semantics Affect Women's Reports and Men's Estimates of Orgasm Occurrence." *Archives of Sexual Behavior* 47: 605–613.
 
+- Storage, Daniel, Zachary Horne, Andrei Cimpian, and Sarah-Jane Leslie. 2016. "The Frequency of 'Brilliant' and 'Genius' in Teaching Evaluations Predicts the Representation of Women and African Americans across Fields." *PLOS ONE* 11(3): e0150194. <https://doi.org/10.1371/journal.pone.0150194>
+
 - Sweet, Paige L. 2019. "The Sociology of Gaslighting." *American Sociological Review* 84(5): 851–875.
 
+- Tannenbaum, Cara, Robert P. Ellis, Friederike Eyssel, James Zou, and Londa Schiebinger. 2019. "Sex and Gender Analysis Improves Science and Engineering." *Nature* 575: 137–146. <https://doi.org/10.1038/s41586-019-1657-6>
+
 - Undurraga, Rosario. 2019. "Who Will Get the Job? Hiring Practices and Inequalities in the Chilean Labour Market." *Bulletin of Latin American Research* 38(5): 575–590.
+
+- Undurraga, Rosario, José Tomás Montalva, y E. Guerrero Barrera. 2025. "Profesores en evaluación: el impacto del género en los resultados de la evaluación docente universitaria." *Profesorado* 29(2): 1–23. <https://doi.org/10.30827/profesorado.v29i2.32229>
 
 - Valdés, Teresa. 2001. "Estudios de Género para el Siglo XXI en América Latina." <https://bibliotecadigital.academia.cl/xmlui/bitstream/handle/123456789/2860/85-100.pdf>
 
@@ -300,6 +346,8 @@ Las solicitudes de re-corrección deben hacerse **por escrito** a la profesora e
 - Villanueva, Aida, and Ken-Hou Lin. (en prensa). "Motherhood Wage Penalties in Latin America: The Significance of Labor Informality." *Social Forces.*
 
 - Viveros Vigoya, Mara. 2016. "La interseccionalidad: una aproximación situada a la dominación." *Debate Feminista* 52: 1–17.
+
+- Westbrook, Laurel, and Aliya Saperstein. 2015. "New Categories Are Not Enough: Rethinking the Measurement of Sex and Gender in Social Surveys." *Gender & Society* 29(4): 534–560. <https://doi.org/10.1177/0891243215584758>
 
 - Zhou, Jun. 2026. "Doing Data, Doing Gender: Manufacturing Gendered AI through the Optimization Loop." *Big Data & Society* 13(2): 1–13. <https://doi.org/10.1177/20539517261426453>
 

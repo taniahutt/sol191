@@ -18,23 +18,6 @@ format:
 ---
 
 
-
-## Antes de empezar: hagan una predicción
-
-::: {.cuadro-actividad}
-**Pregunta (Wooclap):** Le pedimos a ChatGPT que escriba el currículum de **Ana** y el de **Juan** para el mismo cargo, y luego que les ponga nota de 1 a 100.
-
-¿Qué creen que cambia entre los dos currículums? ¿Quién saca mejor nota?
-:::
-
-::: notes
-**Clase de 70 minutos.** Distribución sugerida: predicción 0:00–0:05 · marco sociológico 0:05–0:20 · mecanismos 0:20–0:32 · resultados 0:32–0:45 · actividad "Ustedes son la startup" 0:45–0:58 · qué pasó realmente 0:58–1:03 · cierre 1:03–1:10.
-
-5 min. Dejar que voten (opción múltiple o respuesta abierta) y **no dar la respuesta todavía**: se responde con Guilbeault et al. (2025) en "Resultados 1". Si votan que "no cambia nada", aprovechar: es justamente la promesa de neutralidad que vamos a discutir.
-:::
-
----
-
 ## ¿Por qué la IA es un tema sociológico?
 
 ::: {style="font-size:0.85em;"}
@@ -96,8 +79,6 @@ Los sistemas de IA son [sociotécnicos]{.hl}: en su código, su diseño y su uso
 
 **"Datos sobre X son datos sobre Y".** Quienes desarrollan IA suelen tratar los datos como representaciones objetivas. Pero un código postal es también un dato sobre clase y raza, y una brecha salarial es también un dato sobre género. Ejemplo de los autores: en las fichas clínicas, los médicos a veces codifican diagnósticos pensando en el reembolso del seguro, y los resultados de salud reflejan el nivel socioeconómico tanto como la efectividad de un tratamiento.
 
-**Más datos no es igual a más justicia.** Taylor Cruz (2020) estudió un hospital público que empezó a registrar género y orientación sexual en las fichas. Esos datos no se usaron de manera significativa: el personal no sabía cómo conectarlos con los determinantes sociales de la salud y tenía poco tiempo. Su conclusión: "para avanzar en justicia necesitamos más que solo datos".
-
 **Noble (2018) y Benjamin (2019).** Noble mostró que el buscador de Google reproduce sexismo y racismo ("redlining tecnológico"), y que eso no se debe solo a los usuarios sino a decisiones de la empresa y su interés comercial. Benjamin llama "nuevo Jim Code" a las tecnologías que reproducen desigualdades pero se presentan como más objetivas o progresistas que los sistemas discriminatorios anteriores.
 :::
 
@@ -118,7 +99,7 @@ Los sistemas de IA son [sociotécnicos]{.hl}: en su código, su diseño y su uso
 :::
 
 ::: notes
-**La mirada de la industria.** Las empresas y la informática hablan de *bias, fairness, transparency, accountability*. Google lanzó en 2018 un módulo de "equidad" en su curso de *machine learning*, y en 2018 se creó la conferencia ACM FAccT. Joyce et al. reconocen que identificar daños es valioso, pero critican que el problema se ubique en **individuos** (programadores que necesitan capacitación). Este lenguaje viene de la informática (*underfitting*, *overfitting*) y de la psicología, que se enfoca en percepciones y actitudes individuales.
+**La mirada de la industria.** Las empresas y la informática hablan de *bias, fairness, transparency, accountability*. Google lanzó en 2018 un módulo de "equidad" en su curso de *machine learning* Joyce et al. reconocen que identificar daños es valioso, pero critican que el problema se ubique en **individuos** (programadores que necesitan capacitación). Este lenguaje viene de la informática (*underfitting*, *overfitting*) y de la psicología, que se enfoca en percepciones y actitudes individuales.
 
 **La mirada sociológica.** El sesgo "no flota libremente en los individuos": está incrustado en instituciones durables. Por eso no se resuelve solo capacitando a programadores. Ejemplo que dan: el despido de Timnit Gebru de Google en 2020, después de coescribir un artículo sobre los daños desiguales de los grandes modelos de lenguaje. Muestra qué pasa cuando la crítica choca con el interés comercial.
 
@@ -239,7 +220,7 @@ Partiendo de West y Zimmerman ("hacer género") y Butler, Zhou propone que en la
 
 El [ciclo de optimización]{.hl}:
 
-1. Ideas vagas de marca ("dulce pero picante") se traducen en **parámetros**: tono de voz, sonrisa, mirada, guion.
+1. Ideas vagas de marca se traducen en **parámetros**: tono de voz, sonrisa, mirada, guion.
 2. Se prueban variantes en vivo (pruebas A/B) y se miden visualizaciones, clics y ventas.
 3. La variante que "convierte" se vuelve el **estándar** de la industria.
 
@@ -468,24 +449,19 @@ Todas son congresistas. Las etiquetas no son falsas, pero de muchas etiquetas co
 
 ---
 
-## Actividad: ustedes son la *startup*
+## Actividad
 
 ::: {style="font-size:0.78em;"}
-Son el equipo de una empresa china que crea **vendedoras virtuales con IA** para transmisiones de venta en vivo. Cada grupo recibe **un caso real** del estudio de Zhou (2026), con dos opciones: **A** o **B**.
+Son el equipo de una empresa china que crea **vendedoras virtuales con IA** para transmisiones de venta en vivo. 
 
 ::: {.cuadro-actividad}
 **Paso 1. Como empresa (3 min).** Lean su caso y decidan: ¿qué opción vendió más, A o B? Anoten por qué.
 
-**Paso 2. Como sociólogos (6 min).** Respondan:
+**Paso 2. Como sociólogas/os (6 min).** Respondan:
+1. ¿Qué "tipo" de mujer **premia** la opción que eligieron? (joven, suave, experta, segura, complaciente…)
 
-1. ¿Qué tipo de mujer **premia** la opción que eligieron? (joven, suave, experta, segura, complaciente…)
-2. ¿Quién decidió que el éxito se mide en **ventas y minutos vistos**?
-3. Si el éxito se midiera de otra forma (por ejemplo, "la gente entendió bien el producto"), ¿ganaría la otra opción?
-
-**Paso 3. Plenario (5 min).** Revelamos qué pasó realmente.
 :::
 
-[Si ya leyeron a Zhou, no revelen el final: expliquen el mecanismo.]{.hl}
 :::
 
 ::: notes
@@ -558,7 +534,7 @@ El equipo debe elegir el estilo de la avatar que venderá celulares.
 ::: {.cuadro-datos}
 **Caso 4. Ropa deportiva (antes del lanzamiento)**
 
-La marca pide una mujer "dulce pero picante, atlética pero no agresiva; alguien en quien los hombres confíen y que a las mujeres no les desagrade". El equipo le pone una voz de **205 Hz**.
+La marca pide una mujer "dulce pero "hot", atlética pero no agresiva; alguien en quien los hombres confíen y que a las mujeres no les desagrade". El equipo le pone una voz de **205 Hz**.
 
 - **A:** mantener la voz aguda.
 - **B:** probar una **voz más grave**, como propone un practicante.
@@ -612,7 +588,7 @@ Los casos se presentan casi como Zhou los describe; las marcas no se nombran en 
 ::: {style="font-size:0.85em;"}
 ::: {.cuadro-datos}
 - La IA no es neutral: aprende de datos y decisiones humanas situadas.
-- No solo **refleja** desigualdades: las **amplifica**, las **produce** y nos **entrena** en ellas.
+- No solo **refleja** desigualdades: las puede **amplificar** y **producir**.
 - Hablar solo de "sesgo" individual esconde la pregunta sociológica: ¿quién decide qué se mide, qué cuenta como éxito y quién paga los costos?
 :::
 
