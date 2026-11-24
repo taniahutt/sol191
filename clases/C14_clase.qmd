@@ -320,6 +320,7 @@ Sea en el Estado, una empresa, una ONG, una consultora o la academia:
 :::
 :::
 :::
+:::
 
 ::: notes
 **Cierre del curso.** Volver a la pregunta de la clase 1: ¿por qué una sociología del género? Recapitular brevemente el recorrido: conceptos y explicaciones de la desigualdad (clases 1 a 3), interacciones e instituciones (4 y 5), el marco multinivel e interseccional (6), y su aplicación a relaciones, masculinidades, trabajo, familia, violencia, sexualidad y tecnología (7 a 13).
@@ -327,6 +328,87 @@ Sea en el Estado, una empresa, una ONG, una consultora o la academia:
 **Mirada a futuro.** Los desafíos siguen abiertos: la educación sexual integral, la implementación de la Ley 21.675, la crisis de los cuidados, la IA en la contratación, la contraofensiva contra la "ideología de género" y la brecha ideológica entre jóvenes. Invitar a pensar en su propia trayectoria (investigación, políticas públicas, organizaciones o vida cotidiana): la mirada sociológica sirve para cambiar lo que parece imposible de cambiar. Cerrar con la frase de Gago: "No sabemos lo que podemos hasta que experimentamos el desplazamiento de los límites".
 
 **Actividad final.** 3 a 5 min en Wooclap con nube de palabras o respuestas abiertas; leer algunas en voz alta antes de pasar a la evaluación docente.
+:::
+
+---
+
+## En tiempos de evaluación docente, a considerar (1/2)
+
+::: {style="font-size:0.68em;"}
+**Cómo describen los estudiantes a profesoras y profesores**
+
+::: {.cuadro-datos}
+**"Brillante" y "genio" son palabras de hombres.** En más de 14 millones de reseñas de RateMyProfessors, los estudiantes usaron "brillante" y "genio" sobre todo para describir a profesores hombres, y más en las disciplinas donde hay menos mujeres, como física y filosofía *(Storage, Horne, Cimpian y Leslie 2016)*.
+:::
+
+::: {.cuadro-datos}
+**Ellas son "teacher", ellos son "professor".** En los comentarios de las evaluaciones, a las académicas se las llamaba con más frecuencia "teacher" (docente) y no "professor" (académica), un título que sí se usaba para sus colegas hombres *(Mitchell y Martin 2018)*.
+:::
+
+::: {.cuadro-datos}
+**Mismo curso, distinto nombre.** En un curso online, cada docente usó a veces una identidad masculina y otras una femenina. Los estudiantes evaluaron mejor a la identidad "masculina", aunque era la misma persona haciendo lo mismo *(MacNell, Driscoll y Hunt 2015)*.
+:::
+:::
+
+::: notes
+**Por qué estas diapositivas.** Son una aplicación directa del curso a algo que harán en los minutos siguientes. Conectan con Ridgeway (creencias de estatus que asocian a los hombres con más competencia), con el doble vínculo de las mujeres con autoridad (Rudman, clase 4), con las expectativas de "brillantez" que vimos en la clase 3 (mujeres en STEM) y con Acker: las evaluaciones docentes se usan en contrataciones, renovaciones y promociones.
+
+**Storage et al. (2016, *PLOS ONE* 11(3): e0150194).** Contaron cuántas veces aparecían "brilliant" y "genius" en más de 14 millones de reseñas anónimas de RateMyProfessors. Las disciplinas donde más se usan esas palabras tienen menos mujeres y menos personas afroamericanas con doctorado, incluso controlando por puntajes en pruebas de matemáticas. Según la cobertura del estudio, esas palabras se usaron más para profesores hombres. Se basa en el trabajo de Leslie, Cimpian y colegas (2015, *Science*), que mostró que en los campos que creen que el éxito depende del "talento natural" hay menos mujeres.
+
+**Ejemplo complementario (exploratorio, no revisado por pares).** En 2015, el historiador Ben Schmidt publicó una herramienta interactiva con las mismas reseñas de RateMyProfessors. Mostraba que palabras como "genius" o "brilliant" se asociaban más a hombres, y palabras como "helpful", "nice" o "bossy" (mandona) más a mujeres. Sirve como ilustración, pero no como evidencia rigurosa.
+
+**Mitchell y Martin (2018, *PS: Political Science & Politics* 51(3): 648–652).** Analizaron los comentarios de las evaluaciones de una profesora y un profesor que dictaban cursos equivalentes. A ella se la llamaba más "teacher" y a él más "professor". También codificaron comentarios sobre personalidad, apariencia y competencia; no reporto aquí esas cifras porque no las verifiqué en el texto completo. **Cautela:** en 2020 los autores publicaron una corrección: algunas pruebas estadísticas estaban mal calculadas y, al corregirlas, varios resultados pierden significancia. Usarlo como ejemplo ilustrativo, no como prueba definitiva.
+
+**MacNell, Driscoll y Hunt (2015, *Innovative Higher Education* 40: 291–303).** En un curso online, dos asistentes docentes (una mujer y un hombre) usaron cada uno una identidad masculina en un grupo y una femenina en otro, sin que los estudiantes los vieran. La identidad "masculina" recibió evaluaciones significativamente más altas, sin importar el género real de quien enseñaba, y las notas de los estudiantes no difirieron entre grupos. **Cautela:** es un estudio pequeño (dos docentes, cuatro grupos) y un reanálisis posterior cuestionó su robustez.
+:::
+
+---
+
+## En tiempos de evaluación docente, a considerar (2/2)
+
+::: {style="font-size:0.64em;"}
+**Cómo califican los estudiantes**
+
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Liderazgo para ellos, organización para ellas.** En una universidad francesa, con asignación aleatoria, los estudiantes evaluaron mejor a los profesores en "liderar la clase" y "aportar al desarrollo intelectual". En preparación, materiales y retroalimentación, ellas salieron igual o mejor. Y sus estudiantes rindieron igual en el examen *(Boring 2017)*.
+:::
+
+::: {.cuadro-datos}
+**Mismo aprendizaje, peor nota.** En una universidad holandesa, con casi 20.000 evaluaciones y asignación aleatoria, las profesoras recibieron peores evaluaciones aunque sus estudiantes sacaron las mismas notas. El sesgo viene de los estudiantes hombres y es mayor en cursos matemáticos y hacia profesoras jóvenes *(Mengel, Sauermann y Zölitz 2019)*.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**En Chile: la cara también cuenta.** En la FEN de la Universidad de Chile, un rostro que se percibe "dominante" mejora la evaluación de los profesores y empeora la de las profesoras *(Paredes, Pino y Díaz 2024)*.
+:::
+
+::: {.cuadro-datos}
+**Pero no siempre.** Un experimento doble ciego en Suecia no encontró sesgo *(Andersson et al. 2025)*, y en una universidad chilena las profesoras obtuvieron mejores promedios *(Undurraga et al. 2025)*.
+:::
+:::
+:::
+
+::: {.cuadro-actividad}
+**Al evaluar hoy:** evalúen prácticas concretas (claridad, organización, retroalimentación, aprendizaje), no la personalidad, la apariencia ni el "carisma".
+:::
+:::
+
+::: notes
+**Boring (2017, *Journal of Public Economics* 145: 27–41).** En una universidad francesa de ciencias sociales, los estudiantes de primer año no eligen sus cursos obligatorios y se asignan al azar a profesoras o profesores. Los estudiantes hombres dan puntajes más altos a los profesores hombres; por ejemplo, en "capacidad de liderar la clase" la diferencia es de 0,34 puntos. Estudiantes de ambos géneros evalúan mejor a los hombres en dimensiones asociadas a estereotipos masculinos (liderazgo, conocimiento, relación con temas actuales, contribución al desarrollo intelectual). En dimensiones asociadas a estereotipos femeninos (preparación y organización, materiales, claridad de la evaluación, retroalimentación), las evaluaciones son similares, y las estudiantes mujeres incluso evalúan mejor a las profesoras. Los estudiantes rinden igual en los exámenes finales con profesoras y profesores. Boring lo explica con la teoría de la congruencia de rol (Eagly y Karau 2002). También muestra que las profesoras que ponen notas bajas o dan retroalimentación negativa son peor evaluadas que los hombres que hacen lo mismo.
+
+**Mengel, Sauermann y Zölitz (2019, *Journal of the European Economic Association* 17(2): 535–566).** En la Escuela de Negocios y Economía de Maastricht, los estudiantes se asignan al azar a grupos y docentes, lo que funciona como un cuasiexperimento. Con 19.952 evaluaciones, las mujeres reciben evaluaciones sistemáticamente más bajas. Como las notas y las horas de estudio de sus estudiantes no difieren según el género del docente, concluyen que es sesgo y no calidad de la enseñanza. Advierten efectos en la carrera: menos confianza de las académicas jóvenes y más tiempo dedicado a docencia en desmedro de la investigación.
+
+**Paredes, Pino y Díaz (2024, *Economics & Human Biology* 54: 101381).** Con datos de todos los profesores de la FEN de la Universidad de Chile, usan la proporción entre ancho y alto del rostro como indicador de "dominancia" percibida. Un rostro más "dominante" se asocia a mejores evaluaciones para los hombres y peores para las mujeres, controlando por atractivo y por una medida de la productividad docente. Lo interpretan como normas que premian la asertividad en hombres y la castigan en mujeres (conectar con el doble vínculo).
+
+**Evidencia en contra o matizada (importante para no exagerar).**
+
+- Andersson, Backman, Bengtsson y Engström (2025, *Journal of Economic Behavior & Organization* 238: 107153): en un experimento doble ciego en Uppsala, asignaron al azar un nombre masculino o femenino a tutores en línea y no encontraron sesgo en ninguna dimensión. Es un contexto distinto (Suecia, tutoría breve en línea).
+- Undurraga, Montalva y Guerrero Barrera (2025, *Profesorado* 29(2)): en una universidad chilena (2022–2024), las docentes obtuvieron mejores promedios en todas las dimensiones de la práctica docente, aunque a nivel institucional fueron recomendadas en igual medida que los hombres.
+- La revisión de Kreitzer y Sweet-Cushman (2022, *Journal of Academic Ethics*), con más de 100 estudios, concluye que hay sesgos de género y raza, que las evaluaciones se relacionan poco con el aprendizaje y que el efecto del género depende del contexto.
+
+**¿Se puede reducir?** Peterson et al. (2019, *PLOS ONE*) agregaron al formulario un breve texto que advertía sobre los sesgos de género y raza; en ese grupo, las profesoras recibieron evaluaciones más altas. Otro experimento posterior (2024–2025) no logró reducir las diferencias en los comentarios escritos. De ahí la recomendación práctica: evaluar conductas concretas.
 :::
 
 ---
