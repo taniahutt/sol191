@@ -1,0 +1,302 @@
+---
+title: "Sociología del Género"
+subtitle: "Clase 14: Cambio social y movimientos feministas"
+author: "Tania Hutt"
+institute: "SOL191 · Instituto de Sociología · PUC"
+lang: es
+format:
+  revealjs:
+    theme: [default, C1_clase.scss]
+    slide-number: c/t
+    progress: true
+    transition: fade
+    transition-speed: fast
+    footer: "SOL191 Sociología del Género · Clase 14"
+    width: 1280
+    height: 720
+    auto-animate: true
+---
+
+---
+
+# Cambio social y movimientos feministas {background-image="C14_01.jpg" background-size="cover" background-opacity="0.35" style="color:white;"}
+
+::: {style="color:#d4b8f5; font-size:1.1em; margin-top:0.5em;"}
+SOL191 · Clase 14: Cambio social y movimientos feministas
+:::
+
+---
+
+## Cambiar lo que parecía imposible
+
+::: {style="font-size:0.74em;"}
+*(Gago 2019)*
+
+En 2015, una marcha contra los femicidios en Argentina (#NiUnaMenos) se convirtió en pocos años en una **huelga feminista internacional** (8M). Gago escribe desde dentro de ese proceso.
+
+::: {.cuadro-datos}
+**Idea central:** el cambio social se construye colectivamente y desde abajo. Un movimiento amplía lo que una sociedad cree posible: "No sabemos lo que podemos hasta que experimentamos el desplazamiento de los límites".
+:::
+:::
+
+---
+
+## Tres ideas más para llevarse de Gago
+
+::: {style="font-size:0.66em;"}
+::: {.cuadro-datos}
+**1. Lo que no se ve, no se valora.** Al preguntarse quién puede "parar", la huelga hizo visible el trabajo doméstico, de cuidado, comunitario e informal, y sacó la violencia machista del "gueto" doméstico para conectarla con la violencia económica, laboral e institucional.
+:::
+
+::: {.cuadro-datos}
+**2. La fuerza de un movimiento está en unir luchas distintas.** El feminismo latinoamericano fue masivo y radical a la vez porque conectó a trabajadoras informales, migrantes, estudiantes, disidencias sexuales y dueñas de casa.
+:::
+
+::: {.cuadro-datos}
+**3. Todo avance genera resistencia.** Los derechos se conquistan en la calle y en las instituciones, y los avances provocan una contraofensiva (por ejemplo, contra la "ideología de género"). El cambio no es lineal.
+:::
+:::
+
+---
+
+## ¿Es posible el cambio? Lo que dice la sociología
+
+::: {style="font-size:0.66em;"}
+::: {.cuadro-datos}
+**La igualdad avanza, pero de forma desigual y no automática.**
+:::
+
+- **Una revolución desigual y estancada** *(England 2010)*: las mujeres entraron a espacios masculinos mucho más que los hombres a los femeninos, porque lo femenino sigue desvalorizado.
+- **Las actitudes no avanzan en línea recta** *(Cotter, Hermsen y Vanneman 2011)*: en EE.UU. crecieron hasta mediados de los noventa y luego se estancaron.
+- **Las creencias cambian más lento que las condiciones** *(Ridgeway 2011)*, pero cambian cuando cambian las condiciones materiales y las interacciones.
+- **El cambio debe darse en varios niveles a la vez** *(Risman 2018)*: individuos, interacciones e instituciones.
+:::
+
+---
+
+## Chile: algunos cambios medibles
+
+::: {style="font-size:0.7em;"}
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Trabajo no remunerado** *(INE, II ENUT 2023)*
+
+- Mujeres: **4 h 57 min** al día; hombres: **2 h 52 min**.
+- La brecha sigue siendo de **2 horas diarias**.
+- Pero las mujeres dedican casi **1 hora menos** que en 2015.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Mujeres en la Cámara de Diputados** *(Ley de cuotas 20.840, desde 2017)*
+
+- 2013 (sin cuota): **15,8%**
+- 2017: **22,6%**
+- 2021: **35,5%**
+:::
+:::
+:::
+
+[Lo que se mide se puede discutir; lo que se regula puede cambiar.]{.hl}
+:::
+
+---
+
+## Chile: ¿qué piensa la gente del feminismo y la igualdad?
+
+::: {style="font-size:0.62em;"}
+*(Ipsos, Día Internacional de la Mujer 2026; encuesta online, Chile n ≈ 500, diciembre 2025–enero 2026)*
+
+| % de acuerdo | Total | Hombres | Mujeres |
+|:--|:-:|:-:|:-:|
+| "Me defino como feminista" | 35% *(39% en 2019)* | 29% | 39% |
+| "En igualdad de derechos, ya se ha avanzado lo suficiente" | **65%** *(48% en 2019)* | 70% | 61% |
+| "Se ha avanzado tanto que se discrimina a los hombres" | 53% | 63% | 44% |
+| "Funcionaría mejor con más mujeres en cargos de poder" | 59% | 53% | 65% |
+
+[Hay apoyo amplio a la igualdad, pero crece la sensación de que "ya basta", sobre todo entre hombres.]{.hl}
+:::
+
+---
+
+## ¿Y la sociología? Cuatro formas de contribuir
+
+::: {style="font-size:0.68em;"}
+*(Burawoy 2005, "For Public Sociology")*
+
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Profesional:** producir conocimiento riguroso sobre cómo se reproduce la desigualdad (por ejemplo, England, Ridgeway, Risman).
+:::
+
+::: {.cuadro-datos}
+**De políticas públicas:** medir y evaluar (la ENUT, la ley de cuotas, la Ley 21.675, las auditorías de IA).
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Crítica:** cuestionar los supuestos de la propia disciplina y de las instituciones (Gago, Segato, la crítica feminista a la "neutralidad").
+:::
+
+::: {.cuadro-datos}
+**Pública:** conversar con la sociedad y darle palabras a lo que vive. Su **podcast** fue un ejercicio de sociología pública.
+:::
+:::
+:::
+:::
+
+---
+
+## Perspectiva de género en la investigación
+
+::: {style="font-size:0.64em;"}
+No es un tema más: es una forma de mirar cualquier tema (salud, trabajo, ciudad, tecnología, educación).
+
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**1. Pregunta y datos**
+
+Incluir sexo y género en el diseño, reportar quiénes participaron y **desagregar** los resultados *(guías SAGER, Heidari et al. 2016)*.
+:::
+
+::: {.cuadro-datos}
+**2. Medición**
+
+Medir por separado sexo asignado al nacer e identidad de género, sin asumir que son binarios *(Westbrook y Saperstein 2015; Academias Nacionales de EE.UU. 2022)*.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**3. Análisis interseccional**
+
+Comparar entre y dentro de los grupos: no todas las mujeres ni todos los hombres viven lo mismo *(McCall 2005)*.
+:::
+
+::: {.cuadro-datos}
+**4. Instituciones y reflexividad**
+
+Mirar reglas y rutinas que parecen neutrales *(Acker 2006)* y explicitar desde dónde se investiga *(Haraway 1988)*.
+:::
+:::
+:::
+
+[La evidencia muestra que incorporar el análisis de sexo y género mejora la calidad de la investigación *(Tannenbaum et al. 2019, Nature)*.]{.hl}
+:::
+
+---
+
+## En cualquier trabajo: preguntas para llevar
+
+::: {style="font-size:0.7em;"}
+Sea en el Estado, una empresa, una ONG, una consultora o la academia:
+
+::: {.cuadro-actividad}
+1. **¿Quién está y quién falta** en los datos, en las decisiones y en el equipo?
+2. **¿Los datos están desagregados** por género y por otras dimensiones (edad, clase, territorio)?
+3. **¿Qué supone** la política, el producto o el instrumento sobre la persona "típica"?
+4. **¿Quién hace el trabajo de cuidado** que hace posible que esto funcione?
+5. **¿Quién se beneficia y quién paga los costos?** ¿Cambia la respuesta para distintas mujeres y hombres?
+:::
+
+[Incorporar estas preguntas en todo el ciclo de una política o proyecto es lo que se conoce como **transversalización de la perspectiva de género** (ONU, 1997).]{.hl}
+:::
+
+---
+
+## Mirando al futuro
+
+::: {style="font-size:0.7em;"}
+::: columns
+::: {.column width="55%"}
+::: {.cuadro-datos}
+**Tres ideas para cerrar el curso**
+
+1. La desigualdad de género no es natural: se produce en cuerpos, interacciones, instituciones, mercados y tecnologías.
+2. Lo que se produce socialmente se puede cambiar, aunque el cambio sea desigual, lento y enfrente resistencias.
+3. La sociología ayuda a ver, medir, explicar y nombrar esa desigualdad: es una herramienta para cambiarla.
+:::
+:::
+:::
+:::
+
+---
+
+## En tiempos de evaluación docente (1/2)
+
+::: {style="font-size:0.68em;"}
+**Cómo describen los estudiantes a profesoras y profesores**
+
+::: {.cuadro-datos}
+**"Brillante" y "genio" son palabras de hombres.** En más de 14 millones de reseñas de RateMyProfessors, los estudiantes usaron "brillante" y "genio" sobre todo para describir a profesores hombres, y más en las disciplinas donde hay menos mujeres, como física y filosofía *(Storage, Horne, Cimpian y Leslie 2016)*.
+:::
+
+::: {.cuadro-datos}
+**Ellas son "teacher", ellos son "professor".** En los comentarios de las evaluaciones, a las académicas se las llamaba con más frecuencia "teacher" (docente) y no "professor" (académica), un título que sí se usaba para sus colegas hombres *(Mitchell y Martin 2018)*.
+:::
+
+::: {.cuadro-datos}
+**Mismo curso, distinto nombre.** En un curso online, cada docente usó a veces una identidad masculina y otras una femenina. Los estudiantes evaluaron mejor a la identidad "masculina", aunque era la misma persona haciendo lo mismo *(MacNell, Driscoll y Hunt 2015)*.
+:::
+:::
+
+---
+
+## En tiempos de evaluación docente (2/2)
+
+::: {style="font-size:0.64em;"}
+**Cómo califican los estudiantes**
+
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Liderazgo para ellos, organización para ellas.** En una universidad francesa, con asignación aleatoria, los estudiantes evaluaron mejor a los profesores en "liderar la clase" y "aportar al desarrollo intelectual". En preparación, materiales y retroalimentación, ellas salieron igual o mejor. Y sus estudiantes rindieron igual en el examen *(Boring 2017)*.
+:::
+
+::: {.cuadro-datos}
+**Mismo aprendizaje, peor nota.** En una universidad holandesa, con casi 20.000 evaluaciones y asignación aleatoria, las profesoras recibieron peores evaluaciones aunque sus estudiantes sacaron las mismas notas. El sesgo viene de los estudiantes hombres y es mayor en cursos matemáticos y hacia profesoras jóvenes *(Mengel, Sauermann y Zölitz 2019)*.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**En Chile: la cara también cuenta.** En la FEN de la Universidad de Chile, un rostro que se percibe "dominante" mejora la evaluación de los profesores y empeora la de las profesoras *(Paredes, Pino y Díaz 2024)*.
+:::
+
+::: {.cuadro-datos}
+**Pero no siempre.** Un experimento doble ciego en Suecia no encontró sesgo *(Andersson et al. 2025)*, y en una universidad chilena las profesoras obtuvieron mejores promedios *(Undurraga et al. 2025)*.
+:::
+:::
+:::
+
+::: {.cuadro-actividad}
+**Al evaluar hoy:** evalúen prácticas concretas (claridad, organización, retroalimentación, aprendizaje), no la personalidad, la apariencia ni el "carisma".
+:::
+:::
+
+---
+
+## Evaluación docente
+
+::: {style="font-size:0.85em;"}
+::: columns
+::: {.column width="50%"}
+![](C14_04.png){fig-align="center"}
+
+::: {style="text-align:center; font-size:0.9em; color:#555; margin-top:0.3em;"}
+En Canvas: Encuestas de Docencia
+:::
+:::
+::: {.column width="48%"}
+**¿Por qué importa?**
+
+- Feedback para próxima versión del curso
+- Permite identificar aquellos aspectos que funcionaron bien o que podrían mejorar
+- Es parte muy importante de la evaluación que hace la Facultad de los y las docentes
+:::
+:::
+:::
+
+---
+

@@ -1,0 +1,398 @@
+---
+title: "Sociología del Género"
+subtitle: "Clase 13: Género e inteligencia artificial"
+author: "Tania Hutt"
+institute: "SOL191 · Instituto de Sociología · PUC"
+lang: es
+format:
+  revealjs:
+    theme: [default, C1_clase.scss]
+    slide-number: c/t
+    progress: true
+    transition: fade
+    transition-speed: fast
+    footer: "SOL191 Sociología del Género · Clase 13"
+    width: 1280
+    height: 720
+    auto-animate: true
+---
+
+
+## ¿Por qué la IA es un tema sociológico?
+
+::: {style="font-size:0.85em;"}
+*(Joyce et al. 2021)*
+
+::: {.cuadro-datos}
+Los sistemas de IA son [sociotécnicos]{.hl}: en su código, su diseño y su uso hay valores, prácticas institucionales y desigualdades.
+:::
+
+- La IA más común hoy es el **aprendizaje automático**: sistemas que se entrenan con datos existentes para clasificar y predecir, y cuyas decisiones vuelven al mundo social (quién recibe un beneficio, a quién se contrata, a quién se vigila).
+- Ya se usa en salud, policía, justicia, educación, migración y trabajo.
+- Se presenta como "objetiva" y "basada en datos", lo que le da **autoridad** y oculta las decisiones humanas que hay detrás.
+:::
+
+---
+
+## Los datos nunca son neutrales
+
+::: {style="font-size:0.85em;"}
+*(Joyce et al. 2021)*
+
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Lo que la sociología ya sabía**
+
+- Durkheim: las tasas de suicidio hablan de integración social.
+- Du Bois: la mortalidad infantil es "un índice de condición social".
+- Clasificar es un acto moral y político.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Lo que esto implica para la IA**
+
+- Los datos sobre X (código postal, ficha clínica, salario) son también datos sobre [desigualdades]{.hl} de género, clase y raza.
+- Si se usan sin mirada sociológica, la IA **reproduce y puede intensificar** esas desigualdades.
+:::
+:::
+:::
+:::
+
+---
+
+## Dos miradas sobre el problema
+
+::: {style="font-size:0.8em;"}
+*(Joyce et al. 2021)*
+
+| | Mirada de la industria | Mirada sociológica |
+|:--|:--|:--|
+| ¿Qué es el problema? | **"Sesgo"** de programadores individuales | **Desigualdad** incrustada en instituciones |
+| ¿Dónde está? | En los datos o en el código | En todo el proceso: quién financia, diseña, usa y es afectado |
+| ¿Cómo se resuelve? | Capacitar personas, ajustar el algoritmo, "equidad" (*fairness*) | Cambio estructural; preguntar dónde, cuándo, cómo y **para quién** se desarrolla la IA |
+
+[La pregunta no es solo técnica: es una pregunta sobre poder y orden social.]{.hl}
+:::
+
+---
+
+## ¿Cómo se estudia la IA desde la sociología del género?
+
+::: {style="font-size:0.72em;"}
+| Pregunta | Método | Estudio |
+|:--|:--|:--|
+| ¿Cómo representa la IA a mujeres y hombres? | **Auditoría** de algoritmos con datos de "verdad" conocida | Schwemmer et al. (2020); Guilbeault et al. (2025) |
+| ¿Cambia la IA lo que las personas creen? | **Experimento** | Guilbeault et al. (2025) |
+| ¿Cómo se fabrica el género en un producto de IA? | **Etnografía** en empresas | Zhou (2026) |
+| ¿Qué pasa cuando interactuamos con IA? | **Métodos mixtos** (simulación + encuesta) | Moon y Feng (2026) |
+| ¿Quién siente que la IA lo discrimina? | **Encuesta** en 28 países | Rafnsdóttir et al. (2026) |
+:::
+
+---
+
+## Mecanismos: ¿cómo se cuela el género en la IA?
+
+::: {style="font-size:0.78em;"}
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**1. Reproducción**
+
+Datos sesgados producen resultados sesgados. Si en los textos "hombre" va con "programador" y "mujer" con "dueña de casa", el modelo aprende esa asociación.
+:::
+
+::: {.cuadro-datos}
+**2. Amplificación**
+
+La IA no solo copia: exagera las diferencias y las lleva a nuevos espacios.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**3. Producción**
+
+Las empresas fabrican el género de sus productos al optimizarlos con métricas.
+:::
+
+::: {.cuadro-datos}
+**4. Aprendizaje recursivo**
+
+Las personas y la IA se entrenan mutuamente y estabilizan normas de género.
+:::
+:::
+:::
+
+[Todos operan sobre desigualdades interseccionales: género, edad, raza y precariedad laboral.]{.hl}
+:::
+
+---
+
+## Amplificación: creencias de estatus en nuevos espacios
+
+::: {style="font-size:0.85em;"}
+*(Schwemmer et al. 2020, a partir de Ridgeway; Guilbeault et al. 2025)*
+
+::: {.cuadro-datos}
+Para Ridgeway, el género es en su raíz una **desigualdad de estatus**. Las creencias que asocian a las mujeres con menos competencia se "transfieren" a cada nuevo espacio social: un [proceso de amplificación]{.hl}.
+:::
+
+- Los algoritmos prometían saltarse el sesgo humano, pero se entrenan con datos "encontrados" en el mundo real: imágenes, textos, búsquedas.
+- Por eso funcionan "no como cámaras de la realidad social, sino como **motores**" que la reproducen.
+- La IA es un caso nuevo de amplificación: lleva los estereotipos a sistemas que usan millones de personas.
+:::
+
+---
+
+## Producción: *doing data, doing gender*
+
+::: {style="font-size:0.8em;"}
+*(Zhou 2026)*
+
+::: {.cuadro-datos}
+Partiendo de West y Zimmerman ("hacer género") y Butler, Zhou propone que en la IA comercial el género también se **hace**, pero lo validan las **métricas**, no las personas.
+:::
+
+El [ciclo de optimización]{.hl}:
+
+1. Ideas vagas de marca se traducen en **parámetros**: tono de voz, sonrisa, mirada, guion.
+2. Se prueban variantes en vivo (pruebas A/B) y se miden visualizaciones, clics y ventas.
+3. La variante que "convierte" se vuelve el **estándar** de la industria.
+
+[El resultado parece natural y "lo que el público quiere", pero es una suma de decisiones humanas.]{.hl}
+:::
+
+---
+
+## Aprendizaje recursivo humano–IA
+
+::: {style="font-size:0.82em;"}
+*(Moon y Feng 2026)*
+
+::: {.cuadro-datos}
+**Tecnofeminismo** (Wajcman): el género y la tecnología se construyen mutuamente. La tecnología no es neutral, pero tampoco está condenada a ser patriarcal.
+:::
+
+- Cuando interactuamos con la IA aprendemos qué tipo de lenguaje "funciona" y adaptamos nuestra forma de hablar.
+- La IA, a su vez, refuerza esos guiones.
+- Resultado: la IA puede **normalizar** una forma masculinizada de competencia, como la del "trabajador ideal" de Acker, aunque parezca neutral.
+:::
+
+---
+
+## Resultados 1: la IA envejece a los hombres y rejuvenece a las mujeres
+
+::: {style="font-size:0.7em;"}
+*(Guilbeault, Delecourt y Desikan 2025, Nature)*
+
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**En internet** (~1,4 millones de imágenes y videos de Google, Wikipedia, IMDb, Flickr y YouTube, y 9 modelos de lenguaje)
+
+- Las mujeres aparecen **más jóvenes** que los hombres en todas las ocupaciones, aunque el censo de EE.UU. no muestra diferencias de edad sistemáticas.
+- En IMDb, las celebridades mujeres aparecen 6,5 años más jóvenes en promedio.
+- La brecha es mayor en las ocupaciones de **más estatus e ingresos**.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**En ChatGPT** (~40.000 currículums, junio 2024)
+
+- Con nombre de mujer, el CV sale **1,6 años más joven**, con graduación más reciente y casi **1 año menos de experiencia**.
+- Al evaluar, ChatGPT da mejores notas a más edad, **sobre todo si es hombre**: los hombres mayores reciben los puntajes más altos.
+:::
+:::
+:::
+
+::: {.cuadro-actividad}
+Volvamos a la predicción del inicio: ¿acertaron?
+:::
+:::
+
+---
+
+## Resultados 2: correcta y sesgada al mismo tiempo
+
+::: {style="font-size:0.72em;"}
+*(Schwemmer et al. 2020; Google Cloud Vision con fotos oficiales de congresistas de EE.UU. y sus imágenes en Twitter)*
+
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Sesgo de identificación**: ¿la IA "ve" a las personas?
+
+- Fotos oficiales: reconoce a [75,5%]{.hl} de las mujeres y 85,8% de los hombres.
+- Fotos de Twitter: 25,8% de las mujeres y 45,3% de los hombres.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Sesgo de contenido**: ¿qué etiquetas pone?
+
+- Mujeres: ~**3 veces más** etiquetas de apariencia física ("peinado", "belleza", "sonrisa", "niña", "presentadora de TV").
+- Hombres: ~1,5 veces más etiquetas de ocupación ("funcionario", "caballero", "ejecutivo").
+:::
+:::
+:::
+
+Todas son congresistas. Las etiquetas no son falsas, pero de muchas etiquetas correctas posibles, el sistema [elige]{.hl} apariencia para ellas y profesión para ellos.
+:::
+
+---
+
+## Resultados 3: negociar con una IA
+
+::: {style="font-size:0.72em;"}
+*(Moon y Feng 2026; 51 estudiantes negocian una oferta de trabajo con un chatbot de RR.HH. basado en ChatGPT)*
+
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**La paradoja**
+
+- No hubo diferencias significativas entre mujeres y hombres en los resultados.
+- Pero el estilo **masculinizado** (directo, asertivo, con cifras) obtuvo más puntos que el **feminizado** (cálido, con matices): 10.079 frente a 7.523.
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Adaptarse a la IA**
+
+- El 78% cambió su forma de negociar porque era una IA. Una participante: "Fui extremadamente directa y excluí toda emoción".
+- Aunque la IA no tenía género, muchas personas le atribuyeron uno, generalmente el propio. Quienes la vieron como "hombre" obtuvieron salarios US$3.500 más altos.
+:::
+:::
+:::
+
+[La igualdad se logró pidiéndoles a todas las personas que negociaran "como hombres".]{.hl}
+:::
+
+---
+
+## Resultados 4: ¿quién siente que la IA lo discrimina?
+
+::: {style="font-size:0.75em;"}
+*(Rafnsdóttir et al. 2026; encuesta a 4.417 trabajadores y postulantes en 28 países europeos, 2023)*
+
+| | Hombres | Mujeres | Otro género |
+|:--|:-:|:-:|:-:|
+| Cree que la IA **podría** discriminarle | 37% | 44% | 61% |
+| Siente que la IA **lo discriminó** | 6% | 9% | 20% |
+
+- Mujeres, personas mayores, no blancas y con **empleo no permanente** reportan más discriminación: un patrón [interseccional]{.hl}.
+- Muchas personas perciben el riesgo sin haberlo vivido. Para las autoras no es "ruido": es un conocimiento situado de quienes históricamente han sido discriminadas.
+:::
+
+---
+
+## Actividad
+
+::: {style="font-size:0.78em;"}
+Son el equipo de una empresa china que crea **vendedoras virtuales con IA** para transmisiones de venta en vivo. 
+
+::: {.cuadro-actividad}
+**Paso 1. Como empresa (3 min).** Lean su caso y decidan: ¿qué opción vendió más, A o B? Anoten por qué.
+
+**Paso 2. Como sociólogas/os (6 min).** Respondan:
+1. ¿Qué "tipo" de mujer **premia** la opción que eligieron? (joven, suave, experta, segura, complaciente…)
+
+:::
+
+:::
+
+---
+
+## Casos 1 y 2: ¿A o B?
+
+::: {style="font-size:0.72em;"}
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Caso 1. Crema facial**
+
+Al lanzar la avatar, la gente mira solo **4 segundos** (la meta es 12) y casi nadie compra.
+
+- **A:** rostro neutro; sigue explicando con precisión la ciencia de los ingredientes.
+- **B:** sonrisa sutil con la boca cerrada y frases cercanas: "Déjame ayudarte a encontrar el brillo que le pertenece a tu piel".
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Caso 2. Whisky para hombres de 40 a 50 años**
+
+La avatar no vende. Un comentario del público dice: "Parece una clase".
+
+- **A:** experta en blusa y chaqueta que explica con precisión las notas de cata, y agrega más información técnica.
+- **B:** vestido tradicional (*qipao*), voz más grave y lenta, y halagos al comprador: "Usted sabe elegir un clásico".
+:::
+:::
+:::
+:::
+
+---
+
+## Casos 3 y 4: ¿A o B?
+
+::: {style="font-size:0.72em;"}
+::: columns
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Caso 3. Teléfonos celulares**
+
+El equipo debe elegir el estilo de la avatar que venderá celulares.
+
+- **A:** inspirada en *vloggers* de tecnología: **segura, ingeniosa y rápida**. Domina el producto y responde con humor.
+- **B:** **cálida, pausada y amable**. Explica el producto con suavidad y sin apuro.
+
+¿Cuál funcionó?
+:::
+:::
+::: {.column width="50%"}
+::: {.cuadro-datos}
+**Caso 4. Ropa deportiva (antes del lanzamiento)**
+
+La marca pide una mujer "dulce pero "hot", atlética pero no agresiva; alguien en quien los hombres confíen y que a las mujeres no les desagrade". El equipo le pone una voz de **205 Hz**.
+
+- **A:** mantener la voz aguda.
+- **B:** probar una **voz más grave**, como propone un practicante.
+
+¿Cómo creen que cambia la avatar en las siguientes 8 versiones?
+:::
+:::
+:::
+:::
+
+---
+
+## ¿Qué pasó realmente? Los números la hicieron suave
+
+::: {style="font-size:0.7em;"}
+*(Zhou 2026; 120 horas de etnografía en dos startups chinas y 48 entrevistas)*
+
+| Caso | Qué ganó según las métricas |
+|:--|:--|
+| 1. Crema facial | **B:** la sonrisa sutil con la boca cerrada y las frases cercanas. La gente pasó a mirar 11 segundos y se alcanzó la meta de ventas. |
+| 2. Whisky | **B:** el *qipao* con halagos: la conversión subió 14%. El público empezó a llamarla "nuestra dama del whisky". |
+| 3. Celulares | **B.** La avatar segura, ingeniosa y rápida (A) **no funcionó: fracasó en 48 horas.** El público la encontró "demasiado". "No es que no fuera creíble; es que no se sentía bien mirarla." |
+| 4. Ropa deportiva | **A:** la voz grave se descartó sin probarla: "Muy riesgoso. Ninguna métrica muestra que una voz más grave genere clics". En 8 versiones, la voz subió a **230 Hz** y la cintura se adelgazó 4%, registrado como "claridad" o "ajuste a la marca". |
+
+::: {.cuadro-datos}
+"La hicimos suave porque a los números les gustaba suave. **Ahora los números nos dicen que ella es suave.**" *(analista entrevistado por Zhou)*
+:::
+:::
+
+---
+
+## Cierre: ¿neutral, sesgada o producida?
+
+::: {style="font-size:0.85em;"}
+::: {.cuadro-datos}
+- La IA no es neutral: aprende de datos y decisiones humanas situadas.
+- No solo **refleja** desigualdades: las puede **amplificar** y **producir**.
+- Hablar solo de "sesgo" individual esconde la pregunta sociológica: ¿quién decide qué se mide, qué cuenta como éxito y quién paga los costos?
+:::
+
+:::
+
