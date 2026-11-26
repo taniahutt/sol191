@@ -92,7 +92,7 @@ Las rúbricas de evaluación detalladas de cada componente están en el document
 
 ### Prueba 1 y Prueba 2 (20% cada una)
 
-Evaluaciones individuales, en horario de clases, en formato **libro abierto**: se puede traer cualquier material propio impreso o escrito a mano (notas, lecturas, resúmenes). Duración: 1 módulo (70 minutos). Formato: Ensayo.
+Evaluaciones individuales, en horario de clases, en formato **libro abierto**: se puede traer cualquier material propio impreso o escrito a mano (notas, lecturas, resúmenes). Duración: Prueba 1, 1 módulo (70 minutos); Prueba 2, 2 módulos (140 minutos). Formato: Ensayo.
 
 - **Prueba 1**: clases 1 a 7.
 - **Prueba 2**: clases 8 a 14. **Jueves 3 de diciembre, de 12:20 a 14:40, en la sala N10.**
